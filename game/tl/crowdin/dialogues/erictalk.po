@@ -159,8 +159,8 @@ msgstr "[Max_07]К вам ведь можно?"
 # game/dialogues/erictalk.rpy:119
 # translate crowdin lessons_from_Eric_first_bj_839230dd:
 
-    # Ann_14 "Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
-    Ann_14 "Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
+msgid "[Ann_14]Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
+msgstr "[Ann_14]Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
 
 # game/dialogues/erictalk.rpy:120
 # translate crowdin lessons_from_Eric_first_bj_228bf30f:
@@ -171,8 +171,8 @@ msgstr "[Max_07]К вам ведь можно?"
 # game/dialogues/erictalk.rpy:121
 # translate crowdin lessons_from_Eric_first_bj_bf1c9777:
 
-    # Ann_13 "Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
-    Ann_13 "Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
+msgid "[Ann_13]Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
+msgstr "[Ann_13]Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
 
 # game/dialogues/erictalk.rpy:122
 # translate crowdin lessons_from_Eric_first_bj_98ec4a27:
@@ -183,8 +183,8 @@ msgstr "[Max_07]К вам ведь можно?"
 # game/dialogues/erictalk.rpy:123
 # translate crowdin lessons_from_Eric_first_bj_5c15448b:
 
-    # Ann_15 "Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
-    Ann_15 "Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
+msgid "[Ann_15]Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
+msgstr "[Ann_15]Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
 
 # game/dialogues/erictalk.rpy:132
 # translate crowdin lessons_from_Eric_first_bj_8d94ef9d:
@@ -195,8 +195,8 @@ msgstr "[Max_07]К вам ведь можно?"
 # game/dialogues/erictalk.rpy:133
 # translate crowdin lessons_from_Eric_first_bj_dcbf09ea:
 
-    # Ann_14 "Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
-    Ann_14 "Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
+msgid "[Ann_14]Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
+msgstr "[Ann_14]Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
 
 # game/dialogues/erictalk.rpy:134
 # translate crowdin lessons_from_Eric_first_bj_e2384074:
@@ -213,8 +213,8 @@ msgstr "[Max_00]Всё хорошо, мам! Я думаю, это всё смо
 # game/dialogues/erictalk.rpy:144
 # translate crowdin lessons_from_Eric_first_bj_0aa141a6:
 
-    # Ann_12 "Да, ты прав, я должна сделать это, ради Макса..."
-    Ann_12 "Да, ты прав, я должна сделать это, ради Макса..."
+msgid "[Ann_12]Да, ты прав, я должна сделать это, ради Макса..."
+msgstr "[Ann_12]Да, ты прав, я должна сделать это, ради Макса..."
 
 # game/dialogues/erictalk.rpy:145
 # translate crowdin lessons_from_Eric_first_bj_26abae8c:
@@ -279,8 +279,8 @@ msgstr "[Max_07]К вам ведь можно?"
 # game/dialogues/erictalk.rpy:198
 # translate crowdin lessons_from_Eric_second_bj_f12a7ec3:
 
-    # Ann_13 "А вам не кажется, что это уже слишком!?"
-    Ann_13 "А вам не кажется, что это уже слишком!?"
+msgid "[Ann_13]А вам не кажется, что это уже слишком!?"
+msgstr "[Ann_13]А вам не кажется, что это уже слишком!?"
 
 # game/dialogues/erictalk.rpy:199
 # translate crowdin lessons_from_Eric_second_bj_41c10ddd:
@@ -303,8 +303,8 @@ msgstr "[Max_00]Ясно. Вы продолжайте, а я посмотрю...
 # game/dialogues/erictalk.rpy:202
 # translate crowdin lessons_from_Eric_second_bj_a6141667:
 
-    # Ann_14 "Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
-    Ann_14 "Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
+msgid "[Ann_14]Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
+msgstr "[Ann_14]Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
 
 # game/dialogues/erictalk.rpy:203
 # translate crowdin lessons_from_Eric_second_bj_13f3dcbf:
@@ -315,8 +315,8 @@ msgstr "[Max_00]Ясно. Вы продолжайте, а я посмотрю...
 # game/dialogues/erictalk.rpy:204
 # translate crowdin lessons_from_Eric_second_bj_d7ef656e:
 
-    # Ann_12 "Да, Эрик. Если ты в этом уверен, то и я тоже..."
-    Ann_12 "Да, Эрик. Если ты в этом уверен, то и я тоже..."
+msgid "[Ann_12]Да, Эрик. Если ты в этом уверен, то и я тоже..."
+msgstr "[Ann_12]Да, Эрик. Если ты в этом уверен, то и я тоже..."
 
 # game/dialogues/erictalk.rpy:205
 # translate crowdin lessons_from_Eric_second_bj_866f0ec1:
@@ -339,8 +339,8 @@ msgstr "[Max_07]{i}( Так близко к голой маминой попке
 # game/dialogues/erictalk.rpy:219
 # translate crowdin lessons_from_Eric_second_bj_f70c94a1:
 
-    # Ann_15 "Эрик! Не говори такое при Максе! Всё это и так меня очень смущает..."
-    Ann_15 "Эрик! Не говори такое при Максе! Всё это и так меня очень смущает..."
+msgid "[Ann_15]Эрик! Не говори такое при Максе! Всё это и так меня очень смущает..."
+msgstr "[Ann_15]Эрик! Не говори такое при Максе! Всё это и так меня очень смущает..."
 
 # game/dialogues/erictalk.rpy:220
 # translate crowdin lessons_from_Eric_second_bj_aceea78b:
@@ -381,8 +381,8 @@ msgstr "[Max_07]К вам ведь можно?"
 # game/dialogues/erictalk.rpy:259
 # translate crowdin lessons_from_Eric_third_bj_a1dd2c0a:
 
-    # Ann_12 "Ты правда думаешь, что ему нужно такое показывать?"
-    Ann_12 "Ты правда думаешь, что ему нужно такое показывать?"
+msgid "[Ann_12]Ты правда думаешь, что ему нужно такое показывать?"
+msgstr "[Ann_12]Ты правда думаешь, что ему нужно такое показывать?"
 
 # game/dialogues/erictalk.rpy:260
 # translate crowdin lessons_from_Eric_third_bj_3378f06c:
