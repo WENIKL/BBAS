@@ -33,8 +33,8 @@
 # game/dialogues/dinner.rpy:59
 # translate crowdin typical_dinner_4a7da202:
 
-    # Max_00 "Приятного аппетита!"
-    Max_00 "Приятного аппетита!"
+msgid "[Max_00]Приятного аппетита!"
+msgstr "[Max_00]Приятного аппетита!"
 
 # game/dialogues/dinner.rpy:61
 # translate crowdin typical_dinner_e7b121b0:
@@ -45,8 +45,8 @@
 # game/dialogues/dinner.rpy:62
 # translate crowdin typical_dinner_63f629c8:
 
-    # Max_00 "Понятно. Приятного аппетита!"
-    Max_00 "Понятно. Приятного аппетита!"
+msgid "[Max_00]Понятно. Приятного аппетита!"
+msgstr "[Max_00]Понятно. Приятного аппетита!"
 
 # game/dialogues/dinner.rpy:68
 # translate crowdin dinner_first_650c2c5d:
@@ -123,8 +123,8 @@
 # game/dialogues/dinner.rpy:114
 # translate crowdin dinner_first_boss_0d7d3940:
 
-    # Max_00 "Тоже верно..."
-    Max_00 "Тоже верно..."
+msgid "[Max_00]Тоже верно..."
+msgstr "[Max_00]Тоже верно..."
 
 # game/dialogues/dinner.rpy:117
 # translate crowdin dinner_first_boss_0d49c0dd:
@@ -141,8 +141,8 @@
 # game/dialogues/dinner.rpy:122
 # translate crowdin dinner_first_boss_name_e218c717:
 
-    # Max_05 "Значит, он тебе нравится..."
-    Max_05 "Значит, он тебе нравится..."
+msgid "[Max_05]Значит, он тебе нравится..."
+msgstr "[Max_05]Значит, он тебе нравится..."
 
 # game/dialogues/dinner.rpy:125
 # translate crowdin dinner_first_yeah_e7a2f4ac:
@@ -213,8 +213,8 @@
 # game/dialogues/dinner.rpy:152
 # translate crowdin dinner_first_secret_9535ad14:
 
-    # Max_01 "Так бы сразу и сказала!"
-    Max_01 "Так бы сразу и сказала!"
+msgid "[Max_01]Так бы сразу и сказала!"
+msgstr "[Max_01]Так бы сразу и сказала!"
 
 # game/dialogues/dinner.rpy:153
 # translate crowdin dinner_first_secret_4933527a:
@@ -249,8 +249,8 @@
 # game/dialogues/dinner.rpy:158
 # translate crowdin dinner_first_secret_05ec93c4:
 
-    # Max_00 "Может быть..."
-    Max_00 "Может быть..."
+msgid "[Max_00]Может быть..."
+msgstr "[Max_00]Может быть..."
 
 # game/dialogues/dinner.rpy:159
 # translate crowdin dinner_first_secret_6d6390f1:
@@ -267,8 +267,8 @@
 # game/dialogues/dinner.rpy:170
 # translate crowdin dinner_2_4fe6c45d:
 
-    # Max_04 "У меня всё как всегда"
-    Max_04 "У меня всё как всегда"
+msgid "[Max_04]У меня всё как всегда"
+msgstr "[Max_04]У меня всё как всегда"
 
 # game/dialogues/dinner.rpy:171
 # translate crowdin dinner_2_a1846146:
@@ -285,8 +285,8 @@
 # game/dialogues/dinner.rpy:178
 # translate crowdin dinner_2_cf58258e:
 
-    # Max_01 "Всё с тобой ясно..."
-    Max_01 "Всё с тобой ясно..."
+msgid "[Max_01]Всё с тобой ясно..."
+msgstr "[Max_01]Всё с тобой ясно..."
 
 # game/dialogues/dinner.rpy:179
 # translate crowdin dinner_2_c9d4df9f:
@@ -369,8 +369,8 @@
 # game/dialogues/dinner.rpy:246
 # translate crowdin dinner_2_blog2_a87ae875:
 
-    # Max_09 "А ты и правда прислушаешься к моим советам?"
-    Max_09 "А ты и правда прислушаешься к моим советам?"
+msgid "[Max_09]А ты и правда прислушаешься к моим советам?"
+msgstr "[Max_09]А ты и правда прислушаешься к моим советам?"
 
 # game/dialogues/dinner.rpy:247
 # translate crowdin dinner_2_blog2_b4bc6482:
@@ -381,8 +381,8 @@
 # game/dialogues/dinner.rpy:249
 # translate crowdin dinner_2_blog2_4a32ec09:
 
-    # Max_03 "Отлично. Тогда и правда помогу!"
-    Max_03 "Отлично. Тогда и правда помогу!"
+msgid "[Max_03]Отлично. Тогда и правда помогу!"
+msgstr "[Max_03]Отлично. Тогда и правда помогу!"
 
 # game/dialogues/dinner.rpy:253
 # translate crowdin dinner_2_blog2_f3ceaf63:
@@ -405,8 +405,8 @@
 # game/dialogues/dinner.rpy:269
 # translate crowdin dinner_2_next_e59e27d3:
 
-    # Max_09 "Нет вроде, а что?"
-    Max_09 "Нет вроде, а что?"
+msgid "[Max_09]Нет вроде, а что?"
+msgstr "[Max_09]Нет вроде, а что?"
 
 # game/dialogues/dinner.rpy:270
 # translate crowdin dinner_2_next_2dcffe8e:
@@ -429,8 +429,8 @@
 # game/dialogues/dinner.rpy:278
 # translate crowdin dinner_2_next_fb43d7a4:
 
-    # Max_02 "Что-то такое было, вроде бы..."
-    Max_02 "Что-то такое было, вроде бы..."
+msgid "[Max_02]Что-то такое было, вроде бы..."
+msgstr "[Max_02]Что-то такое было, вроде бы..."
 
 # game/dialogues/dinner.rpy:279
 # translate crowdin dinner_2_next_269e5145:
@@ -441,8 +441,8 @@
 # game/dialogues/dinner.rpy:281
 # translate crowdin dinner_2_next_4f7263d2:
 
-    # Max_03 "Нам тебя будет нехватать..."
-    Max_03 "Нам тебя будет нехватать..."
+msgid "[Max_03]Нам тебя будет нехватать..."
+msgstr "[Max_03]Нам тебя будет нехватать..."
 
 # game/dialogues/dinner.rpy:282
 # translate crowdin dinner_2_next_d40b4857:
@@ -453,8 +453,8 @@
 # game/dialogues/dinner.rpy:283
 # translate crowdin dinner_2_next_7b1f3728:
 
-    # Max_01 "Ну, думай..."
-    Max_01 "Ну, думай..."
+msgid "[Max_01]Ну, думай..."
+msgstr "[Max_01]Ну, думай..."
 
 # game/dialogues/dinner.rpy:284
 # translate crowdin dinner_2_next_895f53c6:
@@ -465,8 +465,8 @@
 # game/dialogues/dinner.rpy:285
 # translate crowdin dinner_2_next_dcddcdc6:
 
-    # Max_04 "Ага, спасибо."
-    Max_04 "Ага, спасибо."
+msgid "[Max_04]Ага, спасибо."
+msgstr "[Max_04]Ага, спасибо."
 
 # game/dialogues/dinner.rpy:294
 # translate crowdin dinner_3_161450c7:
@@ -477,8 +477,8 @@
 # game/dialogues/dinner.rpy:295
 # translate crowdin dinner_3_889c8278:
 
-    # Max_04 "У нас всё как всегда. У тебя какие новости?"
-    Max_04 "У нас всё как всегда. У тебя какие новости?"
+msgid "[Max_04]У нас всё как всегда. У тебя какие новости?"
+msgstr "[Max_04]У нас всё как всегда. У тебя какие новости?"
 
 # game/dialogues/dinner.rpy:296
 # translate crowdin dinner_3_1f4a6464:
@@ -507,8 +507,8 @@
 # game/dialogues/dinner.rpy:304
 # translate crowdin dinner_3_e0f5fba8:
 
-    # Max_00 "И что будет входить в твои обязанности?"
-    Max_00 "И что будет входить в твои обязанности?"
+msgid "[Max_00]И что будет входить в твои обязанности?"
+msgstr "[Max_00]И что будет входить в твои обязанности?"
 
 # game/dialogues/dinner.rpy:305
 # translate crowdin dinner_3_e6123907:
@@ -525,8 +525,8 @@
 # game/dialogues/dinner.rpy:312
 # translate crowdin dinner_3_b99d3250:
 
-    # Max_09 "Ну да, в этом что-то есть..."
-    Max_09 "Ну да, в этом что-то есть..."
+msgid "[Max_09]Ну да, в этом что-то есть..."
+msgstr "[Max_09]Ну да, в этом что-то есть..."
 
 # game/dialogues/dinner.rpy:313
 # translate crowdin dinner_3_20792312:
@@ -585,8 +585,8 @@
 # game/dialogues/dinner.rpy:332
 # translate crowdin dinner_3_fd25125a:
 
-    # Max_11 "Ну и ладно!"
-    Max_11 "Ну и ладно!"
+msgid "[Max_11]Ну и ладно!"
+msgstr "[Max_11]Ну и ладно!"
 
 # game/dialogues/dinner.rpy:333
 # translate crowdin dinner_3_72b85541:
@@ -597,8 +597,8 @@
 # game/dialogues/dinner.rpy:334
 # translate crowdin dinner_3_bb8c7720:
 
-    # Max_01 "Ага, спасибо за ужин."
-    Max_01 "Ага, спасибо за ужин."
+msgid "[Max_01]Ага, спасибо за ужин."
+msgstr "[Max_01]Ага, спасибо за ужин."
 
 # game/dialogues/dinner.rpy:344
 # translate crowdin dinner_4_19ed47e5:
@@ -615,8 +615,8 @@
 # game/dialogues/dinner.rpy:346
 # translate crowdin dinner_4_6d0031c1:
 
-    # Max_07 "Какой купальник?"
-    Max_07 "Какой купальник?"
+msgid "[Max_07]Какой купальник?"
+msgstr "[Max_07]Какой купальник?"
 
 # game/dialogues/dinner.rpy:347
 # translate crowdin dinner_4_70506d70:
@@ -645,8 +645,8 @@
 # game/dialogues/dinner.rpy:355
 # translate crowdin dinner_4_af37ddf8:
 
-    # Max_14 "Да нет, всё в порядке..."
-    Max_14 "Да нет, всё в порядке..."
+msgid "[Max_14]Да нет, всё в порядке..."
+msgstr "[Max_14]Да нет, всё в порядке..."
 
 # game/dialogues/dinner.rpy:356
 # translate crowdin dinner_4_2572e6bf:
@@ -663,8 +663,8 @@
 # game/dialogues/dinner.rpy:362
 # translate crowdin dinner_4_ff02b2d1:
 
-    # Max_09 "Ну, как хочешь. Моё дело предложить решение..."
-    Max_09 "Ну, как хочешь. Моё дело предложить решение..."
+msgid "[Max_09]Ну, как хочешь. Моё дело предложить решение..."
+msgstr "[Max_09]Ну, как хочешь. Моё дело предложить решение..."
 
 # game/dialogues/dinner.rpy:363
 # translate crowdin dinner_4_f6e8b059:
@@ -747,8 +747,8 @@
 # game/dialogues/dinner.rpy:409
 # translate crowdin dinner_4_25aa812b:
 
-    # Max_01 "Конечно!"
-    Max_01 "Конечно!"
+msgid "[Max_01]Конечно!"
+msgstr "[Max_01]Конечно!"
 
 # game/dialogues/dinner.rpy:411
 # translate crowdin dinner_4_1a653e5d:
@@ -759,8 +759,8 @@
 # game/dialogues/dinner.rpy:412
 # translate crowdin dinner_4_9b836c58:
 
-    # Max_04 "Конечно!"
-    Max_04 "Конечно!"
+msgid "[Max_04]Конечно!"
+msgstr "[Max_04]Конечно!"
 
 # game/dialogues/dinner.rpy:414
 # translate crowdin dinner_4_2a409626:
@@ -771,8 +771,8 @@
 # game/dialogues/dinner.rpy:415
 # translate crowdin dinner_4_f3fba9dc:
 
-    # Max_00 "Ладно, мам..."
-    Max_00 "Ладно, мам..."
+msgid "[Max_00]Ладно, мам..."
+msgstr "[Max_00]Ладно, мам..."
 
 # game/dialogues/dinner.rpy:425
 # translate crowdin dinner_5_433b61db:
@@ -783,8 +783,8 @@
 # game/dialogues/dinner.rpy:426
 # translate crowdin dinner_5_05214a4e:
 
-    # Max_01 "Приятного..."
-    Max_01 "Приятного..."
+msgid "[Max_01]Приятного..."
+msgstr "[Max_01]Приятного..."
 
 # game/dialogues/dinner.rpy:427
 # translate crowdin dinner_5_84162138:
@@ -795,8 +795,8 @@
 # game/dialogues/dinner.rpy:428
 # translate crowdin dinner_5_7608d1b0:
 
-    # Max_00 "Куда уж чаще..."
-    Max_00 "Куда уж чаще..."
+msgid "[Max_00]Куда уж чаще..."
+msgstr "[Max_00]Куда уж чаще..."
 
 # game/dialogues/dinner.rpy:429
 # translate crowdin dinner_5_a372e80e:
@@ -813,8 +813,8 @@
 # game/dialogues/dinner.rpy:433
 # translate crowdin dinner_5_204cb890:
 
-    # Max_00 "Да я шучу..."
-    Max_00 "Да я шучу..."
+msgid "[Max_00]Да я шучу..."
+msgstr "[Max_00]Да я шучу..."
 
 # game/dialogues/dinner.rpy:434
 # translate crowdin dinner_5_1c2236fd:
@@ -885,8 +885,8 @@
 # game/dialogues/dinner.rpy:455
 # translate crowdin dinner_5_5d21372d:
 
-    # Max_04 "А я, если что, помогу..."
-    Max_04 "А я, если что, помогу..."
+msgid "[Max_04]А я, если что, помогу..."
+msgstr "[Max_04]А я, если что, помогу..."
 
 # game/dialogues/dinner.rpy:456
 # translate crowdin dinner_5_17eb1260:
@@ -897,8 +897,8 @@
 # game/dialogues/dinner.rpy:457
 # translate crowdin dinner_5_e9d81834:
 
-    # Max_01 "Ага, всем спасибо..."
-    Max_01 "Ага, всем спасибо..."
+msgid "[Max_01]Ага, всем спасибо..."
+msgstr "[Max_01]Ага, всем спасибо..."
 
 # game/dialogues/dinner.rpy:465
 # translate crowdin dinner_6_36943836:
@@ -921,8 +921,8 @@
 # game/dialogues/dinner.rpy:473
 # translate crowdin dinner_6_f3fba9dc:
 
-    # Max_00 "Ладно, мам..."
-    Max_00 "Ладно, мам..."
+msgid "[Max_00]Ладно, мам..."
+msgstr "[Max_00]Ладно, мам..."
 
 # game/dialogues/dinner.rpy:475
 # translate crowdin dinner_6_1af1f49a:
@@ -933,8 +933,8 @@
 # game/dialogues/dinner.rpy:476
 # translate crowdin dinner_6_d66e2468:
 
-    # Max_00 "Хорошо, мам..."
-    Max_00 "Хорошо, мам..."
+msgid "[Max_00]Хорошо, мам..."
+msgstr "[Max_00]Хорошо, мам..."
 
 # game/dialogues/dinner.rpy:478
 # translate crowdin dinner_6_08736234:
@@ -945,8 +945,8 @@
 # game/dialogues/dinner.rpy:479
 # translate crowdin dinner_6_80f63239:
 
-    # Max_00 "Как скажешь, мам..."
-    Max_00 "Как скажешь, мам..."
+msgid "[Max_00]Как скажешь, мам..."
+msgstr "[Max_00]Как скажешь, мам..."
 
 # game/dialogues/dinner.rpy:481
 # translate crowdin dinner_6_99a07aeb:
@@ -963,8 +963,8 @@
 # game/dialogues/dinner.rpy:485
 # translate crowdin dinner_6_95b14205:
 
-    # Max_00 "Да, мам..."
-    Max_00 "Да, мам..."
+msgid "[Max_00]Да, мам..."
+msgstr "[Max_00]Да, мам..."
 
 # game/dialogues/dinner.rpy:487
 # translate crowdin dinner_6_1af1f49a_1:
@@ -975,8 +975,8 @@
 # game/dialogues/dinner.rpy:488
 # translate crowdin dinner_6_d66e2468_1:
 
-    # Max_00 "Хорошо, мам..."
-    Max_00 "Хорошо, мам..."
+msgid "[Max_00]Хорошо, мам..."
+msgstr "[Max_00]Хорошо, мам..."
 
 # game/dialogues/dinner.rpy:490
 # translate crowdin dinner_6_08736234_1:
@@ -987,8 +987,8 @@
 # game/dialogues/dinner.rpy:491
 # translate crowdin dinner_6_80f63239_1:
 
-    # Max_00 "Как скажешь, мам..."
-    Max_00 "Как скажешь, мам..."
+msgid "[Max_00]Как скажешь, мам..."
+msgstr "[Max_00]Как скажешь, мам..."
 
 # game/dialogues/dinner.rpy:492
 # translate crowdin dinner_6_2dc57b31:
@@ -999,8 +999,8 @@
 # game/dialogues/dinner.rpy:493
 # translate crowdin dinner_6_edd8ab5c:
 
-    # Max_00 "Какая ещё идея?"
-    Max_00 "Какая ещё идея?"
+msgid "[Max_00]Какая ещё идея?"
+msgstr "[Max_00]Какая ещё идея?"
 
 # game/dialogues/dinner.rpy:494
 # translate crowdin dinner_6_08c7017b:
@@ -1011,8 +1011,8 @@
 # game/dialogues/dinner.rpy:495
 # translate crowdin dinner_6_317a2271:
 
-    # Max_09 "Чего чего? Какого ещё лагеря?!"
-    Max_09 "Чего чего? Какого ещё лагеря?!"
+msgid "[Max_09]Чего чего? Какого ещё лагеря?!"
+msgstr "[Max_09]Чего чего? Какого ещё лагеря?!"
 
 # game/dialogues/dinner.rpy:496
 # translate crowdin dinner_6_5356c4a4:
@@ -1023,8 +1023,8 @@
 # game/dialogues/dinner.rpy:497
 # translate crowdin dinner_6_019674e5:
 
-    # Max_08 "Стоп. А если я уже знаю, что не хочу?"
-    Max_08 "Стоп. А если я уже знаю, что не хочу?"
+msgid "[Max_08]Стоп. А если я уже знаю, что не хочу?"
+msgstr "[Max_08]Стоп. А если я уже знаю, что не хочу?"
 
 # game/dialogues/dinner.rpy:498
 # translate crowdin dinner_6_5167a21f:
@@ -1035,8 +1035,8 @@
 # game/dialogues/dinner.rpy:499
 # translate crowdin dinner_6_457b166b:
 
-    # Max_09 "Нет, но они мне не нравятся!"
-    Max_09 "Нет, но они мне не нравятся!"
+msgid "[Max_09]Нет, но они мне не нравятся!"
+msgstr "[Max_09]Нет, но они мне не нравятся!"
 
 # game/dialogues/dinner.rpy:500
 # translate crowdin dinner_6_0603d673:
@@ -1047,8 +1047,8 @@
 # game/dialogues/dinner.rpy:501
 # translate crowdin dinner_6_2f9d222e:
 
-    # Max_15 "Что-то хрень какая-то, эта ваша идея..."
-    Max_15 "Что-то хрень какая-то, эта ваша идея..."
+msgid "[Max_15]Что-то хрень какая-то, эта ваша идея..."
+msgstr "[Max_15]Что-то хрень какая-то, эта ваша идея..."
 
 # game/dialogues/dinner.rpy:502
 # translate crowdin dinner_6_d26308bb:
@@ -1059,8 +1059,8 @@
 # game/dialogues/dinner.rpy:503
 # translate crowdin dinner_6_20ceec69:
 
-    # Max_08 "Я против."
-    Max_08 "Я против."
+msgid "[Max_08]Я против."
+msgstr "[Max_08]Я против."
 
 # game/dialogues/dinner.rpy:504
 # translate crowdin dinner_6_c16222e2:
@@ -1071,8 +1071,8 @@
 # game/dialogues/dinner.rpy:505
 # translate crowdin dinner_6_898c60c2:
 
-    # Max_16 "Я уже мужик!"
-    Max_16 "Я уже мужик!"
+msgid "[Max_16]Я уже мужик!"
+msgstr "[Max_16]Я уже мужик!"
 
 # game/dialogues/dinner.rpy:506
 # translate crowdin dinner_6_3819b060:
@@ -1083,8 +1083,8 @@
 # game/dialogues/dinner.rpy:507
 # translate crowdin dinner_6_58a8fd66:
 
-    # Max_09 "И кто будет решать - в лагерь меня или пока не надо?"
-    Max_09 "И кто будет решать - в лагерь меня или пока не надо?"
+msgid "[Max_09]И кто будет решать - в лагерь меня или пока не надо?"
+msgstr "[Max_09]И кто будет решать - в лагерь меня или пока не надо?"
 
 # game/dialogues/dinner.rpy:508
 # translate crowdin dinner_6_a53df9b6:
@@ -1095,8 +1095,8 @@
 # game/dialogues/dinner.rpy:509
 # translate crowdin dinner_6_1259f657:
 
-    # Max_14 "Я понял. Буду вести тебя хорошо..."
-    Max_14 "Я понял. Буду вести тебя хорошо..."
+msgid "[Max_14]Я понял. Буду вести тебя хорошо..."
+msgstr "[Max_14]Я понял. Буду вести тебя хорошо..."
 
 # game/dialogues/dinner.rpy:510
 # translate crowdin dinner_6_be309633:
@@ -1113,8 +1113,8 @@
 # game/dialogues/dinner.rpy:515
 # translate crowdin dinner_6_f8fb6fec:
 
-    # Max_07 "Может, сменим тему? Мне эта что-то не нравится..."
-    Max_07 "Может, сменим тему? Мне эта что-то не нравится..."
+msgid "[Max_07]Может, сменим тему? Мне эта что-то не нравится..."
+msgstr "[Max_07]Может, сменим тему? Мне эта что-то не нравится..."
 
 # game/dialogues/dinner.rpy:516
 # translate crowdin dinner_6_73868a8c:
@@ -1125,8 +1125,8 @@
 # game/dialogues/dinner.rpy:517
 # translate crowdin dinner_6_c85861e6:
 
-    # Max_09 "Определённо, мне это всё не нравится..."
-    Max_09 "Определённо, мне это всё не нравится..."
+msgid "[Max_09]Определённо, мне это всё не нравится..."
+msgstr "[Max_09]Определённо, мне это всё не нравится..."
 
 # game/dialogues/dinner.rpy:518
 # translate crowdin dinner_6_b529c25b:
@@ -1137,8 +1137,8 @@
 # game/dialogues/dinner.rpy:519
 # translate crowdin dinner_6_f4d02f0c:
 
-    # Max_08 "Точно, это всё дурно пахнет..."
-    Max_08 "Точно, это всё дурно пахнет..."
+msgid "[Max_08]Точно, это всё дурно пахнет..."
+msgstr "[Max_08]Точно, это всё дурно пахнет..."
 
 # game/dialogues/dinner.rpy:520
 # translate crowdin dinner_6_d6488e24:
@@ -1149,8 +1149,8 @@
 # game/dialogues/dinner.rpy:521
 # translate crowdin dinner_6_5156588d:
 
-    # Max_00 "Да завязывайте, уже!"
-    Max_00 "Да завязывайте, уже!"
+msgid "[Max_00]Да завязывайте, уже!"
+msgstr "[Max_00]Да завязывайте, уже!"
 
 # game/dialogues/dinner.rpy:522
 # translate crowdin dinner_6_ef0f763e:
@@ -1161,8 +1161,8 @@
 # game/dialogues/dinner.rpy:523
 # translate crowdin dinner_6_2248c5a6:
 
-    # Max_00 "Спасибо за ужин..."
-    Max_00 "Спасибо за ужин..."
+msgid "[Max_00]Спасибо за ужин..."
+msgstr "[Max_00]Спасибо за ужин..."
 
 # game/dialogues/dinner.rpy:530
 # translate crowdin dinner_11_a6873134:
@@ -1179,8 +1179,8 @@
 # game/dialogues/dinner.rpy:532
 # translate crowdin dinner_11_a39875b3:
 
-    # Max_01 "Это ты так рада из-за платья?"
-    Max_01 "Это ты так рада из-за платья?"
+msgid "[Max_01]Это ты так рада из-за платья?"
+msgstr "[Max_01]Это ты так рада из-за платья?"
 
 # game/dialogues/dinner.rpy:533
 # translate crowdin dinner_11_1909639d:
@@ -1197,8 +1197,8 @@
 # game/dialogues/dinner.rpy:535
 # translate crowdin dinner_11_81723923:
 
-    # Max_04 "Вот-вот..."
-    Max_04 "Вот-вот..."
+msgid "[Max_04]Вот-вот..."
+msgstr "[Max_04]Вот-вот..."
 
 # game/dialogues/dinner.rpy:536
 # translate crowdin dinner_11_fa9cb9e8:
@@ -1263,8 +1263,8 @@
 # game/dialogues/dinner.rpy:554
 # translate crowdin dinner_11_bf1cc148:
 
-    # Max_09 "А что с моими данными?"
-    Max_09 "А что с моими данными?"
+msgid "[Max_09]А что с моими данными?"
+msgstr "[Max_09]А что с моими данными?"
 
 # game/dialogues/dinner.rpy:555
 # translate crowdin dinner_11_de1a56d1:
@@ -1275,8 +1275,8 @@
 # game/dialogues/dinner.rpy:556
 # translate crowdin dinner_11_7037837f:
 
-    # Max_15 "Да я уже мужик!"
-    Max_15 "Да я уже мужик!"
+msgid "[Max_15]Да я уже мужик!"
+msgstr "[Max_15]Да я уже мужик!"
 
 # game/dialogues/dinner.rpy:557
 # translate crowdin dinner_11_293f5d0a:
@@ -1287,8 +1287,8 @@
 # game/dialogues/dinner.rpy:558
 # translate crowdin dinner_11_318e1952:
 
-    # Max_16 "Знаешь, что?"
-    Max_16 "Знаешь, что?"
+msgid "[Max_16]Знаешь, что?"
+msgstr "[Max_16]Знаешь, что?"
 
 # game/dialogues/dinner.rpy:559
 # translate crowdin dinner_11_f4df1d4d:
@@ -1299,8 +1299,8 @@
 # game/dialogues/dinner.rpy:560
 # translate crowdin dinner_11_c8712c7d:
 
-    # Max_00 "Да, спасибо..."
-    Max_00 "Да, спасибо..."
+msgid "[Max_00]Да, спасибо..."
+msgstr "[Max_00]Да, спасибо..."
 
 # game/dialogues/dinner.rpy:572
 # translate crowdin dinner_12_d04275cc:
@@ -1311,8 +1311,8 @@
 # game/dialogues/dinner.rpy:573
 # translate crowdin dinner_12_b6e4f095:
 
-    # Max_01 "Приятного аппетита..."
-    Max_01 "Приятного аппетита..."
+msgid "[Max_01]Приятного аппетита..."
+msgstr "[Max_01]Приятного аппетита..."
 
 # game/dialogues/dinner.rpy:574
 # translate crowdin dinner_12_fabf0476:
@@ -1329,8 +1329,8 @@
 # game/dialogues/dinner.rpy:578
 # translate crowdin dinner_12_07803c9e:
 
-    # Max_00 "Ну, значит, точно про Эрика..."
-    Max_00 "Ну, значит, точно про Эрика..."
+msgid "[Max_00]Ну, значит, точно про Эрика..."
+msgstr "[Max_00]Ну, значит, точно про Эрика..."
 
 # game/dialogues/dinner.rpy:580
 # translate crowdin dinner_12_597d0ff1:
@@ -1341,8 +1341,8 @@
 # game/dialogues/dinner.rpy:581
 # translate crowdin dinner_12_74e231fd:
 
-    # Max_00 "Ну, у меня есть один вариант..."
-    Max_00 "Ну, у меня есть один вариант..."
+msgid "[Max_00]Ну, у меня есть один вариант..."
+msgstr "[Max_00]Ну, у меня есть один вариант..."
 
 # game/dialogues/dinner.rpy:583
 # translate crowdin dinner_12_51dda7be:
@@ -1353,8 +1353,8 @@
 # game/dialogues/dinner.rpy:584
 # translate crowdin dinner_12_74e231fd_1:
 
-    # Max_00 "Ну, у меня есть один вариант..."
-    Max_00 "Ну, у меня есть один вариант..."
+msgid "[Max_00]Ну, у меня есть один вариант..."
+msgstr "[Max_00]Ну, у меня есть один вариант..."
 
 # game/dialogues/dinner.rpy:585
 # translate crowdin dinner_12_3ce393a3:
@@ -1371,8 +1371,8 @@
 # game/dialogues/dinner.rpy:592
 # translate crowdin dinner_12_588b4955:
 
-    # Max_01 "Ого, сколько вопросов..."
-    Max_01 "Ого, сколько вопросов..."
+msgid "[Max_01]Ого, сколько вопросов..."
+msgstr "[Max_01]Ого, сколько вопросов..."
 
 # game/dialogues/dinner.rpy:593
 # translate crowdin dinner_12_314c5e7a:
@@ -1407,8 +1407,8 @@
 # game/dialogues/dinner.rpy:607
 # translate crowdin dinner_12_ae3ea8ad:
 
-    # Max_05 "Есть видео?!"
-    Max_05 "Есть видео?!"
+msgid "[Max_05]Есть видео?!"
+msgstr "[Max_05]Есть видео?!"
 
 # game/dialogues/dinner.rpy:608
 # translate crowdin dinner_12_8396e101:
@@ -1419,8 +1419,8 @@
 # game/dialogues/dinner.rpy:609
 # translate crowdin dinner_12_e4627083:
 
-    # Max_04 "Отлично!"
-    Max_04 "Отлично!"
+msgid "[Max_04]Отлично!"
+msgstr "[Max_04]Отлично!"
 
 # game/dialogues/dinner.rpy:611
 # translate crowdin dinner_12_797024eb:
@@ -1431,8 +1431,8 @@
 # game/dialogues/dinner.rpy:612
 # translate crowdin dinner_12_9c03c99d:
 
-    # Max_02 "Ага, спрошу..."
-    Max_02 "Ага, спрошу..."
+msgid "[Max_02]Ага, спрошу..."
+msgstr "[Max_02]Ага, спрошу..."
 
 # game/dialogues/dinner.rpy:614
 # translate crowdin dinner_12_21c6cd97:
@@ -1449,8 +1449,8 @@
 # game/dialogues/dinner.rpy:618
 # translate crowdin dinner_12_8e97f7e1:
 
-    # Max_03 "Понятно..."
-    Max_03 "Понятно..."
+msgid "[Max_03]Понятно..."
+msgstr "[Max_03]Понятно..."
 
 # game/dialogues/dinner.rpy:621
 # translate crowdin dinner_12_b37b9305:
@@ -1461,8 +1461,8 @@
 # game/dialogues/dinner.rpy:622
 # translate crowdin dinner_12_9816e105:
 
-    # Max_05 "Супер!"
-    Max_05 "Супер!"
+msgid "[Max_05]Супер!"
+msgstr "[Max_05]Супер!"
 
 # game/dialogues/dinner.rpy:623
 # translate crowdin dinner_12_10b24d25:
@@ -1473,8 +1473,8 @@
 # game/dialogues/dinner.rpy:624
 # translate crowdin dinner_12_60420080:
 
-    # Max_01 "Да, всем спасибо!"
-    Max_01 "Да, всем спасибо!"
+msgid "[Max_01]Да, всем спасибо!"
+msgstr "[Max_01]Да, всем спасибо!"
 
 # game/dialogues/dinner.rpy:631
 # translate crowdin dinner_17_d04275cc:
@@ -1485,8 +1485,8 @@
 # game/dialogues/dinner.rpy:632
 # translate crowdin dinner_17_367064d7:
 
-    # Max_01 "Приятного!"
-    Max_01 "Приятного!"
+msgid "[Max_01]Приятного!"
+msgstr "[Max_01]Приятного!"
 
 # game/dialogues/dinner.rpy:633
 # translate crowdin dinner_17_8cbd4bb3:
@@ -1503,8 +1503,8 @@
 # game/dialogues/dinner.rpy:637
 # translate crowdin dinner_17_f0337bdd:
 
-    # Max_04 "А как же шоппинг?"
-    Max_04 "А как же шоппинг?"
+msgid "[Max_04]А как же шоппинг?"
+msgstr "[Max_04]А как же шоппинг?"
 
 # game/dialogues/dinner.rpy:640
 # translate crowdin dinner_17_b7e0b476:
@@ -1521,8 +1521,8 @@
 # game/dialogues/dinner.rpy:644
 # translate crowdin dinner_17_3bb2de77:
 
-    # Max_00 "Верно, верно. А где тётя Кира будет спать?"
-    Max_00 "Верно, верно. А где тётя Кира будет спать?"
+msgid "[Max_00]Верно, верно. А где тётя Кира будет спать?"
+msgstr "[Max_00]Верно, верно. А где тётя Кира будет спать?"
 
 # game/dialogues/dinner.rpy:649
 # translate crowdin dinner_17_shop_cfc1b2c4:
@@ -1533,8 +1533,8 @@
 # game/dialogues/dinner.rpy:650
 # translate crowdin dinner_17_shop_e07eca73:
 
-    # Max_01 "Да я просто спросил..."
-    Max_01 "Да я просто спросил..."
+msgid "[Max_01]Да я просто спросил..."
+msgstr "[Max_01]Да я просто спросил..."
 
 # game/dialogues/dinner.rpy:651
 # translate crowdin dinner_17_shop_3e2734e9:
@@ -1545,8 +1545,8 @@
 # game/dialogues/dinner.rpy:652
 # translate crowdin dinner_17_shop_f3d653c6:
 
-    # Max_00 "А где она будет спать?"
-    Max_00 "А где она будет спать?"
+msgid "[Max_00]А где она будет спать?"
+msgstr "[Max_00]А где она будет спать?"
 
 # game/dialogues/dinner.rpy:655
 # translate crowdin dinner_17_sleep_24dcc3e9:
@@ -1569,8 +1569,8 @@
 # game/dialogues/dinner.rpy:661
 # translate crowdin dinner_17_sleep_82324783:
 
-    # Max_01 "Хорошо..."
-    Max_01 "Хорошо..."
+msgid "[Max_01]Хорошо..."
+msgstr "[Max_01]Хорошо..."
 
 # game/dialogues/dinner.rpy:668
 # translate crowdin dinner_ab_lisa_ed_d04275cc:
@@ -1581,8 +1581,8 @@
 # game/dialogues/dinner.rpy:669
 # translate crowdin dinner_ab_lisa_ed_b6e4f095:
 
-    # Max_01 "Приятного аппетита..."
-    Max_01 "Приятного аппетита..."
+msgid "[Max_01]Приятного аппетита..."
+msgstr "[Max_01]Приятного аппетита..."
 
 # game/dialogues/dinner.rpy:670
 # translate crowdin dinner_ab_lisa_ed_dc1cdcf5:
@@ -1623,8 +1623,8 @@
 # game/dialogues/dinner.rpy:679
 # translate crowdin dinner_ab_lisa_ed_3a5ee2d6:
 
-    # Max_01 "Ага. Очень здорово."
-    Max_01 "Ага. Очень здорово."
+msgid "[Max_01]Ага. Очень здорово."
+msgstr "[Max_01]Ага. Очень здорово."
 
 # game/dialogues/dinner.rpy:682
 # translate crowdin dinner_ab_lisa_ed_348300b3:
@@ -1665,8 +1665,8 @@
 # game/dialogues/dinner.rpy:693
 # translate crowdin dinner_ab_lisa_ed_2ec88256:
 
-    # Max_09 "И зачем?! Я и без всяких курсов тебя круглой отличницей сделаю!"
-    Max_09 "И зачем?! Я и без всяких курсов тебя круглой отличницей сделаю!"
+msgid "[Max_09]И зачем?! Я и без всяких курсов тебя круглой отличницей сделаю!"
+msgstr "[Max_09]И зачем?! Я и без всяких курсов тебя круглой отличницей сделаю!"
 
 # game/dialogues/dinner.rpy:694
 # translate crowdin dinner_ab_lisa_ed_b7233bd2:
@@ -1677,8 +1677,8 @@
 # game/dialogues/dinner.rpy:695
 # translate crowdin dinner_ab_lisa_ed_2560c843:
 
-    # Max_15 "Я и без тебя разберусь, что мне делать!"
-    Max_15 "Я и без тебя разберусь, что мне делать!"
+msgid "[Max_15]Я и без тебя разберусь, что мне делать!"
+msgstr "[Max_15]Я и без тебя разберусь, что мне делать!"
 
 # game/dialogues/dinner.rpy:696
 # translate crowdin dinner_ab_lisa_ed_66179e71:
@@ -1689,8 +1689,8 @@
 # game/dialogues/dinner.rpy:697
 # translate crowdin dinner_ab_lisa_ed_67d152f3:
 
-    # Max_07 "Не хочу..."
-    Max_07 "Не хочу..."
+msgid "[Max_07]Не хочу..."
+msgstr "[Max_07]Не хочу..."
 
 # game/dialogues/dinner.rpy:698
 # translate crowdin dinner_ab_lisa_ed_32fd24a7:
@@ -1713,8 +1713,8 @@
 # game/dialogues/dinner.rpy:705
 # translate crowdin dinner_ab_lisa_ed_8fec8c57:
 
-    # Max_00 "Давайте."
-    Max_00 "Давайте."
+msgid "[Max_00]Давайте."
+msgstr "[Max_00]Давайте."
 
 # game/dialogues/dinner.rpy:717
 # translate crowdin dinner_ab_earn_d04275cc:
@@ -1725,8 +1725,8 @@
 # game/dialogues/dinner.rpy:718
 # translate crowdin dinner_ab_earn_b6e4f095:
 
-    # Max_01 "Приятного аппетита..."
-    Max_01 "Приятного аппетита..."
+msgid "[Max_01]Приятного аппетита..."
+msgstr "[Max_01]Приятного аппетита..."
 
 # game/dialogues/dinner.rpy:719
 # translate crowdin dinner_ab_earn_a58a530c:
@@ -1767,8 +1767,8 @@
 # game/dialogues/dinner.rpy:725
 # translate crowdin dinner_ab_earn_f93110f7:
 
-    # Max_04 "Я просто тоже пробую то одно, то другое. Ищу себя..."
-    Max_04 "Я просто тоже пробую то одно, то другое. Ищу себя..."
+msgid "[Max_04]Я просто тоже пробую то одно, то другое. Ищу себя..."
+msgstr "[Max_04]Я просто тоже пробую то одно, то другое. Ищу себя..."
 
 # game/dialogues/dinner.rpy:726
 # translate crowdin dinner_ab_earn_7d7601ea:
@@ -1779,8 +1779,8 @@
 # game/dialogues/dinner.rpy:727
 # translate crowdin dinner_ab_earn_0a352aff:
 
-    # Max_02 "Да легко, мам! Я прослежу, чтобы всё в этом доме было в порядке!"
-    Max_02 "Да легко, мам! Я прослежу, чтобы всё в этом доме было в порядке!"
+msgid "[Max_02]Да легко, мам! Я прослежу, чтобы всё в этом доме было в порядке!"
+msgstr "[Max_02]Да легко, мам! Я прослежу, чтобы всё в этом доме было в порядке!"
 
 # game/dialogues/dinner.rpy:730
 # translate crowdin dinner_ab_earn_da0eb2ec:
@@ -1815,8 +1815,8 @@
 # game/dialogues/dinner.rpy:740
 # translate crowdin dinner_ab_earn_76177f7d:
 
-    # Max_01 "Да, давайте."
-    Max_01 "Да, давайте."
+msgid "[Max_01]Да, давайте."
+msgstr "[Max_01]Да, давайте."
 
 # game/dialogues/dinner.rpy:746
 # translate crowdin dinner_lace_lingerie_3b579f4f:
@@ -1827,8 +1827,8 @@
 # game/dialogues/dinner.rpy:747
 # translate crowdin dinner_lace_lingerie_367064d7:
 
-    # Max_01 "Приятного!"
-    Max_01 "Приятного!"
+msgid "[Max_01]Приятного!"
+msgstr "[Max_01]Приятного!"
 
 # game/dialogues/dinner.rpy:748
 # translate crowdin dinner_lace_lingerie_88f276ad:
@@ -1845,8 +1845,8 @@
 # game/dialogues/dinner.rpy:750
 # translate crowdin dinner_lace_lingerie_319ac67e:
 
-    # Max_07 "Ага, я даже не могу вспомнить, что мы делали в прошлую пятницу! Настолько всё было обычно."
-    Max_07 "Ага, я даже не могу вспомнить, что мы делали в прошлую пятницу! Настолько всё было обычно."
+msgid "[Max_07]Ага, я даже не могу вспомнить, что мы делали в прошлую пятницу! Настолько всё было обычно."
+msgstr "[Max_07]Ага, я даже не могу вспомнить, что мы делали в прошлую пятницу! Настолько всё было обычно."
 
 # game/dialogues/dinner.rpy:751
 # translate crowdin dinner_lace_lingerie_e70fcdf2:
@@ -1875,8 +1875,8 @@
 # game/dialogues/dinner.rpy:755
 # translate crowdin dinner_lace_lingerie_e0b844ce:
 
-    # Max_01 "Пока, мам..."
-    Max_01 "Пока, мам..."
+msgid "[Max_01]Пока, мам..."
+msgstr "[Max_01]Пока, мам..."
 
 # translate crowdin strings:
 

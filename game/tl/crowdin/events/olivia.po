@@ -3,38 +3,38 @@
 # game/events/olivia.rpy:35
 # translate crowdin olivia_lisa_tv_3427be4e:
 
-    # Max_07 "{i}( Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать... ){/i}" nointeract
-    Max_07 "{i}( Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать... ){/i}" nointeract
+msgid "[Max_07]{i}( Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать... ){/i}" nointeract
+msgstr "[Max_07]{i}( Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать... ){/i}" nointeract
 
 # game/events/olivia.rpy:39
 # translate crowdin olivia_lisa_tv_c7fb90a4:
 
-    # Max_10 "[risky!t]{i}( Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне! ){/i}" nointeract
-    Max_10 "[risky!t]{i}( Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне! ){/i}" nointeract
+msgid "[Max_10][risky!t]{i}( Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне! ){/i}" nointeract
+msgstr "[Max_10][risky!t]{i}( Нет, слишком опасно подглядывать за ними! Они в любой момент могут меня заметить... И хуже от этого будет только мне! ){/i}" nointeract
 
 # game/events/olivia.rpy:49
 # translate crowdin olivia_lisa_tv_b0f8caff:
 
-    # Max_04 "{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}"
-    Max_04 "{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}"
+msgid "[Max_04]{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}"
+msgstr "[Max_04]{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}"
 
 # game/events/olivia.rpy:51
 # translate crowdin olivia_lisa_tv_cbe54de6:
 
-    # Max_04 "{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}" nointeract
-    Max_04 "{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}" nointeract
+msgid "[Max_04]{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}" nointeract
+msgstr "[Max_04]{i}( Красота! Сидеть вместе с ними на диване было бы куда интереснее... Можно было бы поглядывать одним глазком на них, а другим на экран. Эх, лучше здесь не задерживаться, они в любой момент могут меня заметить... ){/i}" nointeract
 
 # game/events/olivia.rpy:55
 # translate crowdin olivia_lisa_tv_b032e183:
 
-    # Max_09 "{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, если она заметит, что я подглядываю за ней в душе, мне удастся с ней договориться и она не сдаст меня маме, а взамен она захочет увидеть голым меня? ){/i}" nointeract
-    Max_09 "{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, если она заметит, что я подглядываю за ней в душе, мне удастся с ней договориться и она не сдаст меня маме, а взамен она захочет увидеть голым меня? ){/i}" nointeract
+msgid "[Max_09]{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, если она заметит, что я подглядываю за ней в душе, мне удастся с ней договориться и она не сдаст меня маме, а взамен она захочет увидеть голым меня? ){/i}" nointeract
+msgstr "[Max_09]{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, если она заметит, что я подглядываю за ней в душе, мне удастся с ней договориться и она не сдаст меня маме, а взамен она захочет увидеть голым меня? ){/i}" nointeract
 
 # game/events/olivia.rpy:58
 # translate crowdin olivia_lisa_tv_4c7a5b02:
 
-    # Max_09 "{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, стоит чаще попадаться, когда я подглядываю за ней в душе? ){/i}" nointeract
-    Max_09 "{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, стоит чаще попадаться, когда я подглядываю за ней в душе? ){/i}" nointeract
+msgid "[Max_09]{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, стоит чаще попадаться, когда я подглядываю за ней в душе? ){/i}" nointeract
+msgstr "[Max_09]{i}( Как же мне попасть вместе с ними на диван? Нужно, чтобы Лиза адекватнее относилась к моему возбуждённому виду, но как... Может, стоит чаще попадаться, когда я подглядываю за ней в душе? ){/i}" nointeract
 
 # game/events/olivia.rpy:82
 # translate crowdin olivia_first_meeting_7515fc87:
@@ -45,8 +45,8 @@
 # game/events/olivia.rpy:83
 # translate crowdin olivia_first_meeting_f436f9ae:
 
-    # Max_04 "Привет, я Макс!"
-    Max_04 "Привет, я Макс!"
+msgid "[Max_04]Привет, я Макс!"
+msgstr "[Max_04]Привет, я Макс!"
 
 # game/events/olivia.rpy:84
 # translate crowdin olivia_first_meeting_8a767ef2:
@@ -57,8 +57,8 @@
 # game/events/olivia.rpy:85
 # translate crowdin olivia_first_meeting_6fc69982:
 
-    # Max_02 "Да, мне тоже... Рад, что у Лизы наконец-то появилась подруга."
-    Max_02 "Да, мне тоже... Рад, что у Лизы наконец-то появилась подруга."
+msgid "[Max_02]Да, мне тоже... Рад, что у Лизы наконец-то появилась подруга."
+msgstr "[Max_02]Да, мне тоже... Рад, что у Лизы наконец-то появилась подруга."
 
 # game/events/olivia.rpy:86
 # translate crowdin olivia_first_meeting_55b077a5:
@@ -69,8 +69,8 @@
 # game/events/olivia.rpy:87
 # translate crowdin olivia_first_meeting_5adfc42d:
 
-    # Max_03 "Так отдыхайте, пока солнце ещё светит!"
-    Max_03 "Так отдыхайте, пока солнце ещё светит!"
+msgid "[Max_03]Так отдыхайте, пока солнце ещё светит!"
+msgstr "[Max_03]Так отдыхайте, пока солнце ещё светит!"
 
 # game/events/olivia.rpy:88
 # translate crowdin olivia_first_meeting_798cf6f1:
@@ -81,8 +81,8 @@
 # game/events/olivia.rpy:89
 # translate crowdin olivia_first_meeting_269ffcd7:
 
-    # Max_01 "Если только немного..."
-    Max_01 "Если только немного..."
+msgid "[Max_01]Если только немного..."
+msgstr "[Max_01]Если только немного..."
 
 # game/events/olivia.rpy:90
 # translate crowdin olivia_first_meeting_0a346054:
@@ -99,8 +99,8 @@
 # game/events/olivia.rpy:97
 # translate crowdin olivia_first_meeting_249478eb:
 
-    # Max_07 "{i}( А Оливия симпатичная девчонка! Надеюсь, она с этим Алексом только из-за его внешности и на деле, ничего особенного он из себя не представляет... Так или иначе, Лиза всё равно поделится со мной этой информацией, когда всё узнает... ){/i}"
-    Max_07 "{i}( А Оливия симпатичная девчонка! Надеюсь, она с этим Алексом только из-за его внешности и на деле, ничего особенного он из себя не представляет... Так или иначе, Лиза всё равно поделится со мной этой информацией, когда всё узнает... ){/i}"
+msgid "[Max_07]{i}( А Оливия симпатичная девчонка! Надеюсь, она с этим Алексом только из-за его внешности и на деле, ничего особенного он из себя не представляет... Так или иначе, Лиза всё равно поделится со мной этой информацией, когда всё узнает... ){/i}"
+msgstr "[Max_07]{i}( А Оливия симпатичная девчонка! Надеюсь, она с этим Алексом только из-за его внешности и на деле, ничего особенного он из себя не представляет... Так или иначе, Лиза всё равно поделится со мной этой информацией, когда всё узнает... ){/i}"
 
 # game/events/olivia.rpy:103
 # translate crowdin olivia_first_meeting_4001b456:
@@ -111,8 +111,8 @@
 # game/events/olivia.rpy:104
 # translate crowdin olivia_first_meeting_caf12e57:
 
-    # Max_06 "Да так... Ого! Нет, не так... ого-го-го... Я заснул что ли?! Или ты просто что-то дома забыла?"
-    Max_06 "Да так... Ого! Нет, не так... ого-го-го... Я заснул что ли?! Или ты просто что-то дома забыла?"
+msgid "[Max_06]Да так... Ого! Нет, не так... ого-го-го... Я заснул что ли?! Или ты просто что-то дома забыла?"
+msgstr "[Max_06]Да так... Ого! Нет, не так... ого-го-го... Я заснул что ли?! Или ты просто что-то дома забыла?"
 
 # game/events/olivia.rpy:105
 # translate crowdin olivia_first_meeting_20e61eff:
@@ -129,8 +129,8 @@
 # game/events/olivia.rpy:107
 # translate crowdin olivia_first_meeting_689fb74b:
 
-    # Max_02 "Знаешь, Оливия, если тебе намного комфортнее вообще без купальника, то можешь снять! Никто против не будет..."
-    Max_02 "Знаешь, Оливия, если тебе намного комфортнее вообще без купальника, то можешь снять! Никто против не будет..."
+msgid "[Max_02]Знаешь, Оливия, если тебе намного комфортнее вообще без купальника, то можешь снять! Никто против не будет..."
+msgstr "[Max_02]Знаешь, Оливия, если тебе намного комфортнее вообще без купальника, то можешь снять! Никто против не будет..."
 
 # game/events/olivia.rpy:108
 # translate crowdin olivia_first_meeting_7348c02f:
@@ -147,8 +147,8 @@
 # game/events/olivia.rpy:114
 # translate crowdin olivia_first_meeting_d35082b4:
 
-    # Max_07 "Слышала, Лиза? Это нормально! Оливия, а где твой папа сейчас?"
-    Max_07 "Слышала, Лиза? Это нормально! Оливия, а где твой папа сейчас?"
+msgid "[Max_07]Слышала, Лиза? Это нормально! Оливия, а где твой папа сейчас?"
+msgstr "[Max_07]Слышала, Лиза? Это нормально! Оливия, а где твой папа сейчас?"
 
 # game/events/olivia.rpy:115
 # translate crowdin olivia_first_meeting_a3a21fd8:
@@ -159,8 +159,8 @@
 # game/events/olivia.rpy:116
 # translate crowdin olivia_first_meeting_7db6c66b:
 
-    # Max_05 "Я всеми руками и не руками за!"
-    Max_05 "Я всеми руками и не руками за!"
+msgid "[Max_05]Я всеми руками и не руками за!"
+msgstr "[Max_05]Я всеми руками и не руками за!"
 
 # game/events/olivia.rpy:117
 # translate crowdin olivia_first_meeting_b88de960:
@@ -171,8 +171,8 @@
 # game/events/olivia.rpy:118
 # translate crowdin olivia_first_meeting_0100401a:
 
-    # Max_07 "Я бы с радостью, да только вот кое-что будет вас смущать..."
-    Max_07 "Я бы с радостью, да только вот кое-что будет вас смущать..."
+msgid "[Max_07]Я бы с радостью, да только вот кое-что будет вас смущать..."
+msgstr "[Max_07]Я бы с радостью, да только вот кое-что будет вас смущать..."
 
 # game/events/olivia.rpy:124
 # translate crowdin olivia_first_meeting_04039790:
@@ -183,8 +183,8 @@
 # game/events/olivia.rpy:125
 # translate crowdin olivia_first_meeting_45794192:
 
-    # Max_09 "Я уже понял, что тебя это не смущает, а вот Лизу ещё как..."
-    Max_09 "Я уже понял, что тебя это не смущает, а вот Лизу ещё как..."
+msgid "[Max_09]Я уже понял, что тебя это не смущает, а вот Лизу ещё как..."
+msgstr "[Max_09]Я уже понял, что тебя это не смущает, а вот Лизу ещё как..."
 
 # game/events/olivia.rpy:126
 # translate crowdin olivia_first_meeting_a3c16fbb:
@@ -201,8 +201,8 @@
 # game/events/olivia.rpy:128
 # translate crowdin olivia_first_meeting_353cfe52:
 
-    # Max_07 "А я ей кучу раз говорил, что это естественная реакция"
-    Max_07 "А я ей кучу раз говорил, что это естественная реакция"
+msgid "[Max_07]А я ей кучу раз говорил, что это естественная реакция"
+msgstr "[Max_07]А я ей кучу раз говорил, что это естественная реакция"
 
 # game/events/olivia.rpy:129
 # translate crowdin olivia_first_meeting_ae3a419f:
@@ -213,8 +213,8 @@
 # game/events/olivia.rpy:130
 # translate crowdin olivia_first_meeting_ced16fa4:
 
-    # Max_01 "Ага, отдыхайте..."
-    Max_01 "Ага, отдыхайте..."
+msgid "[Max_01]Ага, отдыхайте..."
+msgstr "[Max_01]Ага, отдыхайте..."
 
 # game/events/olivia.rpy:166
 # translate crowdin olivia_first_night_visit_d18e20dc:
@@ -225,8 +225,8 @@
 # game/events/olivia.rpy:167
 # translate crowdin olivia_first_night_visit_e2d51ab8:
 
-    # Max_04 "Да без проблем. Проходи..."
-    Max_04 "Да без проблем. Проходи..."
+msgid "[Max_04]Да без проблем. Проходи..."
+msgstr "[Max_04]Да без проблем. Проходи..."
 
 # game/events/olivia.rpy:168
 # translate crowdin olivia_first_night_visit_82837f34:
@@ -237,8 +237,8 @@
 # game/events/olivia.rpy:169
 # translate crowdin olivia_first_night_visit_8074ca27:
 
-    # Max_03 "Да... Мама ушла к Эрику, а Алиса с тётей Кирой как всегда в это время тусят где-то. Вернутся поздно, так что у нас полно времени!"
-    Max_03 "Да... Мама ушла к Эрику, а Алиса с тётей Кирой как всегда в это время тусят где-то. Вернутся поздно, так что у нас полно времени!"
+msgid "[Max_03]Да... Мама ушла к Эрику, а Алиса с тётей Кирой как всегда в это время тусят где-то. Вернутся поздно, так что у нас полно времени!"
+msgstr "[Max_03]Да... Мама ушла к Эрику, а Алиса с тётей Кирой как всегда в это время тусят где-то. Вернутся поздно, так что у нас полно времени!"
 
 # game/events/olivia.rpy:175
 # translate crowdin olivia_first_night_visit_9df66df1:
@@ -267,8 +267,8 @@
 # game/events/olivia.rpy:186
 # translate crowdin olivia_first_night_visit_fddb5510:
 
-    # Max_02 "Я особо и не смущался!"
-    Max_02 "Я особо и не смущался!"
+msgid "[Max_02]Я особо и не смущался!"
+msgstr "[Max_02]Я особо и не смущался!"
 
 # game/events/olivia.rpy:191
 # translate crowdin olivia_first_night_visit_4e23085c:
@@ -285,8 +285,8 @@
 # game/events/olivia.rpy:193
 # translate crowdin olivia_first_night_visit_db0bd127:
 
-    # Max_10 "Да ладно тебе, Лиза! Что тут такого?"
-    Max_10 "Да ладно тебе, Лиза! Что тут такого?"
+msgid "[Max_10]Да ладно тебе, Лиза! Что тут такого?"
+msgstr "[Max_10]Да ладно тебе, Лиза! Что тут такого?"
 
 # game/events/olivia.rpy:194
 # translate crowdin olivia_first_night_visit_0d60f763:
@@ -309,8 +309,8 @@
 # game/events/olivia.rpy:208
 # translate crowdin olivia_first_night_visit_failure_db0bd127:
 
-    # Max_10 "Да ладно тебе, Лиза! Что тут такого?"
-    Max_10 "Да ладно тебе, Лиза! Что тут такого?"
+msgid "[Max_10]Да ладно тебе, Лиза! Что тут такого?"
+msgstr "[Max_10]Да ладно тебе, Лиза! Что тут такого?"
 
 # game/events/olivia.rpy:209
 # translate crowdin olivia_first_night_visit_failure_83fd1208:
@@ -321,8 +321,8 @@
 # game/events/olivia.rpy:210
 # translate crowdin olivia_first_night_visit_failure_5c164238:
 
-    # Max_11 "Вот блин!"
-    Max_11 "Вот блин!"
+msgid "[Max_11]Вот блин!"
+msgstr "[Max_11]Вот блин!"
 
 # game/events/olivia.rpy:211
 # translate crowdin olivia_first_night_visit_failure_f9b20282:
@@ -333,8 +333,8 @@
 # game/events/olivia.rpy:217
 # translate crowdin olivia_first_night_visit_failure_786c56dd:
 
-    # Max_14 "Ладно..."
-    Max_14 "Ладно..."
+msgid "[Max_14]Ладно..."
+msgstr "[Max_14]Ладно..."
 
 # game/events/olivia.rpy:229
 # translate crowdin olivia_second_night_visit_8c66d3fd:
@@ -345,8 +345,8 @@
 # game/events/olivia.rpy:230
 # translate crowdin olivia_second_night_visit_389682e0:
 
-    # Max_04 "Нет, всё в порядке... Проходи, чувствуй себя как дома."
-    Max_04 "Нет, всё в порядке... Проходи, чувствуй себя как дома."
+msgid "[Max_04]Нет, всё в порядке... Проходи, чувствуй себя как дома."
+msgstr "[Max_04]Нет, всё в порядке... Проходи, чувствуй себя как дома."
 
 # game/events/olivia.rpy:236
 # translate crowdin olivia_second_night_visit_ce53ea19:
@@ -369,8 +369,8 @@
 # game/events/olivia.rpy:244
 # translate crowdin olivia_second_night_visit_c1e3c67a:
 
-    # Max_07 "Ты настолько меня стесняешься?"
-    Max_07 "Ты настолько меня стесняешься?"
+msgid "[Max_07]Ты настолько меня стесняешься?"
+msgstr "[Max_07]Ты настолько меня стесняешься?"
 
 # game/events/olivia.rpy:245
 # translate crowdin olivia_second_night_visit_afa52dc9:
@@ -399,8 +399,8 @@
 # game/events/olivia.rpy:255
 # translate crowdin olivia_second_night_visit_7b7cf7d4:
 
-    # Max_07 "А как ты будешь со своим будущим парнем себя вести? Тоже будешь стесняться?"
-    Max_07 "А как ты будешь со своим будущим парнем себя вести? Тоже будешь стесняться?"
+msgid "[Max_07]А как ты будешь со своим будущим парнем себя вести? Тоже будешь стесняться?"
+msgstr "[Max_07]А как ты будешь со своим будущим парнем себя вести? Тоже будешь стесняться?"
 
 # game/events/olivia.rpy:256
 # translate crowdin olivia_second_night_visit_13bc2e36:
@@ -423,8 +423,8 @@
 # game/events/olivia.rpy:262
 # translate crowdin olivia_second_night_visit_1fb0f97c:
 
-    # Max_00 "Ты подумай над этим. Потому что парням быстро наскучивают зажатые девушки."
-    Max_00 "Ты подумай над этим. Потому что парням быстро наскучивают зажатые девушки."
+msgid "[Max_00]Ты подумай над этим. Потому что парням быстро наскучивают зажатые девушки."
+msgstr "[Max_00]Ты подумай над этим. Потому что парням быстро наскучивают зажатые девушки."
 
 # game/events/olivia.rpy:266
 # translate crowdin olivia_second_night_visit_a6603bc7:
@@ -441,8 +441,8 @@
 # game/events/olivia.rpy:277
 # translate crowdin olivia_night_visit_r_04f7e51a:
 
-    # Max_04 "Привет! Рад тебя видеть. Дома только я и Лиза. Проходи..."
-    Max_04 "Привет! Рад тебя видеть. Дома только я и Лиза. Проходи..."
+msgid "[Max_04]Привет! Рад тебя видеть. Дома только я и Лиза. Проходи..."
+msgstr "[Max_04]Привет! Рад тебя видеть. Дома только я и Лиза. Проходи..."
 
 # game/events/olivia.rpy:282
 # translate crowdin olivia_night_visit_r_b6a957f2:
@@ -459,8 +459,8 @@
 # game/events/olivia.rpy:294
 # translate crowdin olivia_night_visit_r_8574b567:
 
-    # Max_05 "Ого! Лиза у нас сегодня тоже почти голенькая будет! Рад, что не стесняешься..."
-    Max_05 "Ого! Лиза у нас сегодня тоже почти голенькая будет! Рад, что не стесняешься..."
+msgid "[Max_05]Ого! Лиза у нас сегодня тоже почти голенькая будет! Рад, что не стесняешься..."
+msgstr "[Max_05]Ого! Лиза у нас сегодня тоже почти голенькая будет! Рад, что не стесняешься..."
 
 # game/events/olivia.rpy:295
 # translate crowdin olivia_night_visit_r_a21cc315:
@@ -471,8 +471,8 @@
 # game/events/olivia.rpy:296
 # translate crowdin olivia_night_visit_r_43994455:
 
-    # Max_03 "Хороший стимул... Мне нравится!"
-    Max_03 "Хороший стимул... Мне нравится!"
+msgid "[Max_03]Хороший стимул... Мне нравится!"
+msgstr "[Max_03]Хороший стимул... Мне нравится!"
 
 # game/events/olivia.rpy:297
 # translate crowdin olivia_night_visit_r_d351d1a1:
@@ -495,8 +495,8 @@
 # game/events/olivia.rpy:307
 # translate crowdin olivia_night_visit_r_f773bcda:
 
-    # Max_07 "Лиза, а ты почему маечку не снимаешь? Я думал, ты уже не особо нас стесняешься..."
-    Max_07 "Лиза, а ты почему маечку не снимаешь? Я думал, ты уже не особо нас стесняешься..."
+msgid "[Max_07]Лиза, а ты почему маечку не снимаешь? Я думал, ты уже не особо нас стесняешься..."
+msgstr "[Max_07]Лиза, а ты почему маечку не снимаешь? Я думал, ты уже не особо нас стесняешься..."
 
 # game/events/olivia.rpy:308
 # translate crowdin olivia_night_visit_r_11ccf991:
@@ -507,8 +507,8 @@
 # game/events/olivia.rpy:309
 # translate crowdin olivia_night_visit_r_24763cdf:
 
-    # Max_10 "Да ладно тебе, Лиза! Почему?"
-    Max_10 "Да ладно тебе, Лиза! Почему?"
+msgid "[Max_10]Да ладно тебе, Лиза! Почему?"
+msgstr "[Max_10]Да ладно тебе, Лиза! Почему?"
 
 # game/events/olivia.rpy:311
 # translate crowdin olivia_night_visit_r_c53d4c7a:
@@ -531,8 +531,8 @@
 # game/events/olivia.rpy:316
 # translate crowdin olivia_night_visit_r_0d89d3d3:
 
-    # Max_11 "Ну... Я мог бы..."
-    Max_11 "Ну... Я мог бы..."
+msgid "[Max_11]Ну... Я мог бы..."
+msgstr "[Max_11]Ну... Я мог бы..."
 
 # game/events/olivia.rpy:317
 # translate crowdin olivia_night_visit_r_17b1c448:
@@ -555,8 +555,8 @@
 # game/events/olivia.rpy:365
 # translate crowdin olivia_first_night_out_with_67a0d9d9:
 
-    # Max_05 "Ух ты! Ничего себе! Я даже забыл, что хотел спросить..."
-    Max_05 "Ух ты! Ничего себе! Я даже забыл, что хотел спросить..."
+msgid "[Max_05]Ух ты! Ничего себе! Я даже забыл, что хотел спросить..."
+msgstr "[Max_05]Ух ты! Ничего себе! Я даже забыл, что хотел спросить..."
 
 # game/events/olivia.rpy:366
 # translate crowdin olivia_first_night_out_with_1f749322:
@@ -567,8 +567,8 @@
 # game/events/olivia.rpy:367
 # translate crowdin olivia_first_night_out_with_292d59ce:
 
-    # Max_02 "Ах, вот... Я тоже буду сидеть голышом! Вы же не против?"
-    Max_02 "Ах, вот... Я тоже буду сидеть голышом! Вы же не против?"
+msgid "[Max_02]Ах, вот... Я тоже буду сидеть голышом! Вы же не против?"
+msgstr "[Max_02]Ах, вот... Я тоже буду сидеть голышом! Вы же не против?"
 
 # game/events/olivia.rpy:368
 # translate crowdin olivia_first_night_out_with_922025e6:
@@ -597,8 +597,8 @@
 # game/events/olivia.rpy:378
 # translate crowdin olivia_first_night_out_with_587b76a6:
 
-    # Max_07 "Ты как с мальчиками-то собираешь встречаться, если даже со мной голым не можешь себя комфортно чувствовать? Привыкай..."
-    Max_07 "Ты как с мальчиками-то собираешь встречаться, если даже со мной голым не можешь себя комфортно чувствовать? Привыкай..."
+msgid "[Max_07]Ты как с мальчиками-то собираешь встречаться, если даже со мной голым не можешь себя комфортно чувствовать? Привыкай..."
+msgstr "[Max_07]Ты как с мальчиками-то собираешь встречаться, если даже со мной голым не можешь себя комфортно чувствовать? Привыкай..."
 
 # game/events/olivia.rpy:379
 # translate crowdin olivia_first_night_out_with_771331f5:
@@ -615,8 +615,8 @@
 # game/events/olivia.rpy:381
 # translate crowdin olivia_first_night_out_with_58c3781e:
 
-    # Max_04 "Давайте смотреть, что где показывают интересного..."
-    Max_04 "Давайте смотреть, что где показывают интересного..."
+msgid "[Max_04]Давайте смотреть, что где показывают интересного..."
+msgstr "[Max_04]Давайте смотреть, что где показывают интересного..."
 
 # game/events/olivia.rpy:386
 # translate crowdin olivia_first_night_out_with_87c0e726:
@@ -627,14 +627,14 @@
 # game/events/olivia.rpy:387
 # translate crowdin olivia_first_night_out_with_edd2047c:
 
-    # Max_02 "{i}( Мне куда интереснее то, что происходит на диване... А здесь рядом со мной сидят две обалденные девчонки и одна из них - совершенно голая, как и я! ){/i}"
-    Max_02 "{i}( Мне куда интереснее то, что происходит на диване... А здесь рядом со мной сидят две обалденные девчонки и одна из них - совершенно голая, как и я! ){/i}"
+msgid "[Max_02]{i}( Мне куда интереснее то, что происходит на диване... А здесь рядом со мной сидят две обалденные девчонки и одна из них - совершенно голая, как и я! ){/i}"
+msgstr "[Max_02]{i}( Мне куда интереснее то, что происходит на диване... А здесь рядом со мной сидят две обалденные девчонки и одна из них - совершенно голая, как и я! ){/i}"
 
 # game/events/olivia.rpy:391
 # translate crowdin olivia_first_night_out_with_4095a71d:
 
-    # Max_03 "{i}( Лиза пока ещё стесняется моего вида... Слегка отвернулась, но поглядывает в мою сторону иногда. А вот Оливия очень комфортно себя чувствует. Такая расслабленная и красивая... ){/i}"
-    Max_03 "{i}( Лиза пока ещё стесняется моего вида... Слегка отвернулась, но поглядывает в мою сторону иногда. А вот Оливия очень комфортно себя чувствует. Такая расслабленная и красивая... ){/i}"
+msgid "[Max_03]{i}( Лиза пока ещё стесняется моего вида... Слегка отвернулась, но поглядывает в мою сторону иногда. А вот Оливия очень комфортно себя чувствует. Такая расслабленная и красивая... ){/i}"
+msgstr "[Max_03]{i}( Лиза пока ещё стесняется моего вида... Слегка отвернулась, но поглядывает в мою сторону иногда. А вот Оливия очень комфортно себя чувствует. Такая расслабленная и красивая... ){/i}"
 
 # game/events/olivia.rpy:392
 # translate crowdin olivia_first_night_out_with_f5a27884:
@@ -657,8 +657,8 @@
 # game/events/olivia.rpy:398
 # translate crowdin olivia_first_night_out_with_1b6f1ed5:
 
-    # Max_05 "По мне, так отличная причина тебе приходить к нам чаще!"
-    Max_05 "По мне, так отличная причина тебе приходить к нам чаще!"
+msgid "[Max_05]По мне, так отличная причина тебе приходить к нам чаще!"
+msgstr "[Max_05]По мне, так отличная причина тебе приходить к нам чаще!"
 
 # game/events/olivia.rpy:399
 # translate crowdin olivia_first_night_out_with_c9f25499:
@@ -675,8 +675,8 @@
 # game/events/olivia.rpy:405
 # translate crowdin olivia_first_night_out_with_ab1aa461:
 
-    # Max_04 "Самую малость."
-    Max_04 "Самую малость."
+msgid "[Max_04]Самую малость."
+msgstr "[Max_04]Самую малость."
 
 # game/events/olivia.rpy:406
 # translate crowdin olivia_first_night_out_with_807cb8f9:
@@ -693,8 +693,8 @@
 # game/events/olivia.rpy:412
 # translate crowdin olivia_first_night_out_with_681a47c1:
 
-    # Max_02 "{i}( Вижу я, как у тебя глазки бегают, то на меня, то на Оливию. Наверняка, Лизе даже нравится то, что здесь происходит сегодня... ){/i}"
-    Max_02 "{i}( Вижу я, как у тебя глазки бегают, то на меня, то на Оливию. Наверняка, Лизе даже нравится то, что здесь происходит сегодня... ){/i}"
+msgid "[Max_02]{i}( Вижу я, как у тебя глазки бегают, то на меня, то на Оливию. Наверняка, Лизе даже нравится то, что здесь происходит сегодня... ){/i}"
+msgstr "[Max_02]{i}( Вижу я, как у тебя глазки бегают, то на меня, то на Оливию. Наверняка, Лизе даже нравится то, что здесь происходит сегодня... ){/i}"
 
 # game/events/olivia.rpy:413
 # translate crowdin olivia_first_night_out_with_55adf1fc:
@@ -711,8 +711,8 @@
 # game/events/olivia.rpy:415
 # translate crowdin olivia_first_night_out_with_e353bc4d:
 
-    # Max_03 "Да, оставайся на ночь здесь!"
-    Max_03 "Да, оставайся на ночь здесь!"
+msgid "[Max_03]Да, оставайся на ночь здесь!"
+msgstr "[Max_03]Да, оставайся на ночь здесь!"
 
 # game/events/olivia.rpy:416
 # translate crowdin olivia_first_night_out_with_b0e3e2ee:
@@ -729,8 +729,8 @@
 # game/events/olivia.rpy:422
 # translate crowdin olivia_first_night_out_with_638cf225:
 
-    # Max_04 "Кто куда ляжет?"
-    Max_04 "Кто куда ляжет?"
+msgid "[Max_04]Кто куда ляжет?"
+msgstr "[Max_04]Кто куда ляжет?"
 
 # game/events/olivia.rpy:423
 # translate crowdin olivia_first_night_out_with_a4ff6d3b:
@@ -741,8 +741,8 @@
 # game/events/olivia.rpy:424
 # translate crowdin olivia_first_night_out_with_bf95efa9:
 
-    # Max_02 "Оливия же в гостях... Может определим её на твою кровать, а ты со мной?"
-    Max_02 "Оливия же в гостях... Может определим её на твою кровать, а ты со мной?"
+msgid "[Max_02]Оливия же в гостях... Может определим её на твою кровать, а ты со мной?"
+msgstr "[Max_02]Оливия же в гостях... Может определим её на твою кровать, а ты со мной?"
 
 # game/events/olivia.rpy:425
 # translate crowdin olivia_first_night_out_with_e113e5b9:
@@ -759,8 +759,8 @@
 # game/events/olivia.rpy:427
 # translate crowdin olivia_first_night_out_with_e05418ee:
 
-    # Max_01 "Сладких снов."
-    Max_01 "Сладких снов."
+msgid "[Max_01]Сладких снов."
+msgstr "[Max_01]Сладких снов."
 
 # game/events/olivia.rpy:441
 # translate crowdin olivia_second_night_out_with_f1daf02f:
@@ -771,8 +771,8 @@
 # game/events/olivia.rpy:442
 # translate crowdin olivia_second_night_out_with_e5631105:
 
-    # Max_03 "Ничего не взорвётся, не переживай."
-    Max_03 "Ничего не взорвётся, не переживай."
+msgid "[Max_03]Ничего не взорвётся, не переживай."
+msgstr "[Max_03]Ничего не взорвётся, не переживай."
 
 # game/events/olivia.rpy:443
 # translate crowdin olivia_second_night_out_with_ff43958c:
@@ -801,8 +801,8 @@
 # game/events/olivia.rpy:451
 # translate crowdin olivia_second_night_out_with_2c2c214a:
 
-    # Max_02 "{i}( Интересно, как бы Оливия отреагировала, если бы Лиза рассказала, как я учу её целоваться и где мои руки при этом оказываются?! Святую тут из себя строит. Ну да ладно... ){/i}"
-    Max_02 "{i}( Интересно, как бы Оливия отреагировала, если бы Лиза рассказала, как я учу её целоваться и где мои руки при этом оказываются?! Святую тут из себя строит. Ну да ладно... ){/i}"
+msgid "[Max_02]{i}( Интересно, как бы Оливия отреагировала, если бы Лиза рассказала, как я учу её целоваться и где мои руки при этом оказываются?! Святую тут из себя строит. Ну да ладно... ){/i}"
+msgstr "[Max_02]{i}( Интересно, как бы Оливия отреагировала, если бы Лиза рассказала, как я учу её целоваться и где мои руки при этом оказываются?! Святую тут из себя строит. Ну да ладно... ){/i}"
 
 # game/events/olivia.rpy:452
 # translate crowdin olivia_second_night_out_with_bd177cb8:
@@ -813,8 +813,8 @@
 # game/events/olivia.rpy:456
 # translate crowdin olivia_second_night_out_with_0ab5792e:
 
-    # Max_04 "Конечно, да! Но я тут бессилен, это же непроизвольно."
-    Max_04 "Конечно, да! Но я тут бессилен, это же непроизвольно."
+msgid "[Max_04]Конечно, да! Но я тут бессилен, это же непроизвольно."
+msgstr "[Max_04]Конечно, да! Но я тут бессилен, это же непроизвольно."
 
 # game/events/olivia.rpy:457
 # translate crowdin olivia_second_night_out_with_44544fc0:
@@ -825,8 +825,8 @@
 # game/events/olivia.rpy:458
 # translate crowdin olivia_second_night_out_with_d7a49712:
 
-    # Max_07 "А что с ним?"
-    Max_07 "А что с ним?"
+msgid "[Max_07]А что с ним?"
+msgstr "[Max_07]А что с ним?"
 
 # game/events/olivia.rpy:459
 # translate crowdin olivia_second_night_out_with_be6fd8f1:
@@ -837,8 +837,8 @@
 # game/events/olivia.rpy:460
 # translate crowdin olivia_second_night_out_with_07e7c841:
 
-    # Max_09 "Вот как! Погодите... Но раз вы обе здесь, значит у вас всё хорошо?"
-    Max_09 "Вот как! Погодите... Но раз вы обе здесь, значит у вас всё хорошо?"
+msgid "[Max_09]Вот как! Погодите... Но раз вы обе здесь, значит у вас всё хорошо?"
+msgstr "[Max_09]Вот как! Погодите... Но раз вы обе здесь, значит у вас всё хорошо?"
 
 # game/events/olivia.rpy:464
 # translate crowdin olivia_second_night_out_with_bac5e609:
@@ -855,8 +855,8 @@
 # game/events/olivia.rpy:466
 # translate crowdin olivia_second_night_out_with_c9b2dc7c:
 
-    # Max_00 "Получается, Оливия с парнем рассталась?"
-    Max_00 "Получается, Оливия с парнем рассталась?"
+msgid "[Max_00]Получается, Оливия с парнем рассталась?"
+msgstr "[Max_00]Получается, Оливия с парнем рассталась?"
 
 # game/events/olivia.rpy:467
 # translate crowdin olivia_second_night_out_with_7482216d:
@@ -873,8 +873,8 @@
 # game/events/olivia.rpy:473
 # translate crowdin olivia_second_night_out_with_f2a6a804:
 
-    # Max_07 "Вот почему я предпочитаю секс без отношений! Трахаешься, когда хочешь и с кем хочешь... И никакой \"Санта-Барбары\"!"
-    Max_07 "Вот почему я предпочитаю секс без отношений! Трахаешься, когда хочешь и с кем хочешь... И никакой \"Санта-Барбары\"!"
+msgid "[Max_07]Вот почему я предпочитаю секс без отношений! Трахаешься, когда хочешь и с кем хочешь... И никакой \"Санта-Барбары\"!"
+msgstr "[Max_07]Вот почему я предпочитаю секс без отношений! Трахаешься, когда хочешь и с кем хочешь... И никакой \"Санта-Барбары\"!"
 
 # game/events/olivia.rpy:474
 # translate crowdin olivia_second_night_out_with_f7150c4a:
@@ -885,8 +885,8 @@
 # game/events/olivia.rpy:475
 # translate crowdin olivia_second_night_out_with_3a4a3ad7:
 
-    # Max_02 "Это я вас таким образом от темы с Алексом решил отвлечь."
-    Max_02 "Это я вас таким образом от темы с Алексом решил отвлечь."
+msgid "[Max_02]Это я вас таким образом от темы с Алексом решил отвлечь."
+msgstr "[Max_02]Это я вас таким образом от темы с Алексом решил отвлечь."
 
 # game/events/olivia.rpy:480
 # translate crowdin olivia_second_night_out_with_fcee3664:
@@ -903,8 +903,8 @@
 # game/events/olivia.rpy:482
 # translate crowdin olivia_second_night_out_with_767fd836:
 
-    # Max_04 "Ага, хорошо сидим!"
-    Max_04 "Ага, хорошо сидим!"
+msgid "[Max_04]Ага, хорошо сидим!"
+msgstr "[Max_04]Ага, хорошо сидим!"
 
 # game/events/olivia.rpy:483
 # translate crowdin olivia_second_night_out_with_2ffdea61:
@@ -915,8 +915,8 @@
 # game/events/olivia.rpy:484
 # translate crowdin olivia_second_night_out_with_edcfe1f3:
 
-    # Max_06 "Вот это ничего себе!"
-    Max_06 "Вот это ничего себе!"
+msgid "[Max_06]Вот это ничего себе!"
+msgstr "[Max_06]Вот это ничего себе!"
 
 # game/events/olivia.rpy:488
 # translate crowdin olivia_second_night_out_with_41a2f02d:
@@ -933,8 +933,8 @@
 # game/events/olivia.rpy:490
 # translate crowdin olivia_second_night_out_with_24817f5b:
 
-    # Max_05 "{i}( Во сестрёнка даёт! Естественно, я хочу на это смотреть... Не то, чтобы в наглую, но всё-таки такого количества голых сисек на этом диване ещё не было! ){/i}"
-    Max_05 "{i}( Во сестрёнка даёт! Естественно, я хочу на это смотреть... Не то, чтобы в наглую, но всё-таки такого количества голых сисек на этом диване ещё не было! ){/i}"
+msgid "[Max_05]{i}( Во сестрёнка даёт! Естественно, я хочу на это смотреть... Не то, чтобы в наглую, но всё-таки такого количества голых сисек на этом диване ещё не было! ){/i}"
+msgstr "[Max_05]{i}( Во сестрёнка даёт! Естественно, я хочу на это смотреть... Не то, чтобы в наглую, но всё-таки такого количества голых сисек на этом диване ещё не было! ){/i}"
 
 # game/events/olivia.rpy:491
 # translate crowdin olivia_second_night_out_with_af8b6b2b:
@@ -945,8 +945,8 @@
 # game/events/olivia.rpy:492
 # translate crowdin olivia_second_night_out_with_9d4433da:
 
-    # Max_03 "Голова никак не поворачивается."
-    Max_03 "Голова никак не поворачивается."
+msgid "[Max_03]Голова никак не поворачивается."
+msgstr "[Max_03]Голова никак не поворачивается."
 
 # game/events/olivia.rpy:497
 # translate crowdin olivia_second_night_out_with_050b3b4f:
@@ -969,8 +969,8 @@
 # game/events/olivia.rpy:504
 # translate crowdin olivia_second_night_out_with_1718f5fe:
 
-    # Max_04 "Спокойной ночи, девчонки. Я в восторге от наших с вами ночных посиделок!"
-    Max_04 "Спокойной ночи, девчонки. Я в восторге от наших с вами ночных посиделок!"
+msgid "[Max_04]Спокойной ночи, девчонки. Я в восторге от наших с вами ночных посиделок!"
+msgstr "[Max_04]Спокойной ночи, девчонки. Я в восторге от наших с вами ночных посиделок!"
 
 # game/events/olivia.rpy:505
 # translate crowdin olivia_second_night_out_with_be029ca0:
@@ -981,8 +981,8 @@
 # game/events/olivia.rpy:506
 # translate crowdin olivia_second_night_out_with_0d262a66:
 
-    # Max_02 "Ага. Зря, да?"
-    Max_02 "Ага. Зря, да?"
+msgid "[Max_02]Ага. Зря, да?"
+msgstr "[Max_02]Ага. Зря, да?"
 
 # game/events/olivia.rpy:507
 # translate crowdin olivia_second_night_out_with_66fdb528:
@@ -993,8 +993,8 @@
 # game/events/olivia.rpy:508
 # translate crowdin olivia_second_night_out_with_6c069ffd:
 
-    # Max_03 "Ладно. Уже и помечтать нельзя."
-    Max_03 "Ладно. Уже и помечтать нельзя."
+msgid "[Max_03]Ладно. Уже и помечтать нельзя."
+msgstr "[Max_03]Ладно. Уже и помечтать нельзя."
 
 # game/events/olivia.rpy:509
 # translate crowdin olivia_second_night_out_with_2ee7a236:
@@ -1011,8 +1011,8 @@
 # game/events/olivia.rpy:511
 # translate crowdin olivia_second_night_out_with_9b2e7333:
 
-    # Max_01 "Да, я тоже. Сладких снов, девчонки."
-    Max_01 "Да, я тоже. Сладких снов, девчонки."
+msgid "[Max_01]Да, я тоже. Сладких снов, девчонки."
+msgstr "[Max_01]Да, я тоже. Сладких снов, девчонки."
 
 # game/events/olivia.rpy:525
 # translate crowdin olivia_repeatable_night_out_with_01d47c87:
@@ -1023,8 +1023,8 @@
 # game/events/olivia.rpy:526
 # translate crowdin olivia_repeatable_night_out_with_35ff1b35:
 
-    # Max_02 "Знаешь, бывают моменты, когда засмотришься на что-то и потом никак оторваться не можешь..."
-    Max_02 "Знаешь, бывают моменты, когда засмотришься на что-то и потом никак оторваться не можешь..."
+msgid "[Max_02]Знаешь, бывают моменты, когда засмотришься на что-то и потом никак оторваться не можешь..."
+msgstr "[Max_02]Знаешь, бывают моменты, когда засмотришься на что-то и потом никак оторваться не можешь..."
 
 # game/events/olivia.rpy:527
 # translate crowdin olivia_repeatable_night_out_with_3e8c189f:
@@ -1035,8 +1035,8 @@
 # game/events/olivia.rpy:528
 # translate crowdin olivia_repeatable_night_out_with_d5bd5179:
 
-    # Max_04 "Нет, нет, нет... Я уже раздеваюсь!"
-    Max_04 "Нет, нет, нет... Я уже раздеваюсь!"
+msgid "[Max_04]Нет, нет, нет... Я уже раздеваюсь!"
+msgstr "[Max_04]Нет, нет, нет... Я уже раздеваюсь!"
 
 # game/events/olivia.rpy:532
 # translate crowdin olivia_repeatable_night_out_with_01d47c87_1:
@@ -1047,8 +1047,8 @@
 # game/events/olivia.rpy:533
 # translate crowdin olivia_repeatable_night_out_with_f90d7bab:
 
-    # Max_02 "Да я вот задумался, как мне тебя уговорить маечку снять... Только, по-моему, без шансов, да?"
-    Max_02 "Да я вот задумался, как мне тебя уговорить маечку снять... Только, по-моему, без шансов, да?"
+msgid "[Max_02]Да я вот задумался, как мне тебя уговорить маечку снять... Только, по-моему, без шансов, да?"
+msgstr "[Max_02]Да я вот задумался, как мне тебя уговорить маечку снять... Только, по-моему, без шансов, да?"
 
 # game/events/olivia.rpy:534
 # translate crowdin olivia_repeatable_night_out_with_fe51560e:
@@ -1059,8 +1059,8 @@
 # game/events/olivia.rpy:535
 # translate crowdin olivia_repeatable_night_out_with_34230b3b:
 
-    # Max_04 "От такой симпатичной компании, как вы, я не откажусь!"
-    Max_04 "От такой симпатичной компании, как вы, я не откажусь!"
+msgid "[Max_04]От такой симпатичной компании, как вы, я не откажусь!"
+msgstr "[Max_04]От такой симпатичной компании, как вы, я не откажусь!"
 
 # game/events/olivia.rpy:543
 # translate crowdin olivia_repeatable_night_out_with_217e442e:
@@ -1071,8 +1071,8 @@
 # game/events/olivia.rpy:544
 # translate crowdin olivia_repeatable_night_out_with_f33032d6:
 
-    # Max_03 "Уж извините... Со мной лучше ртом не зевать!"
-    Max_03 "Уж извините... Со мной лучше ртом не зевать!"
+msgid "[Max_03]Уж извините... Со мной лучше ртом не зевать!"
+msgstr "[Max_03]Уж извините... Со мной лучше ртом не зевать!"
 
 # game/events/olivia.rpy:545
 # translate crowdin olivia_repeatable_night_out_with_323f301e:
@@ -1083,8 +1083,8 @@
 # game/events/olivia.rpy:546
 # translate crowdin olivia_repeatable_night_out_with_07085c52:
 
-    # Max_05 "И кто на кого, в итоге, больше всех засматривается?"
-    Max_05 "И кто на кого, в итоге, больше всех засматривается?"
+msgid "[Max_05]И кто на кого, в итоге, больше всех засматривается?"
+msgstr "[Max_05]И кто на кого, в итоге, больше всех засматривается?"
 
 # game/events/olivia.rpy:549
 # translate crowdin olivia_repeatable_night_out_with_797a3326:
@@ -1095,8 +1095,8 @@
 # game/events/olivia.rpy:550
 # translate crowdin olivia_repeatable_night_out_with_79cd0f1c:
 
-    # Max_03 "Со мной лучше быть начеку! Тогда и фингалов никаких не будет."
-    Max_03 "Со мной лучше быть начеку! Тогда и фингалов никаких не будет."
+msgid "[Max_03]Со мной лучше быть начеку! Тогда и фингалов никаких не будет."
+msgstr "[Max_03]Со мной лучше быть начеку! Тогда и фингалов никаких не будет."
 
 # game/events/olivia.rpy:551
 # translate crowdin olivia_repeatable_night_out_with_dfd0b5de:
@@ -1107,8 +1107,8 @@
 # game/events/olivia.rpy:552
 # translate crowdin olivia_repeatable_night_out_with_1c4fe2d2:
 
-    # Max_05 "Спасибо! Я, конечно, не против этого внимания, прикованного к моему члену, но вы и на экран поглядывайте тоже."
-    Max_05 "Спасибо! Я, конечно, не против этого внимания, прикованного к моему члену, но вы и на экран поглядывайте тоже."
+msgid "[Max_05]Спасибо! Я, конечно, не против этого внимания, прикованного к моему члену, но вы и на экран поглядывайте тоже."
+msgstr "[Max_05]Спасибо! Я, конечно, не против этого внимания, прикованного к моему члену, но вы и на экран поглядывайте тоже."
 
 # game/events/olivia.rpy:561
 # translate crowdin olivia_repeatable_night_out_with_965e183f:
@@ -1125,8 +1125,8 @@
 # game/events/olivia.rpy:563
 # translate crowdin olivia_repeatable_night_out_with_83c9fee5:
 
-    # Max_04 "{i}( А вот мне нет разницы, что происходит в сериале... Ведь на этом диване есть то, что в сериалах не каждый день увидишь! ){/i}"
-    Max_04 "{i}( А вот мне нет разницы, что происходит в сериале... Ведь на этом диване есть то, что в сериалах не каждый день увидишь! ){/i}"
+msgid "[Max_04]{i}( А вот мне нет разницы, что происходит в сериале... Ведь на этом диване есть то, что в сериалах не каждый день увидишь! ){/i}"
+msgstr "[Max_04]{i}( А вот мне нет разницы, что происходит в сериале... Ведь на этом диване есть то, что в сериалах не каждый день увидишь! ){/i}"
 
 # game/events/olivia.rpy:566
 # translate crowdin olivia_repeatable_night_out_with_22d3a585:
@@ -1143,8 +1143,8 @@
 # game/events/olivia.rpy:568
 # translate crowdin olivia_repeatable_night_out_with_42357461:
 
-    # Max_04 "{i}( А вот мне куда интереснее то, что происходит на диване... Здесь, рядом со мной, сидят две обалденные девчонки, которые не против моей компании! ){/i}"
-    Max_04 "{i}( А вот мне куда интереснее то, что происходит на диване... Здесь, рядом со мной, сидят две обалденные девчонки, которые не против моей компании! ){/i}"
+msgid "[Max_04]{i}( А вот мне куда интереснее то, что происходит на диване... Здесь, рядом со мной, сидят две обалденные девчонки, которые не против моей компании! ){/i}"
+msgstr "[Max_04]{i}( А вот мне куда интереснее то, что происходит на диване... Здесь, рядом со мной, сидят две обалденные девчонки, которые не против моей компании! ){/i}"
 
 # game/events/olivia.rpy:576
 # translate crowdin olivia_repeatable_night_out_with_f6fc3e47:
@@ -1173,8 +1173,8 @@
 # game/events/olivia.rpy:582
 # translate crowdin olivia_repeatable_night_out_with_0a4c9412:
 
-    # Max_02 "Не только о таком. Но и то, что сейчас - тоже круто!"
-    Max_02 "Не только о таком. Но и то, что сейчас - тоже круто!"
+msgid "[Max_02]Не только о таком. Но и то, что сейчас - тоже круто!"
+msgstr "[Max_02]Не только о таком. Но и то, что сейчас - тоже круто!"
 
 # game/events/olivia.rpy:588
 # translate crowdin olivia_repeatable_night_out_with_05e08a2a:
@@ -1191,8 +1191,8 @@
 # game/events/olivia.rpy:590
 # translate crowdin olivia_repeatable_night_out_with_d1813384:
 
-    # Max_01 "Я внимательный всегда."
-    Max_01 "Я внимательный всегда."
+msgid "[Max_01]Я внимательный всегда."
+msgstr "[Max_01]Я внимательный всегда."
 
 # game/events/olivia.rpy:596
 # translate crowdin olivia_repeatable_night_out_with_59450400:
@@ -1203,8 +1203,8 @@
 # game/events/olivia.rpy:597
 # translate crowdin olivia_repeatable_night_out_with_268c1645:
 
-    # Max_03 "Так или иначе - да. Ведь впереди ещё много сезонов..."
-    Max_03 "Так или иначе - да. Ведь впереди ещё много сезонов..."
+msgid "[Max_03]Так или иначе - да. Ведь впереди ещё много сезонов..."
+msgstr "[Max_03]Так или иначе - да. Ведь впереди ещё много сезонов..."
 
 # game/events/olivia.rpy:598
 # translate crowdin olivia_repeatable_night_out_with_925a0535:
@@ -1215,8 +1215,8 @@
 # game/events/olivia.rpy:604
 # translate crowdin olivia_repeatable_night_out_with_74291412:
 
-    # Max_07 "Так не всем же может повезти! Кто-нибудь да огребёт... возможно..."
-    Max_07 "Так не всем же может повезти! Кто-нибудь да огребёт... возможно..."
+msgid "[Max_07]Так не всем же может повезти! Кто-нибудь да огребёт... возможно..."
+msgstr "[Max_07]Так не всем же может повезти! Кто-нибудь да огребёт... возможно..."
 
 # game/events/olivia.rpy:605
 # translate crowdin olivia_repeatable_night_out_with_72c801d9:
@@ -1245,8 +1245,8 @@
 # game/events/olivia.rpy:621
 # translate crowdin olivia_repeatable_night_out_with_1e38110f:
 
-    # Max_04 "Если вдруг вам надоест спать вместе, я всегда рад приютить любую из вас на своей кровати."
-    Max_04 "Если вдруг вам надоест спать вместе, я всегда рад приютить любую из вас на своей кровати."
+msgid "[Max_04]Если вдруг вам надоест спать вместе, я всегда рад приютить любую из вас на своей кровати."
+msgstr "[Max_04]Если вдруг вам надоест спать вместе, я всегда рад приютить любую из вас на своей кровати."
 
 # game/events/olivia.rpy:622
 # translate crowdin olivia_repeatable_night_out_with_e56be7a5:
@@ -1263,8 +1263,8 @@
 # game/events/olivia.rpy:624
 # translate crowdin olivia_repeatable_night_out_with_893cf053:
 
-    # Max_02 "Ну мало ли."
-    Max_02 "Ну мало ли."
+msgid "[Max_02]Ну мало ли."
+msgstr "[Max_02]Ну мало ли."
 
 # game/events/olivia.rpy:625
 # translate crowdin olivia_repeatable_night_out_with_76458fcb:
@@ -1275,8 +1275,8 @@
 # game/events/olivia.rpy:626
 # translate crowdin olivia_repeatable_night_out_with_cb768b4d:
 
-    # Max_01 "Приятных снов."
-    Max_01 "Приятных снов."
+msgid "[Max_01]Приятных снов."
+msgstr "[Max_01]Приятных снов."
 
 # translate crowdin strings:
 

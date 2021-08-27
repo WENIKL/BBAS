@@ -9,8 +9,8 @@
 # game/dialogues/christina.rpy:8
 # translate crowdin christina_first_talk_a003babc:
 
-    # Max_01 "Это всё я покупаю, поэтому и расписываюсь за доставку."
-    Max_01 "Это всё я покупаю, поэтому и расписываюсь за доставку."
+msgid "[Max_01]Это всё я покупаю, поэтому и расписываюсь за доставку."
+msgstr "[Max_01]Это всё я покупаю, поэтому и расписываюсь за доставку."
 
 # game/dialogues/christina.rpy:9
 # translate crowdin christina_first_talk_343a63e4:
@@ -21,8 +21,8 @@
 # game/dialogues/christina.rpy:10
 # translate crowdin christina_first_talk_655d6f1e:
 
-    # Max_08 "Чего!? Это всё было для моих сестёр, мамы и тёти!"
-    Max_08 "Чего!? Это всё было для моих сестёр, мамы и тёти!"
+msgid "[Max_08]Чего!? Это всё было для моих сестёр, мамы и тёти!"
+msgstr "[Max_08]Чего!? Это всё было для моих сестёр, мамы и тёти!"
 
 # game/dialogues/christina.rpy:11
 # translate crowdin christina_first_talk_180ce209:
@@ -33,8 +33,8 @@
 # game/dialogues/christina.rpy:12
 # translate crowdin christina_first_talk_b993408f:
 
-    # Max_09 "И ничего я не мал!"
-    Max_09 "И ничего я не мал!"
+msgid "[Max_09]И ничего я не мал!"
+msgstr "[Max_09]И ничего я не мал!"
 
 # game/dialogues/christina.rpy:13
 # translate crowdin christina_first_talk_6bc10c65:
@@ -45,8 +45,8 @@
 # game/dialogues/christina.rpy:14
 # translate crowdin christina_first_talk_1eaa95f2:
 
-    # Max_07 "Я единственный мужчина в семье, так что приходится за всеми ними присматривать и давать им то, что им будет нужно."
-    Max_07 "Я единственный мужчина в семье, так что приходится за всеми ними присматривать и давать им то, что им будет нужно."
+msgid "[Max_07]Я единственный мужчина в семье, так что приходится за всеми ними присматривать и давать им то, что им будет нужно."
+msgstr "[Max_07]Я единственный мужчина в семье, так что приходится за всеми ними присматривать и давать им то, что им будет нужно."
 
 # game/dialogues/christina.rpy:15
 # translate crowdin christina_first_talk_45304a41:
@@ -57,8 +57,8 @@
 # game/dialogues/christina.rpy:16
 # translate crowdin christina_first_talk_9ad20b4c:
 
-    # Max_04 "Макс! Меня зовут Макс. А тебя?"
-    Max_04 "Макс! Меня зовут Макс. А тебя?"
+msgid "[Max_04]Макс! Меня зовут Макс. А тебя?"
+msgstr "[Max_04]Макс! Меня зовут Макс. А тебя?"
 
 # game/dialogues/christina.rpy:17
 # translate crowdin christina_first_talk_73942048:
@@ -69,8 +69,8 @@
 # game/dialogues/christina.rpy:18
 # translate crowdin christina_first_talk_61e204a2:
 
-    # Max_09 "Да не маленький я уже!"
-    Max_09 "Да не маленький я уже!"
+msgid "[Max_09]Да не маленький я уже!"
+msgstr "[Max_09]Да не маленький я уже!"
 
 # game/dialogues/christina.rpy:19
 # translate crowdin christina_first_talk_45bffd64:
@@ -81,8 +81,8 @@
 # game/dialogues/christina.rpy:20
 # translate crowdin christina_first_talk_c2d8dc26:
 
-    # Max_07 "Не правда! Два раза по десять!"
-    Max_07 "Не правда! Два раза по десять!"
+msgid "[Max_07]Не правда! Два раза по десять!"
+msgstr "[Max_07]Не правда! Два раза по десять!"
 
 # game/dialogues/christina.rpy:25
 # translate crowdin christina_first_talk_0f071789:
@@ -99,8 +99,8 @@
 # game/dialogues/christina.rpy:29
 # translate crowdin christina_first_talk_204a6521:
 
-    # Max_01 "Я тоже, Кристина! Пока."
-    Max_01 "Я тоже, Кристина! Пока."
+msgid "[Max_01]Я тоже, Кристина! Пока."
+msgstr "[Max_01]Я тоже, Кристина! Пока."
 
 # game/dialogues/christina.rpy:33
 # translate crowdin christina_first_talk_4e754e98:
@@ -117,8 +117,8 @@
 # game/dialogues/christina.rpy:35
 # translate crowdin christina_first_talk_bf6defe7:
 
-    # Max_09 "Так будем гулять?"
-    Max_09 "Так будем гулять?"
+msgid "[Max_09]Так будем гулять?"
+msgstr "[Max_09]Так будем гулять?"
 
 # game/dialogues/christina.rpy:36
 # translate crowdin christina_first_talk_70b67a69:
@@ -129,8 +129,8 @@
 # game/dialogues/christina.rpy:37
 # translate crowdin christina_first_talk_36dacf0d:
 
-    # Max_03 "Ну, ты красивая... Вроде, интересная..."
-    Max_03 "Ну, ты красивая... Вроде, интересная..."
+msgid "[Max_03]Ну, ты красивая... Вроде, интересная..."
+msgstr "[Max_03]Ну, ты красивая... Вроде, интересная..."
 
 # game/dialogues/christina.rpy:38
 # translate crowdin christina_first_talk_2ad36870:
@@ -141,8 +141,8 @@
 # game/dialogues/christina.rpy:39
 # translate crowdin christina_first_talk_c6c68e68:
 
-    # Max_04 "Да уж. Я их понимаю!"
-    Max_04 "Да уж. Я их понимаю!"
+msgid "[Max_04]Да уж. Я их понимаю!"
+msgstr "[Max_04]Да уж. Я их понимаю!"
 
 # game/dialogues/christina.rpy:40
 # translate crowdin christina_first_talk_9763c614:
@@ -153,8 +153,8 @@
 # game/dialogues/christina.rpy:41
 # translate crowdin christina_first_talk_0622f90e:
 
-    # Max_07 "Это однозначно вопрос с подвохом... Если скажу - да, гулять мы не пойдём. А если скажу - нет, то ты мне не поверишь и гулять мы опять же не пойдём."
-    Max_07 "Это однозначно вопрос с подвохом... Если скажу - да, гулять мы не пойдём. А если скажу - нет, то ты мне не поверишь и гулять мы опять же не пойдём."
+msgid "[Max_07]Это однозначно вопрос с подвохом... Если скажу - да, гулять мы не пойдём. А если скажу - нет, то ты мне не поверишь и гулять мы опять же не пойдём."
+msgstr "[Max_07]Это однозначно вопрос с подвохом... Если скажу - да, гулять мы не пойдём. А если скажу - нет, то ты мне не поверишь и гулять мы опять же не пойдём."
 
 # game/dialogues/christina.rpy:42
 # translate crowdin christina_first_talk_36349b3f:
@@ -165,8 +165,8 @@
 # game/dialogues/christina.rpy:43
 # translate crowdin christina_first_talk_5f170396:
 
-    # Max_00 "Ага. Ладно... Тогда, хорошего тебе дня."
-    Max_00 "Ага. Ладно... Тогда, хорошего тебе дня."
+msgid "[Max_00]Ага. Ладно... Тогда, хорошего тебе дня."
+msgstr "[Max_00]Ага. Ладно... Тогда, хорошего тебе дня."
 
 # game/dialogues/christina.rpy:44
 # translate crowdin christina_first_talk_13d9bbd2_1:
@@ -177,8 +177,8 @@
 # game/dialogues/christina.rpy:45
 # translate crowdin christina_first_talk_204a6521_1:
 
-    # Max_01 "Я тоже, Кристина! Пока."
-    Max_01 "Я тоже, Кристина! Пока."
+msgid "[Max_01]Я тоже, Кристина! Пока."
+msgstr "[Max_01]Я тоже, Кристина! Пока."
 
 # translate crowdin strings:
 
