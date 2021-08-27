@@ -69,14 +69,14 @@ msgstr "[Max_07]{i}( Интересно, а в чём тётя Кира буде
 # game/core/core.rpy:697
 # translate crowdin after_load_84f87582:
 
-    # "ver [current_ver], _ver [_version], conf.ver [config.version]"
-    "ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
+msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:703
 # translate crowdin after_load_e53fbeb7:
 
-    # "_ver [_version], conf.ver [config.version]"
-    "_ver [_version], conf.ver [config.version]"
+msgid "_ver [_version], conf.ver [config.version]"
+msgstr "_ver [_version], conf.ver [config.version]"
 
 # translate crowdin strings:
 
