@@ -4155,8 +4155,8 @@ msgstr "[Alice_15]Кто??? Пауки что ли?! Если через пят�
 # game/dialogues/alicetalk.rpy:2629
 # translate crowdin massage_sunscreen_squeeze_chest_11fdb519:
 
-    # extend "[nointeract]"
-    extend "[nointeract]"
+msgid "[extend][nointeract]"
+msgstr "[extend][nointeract]"
 
 # game/dialogues/alicetalk.rpy:2638
 # translate crowdin massage_sunscreen_squeeze_chest_1160d297:
