@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2021-06-19 20:09
 
-translate crowdin strings:
+# translate crowdin strings:
 
     # renpy/common/00accessibility.rpy:28
 msgid "Self-voicing disabled."
