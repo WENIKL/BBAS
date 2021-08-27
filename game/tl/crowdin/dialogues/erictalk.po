@@ -1574,87 +1574,87 @@ translate crowdin Eric_talk_about_Kira_1_b1d48d26:
 
 translate crowdin strings:
 
-    # game/dialogues/erictalk.rpy:11
-    old "{i}В другой раз...{/i}"
-    new "{i}В другой раз...{/i}"
+#    # game/dialogues/erictalk.rpy:11
+msgid "{i}В другой раз...{/i}"
+msgstr "{i}В другой раз...{/i}"
 
-    # game/dialogues/erictalk.rpy:49
-    old "Э... Ну не совсем так..."
-    new "Э... Ну не совсем так..."
+#    # game/dialogues/erictalk.rpy:49
+msgid "Э... Ну не совсем так..."
+msgstr "Э... Ну не совсем так..."
 
-    # game/dialogues/erictalk.rpy:49
-    old "А так можно?"
-    new "А так можно?"
+#    # game/dialogues/erictalk.rpy:49
+msgid "А так можно?"
+msgstr "А так можно?"
 
-    # game/dialogues/erictalk.rpy:59
-    old "Кстати, как ты это делаешь?"
-    new "Кстати, как ты это делаешь?"
+#    # game/dialogues/erictalk.rpy:59
+msgid "Кстати, как ты это делаешь?"
+msgstr "Кстати, как ты это делаешь?"
 
-    # game/dialogues/erictalk.rpy:59
-    old "Отлично! Спасибо, Эрик."
-    new "Отлично! Спасибо, Эрик."
+#    # game/dialogues/erictalk.rpy:59
+msgid "Отлично! Спасибо, Эрик."
+msgstr "Отлично! Спасибо, Эрик."
 
-    # game/dialogues/erictalk.rpy:65
-    old "Это угроза?"
-    new "Это угроза?"
+#    # game/dialogues/erictalk.rpy:65
+msgid "Это угроза?"
+msgstr "Это угроза?"
 
-    # game/dialogues/erictalk.rpy:65
-    old "Хорошо, Эрик!"
-    new "Хорошо, Эрик!"
+#    # game/dialogues/erictalk.rpy:65
+msgid "Хорошо, Эрик!"
+msgstr "Хорошо, Эрик!"
 
-    # game/dialogues/erictalk.rpy:145
-    old "{i}сесть на кровать{/i}"
-    new "{i}сесть на кровать{/i}"
+#    # game/dialogues/erictalk.rpy:145
+msgid "{i}сесть на кровать{/i}"
+msgstr "{i}сесть на кровать{/i}"
 
-    # game/dialogues/erictalk.rpy:160
-    old "{i}слегка подвинуться{/i}"
-    new "{i}слегка подвинуться{/i}"
+#    # game/dialogues/erictalk.rpy:160
+msgid "{i}слегка подвинуться{/i}"
+msgstr "{i}слегка подвинуться{/i}"
 
-    # game/dialogues/erictalk.rpy:220
-    old "{i}смотреть, как мама сосёт{/i}"
-    new "{i}смотреть, как мама сосёт{/i}"
+#    # game/dialogues/erictalk.rpy:220
+msgid "{i}смотреть, как мама сосёт{/i}"
+msgstr "{i}смотреть, как мама сосёт{/i}"
 
-    # game/dialogues/erictalk.rpy:279
-    old "{i}пересесть{/i}"
-    new "{i}пересесть{/i}"
+#    # game/dialogues/erictalk.rpy:279
+msgid "{i}пересесть{/i}"
+msgstr "{i}пересесть{/i}"
 
-    # game/dialogues/erictalk.rpy:322
-    old "Нет, можешь обучать... (продолжение дружбы)"
-    new "Нет, можешь обучать... (продолжение дружбы)"
+#    # game/dialogues/erictalk.rpy:322
+msgid "Нет, можешь обучать... (продолжение дружбы)"
+msgstr "Нет, можешь обучать... (продолжение дружбы)"
 
-    # game/dialogues/erictalk.rpy:322
-    old "Нет, можешь обучать... (попытка подружиться)"
-    new "Нет, можешь обучать... (попытка подружиться)"
+#    # game/dialogues/erictalk.rpy:322
+msgid "Нет, можешь обучать... (попытка подружиться)"
+msgstr "Нет, можешь обучать... (попытка подружиться)"
 
-    # game/dialogues/erictalk.rpy:322
-    old "А ей не рановато? (попытка выиграть время)"
-    new "А ей не рановато? (попытка выиграть время)"
+#    # game/dialogues/erictalk.rpy:322
+msgid "А ей не рановато? (попытка выиграть время)"
+msgstr "А ей не рановато? (попытка выиграть время)"
 
-    # game/dialogues/erictalk.rpy:322
-    old "Лизу тебе не отдам! (расторжение дружбы)"
-    new "Лизу тебе не отдам! (расторжение дружбы)"
+#    # game/dialogues/erictalk.rpy:322
+msgid "Лизу тебе не отдам! (расторжение дружбы)"
+msgstr "Лизу тебе не отдам! (расторжение дружбы)"
 
-    # game/dialogues/erictalk.rpy:322
-    old "Лизу тебе не отдам! (продолжение вражды)"
-    new "Лизу тебе не отдам! (продолжение вражды)"
+#    # game/dialogues/erictalk.rpy:322
+msgid "Лизу тебе не отдам! (продолжение вражды)"
+msgstr "Лизу тебе не отдам! (продолжение вражды)"
 
-    # game/dialogues/erictalk.rpy:454
-    old "Значит, тебя её блог интересует? (продолжение дружбы)"
-    new "Значит, тебя её блог интересует? (продолжение дружбы)"
+#    # game/dialogues/erictalk.rpy:454
+msgid "Значит, тебя её блог интересует? (продолжение дружбы)"
+msgstr "Значит, тебя её блог интересует? (продолжение дружбы)"
 
-    # game/dialogues/erictalk.rpy:454
-    old "Я мало что об этом знаю... (попытка выиграть время)"
-    new "Я мало что об этом знаю... (попытка выиграть время)"
+#    # game/dialogues/erictalk.rpy:454
+msgid "Я мало что об этом знаю... (попытка выиграть время)"
+msgstr "Я мало что об этом знаю... (попытка выиграть время)"
 
-    # game/dialogues/erictalk.rpy:454
-    old "Не лез бы ты к Алисе! (расторжение дружбы)"
-    new "Не лез бы ты к Алисе! (расторжение дружбы)"
+#    # game/dialogues/erictalk.rpy:454
+msgid "Не лез бы ты к Алисе! (расторжение дружбы)"
+msgstr "Не лез бы ты к Алисе! (расторжение дружбы)"
 
-    # game/dialogues/erictalk.rpy:454
-    old "Нужна помощь? (попытка подружиться)"
-    new "Нужна помощь? (попытка подружиться)"
+#    # game/dialogues/erictalk.rpy:454
+msgid "Нужна помощь? (попытка подружиться)"
+msgstr "Нужна помощь? (попытка подружиться)"
 
-    # game/dialogues/erictalk.rpy:454
-    old "Вот у неё и спрашивай! (продолжение вражды)"
-    new "Вот у неё и спрашивай! (продолжение вражды)"
+#    # game/dialogues/erictalk.rpy:454
+msgid "Вот у неё и спрашивай! (продолжение вражды)"
+msgstr "Вот у неё и спрашивай! (продолжение вражды)"
 

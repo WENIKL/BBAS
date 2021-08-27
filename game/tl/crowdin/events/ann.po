@@ -800,75 +800,75 @@ translate crowdin ann_bath_ladder_36138fd2:
 
 translate crowdin strings:
 
-    # game/events/ann.rpy:185
-    old "{i}Отвернуться{/i}"
-    new "{i}Отвернуться{/i}"
+#    # game/events/ann.rpy:185
+msgid "{i}Отвернуться{/i}"
+msgstr "{i}Отвернуться{/i}"
 
-    # game/events/ann.rpy:197
-    old "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+#    # game/events/ann.rpy:197
+msgid "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 
-    # game/events/ann.rpy:197
-    old "Мам, извини..."
-    new "Мам, извини..."
+#    # game/events/ann.rpy:197
+msgid "Мам, извини..."
+msgstr "Мам, извини..."
 
-    # game/events/ann.rpy:197
-    old "Попка у тебя - что надо!"
-    new "Попка у тебя - что надо!"
+#    # game/events/ann.rpy:197
+msgid "Попка у тебя - что надо!"
+msgstr "Попка у тебя - что надо!"
 
-    # game/events/ann.rpy:259
-    old "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
-    new "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
+#    # game/events/ann.rpy:259
+msgid "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
+msgstr "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
 
-    # game/events/ann.rpy:281
-    old "Хорошо выглядишь, мам!"
-    new "Хорошо выглядишь, мам!"
+#    # game/events/ann.rpy:281
+msgid "Хорошо выглядишь, мам!"
+msgstr "Хорошо выглядишь, мам!"
 
-    # game/events/ann.rpy:281
-    old "У меня для тебя кое-что есть."
-    new "У меня для тебя кое-что есть."
+#    # game/events/ann.rpy:281
+msgid "У меня для тебя кое-что есть."
+msgstr "У меня для тебя кое-что есть."
 
-    # game/events/ann.rpy:281
-    old "Зачётные сиськи!"
-    new "Зачётные сиськи!"
+#    # game/events/ann.rpy:281
+msgid "Зачётные сиськи!"
+msgstr "Зачётные сиськи!"
 
-    # game/events/ann.rpy:281
-    old "Ой, извини. Я забыл..."
-    new "Ой, извини. Я забыл..."
+#    # game/events/ann.rpy:281
+msgid "Ой, извини. Я забыл..."
+msgstr "Ой, извини. Я забыл..."
 
-    # game/events/ann.rpy:352
-    old "Ну мам! Этого было так мало, давай ещё... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Ну мам! Этого было так мало, давай ещё... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+#    # game/events/ann.rpy:352
+msgid "Ну мам! Этого было так мало, давай ещё... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Ну мам! Этого было так мало, давай ещё... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 
-    # game/events/ann.rpy:352
-    old "Ну мам! Этого было так мало, давай ещё..."
-    new "Ну мам! Этого было так мало, давай ещё..."
+#    # game/events/ann.rpy:352
+msgid "Ну мам! Этого было так мало, давай ещё..."
+msgstr "Ну мам! Этого было так мало, давай ещё..."
 
-    # game/events/ann.rpy:352
-    old "Конечно, мам! Хорошего тебе дня..."
-    new "Конечно, мам! Хорошего тебе дня..."
+#    # game/events/ann.rpy:352
+msgid "Конечно, мам! Хорошего тебе дня..."
+msgstr "Конечно, мам! Хорошего тебе дня..."
 
-    # game/events/ann.rpy:443
-    old "Ой, извини..."
-    new "Ой, извини..."
+#    # game/events/ann.rpy:443
+msgid "Ой, извини..."
+msgstr "Ой, извини..."
 
-    # game/events/ann.rpy:635
-    old "Это я, Макс."
-    new "Это я, Макс."
+#    # game/events/ann.rpy:635
+msgid "Это я, Макс."
+msgstr "Это я, Макс."
 
-    # game/events/ann.rpy:638
-    old "Можно я войду?"
-    new "Можно я войду?"
+#    # game/events/ann.rpy:638
+msgid "Можно я войду?"
+msgstr "Можно я войду?"
 
-    # game/events/ann.rpy:638
-    old "Нет, ничего"
-    new "Нет, ничего"
+#    # game/events/ann.rpy:638
+msgid "Нет, ничего"
+msgstr "Нет, ничего"
 
-    # game/events/ann.rpy:638
-    old "Я подожду..."
-    new "Я подожду..."
+#    # game/events/ann.rpy:638
+msgid "Я подожду..."
+msgstr "Я подожду..."
 
-    # game/events/ann.rpy:642
-    old "Ой, нет, я передумал"
-    new "Ой, нет, я передумал"
+#    # game/events/ann.rpy:642
+msgid "Ой, нет, я передумал"
+msgstr "Ой, нет, я передумал"
 

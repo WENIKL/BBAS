@@ -248,35 +248,35 @@ translate crowdin about_poss_95f72849:
 
 translate crowdin strings:
 
-    # game/script.rpy:37
-    old "{i}далее{/i}"
-    new "{i}далее{/i}"
+#    # game/script.rpy:37
+msgid "{i}далее{/i}"
+msgstr "{i}далее{/i}"
 
-    # game/script.rpy:37
-    old "{i}пропустить{/i}"
-    new "{i}пропустить{/i}"
+#    # game/script.rpy:37
+msgid "{i}пропустить{/i}"
+msgstr "{i}пропустить{/i}"
 
-    # game/script.rpy:81
-    old "{i}пару недель спустя...{/i}"
-    new "{i}пару недель спустя...{/i}"
+#    # game/script.rpy:81
+msgid "{i}пару недель спустя...{/i}"
+msgstr "{i}пару недель спустя...{/i}"
 
-    # game/script.rpy:97
-    old "{i}спустя неделю...{/i}"
-    new "{i}спустя неделю...{/i}"
+#    # game/script.rpy:97
+msgid "{i}спустя неделю...{/i}"
+msgstr "{i}спустя неделю...{/i}"
 
-    # game/script.rpy:103
-    old "{i}Начать игру{/i}"
-    new "{i}Начать игру{/i}"
+#    # game/script.rpy:103
+msgid "{i}Начать игру{/i}"
+msgstr "{i}Начать игру{/i}"
 
-    # game/script.rpy:103
-    old "{i}Повторить историю{/i}"
-    new "{i}Повторить историю{/i}"
+#    # game/script.rpy:103
+msgid "{i}Повторить историю{/i}"
+msgstr "{i}Повторить историю{/i}"
 
-    # game/script.rpy:120
-    old "{i}всё ясно{/i}"
-    new "{i}всё ясно{/i}"
+#    # game/script.rpy:120
+msgid "{i}всё ясно{/i}"
+msgstr "{i}всё ясно{/i}"
 
-    # game/script.rpy:120
-    old "{i}повторить{/i}"
-    new "{i}повторить{/i}"
+#    # game/script.rpy:120
+msgid "{i}повторить{/i}"
+msgstr "{i}повторить{/i}"
 

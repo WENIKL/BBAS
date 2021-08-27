@@ -332,7 +332,7 @@ translate crowdin cam1_kira_bath_with_eric_77deb168:
 
 translate crowdin strings:
 
-    # game/events/kira_cam.rpy:425
-    old "{i}встретить их{/i}"
-    new "{i}встретить их{/i}"
+#    # game/events/kira_cam.rpy:425
+msgid "{i}встретить их{/i}"
+msgstr "{i}встретить их{/i}"
 

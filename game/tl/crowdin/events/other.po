@@ -716,159 +716,159 @@ translate crowdin Kira_arrival_end_yard_438c6fcd:
 
 translate crowdin strings:
 
-    # game/events/other.rpy:9
-    old "Удачи"
-    new "Удачи"
+#    # game/events/other.rpy:9
+msgid "Удачи"
+msgstr "Удачи"
 
-    # game/events/other.rpy:33
-    old "Да, жаль, что не купили его..."
-    new "Да, жаль, что не купили его..."
+#    # game/events/other.rpy:33
+msgid "Да, жаль, что не купили его..."
+msgstr "Да, жаль, что не купили его..."
 
-    # game/events/other.rpy:33
-    old "Я бы с удовольствием на это посмотрел..."
-    new "Я бы с удовольствием на это посмотрел..."
+#    # game/events/other.rpy:33
+msgid "Я бы с удовольствием на это посмотрел..."
+msgstr "Я бы с удовольствием на это посмотрел..."
 
-    # game/events/other.rpy:41
-    old "Слишком дорогой это сколько?"
-    new "Слишком дорогой это сколько?"
+#    # game/events/other.rpy:41
+msgid "Слишком дорогой это сколько?"
+msgstr "Слишком дорогой это сколько?"
 
-    # game/events/other.rpy:41
-    old "Насколько открытые?"
-    new "Насколько открытые?"
+#    # game/events/other.rpy:41
+msgid "Насколько открытые?"
+msgstr "Насколько открытые?"
 
-    # game/events/other.rpy:52
-    old "Верно, сами разберёмся без Эрика"
-    new "Верно, сами разберёмся без Эрика"
+#    # game/events/other.rpy:52
+msgid "Верно, сами разберёмся без Эрика"
+msgstr "Верно, сами разберёмся без Эрика"
 
-    # game/events/other.rpy:52
-    old "Кстати, где он?"
-    new "Кстати, где он?"
+#    # game/events/other.rpy:52
+msgid "Кстати, где он?"
+msgstr "Кстати, где он?"
 
-    # game/events/other.rpy:115
-    old "Очень приятно..."
-    new "Очень приятно..."
+#    # game/events/other.rpy:115
+msgid "Очень приятно..."
+msgstr "Очень приятно..."
 
-    # game/events/other.rpy:115
-    old "Я думал он выше..."
-    new "Я думал он выше..."
+#    # game/events/other.rpy:115
+msgid "Я думал он выше..."
+msgstr "Я думал он выше..."
 
-    # game/events/other.rpy:120
-    old "Всё отлично. Ищу себя, так сказать..."
-    new "Всё отлично. Ищу себя, так сказать..."
+#    # game/events/other.rpy:120
+msgid "Всё отлично. Ищу себя, так сказать..."
+msgstr "Всё отлично. Ищу себя, так сказать..."
 
-    # game/events/other.rpy:120
-    old "Да то тем, то этим..."
-    new "Да то тем, то этим..."
+#    # game/events/other.rpy:120
+msgid "Да то тем, то этим..."
+msgstr "Да то тем, то этим..."
 
-    # game/events/other.rpy:120
-    old "Отвечаю вот на дурацкие вопросы..."
-    new "Отвечаю вот на дурацкие вопросы..."
+#    # game/events/other.rpy:120
+msgid "Отвечаю вот на дурацкие вопросы..."
+msgstr "Отвечаю вот на дурацкие вопросы..."
 
-    # game/events/other.rpy:141
-    old "Стараюсь больше слушать..."
-    new "Стараюсь больше слушать..."
+#    # game/events/other.rpy:141
+msgid "Стараюсь больше слушать..."
+msgstr "Стараюсь больше слушать..."
 
-    # game/events/other.rpy:141
-    old "Типа того..."
-    new "Типа того..."
+#    # game/events/other.rpy:141
+msgid "Типа того..."
+msgstr "Типа того..."
 
-    # game/events/other.rpy:141
-    old "Да было бы о чём говорить..."
-    new "Да было бы о чём говорить..."
+#    # game/events/other.rpy:141
+msgid "Да было бы о чём говорить..."
+msgstr "Да было бы о чём говорить..."
 
-    # game/events/other.rpy:162
-    old "Да, мне тоже. Извините..."
-    new "Да, мне тоже. Извините..."
+#    # game/events/other.rpy:162
+msgid "Да, мне тоже. Извините..."
+msgstr "Да, мне тоже. Извините..."
 
-    # game/events/other.rpy:162
-    old "А мне вот не очень..."
-    new "А мне вот не очень..."
+#    # game/events/other.rpy:162
+msgid "А мне вот не очень..."
+msgstr "А мне вот не очень..."
 
-    # game/events/other.rpy:179
-    old "Да мне всё равно..."
-    new "Да мне всё равно..."
+#    # game/events/other.rpy:179
+msgid "Да мне всё равно..."
+msgstr "Да мне всё равно..."
 
-    # game/events/other.rpy:190
-    old "{i}идти к столу{/i}"
-    new "{i}идти к столу{/i}"
+#    # game/events/other.rpy:190
+msgid "{i}идти к столу{/i}"
+msgstr "{i}идти к столу{/i}"
 
-    # game/events/other.rpy:210
-    old "Извини, Эрик, я просто не в духе..."
-    new "Извини, Эрик, я просто не в духе..."
+#    # game/events/other.rpy:210
+msgid "Извини, Эрик, я просто не в духе..."
+msgstr "Извини, Эрик, я просто не в духе..."
 
-    # game/events/other.rpy:210
-    old "Нормально себя веду..."
-    new "Нормально себя веду..."
+#    # game/events/other.rpy:210
+msgid "Нормально себя веду..."
+msgstr "Нормально себя веду..."
 
-    # game/events/other.rpy:236
-    old "Здравствуй, тётя Кира!"
-    new "Здравствуй, тётя Кира!"
+#    # game/events/other.rpy:236
+msgid "Здравствуй, тётя Кира!"
+msgstr "Здравствуй, тётя Кира!"
 
-    # game/events/other.rpy:236
-    old "Что значит почти? Я настоящий мужчина!"
-    new "Что значит почти? Я настоящий мужчина!"
+#    # game/events/other.rpy:236
+msgid "Что значит почти? Я настоящий мужчина!"
+msgstr "Что значит почти? Я настоящий мужчина!"
 
-    # game/events/other.rpy:251
-    old "А мне можно тоже обнять свою тётю?"
-    new "А мне можно тоже обнять свою тётю?"
+#    # game/events/other.rpy:251
+msgid "А мне можно тоже обнять свою тётю?"
+msgstr "А мне можно тоже обнять свою тётю?"
 
-    # game/events/other.rpy:260
-    old "В гостинице?"
-    new "В гостинице?"
+#    # game/events/other.rpy:260
+msgid "В гостинице?"
+msgstr "В гостинице?"
 
-    # game/events/other.rpy:260
-    old "Дела?"
-    new "Дела?"
+#    # game/events/other.rpy:260
+msgid "Дела?"
+msgstr "Дела?"
 
-    # game/events/other.rpy:260
-    old "Так ты два дня здесь?"
-    new "Так ты два дня здесь?"
+#    # game/events/other.rpy:260
+msgid "Так ты два дня здесь?"
+msgstr "Так ты два дня здесь?"
 
-    # game/events/other.rpy:290
-    old "Да не стоит..."
-    new "Да не стоит..."
+#    # game/events/other.rpy:290
+msgid "Да не стоит..."
+msgstr "Да не стоит..."
 
-    # game/events/other.rpy:290
-    old "Хорошо, тётя Кира!"
-    new "Хорошо, тётя Кира!"
+#    # game/events/other.rpy:290
+msgid "Хорошо, тётя Кира!"
+msgstr "Хорошо, тётя Кира!"
 
-    # game/events/other.rpy:304
-    old "Выглядит отлично!"
-    new "Выглядит отлично!"
+#    # game/events/other.rpy:304
+msgid "Выглядит отлично!"
+msgstr "Выглядит отлично!"
 
-    # game/events/other.rpy:304
-    old "Ну-ка, повернись..."
-    new "Ну-ка, повернись..."
+#    # game/events/other.rpy:304
+msgid "Ну-ка, повернись..."
+msgstr "Ну-ка, повернись..."
 
-    # game/events/other.rpy:317
-    old "А что такого? Пусть ходит, я не против..."
-    new "А что такого? Пусть ходит, я не против..."
+#    # game/events/other.rpy:317
+msgid "А что такого? Пусть ходит, я не против..."
+msgstr "А что такого? Пусть ходит, я не против..."
 
-    # game/events/other.rpy:331
-    old "Нет, мам, всё отлично!"
-    new "Нет, мам, всё отлично!"
+#    # game/events/other.rpy:331
+msgid "Нет, мам, всё отлично!"
+msgstr "Нет, мам, всё отлично!"
 
-    # game/events/other.rpy:331
-    old "А можешь немного повернуться?"
-    new "А можешь немного повернуться?"
+#    # game/events/other.rpy:331
+msgid "А можешь немного повернуться?"
+msgstr "А можешь немного повернуться?"
 
-    # game/events/other.rpy:338
-    old "Ты знаешь, длина оптимальная!"
-    new "Ты знаешь, длина оптимальная!"
+#    # game/events/other.rpy:338
+msgid "Ты знаешь, длина оптимальная!"
+msgstr "Ты знаешь, длина оптимальная!"
 
-    # game/events/other.rpy:338
-    old "Мне нравится, мам!"
-    new "Мне нравится, мам!"
+#    # game/events/other.rpy:338
+msgid "Мне нравится, мам!"
+msgstr "Мне нравится, мам!"
 
-    # game/events/other.rpy:349
-    old "Мне нравится. Просто и со вкусом!"
-    new "Мне нравится. Просто и со вкусом!"
+#    # game/events/other.rpy:349
+msgid "Мне нравится. Просто и со вкусом!"
+msgstr "Мне нравится. Просто и со вкусом!"
 
-    # game/events/other.rpy:349
-    old "Отличные... вещички!"
-    new "Отличные... вещички!"
+#    # game/events/other.rpy:349
+msgid "Отличные... вещички!"
+msgstr "Отличные... вещички!"
 
-    # game/events/other.rpy:349
-    old "И почти ничего не видно..."
-    new "И почти ничего не видно..."
+#    # game/events/other.rpy:349
+msgid "И почти ничего не видно..."
+msgstr "И почти ничего не видно..."
 

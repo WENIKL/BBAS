@@ -80,15 +80,15 @@ translate crowdin after_load_e53fbeb7:
 
 translate crowdin strings:
 
-    # game/core/core.rpy:353
-    old "В интернет-магазине доступен новый товар."
-    new "В интернет-магазине доступен новый товар."
+#    # game/core/core.rpy:353
+msgid "В интернет-магазине доступен новый товар."
+msgstr "В интернет-магазине доступен новый товар."
 
-    # game/core/core.rpy:553
-    old "{i}идти на веранду{/i}"
-    new "{i}идти на веранду{/i}"
+#    # game/core/core.rpy:553
+msgid "{i}идти на веранду{/i}"
+msgstr "{i}идти на веранду{/i}"
 
-    # game/core/core.rpy:553
-    old "{i}не сейчас{/i}"
-    new "{i}не сейчас{/i}"
+#    # game/core/core.rpy:553
+msgid "{i}не сейчас{/i}"
+msgstr "{i}не сейчас{/i}"
 

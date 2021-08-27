@@ -8396,1015 +8396,1015 @@ translate crowdin alice_private_punish_r_pun_e5a94fd2:
 
 translate crowdin strings:
 
-    # game/dialogues/alicetalk.rpy:11
-    old "{i}уйти{/i}"
-    new "{i}уйти{/i}"
-
-    # game/dialogues/alicetalk.rpy:43
-    old "Ок..."
-    new "Ок..."
-
-    # game/dialogues/alicetalk.rpy:43
-    old "Я хотел извиниться"
-    new "Я хотел извиниться"
-
-    # game/dialogues/alicetalk.rpy:61
-    old "Ты знаешь, я передумал..."
-    new "Ты знаешь, я передумал..."
-
-    # game/dialogues/alicetalk.rpy:82
-    old "Давай, я домою остальное"
-    new "Давай, я домою остальное"
-
-    # game/dialogues/alicetalk.rpy:82
-    old "Нет, просто хотел поглазеть"
-    new "Нет, просто хотел поглазеть"
-
-    # game/dialogues/alicetalk.rpy:85
-    old "{i}мыть посуду{/i}"
-    new "{i}мыть посуду{/i}"
-
-    # game/dialogues/alicetalk.rpy:93
-    old "{i}закончить{/i}"
-    new "{i}закончить{/i}"
-
-    # game/dialogues/alicetalk.rpy:113
-    old "Нет, хотел просто больше узнать"
-    new "Нет, хотел просто больше узнать"
-
-    # game/dialogues/alicetalk.rpy:113
-    old "Много подписчиков уже?"
-    new "Много подписчиков уже?"
-
-    # game/dialogues/alicetalk.rpy:113
-    old "Заработала уже на нём что-то?"
-    new "Заработала уже на нём что-то?"
-
-    # game/dialogues/alicetalk.rpy:116
-    old "Расскажи, что ты там делаешь"
-    new "Расскажи, что ты там делаешь"
-
-    # game/dialogues/alicetalk.rpy:116
-    old "Как планируешь развиваться?"
-    new "Как планируешь развиваться?"
-
-    # game/dialogues/alicetalk.rpy:119
-    old "Хитростями? А откуда ты сама всё это узнала?"
-    new "Хитростями? А откуда ты сама всё это узнала?"
-
-    # game/dialogues/alicetalk.rpy:119
-    old "И что теперь без этих своих вещей делать будешь?"
-    new "И что теперь без этих своих вещей делать будешь?"
-
-    # game/dialogues/alicetalk.rpy:122
-    old "Тема бьюти разве единственная?"
-    new "Тема бьюти разве единственная?"
-
-    # game/dialogues/alicetalk.rpy:122
-    old "Понятно. Ну, и что теперь?"
-    new "Понятно. Ну, и что теперь?"
-
-    # game/dialogues/alicetalk.rpy:125
-    old "Давай что-то придумаем вместе!"
-    new "Давай что-то придумаем вместе!"
-
-    # game/dialogues/alicetalk.rpy:125
-    old "Может быть, изменить твой блог?"
-    new "Может быть, изменить твой блог?"
-
-    # game/dialogues/alicetalk.rpy:136
-    old "Что, совсем всё пропало?"
-    new "Что, совсем всё пропало?"
-
-    # game/dialogues/alicetalk.rpy:136
-    old "Постой, и что теперь будет?"
-    new "Постой, и что теперь будет?"
-
-    # game/dialogues/alicetalk.rpy:139
-    old "Может, это твоя фишка. Да и майка счастливая..."
-    new "Может, это твоя фишка. Да и майка счастливая..."
-
-    # game/dialogues/alicetalk.rpy:139
-    old "Разве это важно?"
-    new "Разве это важно?"
-
-    # game/dialogues/alicetalk.rpy:142
-    old "Да уж, грусть-печаль..."
-    new "Да уж, грусть-печаль..."
-
-    # game/dialogues/alicetalk.rpy:142
-    old "Тебе как-то можно помочь?"
-    new "Тебе как-то можно помочь?"
-
-    # game/dialogues/alicetalk.rpy:158
-    old "Нет. С чего ты взяла?"
-    new "Нет. С чего ты взяла?"
-
-    # game/dialogues/alicetalk.rpy:158
-    old "Ты о чём, вообще?"
-    new "Ты о чём, вообще?"
-
-    # game/dialogues/alicetalk.rpy:164
-    old "Да ладно?"
-    new "Да ладно?"
-
-    # game/dialogues/alicetalk.rpy:164
-    old "В курсе, конечно"
-    new "В курсе, конечно"
-
-    # game/dialogues/alicetalk.rpy:173
-    old "Мне очень жаль..."
-    new "Мне очень жаль..."
-
-    # game/dialogues/alicetalk.rpy:173
-    old "И как тебе помочь?"
-    new "И как тебе помочь?"
-
-    # game/dialogues/alicetalk.rpy:180
-    old "Что пропало? Ты о чём?"
-    new "Что пропало? Ты о чём?"
-
-    # game/dialogues/alicetalk.rpy:180
-    old "Ты о тех вещах во время переезда?"
-    new "Ты о тех вещах во время переезда?"
-
-    # game/dialogues/alicetalk.rpy:185
-    old "Да, печально..."
-    new "Да, печально..."
-
-    # game/dialogues/alicetalk.rpy:185
-    old "Тебе можно как-то помочь?"
-    new "Тебе можно как-то помочь?"
-
-    # game/dialogues/alicetalk.rpy:191
-    old "Может быть, попробуем вместе найти решение?"
-    new "Может быть, попробуем вместе найти решение?"
-
-    # game/dialogues/alicetalk.rpy:191
-    old "Я обязательно придумаю, что можно с этим сделать"
-    new "Я обязательно придумаю, что можно с этим сделать"
-
-    # game/dialogues/alicetalk.rpy:198
-    old "Денег у меня нет..."
-    new "Денег у меня нет..."
-
-    # game/dialogues/alicetalk.rpy:198
-    old "Я не детектив, чтобы искать вещи..."
-    new "Я не детектив, чтобы искать вещи..."
-
-    # game/dialogues/alicetalk.rpy:201
-    old "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
-    new "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
-
-    # game/dialogues/alicetalk.rpy:201
-    old "Не грусти. Могло быть и хуже"
-    new "Не грусти. Могло быть и хуже"
-
-    # game/dialogues/alicetalk.rpy:201
-    old "Может быть, зарабатывать на чём-то другом?"
-    new "Может быть, зарабатывать на чём-то другом?"
-
-    # game/dialogues/alicetalk.rpy:204
-    old "Ты всё ещё можешь. Может быть, просто смени формат блога"
-    new "Ты всё ещё можешь. Может быть, просто смени формат блога"
-
-    # game/dialogues/alicetalk.rpy:220
-    old "Ну, у меня много разных идей"
-    new "Ну, у меня много разных идей"
-
-    # game/dialogues/alicetalk.rpy:220
-    old "Советами!"
-    new "Советами!"
-
-    # game/dialogues/alicetalk.rpy:237
-    old "Может быть, заняться чем-то другим?"
-    new "Может быть, заняться чем-то другим?"
-
-    # game/dialogues/alicetalk.rpy:246
-    old "Мы можем с тобой вместе что-то придумать"
-    new "Мы можем с тобой вместе что-то придумать"
-
-    # game/dialogues/alicetalk.rpy:246
-    old "Давай, я подумаю и, когда будут мысли, продолжим разговор"
-    new "Давай, я подумаю и, когда будут мысли, продолжим разговор"
-
-    # game/dialogues/alicetalk.rpy:246
-    old "Пока нет, но я подумаю что можно сделать"
-    new "Пока нет, но я подумаю что можно сделать"
-
-    # game/dialogues/alicetalk.rpy:257
-    old "Ну если придумаю что-то, то почему нет?"
-    new "Ну если придумаю что-то, то почему нет?"
-
-    # game/dialogues/alicetalk.rpy:257
-    old "Конечно! Будет у нас семейный бизнес!"
-    new "Конечно! Будет у нас семейный бизнес!"
-
-    # game/dialogues/alicetalk.rpy:257
-    old "Ну, можно попробовать же?"
-    new "Ну, можно попробовать же?"
-
-    # game/dialogues/alicetalk.rpy:263
-    old "Ну да, многие так делают!"
-    new "Ну да, многие так делают!"
-
-    # game/dialogues/alicetalk.rpy:263
-    old "Нет, из меня ведущий так себе..."
-    new "Нет, из меня ведущий так себе..."
-
-    # game/dialogues/alicetalk.rpy:263
-    old "Попробовать то можем?"
-    new "Попробовать то можем?"
-
-    # game/dialogues/alicetalk.rpy:280
-    old "Постараюсь..."
-    new "Постараюсь..."
-
-    # game/dialogues/alicetalk.rpy:280
-    old "Но ничего не обещаю"
-    new "Но ничего не обещаю"
-
-    # game/dialogues/alicetalk.rpy:280
-    old "Обещаю, что-нибудь придумаю"
-    new "Обещаю, что-нибудь придумаю"
-
-    # game/dialogues/alicetalk.rpy:308
-    old "Ну, давай смотреть всё подряд..."
-    new "Ну, давай смотреть всё подряд..."
-
-    # game/dialogues/alicetalk.rpy:308
-    old "Тебе сделать массаж ног?"
-    new "Тебе сделать массаж ног?"
-
-    # game/dialogues/alicetalk.rpy:325
-    old "Почему ютуб? Это платные курсы..."
-    new "Почему ютуб? Это платные курсы..."
-
-    # game/dialogues/alicetalk.rpy:325
-    old "Конечно! Я же научился..."
-    new "Конечно! Я же научился..."
-
-    # game/dialogues/alicetalk.rpy:331
-    old "Так тебе продемонстрировать или как? \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-    new "Так тебе продемонстрировать или как? \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:335
-    old "Тебе понравится! \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-    new "Тебе понравится! \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:340
-    old "Хорошо {i}(начать массаж){/i}"
-    new "Хорошо {i}(начать массаж){/i}"
-
-    # game/dialogues/alicetalk.rpy:340
-    old "Может конфетку перед массажем?"
-    new "Может конфетку перед массажем?"
-
-    # game/dialogues/alicetalk.rpy:371
-    old "Хочу тебя!"
-    new "Хочу тебя!"
-
-    # game/dialogues/alicetalk.rpy:371
-    old "Просто я такой хороший парень!"
-    new "Просто я такой хороший парень!"
-
-    # game/dialogues/alicetalk.rpy:371
-    old "Ты узнаешь... В своё время..."
-    new "Ты узнаешь... В своё время..."
-
-    # game/dialogues/alicetalk.rpy:386
-    old "От конфетки не поправишься! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-    new "От конфетки не поправишься! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:395
-    old "Ну, хорошо {i}(начать массаж){/i}"
-    new "Ну, хорошо {i}(начать массаж){/i}"
-
-    # game/dialogues/alicetalk.rpy:416
-    old "{i}продолжить{/i} \n{color=[_ch20.col]}(Массаж. Шанс: [_ch20.vis]){/color}"
-    new "{i}продолжить{/i} \n{color=[_ch20.col]}(Массаж. Шанс: [_ch20.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:442
-    old "Может, ещё конфетку? \n{color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-    new "Может, ещё конфетку? \n{color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:445
-    old "Тебе джинсы не мешают? \n{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-    new "Тебе джинсы не мешают? \n{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:448
-    old "Тебе джинсы не мешают?"
-    new "Тебе джинсы не мешают?"
-
-    # game/dialogues/alicetalk.rpy:450
-    old "Тебе джинсы не мешают? Может, снять..."
-    new "Тебе джинсы не мешают? Может, снять..."
-
-    # game/dialogues/alicetalk.rpy:455
-    old "{i}продолжить{/i} \n{color=[_ch15.col]}(Массаж. Шанс: [_ch15.vis]){/color}"
-    new "{i}продолжить{/i} \n{color=[_ch15.col]}(Массаж. Шанс: [_ch15.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:457
-    old "{i}высунуть член{/i}"
-    new "{i}высунуть член{/i}"
-
-    # game/dialogues/alicetalk.rpy:462
-    old "{i}закончить массаж{/i}"
-    new "{i}закончить массаж{/i}"
-
-    # game/dialogues/alicetalk.rpy:487
-    old "Э... Я к тебе не подкатываю. Просто, жарко же..."
-    new "Э... Я к тебе не подкатываю. Просто, жарко же..."
-
-    # game/dialogues/alicetalk.rpy:487
-    old "Ну у тебя и фантазии, Алиса... Я не подкатываю!"
-    new "Ну у тебя и фантазии, Алиса... Я не подкатываю!"
-
-    # game/dialogues/alicetalk.rpy:556
-    old "Почему?"
-    new "Почему?"
-
-    # game/dialogues/alicetalk.rpy:556
-    old "Потому-что ты без трусиков?"
-    new "Потому-что ты без трусиков?"
-
-    # game/dialogues/alicetalk.rpy:570
-    old "А почему на тебе трусики?"
-    new "А почему на тебе трусики?"
-
-    # game/dialogues/alicetalk.rpy:570
-    old "{i}продолжить{/i} \n{color=[_ch25.col]}(Массаж. Шанс: [_ch25.vis]){/color}"
-    new "{i}продолжить{/i} \n{color=[_ch25.col]}(Массаж. Шанс: [_ch25.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:612
-    old "Да, это будет на десерт..."
-    new "Да, это будет на десерт..."
-
-    # game/dialogues/alicetalk.rpy:612
-    old "{i}продолжать молча{/i}"
-    new "{i}продолжать молча{/i}"
-
-    # game/dialogues/alicetalk.rpy:615
-    old "{i}попытаться приставать{/i}"
-    new "{i}попытаться приставать{/i}"
-
-    # game/dialogues/alicetalk.rpy:615
-    old "{i}массировать её ноги выше{/i}"
-    new "{i}массировать её ноги выше{/i}"
-
-    # game/dialogues/alicetalk.rpy:615
-    old "{i}продолжать массаж{/i}"
-    new "{i}продолжать массаж{/i}"
-
-    # game/dialogues/alicetalk.rpy:626
-    old "Ну я могу стать твоим парнем... Хотя бы на час... или насколько захочешь..."
-    new "Ну я могу стать твоим парнем... Хотя бы на час... или насколько захочешь..."
-
-    # game/dialogues/alicetalk.rpy:773
-    old "{i}массировать её ноги выше{/i} \n{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
-    new "{i}массировать её ноги выше{/i} \n{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:845
-    old "{i}массировать ещё выше{/i}"
-    new "{i}массировать ещё выше{/i}"
-
-    # game/dialogues/alicetalk.rpy:853
-    old "{i}ласкать её киску через одежду{/i}"
-    new "{i}ласкать её киску через одежду{/i}"
-
-    # game/dialogues/alicetalk.rpy:864
-    old "{i}ласкать её киску быстрее{/i}"
-    new "{i}ласкать её киску быстрее{/i}"
-
-    # game/dialogues/alicetalk.rpy:864
-    old "{i}не торопиться{/i}"
-    new "{i}не торопиться{/i}"
-
-    # game/dialogues/alicetalk.rpy:901
-    old "{i}снять с Алисы трусики{/i}"
-    new "{i}снять с Алисы трусики{/i}"
-
-    # game/dialogues/alicetalk.rpy:901
-    old "{i}снять с Алисы шортики{/i}"
-    new "{i}снять с Алисы шортики{/i}"
-
-    # game/dialogues/alicetalk.rpy:917
-    old "{i}ласкать её киску языком{/i} {color=[ch.col]}(Сексуальный опыт. Шанс: [ch.vis]){/color}"
-    new "{i}ласкать её киску языком{/i} {color=[ch.col]}(Сексуальный опыт. Шанс: [ch.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:932
-    old "{i}ещё быстрее работать языком{/i}"
-    new "{i}ещё быстрее работать языком{/i}"
-
-    # game/dialogues/alicetalk.rpy:979
-    old "Спасибо, кэп!"
-    new "Спасибо, кэп!"
-
-    # game/dialogues/alicetalk.rpy:979
-    old "Очень смешно..."
-    new "Очень смешно..."
-
-    # game/dialogues/alicetalk.rpy:979
-    old "Это понятно, а какую? Только не говори, что бумажную..."
-    new "Это понятно, а какую? Только не говори, что бумажную..."
-
-    # game/dialogues/alicetalk.rpy:990
-    old "Не всё равно, раз спрашиваю"
-    new "Не всё равно, раз спрашиваю"
-
-    # game/dialogues/alicetalk.rpy:990
-    old "Так ты скажешь или нет?"
-    new "Так ты скажешь или нет?"
-
-    # game/dialogues/alicetalk.rpy:996
-    old "Какой-то дамский роман?"
-    new "Какой-то дамский роман?"
-
-    # game/dialogues/alicetalk.rpy:996
-    old "Какие-то сопли с сахаром?"
-    new "Какие-то сопли с сахаром?"
-
-    # game/dialogues/alicetalk.rpy:996
-    old "Неужели справочник по квантовой механике?"
-    new "Неужели справочник по квантовой механике?"
-
-    # game/dialogues/alicetalk.rpy:1005
-    old "Ну и ладно!"
-    new "Ну и ладно!"
-
-    # game/dialogues/alicetalk.rpy:1005
-    old "{i}узнать подробнее о \"Возможностях\"{/i}"
-    new "{i}узнать подробнее о \"Возможностях\"{/i}"
-
-    # game/dialogues/alicetalk.rpy:1022
-    old "А если уйду, что мне за это будет?"
-    new "А если уйду, что мне за это будет?"
-
-    # game/dialogues/alicetalk.rpy:1022
-    old "Ну ок, только я ничего не обещаю..."
-    new "Ну ок, только я ничего не обещаю..."
-
-    # game/dialogues/alicetalk.rpy:1029
-    old "Ну да. Мама что с тобой сделает, если узнает?"
-    new "Ну да. Мама что с тобой сделает, если узнает?"
-
-    # game/dialogues/alicetalk.rpy:1029
-    old "Ну, мы можем договориться"
-    new "Ну, мы можем договориться"
-
-    # game/dialogues/alicetalk.rpy:1029
-    old "Как знать, может быть..."
-    new "Как знать, может быть..."
-
-    # game/dialogues/alicetalk.rpy:1029
-    old "Нет, конечно. Мне жизнь дорога!"
-    new "Нет, конечно. Мне жизнь дорога!"
-
-    # game/dialogues/alicetalk.rpy:1032
-    old "Не хочешь расстраивать маму или получить по заднице?"
-    new "Не хочешь расстраивать маму или получить по заднице?"
-
-    # game/dialogues/alicetalk.rpy:1032
-    old "Мы всё ещё можем договориться..."
-    new "Мы всё ещё можем договориться..."
-
-    # game/dialogues/alicetalk.rpy:1032
-    old "Посмотрим..."
-    new "Посмотрим..."
-
-    # game/dialogues/alicetalk.rpy:1032
-    old "Ну ладно, ладно..."
-    new "Ну ладно, ладно..."
-
-    # game/dialogues/alicetalk.rpy:1059
-    old "Если заплатишь, буду молчать"
-    new "Если заплатишь, буду молчать"
-
-    # game/dialogues/alicetalk.rpy:1059
-    old "Покажи сиськи!"
-    new "Покажи сиськи!"
-
-    # game/dialogues/alicetalk.rpy:1059
-    old "Сними трусы!"
-    new "Сними трусы!"
-
-    # game/dialogues/alicetalk.rpy:1059
-    old "Отсоси мне!"
-    new "Отсоси мне!"
-
-    # game/dialogues/alicetalk.rpy:1059
-    old "Ты будешь мне должна услугу"
-    new "Ты будешь мне должна услугу"
-
-    # game/dialogues/alicetalk.rpy:1062
-    old "Ну, давай"
-    new "Ну, давай"
-
-    # game/dialogues/alicetalk.rpy:1062
-    old "Нет, этого мало..."
-    new "Нет, этого мало..."
-
-    # game/dialogues/alicetalk.rpy:1069
-    old "Так!"
-    new "Так!"
-
-    # game/dialogues/alicetalk.rpy:1069
-    old "Как знать..."
-    new "Как знать..."
-
-    # game/dialogues/alicetalk.rpy:1074
-    old "Ну, как скажешь..."
-    new "Ну, как скажешь..."
-
-    # game/dialogues/alicetalk.rpy:1112
-    old "Покажешь сиськи, когда попрошу..."
-    new "Покажешь сиськи, когда попрошу..."
-
-    # game/dialogues/alicetalk.rpy:1112
-    old "Разденешься, когда скажу..."
-    new "Разденешься, когда скажу..."
-
-    # game/dialogues/alicetalk.rpy:1112
-    old "Отсосёшь, когда нужно будет..."
-    new "Отсосёшь, когда нужно будет..."
-
-    # game/dialogues/alicetalk.rpy:1112
-    old "Я ещё не решил..."
-    new "Я ещё не решил..."
-
-    # game/dialogues/alicetalk.rpy:1137
-    old "Хорошо..."
-    new "Хорошо..."
-
-    # game/dialogues/alicetalk.rpy:1150
-    old "Да хотел узнать, что ты куришь?"
-    new "Да хотел узнать, что ты куришь?"
-
-    # game/dialogues/alicetalk.rpy:1150
-    old "Нет, ничего..."
-    new "Нет, ничего..."
-
-    # game/dialogues/alicetalk.rpy:1153
-    old "Просто любопытно"
-    new "Просто любопытно"
-
-    # game/dialogues/alicetalk.rpy:1153
-    old "Для поддержания разговора"
-    new "Для поддержания разговора"
-
-    # game/dialogues/alicetalk.rpy:1153
-    old "А, не важно..."
-    new "А, не важно..."
-
-    # game/dialogues/alicetalk.rpy:1166
-    old "Скучаешь о нём?"
-    new "Скучаешь о нём?"
-
-    # game/dialogues/alicetalk.rpy:1166
-    old "Может, и мне попробовать?"
-    new "Может, и мне попробовать?"
-
-    # game/dialogues/alicetalk.rpy:1173
-    old "Может быть, тебе помочь?"
-    new "Может быть, тебе помочь?"
-
-    # game/dialogues/alicetalk.rpy:1173
-    old "Ну и ладно..."
-    new "Ну и ладно..."
-
-    # game/dialogues/alicetalk.rpy:1177
-    old "Ну, я попробую через интернет"
-    new "Ну, я попробую через интернет"
-
-    # game/dialogues/alicetalk.rpy:1177
-    old "Может быть..."
-    new "Может быть..."
-
-    # game/dialogues/alicetalk.rpy:1203
-    old "А что взамен?"
-    new "А что взамен?"
-
-    # game/dialogues/alicetalk.rpy:1203
-    old "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
-    new "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
-
-    # game/dialogues/alicetalk.rpy:1203
-    old "Держи!"
-    new "Держи!"
-
-    # game/dialogues/alicetalk.rpy:1235
-    old "Нет, конечно!"
-    new "Нет, конечно!"
-
-    # game/dialogues/alicetalk.rpy:1240
-    old "Дай $20, и я буду молчать"
-    new "Дай $20, и я буду молчать"
-
-    # game/dialogues/alicetalk.rpy:1240
-    old "Если днем ты будешь ходить без трусов, буду молчать"
-    new "Если днем ты будешь ходить без трусов, буду молчать"
-
-    # game/dialogues/alicetalk.rpy:1240
-    old "Если будешь курить без верха, буду молчать"
-    new "Если будешь курить без верха, буду молчать"
-
-    # game/dialogues/alicetalk.rpy:1240
-    old "Если разрешишь тебя отшлёпать, ничего не скажу"
-    new "Если разрешишь тебя отшлёпать, ничего не скажу"
-
-    # game/dialogues/alicetalk.rpy:1240
-    old "Ничего. Не переживай!"
-    new "Ничего. Не переживай!"
-
-    # game/dialogues/alicetalk.rpy:1261
-    old "Угу..."
-    new "Угу..."
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Дай $20, и я ничего не скажу {color=[_ch8.col]}(Убеждение. Шанс: [_ch8.vis]){/color}"
-    new "Дай $20, и я ничего не скажу {color=[_ch8.col]}(Убеждение. Шанс: [_ch8.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Если днем ты будешь ходить без трусов, буду молчать {color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-    new "Если днем ты будешь ходить без трусов, буду молчать {color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Если больше не будешь носить лифчик, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-    new "Если больше не будешь носить лифчик, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Если будешь курить без верха купальника, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-    new "Если будешь курить без верха купальника, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
-    new "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
-    new "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Хочу, чтобы ты спала голой! {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-    new "Хочу, чтобы ты спала голой! {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1280
-    old "Ты знаешь, я сегодня добрый..."
-    new "Ты знаешь, я сегодня добрый..."
-
-    # game/dialogues/alicetalk.rpy:1298
-    old "Нет. Или получаешь вечером по заднице или не одеваешь джинсы. {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-    new "Нет. Или получаешь вечером по заднице или не одеваешь джинсы. {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1304
-    old "Конечно!"
-    new "Конечно!"
-
-    # game/dialogues/alicetalk.rpy:1335
-    old "Но сейчас тебя есть за что отшлёпать! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Но сейчас тебя есть за что отшлёпать! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1341
-    old "{i}подождать Алису{/i}"
-    new "{i}подождать Алису{/i}"
-
-    # game/dialogues/alicetalk.rpy:1378
-    old "Что ты! Нет, конечно..."
-    new "Что ты! Нет, конечно..."
-
-    # game/dialogues/alicetalk.rpy:1451
-    old "Нет, давай $20 {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-    new "Нет, давай $20 {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:1451
-    old "Хорошо, устроит и $10"
-    new "Хорошо, устроит и $10"
-
-    # game/dialogues/alicetalk.rpy:1469
-    old "Удачи!"
-    new "Удачи!"
-
-    # game/dialogues/alicetalk.rpy:1485
-    old "{i}Ну, как скажешь...{/i}"
-    new "{i}Ну, как скажешь...{/i}"
-
-    # game/dialogues/alicetalk.rpy:1500
-    old "Доволен, конечно!"
-    new "Доволен, конечно!"
-
-    # game/dialogues/alicetalk.rpy:1500
-    old "А чего ты прикрываешься?"
-    new "А чего ты прикрываешься?"
-
-    # game/dialogues/alicetalk.rpy:1500
-    old "Я передумал. Можешь одеться."
-    new "Я передумал. Можешь одеться."
-
-    # game/dialogues/alicetalk.rpy:1503
-    old "Не переживай, не скажу"
-    new "Не переживай, не скажу"
-
-    # game/dialogues/alicetalk.rpy:1503
-    old "Ну... это зависит от тебя!"
-    new "Ну... это зависит от тебя!"
-
-    # game/dialogues/alicetalk.rpy:1516
-    old "Ну, я перегнул палку..."
-    new "Ну, я перегнул палку..."
-
-    # game/dialogues/alicetalk.rpy:1516
-    old "Это мой шаг к дружбе"
-    new "Это мой шаг к дружбе"
-
-    # game/dialogues/alicetalk.rpy:1516
-    old "Да надоела!"
-    new "Да надоела!"
-
-    # game/dialogues/alicetalk.rpy:1516
-    old "Ты знаешь, пусть всё остаётся как есть..."
-    new "Ты знаешь, пусть всё остаётся как есть..."
-
-    # game/dialogues/alicetalk.rpy:1529
-    old "{i}свалить{/i}"
-    new "{i}свалить{/i}"
-
-    # game/dialogues/alicetalk.rpy:1562
-    old "Ага..."
-    new "Ага..."
-
-    # game/dialogues/alicetalk.rpy:1575
-    old "Ничего, просто любуюсь..."
-    new "Ничего, просто любуюсь..."
-
-    # game/dialogues/alicetalk.rpy:1575
-    old "А ты чего в трусах?"
-    new "А ты чего в трусах?"
-
-    # game/dialogues/alicetalk.rpy:1575
-    old "Я передумал. Можешь носить трусы..."
-    new "Я передумал. Можешь носить трусы..."
-
-    # game/dialogues/alicetalk.rpy:1581
-    old "Мы же договорились - без трусов!"
-    new "Мы же договорились - без трусов!"
-
-    # game/dialogues/alicetalk.rpy:1581
-    old "Да шучу я..."
-    new "Да шучу я..."
-
-    # game/dialogues/alicetalk.rpy:1631
-    old "Я передумал. Ты можешь спать в лифчике, если хочешь."
-    new "Я передумал. Ты можешь спать в лифчике, если хочешь."
-
-    # game/dialogues/alicetalk.rpy:1631
-    old "Я передумал. Ты можешь спать в нижнем белье..."
-    new "Я передумал. Ты можешь спать в нижнем белье..."
-
-    # game/dialogues/alicetalk.rpy:1656
-    old "Я передумал. Ты можешь носить свои джинсы, если захочешь."
-    new "Я передумал. Ты можешь носить свои джинсы, если захочешь."
-
-    # game/dialogues/alicetalk.rpy:1752
-    old "Держи..."
-    new "Держи..."
-
-    # game/dialogues/alicetalk.rpy:1752
-    old "Не так быстро..."
-    new "Не так быстро..."
-
-    # game/dialogues/alicetalk.rpy:1757
-    old "Да ничего, просто держи..."
-    new "Да ничего, просто держи..."
-
-    # game/dialogues/alicetalk.rpy:1757
-    old "Устрой мне показ в нём..."
-    new "Устрой мне показ в нём..."
-
-    # game/dialogues/alicetalk.rpy:1790
-    old "Э... Хорошо..."
-    new "Э... Хорошо..."
-
-    # game/dialogues/alicetalk.rpy:1805
-    old "Очень... очень хорошо..."
-    new "Очень... очень хорошо..."
-
-    # game/dialogues/alicetalk.rpy:1805
-    old "А можешь наклониться?"
-    new "А можешь наклониться?"
-
-    # game/dialogues/alicetalk.rpy:1833
-    old "Порылся в твоих вещах и нашёл, что читаешь!"
-    new "Порылся в твоих вещах и нашёл, что читаешь!"
-
-    # game/dialogues/alicetalk.rpy:1833
-    old "Ну, я догадался! Я же умный!"
-    new "Ну, я догадался! Я же умный!"
-
-    # game/dialogues/alicetalk.rpy:1833
-    old "Я и не знал. Просто угадал видимо..."
-    new "Я и не знал. Просто угадал видимо..."
-
-    # game/dialogues/alicetalk.rpy:1939
-    old "Ага, я и не подглядываю..."
-    new "Ага, я и не подглядываю..."
-
-    # game/dialogues/alicetalk.rpy:2032
-    old "Нет, просто хотел увидеть, как на тебе будет смотреться пижама... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Нет, просто хотел увидеть, как на тебе будет смотреться пижама... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:2084
-    old "Может быть, тебя намазать кремом для загара?"
-    new "Может быть, тебя намазать кремом для загара?"
-
-    # game/dialogues/alicetalk.rpy:2084
-    old "{i}Предложить Алисе намазать её кремом{/i}"
-    new "{i}Предложить Алисе намазать её кремом{/i}"
-
-    # game/dialogues/alicetalk.rpy:2084
-    old "Ладно, загорай..."
-    new "Ладно, загорай..."
-
-    # game/dialogues/alicetalk.rpy:2124
-    old "{i}нанести крем{/i}"
-    new "{i}нанести крем{/i}"
-
-    # game/dialogues/alicetalk.rpy:2124
-    old "{i}сделать массаж с кремом{/i}"
-    new "{i}сделать массаж с кремом{/i}"
-
-    # game/dialogues/alicetalk.rpy:2124
-    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
-    new "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
-
-    # game/dialogues/alicetalk.rpy:2124
-    old "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
-    new "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
-
-    # game/dialogues/alicetalk.rpy:2137
-    old "{i}наносить крем молча{/i}"
-    new "{i}наносить крем молча{/i}"
-
-    # game/dialogues/alicetalk.rpy:2137
-    old "А тебе нравится, что следы от лямок остаются?"
-    new "А тебе нравится, что следы от лямок остаются?"
-
-    # game/dialogues/alicetalk.rpy:2156
-    old "Массаж"
-    new "Массаж"
-
-    # game/dialogues/alicetalk.rpy:2156
-    old "Массаж ступней"
-    new "Массаж ступней"
-
-    # game/dialogues/alicetalk.rpy:2156
-    old "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-    new "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-
-    # game/dialogues/alicetalk.rpy:2156
-    old "Массаж кистей рук"
-    new "Массаж кистей рук"
-
-    # game/dialogues/alicetalk.rpy:2275
-    old "{i}массировать молча{/i}"
-    new "{i}массировать молча{/i}"
-
-    # game/dialogues/alicetalk.rpy:2295
-    old "{i}продолжить{/i}"
-    new "{i}продолжить{/i}"
-
-    # game/dialogues/alicetalk.rpy:2295
-    old "{i}выпустить рядом паука{/i}"
-    new "{i}выпустить рядом паука{/i}"
-
-    # game/dialogues/alicetalk.rpy:2422
-    old "Что, стесняешься? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Что, стесняешься? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:2422
-    old "Ну, как хочешь..."
-    new "Ну, как хочешь..."
-
-    # game/dialogues/alicetalk.rpy:2497
-    old "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
-    new "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
-
-    # game/dialogues/alicetalk.rpy:2497
-    old "Спрячься за меня, хотя бы..."
-    new "Спрячься за меня, хотя бы..."
-
-    # game/dialogues/alicetalk.rpy:2497
-    old "{i}потискать Алису за грудь{/i}"
-    new "{i}потискать Алису за грудь{/i}"
-
-    # game/dialogues/alicetalk.rpy:2627
-    old "{i}убрать руки{/i}"
-    new "{i}убрать руки{/i}"
-
-    # game/dialogues/alicetalk.rpy:2627
-    old "{i}тискать дальше...{/i}"
-    new "{i}тискать дальше...{/i}"
-
-    # game/dialogues/alicetalk.rpy:2696
-    old "Да ладно! Это мне нравится... И что там у тебя?"
-    new "Да ладно! Это мне нравится... И что там у тебя?"
-
-    # game/dialogues/alicetalk.rpy:2696
-    old "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?"
-    new "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?"
-
-    # game/dialogues/alicetalk.rpy:2696
-    old "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!"
-    new "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!"
-
-    # game/dialogues/alicetalk.rpy:2761
-    old "Да я же случайно оказался около душа... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Да я же случайно оказался около душа... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:3185
-    old "Хочется надеяться, что так и будет... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Хочется надеяться, что так и будет... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:3275
-    old "Именно на это я и надеюсь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Именно на это я и надеюсь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:3365
-    old "Только если без последующего насилия... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Только если без последующего насилия... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:3554
-    old "Ты мне кое-что показала..."
-    new "Ты мне кое-что показала..."
-
-    # game/dialogues/alicetalk.rpy:3554
-    old "Ты мне кое-что сделала..."
-    new "Ты мне кое-что сделала..."
-
-    # game/dialogues/alicetalk.rpy:3554
-    old "Мы делали кое-что..."
-    new "Мы делали кое-что..."
-
-    # game/dialogues/alicetalk.rpy:3554
-    old "Да, ну извини..."
-    new "Да, ну извини..."
-
-    # game/dialogues/alicetalk.rpy:3637
-    old "Ничего..."
-    new "Ничего..."
-
-    # game/dialogues/alicetalk.rpy:3637
-    old "Может, попозируешь для меня..."
-    new "Может, попозируешь для меня..."
-
-    # game/dialogues/alicetalk.rpy:3674
-    old "Ну что, примеришь при мне?"
-    new "Ну что, примеришь при мне?"
-
-    # game/dialogues/alicetalk.rpy:3674
-    old "Ну что, примеришь при мне? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Ну что, примеришь при мне? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:3952
-    old "{i}подглядывать {color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
-    new "{i}подглядывать {color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
-
-    # game/dialogues/alicetalk.rpy:3952
-    old "{i}ждать{/i}"
-    new "{i}ждать{/i}"
-
-    # game/dialogues/alicetalk.rpy:4050
-    old "Ладно, как знаешь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Ладно, как знаешь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-
-    # game/dialogues/alicetalk.rpy:4133
-    old "{i}стянуть верх купальника{/i}"
-    new "{i}стянуть верх купальника{/i}"
-
-    # game/dialogues/alicetalk.rpy:4140
-    old "{i}стянуть низ купальника{/i}"
-    new "{i}стянуть низ купальника{/i}"
-
-    # game/dialogues/alicetalk.rpy:4148
-    old "{i}шлёпать нежно{/i}"
-    new "{i}шлёпать нежно{/i}"
-
-    # game/dialogues/alicetalk.rpy:4148
-    old "{i}шлёпать сильно{/i}"
-    new "{i}шлёпать сильно{/i}"
-
-    # game/dialogues/alicetalk.rpy:4154
-    old "Ну вот, а ты не хотела!"
-    new "Ну вот, а ты не хотела!"
-
-    # game/dialogues/alicetalk.rpy:4154
-    old "Могу сильнее, а то это уже не наказание!"
-    new "Могу сильнее, а то это уже не наказание!"
-
-    # game/dialogues/alicetalk.rpy:4267
-    old "И как, тебе нравится?"
-    new "И как, тебе нравится?"
-
-    # game/dialogues/alicetalk.rpy:4267
-    old "Могу сильнее, раз ты заскучала!"
-    new "Могу сильнее, раз ты заскучала!"
+#    # game/dialogues/alicetalk.rpy:11
+msgid "{i}уйти{/i}"
+msgstr "{i}уйти{/i}"
+
+#    # game/dialogues/alicetalk.rpy:43
+msgid "Ок..."
+msgstr "Ок..."
+
+#    # game/dialogues/alicetalk.rpy:43
+msgid "Я хотел извиниться"
+msgstr "Я хотел извиниться"
+
+#    # game/dialogues/alicetalk.rpy:61
+msgid "Ты знаешь, я передумал..."
+msgstr "Ты знаешь, я передумал..."
+
+#    # game/dialogues/alicetalk.rpy:82
+msgid "Давай, я домою остальное"
+msgstr "Давай, я домою остальное"
+
+#    # game/dialogues/alicetalk.rpy:82
+msgid "Нет, просто хотел поглазеть"
+msgstr "Нет, просто хотел поглазеть"
+
+#    # game/dialogues/alicetalk.rpy:85
+msgid "{i}мыть посуду{/i}"
+msgstr "{i}мыть посуду{/i}"
+
+#    # game/dialogues/alicetalk.rpy:93
+msgid "{i}закончить{/i}"
+msgstr "{i}закончить{/i}"
+
+#    # game/dialogues/alicetalk.rpy:113
+msgid "Нет, хотел просто больше узнать"
+msgstr "Нет, хотел просто больше узнать"
+
+#    # game/dialogues/alicetalk.rpy:113
+msgid "Много подписчиков уже?"
+msgstr "Много подписчиков уже?"
+
+#    # game/dialogues/alicetalk.rpy:113
+msgid "Заработала уже на нём что-то?"
+msgstr "Заработала уже на нём что-то?"
+
+#    # game/dialogues/alicetalk.rpy:116
+msgid "Расскажи, что ты там делаешь"
+msgstr "Расскажи, что ты там делаешь"
+
+#    # game/dialogues/alicetalk.rpy:116
+msgid "Как планируешь развиваться?"
+msgstr "Как планируешь развиваться?"
+
+#    # game/dialogues/alicetalk.rpy:119
+msgid "Хитростями? А откуда ты сама всё это узнала?"
+msgstr "Хитростями? А откуда ты сама всё это узнала?"
+
+#    # game/dialogues/alicetalk.rpy:119
+msgid "И что теперь без этих своих вещей делать будешь?"
+msgstr "И что теперь без этих своих вещей делать будешь?"
+
+#    # game/dialogues/alicetalk.rpy:122
+msgid "Тема бьюти разве единственная?"
+msgstr "Тема бьюти разве единственная?"
+
+#    # game/dialogues/alicetalk.rpy:122
+msgid "Понятно. Ну, и что теперь?"
+msgstr "Понятно. Ну, и что теперь?"
+
+#    # game/dialogues/alicetalk.rpy:125
+msgid "Давай что-то придумаем вместе!"
+msgstr "Давай что-то придумаем вместе!"
+
+#    # game/dialogues/alicetalk.rpy:125
+msgid "Может быть, изменить твой блог?"
+msgstr "Может быть, изменить твой блог?"
+
+#    # game/dialogues/alicetalk.rpy:136
+msgid "Что, совсем всё пропало?"
+msgstr "Что, совсем всё пропало?"
+
+#    # game/dialogues/alicetalk.rpy:136
+msgid "Постой, и что теперь будет?"
+msgstr "Постой, и что теперь будет?"
+
+#    # game/dialogues/alicetalk.rpy:139
+msgid "Может, это твоя фишка. Да и майка счастливая..."
+msgstr "Может, это твоя фишка. Да и майка счастливая..."
+
+#    # game/dialogues/alicetalk.rpy:139
+msgid "Разве это важно?"
+msgstr "Разве это важно?"
+
+#    # game/dialogues/alicetalk.rpy:142
+msgid "Да уж, грусть-печаль..."
+msgstr "Да уж, грусть-печаль..."
+
+#    # game/dialogues/alicetalk.rpy:142
+msgid "Тебе как-то можно помочь?"
+msgstr "Тебе как-то можно помочь?"
+
+#    # game/dialogues/alicetalk.rpy:158
+msgid "Нет. С чего ты взяла?"
+msgstr "Нет. С чего ты взяла?"
+
+#    # game/dialogues/alicetalk.rpy:158
+msgid "Ты о чём, вообще?"
+msgstr "Ты о чём, вообще?"
+
+#    # game/dialogues/alicetalk.rpy:164
+msgid "Да ладно?"
+msgstr "Да ладно?"
+
+#    # game/dialogues/alicetalk.rpy:164
+msgid "В курсе, конечно"
+msgstr "В курсе, конечно"
+
+#    # game/dialogues/alicetalk.rpy:173
+msgid "Мне очень жаль..."
+msgstr "Мне очень жаль..."
+
+#    # game/dialogues/alicetalk.rpy:173
+msgid "И как тебе помочь?"
+msgstr "И как тебе помочь?"
+
+#    # game/dialogues/alicetalk.rpy:180
+msgid "Что пропало? Ты о чём?"
+msgstr "Что пропало? Ты о чём?"
+
+#    # game/dialogues/alicetalk.rpy:180
+msgid "Ты о тех вещах во время переезда?"
+msgstr "Ты о тех вещах во время переезда?"
+
+#    # game/dialogues/alicetalk.rpy:185
+msgid "Да, печально..."
+msgstr "Да, печально..."
+
+#    # game/dialogues/alicetalk.rpy:185
+msgid "Тебе можно как-то помочь?"
+msgstr "Тебе можно как-то помочь?"
+
+#    # game/dialogues/alicetalk.rpy:191
+msgid "Может быть, попробуем вместе найти решение?"
+msgstr "Может быть, попробуем вместе найти решение?"
+
+#    # game/dialogues/alicetalk.rpy:191
+msgid "Я обязательно придумаю, что можно с этим сделать"
+msgstr "Я обязательно придумаю, что можно с этим сделать"
+
+#    # game/dialogues/alicetalk.rpy:198
+msgid "Денег у меня нет..."
+msgstr "Денег у меня нет..."
+
+#    # game/dialogues/alicetalk.rpy:198
+msgid "Я не детектив, чтобы искать вещи..."
+msgstr "Я не детектив, чтобы искать вещи..."
+
+#    # game/dialogues/alicetalk.rpy:201
+msgid "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
+msgstr "Вся жизнь? Но это всё к лучшему же. Такой дом, бассейн, место отличное!"
+
+#    # game/dialogues/alicetalk.rpy:201
+msgid "Не грусти. Могло быть и хуже"
+msgstr "Не грусти. Могло быть и хуже"
+
+#    # game/dialogues/alicetalk.rpy:201
+msgid "Может быть, зарабатывать на чём-то другом?"
+msgstr "Может быть, зарабатывать на чём-то другом?"
+
+#    # game/dialogues/alicetalk.rpy:204
+msgid "Ты всё ещё можешь. Может быть, просто смени формат блога"
+msgstr "Ты всё ещё можешь. Может быть, просто смени формат блога"
+
+#    # game/dialogues/alicetalk.rpy:220
+msgid "Ну, у меня много разных идей"
+msgstr "Ну, у меня много разных идей"
+
+#    # game/dialogues/alicetalk.rpy:220
+msgid "Советами!"
+msgstr "Советами!"
+
+#    # game/dialogues/alicetalk.rpy:237
+msgid "Может быть, заняться чем-то другим?"
+msgstr "Может быть, заняться чем-то другим?"
+
+#    # game/dialogues/alicetalk.rpy:246
+msgid "Мы можем с тобой вместе что-то придумать"
+msgstr "Мы можем с тобой вместе что-то придумать"
+
+#    # game/dialogues/alicetalk.rpy:246
+msgid "Давай, я подумаю и, когда будут мысли, продолжим разговор"
+msgstr "Давай, я подумаю и, когда будут мысли, продолжим разговор"
+
+#    # game/dialogues/alicetalk.rpy:246
+msgid "Пока нет, но я подумаю что можно сделать"
+msgstr "Пока нет, но я подумаю что можно сделать"
+
+#    # game/dialogues/alicetalk.rpy:257
+msgid "Ну если придумаю что-то, то почему нет?"
+msgstr "Ну если придумаю что-то, то почему нет?"
+
+#    # game/dialogues/alicetalk.rpy:257
+msgid "Конечно! Будет у нас семейный бизнес!"
+msgstr "Конечно! Будет у нас семейный бизнес!"
+
+#    # game/dialogues/alicetalk.rpy:257
+msgid "Ну, можно попробовать же?"
+msgstr "Ну, можно попробовать же?"
+
+#    # game/dialogues/alicetalk.rpy:263
+msgid "Ну да, многие так делают!"
+msgstr "Ну да, многие так делают!"
+
+#    # game/dialogues/alicetalk.rpy:263
+msgid "Нет, из меня ведущий так себе..."
+msgstr "Нет, из меня ведущий так себе..."
+
+#    # game/dialogues/alicetalk.rpy:263
+msgid "Попробовать то можем?"
+msgstr "Попробовать то можем?"
+
+#    # game/dialogues/alicetalk.rpy:280
+msgid "Постараюсь..."
+msgstr "Постараюсь..."
+
+#    # game/dialogues/alicetalk.rpy:280
+msgid "Но ничего не обещаю"
+msgstr "Но ничего не обещаю"
+
+#    # game/dialogues/alicetalk.rpy:280
+msgid "Обещаю, что-нибудь придумаю"
+msgstr "Обещаю, что-нибудь придумаю"
+
+#    # game/dialogues/alicetalk.rpy:308
+msgid "Ну, давай смотреть всё подряд..."
+msgstr "Ну, давай смотреть всё подряд..."
+
+#    # game/dialogues/alicetalk.rpy:308
+msgid "Тебе сделать массаж ног?"
+msgstr "Тебе сделать массаж ног?"
+
+#    # game/dialogues/alicetalk.rpy:325
+msgid "Почему ютуб? Это платные курсы..."
+msgstr "Почему ютуб? Это платные курсы..."
+
+#    # game/dialogues/alicetalk.rpy:325
+msgid "Конечно! Я же научился..."
+msgstr "Конечно! Я же научился..."
+
+#    # game/dialogues/alicetalk.rpy:331
+msgid "Так тебе продемонстрировать или как? \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+msgstr "Так тебе продемонстрировать или как? \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:335
+msgid "Тебе понравится! \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+msgstr "Тебе понравится! \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:340
+msgid "Хорошо {i}(начать массаж){/i}"
+msgstr "Хорошо {i}(начать массаж){/i}"
+
+#    # game/dialogues/alicetalk.rpy:340
+msgid "Может конфетку перед массажем?"
+msgstr "Может конфетку перед массажем?"
+
+#    # game/dialogues/alicetalk.rpy:371
+msgid "Хочу тебя!"
+msgstr "Хочу тебя!"
+
+#    # game/dialogues/alicetalk.rpy:371
+msgid "Просто я такой хороший парень!"
+msgstr "Просто я такой хороший парень!"
+
+#    # game/dialogues/alicetalk.rpy:371
+msgid "Ты узнаешь... В своё время..."
+msgstr "Ты узнаешь... В своё время..."
+
+#    # game/dialogues/alicetalk.rpy:386
+msgid "От конфетки не поправишься! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+msgstr "От конфетки не поправишься! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:395
+msgid "Ну, хорошо {i}(начать массаж){/i}"
+msgstr "Ну, хорошо {i}(начать массаж){/i}"
+
+#    # game/dialogues/alicetalk.rpy:416
+msgid "{i}продолжить{/i} \n{color=[_ch20.col]}(Массаж. Шанс: [_ch20.vis]){/color}"
+msgstr "{i}продолжить{/i} \n{color=[_ch20.col]}(Массаж. Шанс: [_ch20.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:442
+msgid "Может, ещё конфетку? \n{color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+msgstr "Может, ещё конфетку? \n{color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:445
+msgid "Тебе джинсы не мешают? \n{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+msgstr "Тебе джинсы не мешают? \n{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:448
+msgid "Тебе джинсы не мешают?"
+msgstr "Тебе джинсы не мешают?"
+
+#    # game/dialogues/alicetalk.rpy:450
+msgid "Тебе джинсы не мешают? Может, снять..."
+msgstr "Тебе джинсы не мешают? Может, снять..."
+
+#    # game/dialogues/alicetalk.rpy:455
+msgid "{i}продолжить{/i} \n{color=[_ch15.col]}(Массаж. Шанс: [_ch15.vis]){/color}"
+msgstr "{i}продолжить{/i} \n{color=[_ch15.col]}(Массаж. Шанс: [_ch15.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:457
+msgid "{i}высунуть член{/i}"
+msgstr "{i}высунуть член{/i}"
+
+#    # game/dialogues/alicetalk.rpy:462
+msgid "{i}закончить массаж{/i}"
+msgstr "{i}закончить массаж{/i}"
+
+#    # game/dialogues/alicetalk.rpy:487
+msgid "Э... Я к тебе не подкатываю. Просто, жарко же..."
+msgstr "Э... Я к тебе не подкатываю. Просто, жарко же..."
+
+#    # game/dialogues/alicetalk.rpy:487
+msgid "Ну у тебя и фантазии, Алиса... Я не подкатываю!"
+msgstr "Ну у тебя и фантазии, Алиса... Я не подкатываю!"
+
+#    # game/dialogues/alicetalk.rpy:556
+msgid "Почему?"
+msgstr "Почему?"
+
+#    # game/dialogues/alicetalk.rpy:556
+msgid "Потому-что ты без трусиков?"
+msgstr "Потому-что ты без трусиков?"
+
+#    # game/dialogues/alicetalk.rpy:570
+msgid "А почему на тебе трусики?"
+msgstr "А почему на тебе трусики?"
+
+#    # game/dialogues/alicetalk.rpy:570
+msgid "{i}продолжить{/i} \n{color=[_ch25.col]}(Массаж. Шанс: [_ch25.vis]){/color}"
+msgstr "{i}продолжить{/i} \n{color=[_ch25.col]}(Массаж. Шанс: [_ch25.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:612
+msgid "Да, это будет на десерт..."
+msgstr "Да, это будет на десерт..."
+
+#    # game/dialogues/alicetalk.rpy:612
+msgid "{i}продолжать молча{/i}"
+msgstr "{i}продолжать молча{/i}"
+
+#    # game/dialogues/alicetalk.rpy:615
+msgid "{i}попытаться приставать{/i}"
+msgstr "{i}попытаться приставать{/i}"
+
+#    # game/dialogues/alicetalk.rpy:615
+msgid "{i}массировать её ноги выше{/i}"
+msgstr "{i}массировать её ноги выше{/i}"
+
+#    # game/dialogues/alicetalk.rpy:615
+msgid "{i}продолжать массаж{/i}"
+msgstr "{i}продолжать массаж{/i}"
+
+#    # game/dialogues/alicetalk.rpy:626
+msgid "Ну я могу стать твоим парнем... Хотя бы на час... или насколько захочешь..."
+msgstr "Ну я могу стать твоим парнем... Хотя бы на час... или насколько захочешь..."
+
+#    # game/dialogues/alicetalk.rpy:773
+msgid "{i}массировать её ноги выше{/i} \n{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
+msgstr "{i}массировать её ноги выше{/i} \n{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:845
+msgid "{i}массировать ещё выше{/i}"
+msgstr "{i}массировать ещё выше{/i}"
+
+#    # game/dialogues/alicetalk.rpy:853
+msgid "{i}ласкать её киску через одежду{/i}"
+msgstr "{i}ласкать её киску через одежду{/i}"
+
+#    # game/dialogues/alicetalk.rpy:864
+msgid "{i}ласкать её киску быстрее{/i}"
+msgstr "{i}ласкать её киску быстрее{/i}"
+
+#    # game/dialogues/alicetalk.rpy:864
+msgid "{i}не торопиться{/i}"
+msgstr "{i}не торопиться{/i}"
+
+#    # game/dialogues/alicetalk.rpy:901
+msgid "{i}снять с Алисы трусики{/i}"
+msgstr "{i}снять с Алисы трусики{/i}"
+
+#    # game/dialogues/alicetalk.rpy:901
+msgid "{i}снять с Алисы шортики{/i}"
+msgstr "{i}снять с Алисы шортики{/i}"
+
+#    # game/dialogues/alicetalk.rpy:917
+msgid "{i}ласкать её киску языком{/i} {color=[ch.col]}(Сексуальный опыт. Шанс: [ch.vis]){/color}"
+msgstr "{i}ласкать её киску языком{/i} {color=[ch.col]}(Сексуальный опыт. Шанс: [ch.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:932
+msgid "{i}ещё быстрее работать языком{/i}"
+msgstr "{i}ещё быстрее работать языком{/i}"
+
+#    # game/dialogues/alicetalk.rpy:979
+msgid "Спасибо, кэп!"
+msgstr "Спасибо, кэп!"
+
+#    # game/dialogues/alicetalk.rpy:979
+msgid "Очень смешно..."
+msgstr "Очень смешно..."
+
+#    # game/dialogues/alicetalk.rpy:979
+msgid "Это понятно, а какую? Только не говори, что бумажную..."
+msgstr "Это понятно, а какую? Только не говори, что бумажную..."
+
+#    # game/dialogues/alicetalk.rpy:990
+msgid "Не всё равно, раз спрашиваю"
+msgstr "Не всё равно, раз спрашиваю"
+
+#    # game/dialogues/alicetalk.rpy:990
+msgid "Так ты скажешь или нет?"
+msgstr "Так ты скажешь или нет?"
+
+#    # game/dialogues/alicetalk.rpy:996
+msgid "Какой-то дамский роман?"
+msgstr "Какой-то дамский роман?"
+
+#    # game/dialogues/alicetalk.rpy:996
+msgid "Какие-то сопли с сахаром?"
+msgstr "Какие-то сопли с сахаром?"
+
+#    # game/dialogues/alicetalk.rpy:996
+msgid "Неужели справочник по квантовой механике?"
+msgstr "Неужели справочник по квантовой механике?"
+
+#    # game/dialogues/alicetalk.rpy:1005
+msgid "Ну и ладно!"
+msgstr "Ну и ладно!"
+
+#    # game/dialogues/alicetalk.rpy:1005
+msgid "{i}узнать подробнее о \"Возможностях\"{/i}"
+msgstr "{i}узнать подробнее о \"Возможностях\"{/i}"
+
+#    # game/dialogues/alicetalk.rpy:1022
+msgid "А если уйду, что мне за это будет?"
+msgstr "А если уйду, что мне за это будет?"
+
+#    # game/dialogues/alicetalk.rpy:1022
+msgid "Ну ок, только я ничего не обещаю..."
+msgstr "Ну ок, только я ничего не обещаю..."
+
+#    # game/dialogues/alicetalk.rpy:1029
+msgid "Ну да. Мама что с тобой сделает, если узнает?"
+msgstr "Ну да. Мама что с тобой сделает, если узнает?"
+
+#    # game/dialogues/alicetalk.rpy:1029
+msgid "Ну, мы можем договориться"
+msgstr "Ну, мы можем договориться"
+
+#    # game/dialogues/alicetalk.rpy:1029
+msgid "Как знать, может быть..."
+msgstr "Как знать, может быть..."
+
+#    # game/dialogues/alicetalk.rpy:1029
+msgid "Нет, конечно. Мне жизнь дорога!"
+msgstr "Нет, конечно. Мне жизнь дорога!"
+
+#    # game/dialogues/alicetalk.rpy:1032
+msgid "Не хочешь расстраивать маму или получить по заднице?"
+msgstr "Не хочешь расстраивать маму или получить по заднице?"
+
+#    # game/dialogues/alicetalk.rpy:1032
+msgid "Мы всё ещё можем договориться..."
+msgstr "Мы всё ещё можем договориться..."
+
+#    # game/dialogues/alicetalk.rpy:1032
+msgid "Посмотрим..."
+msgstr "Посмотрим..."
+
+#    # game/dialogues/alicetalk.rpy:1032
+msgid "Ну ладно, ладно..."
+msgstr "Ну ладно, ладно..."
+
+#    # game/dialogues/alicetalk.rpy:1059
+msgid "Если заплатишь, буду молчать"
+msgstr "Если заплатишь, буду молчать"
+
+#    # game/dialogues/alicetalk.rpy:1059
+msgid "Покажи сиськи!"
+msgstr "Покажи сиськи!"
+
+#    # game/dialogues/alicetalk.rpy:1059
+msgid "Сними трусы!"
+msgstr "Сними трусы!"
+
+#    # game/dialogues/alicetalk.rpy:1059
+msgid "Отсоси мне!"
+msgstr "Отсоси мне!"
+
+#    # game/dialogues/alicetalk.rpy:1059
+msgid "Ты будешь мне должна услугу"
+msgstr "Ты будешь мне должна услугу"
+
+#    # game/dialogues/alicetalk.rpy:1062
+msgid "Ну, давай"
+msgstr "Ну, давай"
+
+#    # game/dialogues/alicetalk.rpy:1062
+msgid "Нет, этого мало..."
+msgstr "Нет, этого мало..."
+
+#    # game/dialogues/alicetalk.rpy:1069
+msgid "Так!"
+msgstr "Так!"
+
+#    # game/dialogues/alicetalk.rpy:1069
+msgid "Как знать..."
+msgstr "Как знать..."
+
+#    # game/dialogues/alicetalk.rpy:1074
+msgid "Ну, как скажешь..."
+msgstr "Ну, как скажешь..."
+
+#    # game/dialogues/alicetalk.rpy:1112
+msgid "Покажешь сиськи, когда попрошу..."
+msgstr "Покажешь сиськи, когда попрошу..."
+
+#    # game/dialogues/alicetalk.rpy:1112
+msgid "Разденешься, когда скажу..."
+msgstr "Разденешься, когда скажу..."
+
+#    # game/dialogues/alicetalk.rpy:1112
+msgid "Отсосёшь, когда нужно будет..."
+msgstr "Отсосёшь, когда нужно будет..."
+
+#    # game/dialogues/alicetalk.rpy:1112
+msgid "Я ещё не решил..."
+msgstr "Я ещё не решил..."
+
+#    # game/dialogues/alicetalk.rpy:1137
+msgid "Хорошо..."
+msgstr "Хорошо..."
+
+#    # game/dialogues/alicetalk.rpy:1150
+msgid "Да хотел узнать, что ты куришь?"
+msgstr "Да хотел узнать, что ты куришь?"
+
+#    # game/dialogues/alicetalk.rpy:1150
+msgid "Нет, ничего..."
+msgstr "Нет, ничего..."
+
+#    # game/dialogues/alicetalk.rpy:1153
+msgid "Просто любопытно"
+msgstr "Просто любопытно"
+
+#    # game/dialogues/alicetalk.rpy:1153
+msgid "Для поддержания разговора"
+msgstr "Для поддержания разговора"
+
+#    # game/dialogues/alicetalk.rpy:1153
+msgid "А, не важно..."
+msgstr "А, не важно..."
+
+#    # game/dialogues/alicetalk.rpy:1166
+msgid "Скучаешь о нём?"
+msgstr "Скучаешь о нём?"
+
+#    # game/dialogues/alicetalk.rpy:1166
+msgid "Может, и мне попробовать?"
+msgstr "Может, и мне попробовать?"
+
+#    # game/dialogues/alicetalk.rpy:1173
+msgid "Может быть, тебе помочь?"
+msgstr "Может быть, тебе помочь?"
+
+#    # game/dialogues/alicetalk.rpy:1173
+msgid "Ну и ладно..."
+msgstr "Ну и ладно..."
+
+#    # game/dialogues/alicetalk.rpy:1177
+msgid "Ну, я попробую через интернет"
+msgstr "Ну, я попробую через интернет"
+
+#    # game/dialogues/alicetalk.rpy:1177
+msgid "Может быть..."
+msgstr "Может быть..."
+
+#    # game/dialogues/alicetalk.rpy:1203
+msgid "А что взамен?"
+msgstr "А что взамен?"
+
+#    # game/dialogues/alicetalk.rpy:1203
+msgid "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
+msgstr "Только давай условимся, что ты не скажешь маме о том, как я за тобой подглядывал в душе..."
+
+#    # game/dialogues/alicetalk.rpy:1203
+msgid "Держи!"
+msgstr "Держи!"
+
+#    # game/dialogues/alicetalk.rpy:1235
+msgid "Нет, конечно!"
+msgstr "Нет, конечно!"
+
+#    # game/dialogues/alicetalk.rpy:1240
+msgid "Дай $20, и я буду молчать"
+msgstr "Дай $20, и я буду молчать"
+
+#    # game/dialogues/alicetalk.rpy:1240
+msgid "Если днем ты будешь ходить без трусов, буду молчать"
+msgstr "Если днем ты будешь ходить без трусов, буду молчать"
+
+#    # game/dialogues/alicetalk.rpy:1240
+msgid "Если будешь курить без верха, буду молчать"
+msgstr "Если будешь курить без верха, буду молчать"
+
+#    # game/dialogues/alicetalk.rpy:1240
+msgid "Если разрешишь тебя отшлёпать, ничего не скажу"
+msgstr "Если разрешишь тебя отшлёпать, ничего не скажу"
+
+#    # game/dialogues/alicetalk.rpy:1240
+msgid "Ничего. Не переживай!"
+msgstr "Ничего. Не переживай!"
+
+#    # game/dialogues/alicetalk.rpy:1261
+msgid "Угу..."
+msgstr "Угу..."
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Дай $20, и я ничего не скажу {color=[_ch8.col]}(Убеждение. Шанс: [_ch8.vis]){/color}"
+msgstr "Дай $20, и я ничего не скажу {color=[_ch8.col]}(Убеждение. Шанс: [_ch8.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Если днем ты будешь ходить без трусов, буду молчать {color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+msgstr "Если днем ты будешь ходить без трусов, буду молчать {color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Если больше не будешь носить лифчик, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+msgstr "Если больше не будешь носить лифчик, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Если будешь курить без верха купальника, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+msgstr "Если будешь курить без верха купальника, буду молчать {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
+msgstr "Если хочешь, чтобы мама ничего не знала, ты будешь ходить без джинсов."
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
+msgstr "Если разрешишь тебя отшлёпать, то я ничего не скажу!"
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Хочу, чтобы ты спала голой! {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+msgstr "Хочу, чтобы ты спала голой! {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1280
+msgid "Ты знаешь, я сегодня добрый..."
+msgstr "Ты знаешь, я сегодня добрый..."
+
+#    # game/dialogues/alicetalk.rpy:1298
+msgid "Нет. Или получаешь вечером по заднице или не одеваешь джинсы. {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+msgstr "Нет. Или получаешь вечером по заднице или не одеваешь джинсы. {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1304
+msgid "Конечно!"
+msgstr "Конечно!"
+
+#    # game/dialogues/alicetalk.rpy:1335
+msgid "Но сейчас тебя есть за что отшлёпать! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Но сейчас тебя есть за что отшлёпать! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1341
+msgid "{i}подождать Алису{/i}"
+msgstr "{i}подождать Алису{/i}"
+
+#    # game/dialogues/alicetalk.rpy:1378
+msgid "Что ты! Нет, конечно..."
+msgstr "Что ты! Нет, конечно..."
+
+#    # game/dialogues/alicetalk.rpy:1451
+msgid "Нет, давай $20 {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+msgstr "Нет, давай $20 {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:1451
+msgid "Хорошо, устроит и $10"
+msgstr "Хорошо, устроит и $10"
+
+#    # game/dialogues/alicetalk.rpy:1469
+msgid "Удачи!"
+msgstr "Удачи!"
+
+#    # game/dialogues/alicetalk.rpy:1485
+msgid "{i}Ну, как скажешь...{/i}"
+msgstr "{i}Ну, как скажешь...{/i}"
+
+#    # game/dialogues/alicetalk.rpy:1500
+msgid "Доволен, конечно!"
+msgstr "Доволен, конечно!"
+
+#    # game/dialogues/alicetalk.rpy:1500
+msgid "А чего ты прикрываешься?"
+msgstr "А чего ты прикрываешься?"
+
+#    # game/dialogues/alicetalk.rpy:1500
+msgid "Я передумал. Можешь одеться."
+msgstr "Я передумал. Можешь одеться."
+
+#    # game/dialogues/alicetalk.rpy:1503
+msgid "Не переживай, не скажу"
+msgstr "Не переживай, не скажу"
+
+#    # game/dialogues/alicetalk.rpy:1503
+msgid "Ну... это зависит от тебя!"
+msgstr "Ну... это зависит от тебя!"
+
+#    # game/dialogues/alicetalk.rpy:1516
+msgid "Ну, я перегнул палку..."
+msgstr "Ну, я перегнул палку..."
+
+#    # game/dialogues/alicetalk.rpy:1516
+msgid "Это мой шаг к дружбе"
+msgstr "Это мой шаг к дружбе"
+
+#    # game/dialogues/alicetalk.rpy:1516
+msgid "Да надоела!"
+msgstr "Да надоела!"
+
+#    # game/dialogues/alicetalk.rpy:1516
+msgid "Ты знаешь, пусть всё остаётся как есть..."
+msgstr "Ты знаешь, пусть всё остаётся как есть..."
+
+#    # game/dialogues/alicetalk.rpy:1529
+msgid "{i}свалить{/i}"
+msgstr "{i}свалить{/i}"
+
+#    # game/dialogues/alicetalk.rpy:1562
+msgid "Ага..."
+msgstr "Ага..."
+
+#    # game/dialogues/alicetalk.rpy:1575
+msgid "Ничего, просто любуюсь..."
+msgstr "Ничего, просто любуюсь..."
+
+#    # game/dialogues/alicetalk.rpy:1575
+msgid "А ты чего в трусах?"
+msgstr "А ты чего в трусах?"
+
+#    # game/dialogues/alicetalk.rpy:1575
+msgid "Я передумал. Можешь носить трусы..."
+msgstr "Я передумал. Можешь носить трусы..."
+
+#    # game/dialogues/alicetalk.rpy:1581
+msgid "Мы же договорились - без трусов!"
+msgstr "Мы же договорились - без трусов!"
+
+#    # game/dialogues/alicetalk.rpy:1581
+msgid "Да шучу я..."
+msgstr "Да шучу я..."
+
+#    # game/dialogues/alicetalk.rpy:1631
+msgid "Я передумал. Ты можешь спать в лифчике, если хочешь."
+msgstr "Я передумал. Ты можешь спать в лифчике, если хочешь."
+
+#    # game/dialogues/alicetalk.rpy:1631
+msgid "Я передумал. Ты можешь спать в нижнем белье..."
+msgstr "Я передумал. Ты можешь спать в нижнем белье..."
+
+#    # game/dialogues/alicetalk.rpy:1656
+msgid "Я передумал. Ты можешь носить свои джинсы, если захочешь."
+msgstr "Я передумал. Ты можешь носить свои джинсы, если захочешь."
+
+#    # game/dialogues/alicetalk.rpy:1752
+msgid "Держи..."
+msgstr "Держи..."
+
+#    # game/dialogues/alicetalk.rpy:1752
+msgid "Не так быстро..."
+msgstr "Не так быстро..."
+
+#    # game/dialogues/alicetalk.rpy:1757
+msgid "Да ничего, просто держи..."
+msgstr "Да ничего, просто держи..."
+
+#    # game/dialogues/alicetalk.rpy:1757
+msgid "Устрой мне показ в нём..."
+msgstr "Устрой мне показ в нём..."
+
+#    # game/dialogues/alicetalk.rpy:1790
+msgid "Э... Хорошо..."
+msgstr "Э... Хорошо..."
+
+#    # game/dialogues/alicetalk.rpy:1805
+msgid "Очень... очень хорошо..."
+msgstr "Очень... очень хорошо..."
+
+#    # game/dialogues/alicetalk.rpy:1805
+msgid "А можешь наклониться?"
+msgstr "А можешь наклониться?"
+
+#    # game/dialogues/alicetalk.rpy:1833
+msgid "Порылся в твоих вещах и нашёл, что читаешь!"
+msgstr "Порылся в твоих вещах и нашёл, что читаешь!"
+
+#    # game/dialogues/alicetalk.rpy:1833
+msgid "Ну, я догадался! Я же умный!"
+msgstr "Ну, я догадался! Я же умный!"
+
+#    # game/dialogues/alicetalk.rpy:1833
+msgid "Я и не знал. Просто угадал видимо..."
+msgstr "Я и не знал. Просто угадал видимо..."
+
+#    # game/dialogues/alicetalk.rpy:1939
+msgid "Ага, я и не подглядываю..."
+msgstr "Ага, я и не подглядываю..."
+
+#    # game/dialogues/alicetalk.rpy:2032
+msgid "Нет, просто хотел увидеть, как на тебе будет смотреться пижама... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Нет, просто хотел увидеть, как на тебе будет смотреться пижама... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:2084
+msgid "Может быть, тебя намазать кремом для загара?"
+msgstr "Может быть, тебя намазать кремом для загара?"
+
+#    # game/dialogues/alicetalk.rpy:2084
+msgid "{i}Предложить Алисе намазать её кремом{/i}"
+msgstr "{i}Предложить Алисе намазать её кремом{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2084
+msgid "Ладно, загорай..."
+msgstr "Ладно, загорай..."
+
+#    # game/dialogues/alicetalk.rpy:2124
+msgid "{i}нанести крем{/i}"
+msgstr "{i}нанести крем{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2124
+msgid "{i}сделать массаж с кремом{/i}"
+msgstr "{i}сделать массаж с кремом{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2124
+msgid "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
+msgstr "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2124
+msgid "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
+msgstr "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2137
+msgid "{i}наносить крем молча{/i}"
+msgstr "{i}наносить крем молча{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2137
+msgid "А тебе нравится, что следы от лямок остаются?"
+msgstr "А тебе нравится, что следы от лямок остаются?"
+
+#    # game/dialogues/alicetalk.rpy:2156
+msgid "Массаж"
+msgstr "Массаж"
+
+#    # game/dialogues/alicetalk.rpy:2156
+msgid "Массаж ступней"
+msgstr "Массаж ступней"
+
+#    # game/dialogues/alicetalk.rpy:2156
+msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
+msgstr "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
+
+#    # game/dialogues/alicetalk.rpy:2156
+msgid "Массаж кистей рук"
+msgstr "Массаж кистей рук"
+
+#    # game/dialogues/alicetalk.rpy:2275
+msgid "{i}массировать молча{/i}"
+msgstr "{i}массировать молча{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2295
+msgid "{i}продолжить{/i}"
+msgstr "{i}продолжить{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2295
+msgid "{i}выпустить рядом паука{/i}"
+msgstr "{i}выпустить рядом паука{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2422
+msgid "Что, стесняешься? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Что, стесняешься? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:2422
+msgid "Ну, как хочешь..."
+msgstr "Ну, как хочешь..."
+
+#    # game/dialogues/alicetalk.rpy:2497
+msgid "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
+msgstr "Давай лучше ещё так посидим, подождём. Вон он, уползает..."
+
+#    # game/dialogues/alicetalk.rpy:2497
+msgid "Спрячься за меня, хотя бы..."
+msgstr "Спрячься за меня, хотя бы..."
+
+#    # game/dialogues/alicetalk.rpy:2497
+msgid "{i}потискать Алису за грудь{/i}"
+msgstr "{i}потискать Алису за грудь{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2627
+msgid "{i}убрать руки{/i}"
+msgstr "{i}убрать руки{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2627
+msgid "{i}тискать дальше...{/i}"
+msgstr "{i}тискать дальше...{/i}"
+
+#    # game/dialogues/alicetalk.rpy:2696
+msgid "Да ладно! Это мне нравится... И что там у тебя?"
+msgstr "Да ладно! Это мне нравится... И что там у тебя?"
+
+#    # game/dialogues/alicetalk.rpy:2696
+msgid "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?"
+msgstr "Ого! И правда хочешь рискнуть... И что там у тебя на этот раз?"
+
+#    # game/dialogues/alicetalk.rpy:2696
+msgid "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!"
+msgstr "Наконец-то! Ну давай, показывай, что у тебя на этот раз?!"
+
+#    # game/dialogues/alicetalk.rpy:2761
+msgid "Да я же случайно оказался около душа... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Да я же случайно оказался около душа... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:3185
+msgid "Хочется надеяться, что так и будет... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Хочется надеяться, что так и будет... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:3275
+msgid "Именно на это я и надеюсь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Именно на это я и надеюсь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:3365
+msgid "Только если без последующего насилия... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Только если без последующего насилия... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:3554
+msgid "Ты мне кое-что показала..."
+msgstr "Ты мне кое-что показала..."
+
+#    # game/dialogues/alicetalk.rpy:3554
+msgid "Ты мне кое-что сделала..."
+msgstr "Ты мне кое-что сделала..."
+
+#    # game/dialogues/alicetalk.rpy:3554
+msgid "Мы делали кое-что..."
+msgstr "Мы делали кое-что..."
+
+#    # game/dialogues/alicetalk.rpy:3554
+msgid "Да, ну извини..."
+msgstr "Да, ну извини..."
+
+#    # game/dialogues/alicetalk.rpy:3637
+msgid "Ничего..."
+msgstr "Ничего..."
+
+#    # game/dialogues/alicetalk.rpy:3637
+msgid "Может, попозируешь для меня..."
+msgstr "Может, попозируешь для меня..."
+
+#    # game/dialogues/alicetalk.rpy:3674
+msgid "Ну что, примеришь при мне?"
+msgstr "Ну что, примеришь при мне?"
+
+#    # game/dialogues/alicetalk.rpy:3674
+msgid "Ну что, примеришь при мне? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Ну что, примеришь при мне? {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:3952
+msgid "{i}подглядывать {color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
+msgstr "{i}подглядывать {color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
+
+#    # game/dialogues/alicetalk.rpy:3952
+msgid "{i}ждать{/i}"
+msgstr "{i}ждать{/i}"
+
+#    # game/dialogues/alicetalk.rpy:4050
+msgid "Ладно, как знаешь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+msgstr "Ладно, как знаешь... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+
+#    # game/dialogues/alicetalk.rpy:4133
+msgid "{i}стянуть верх купальника{/i}"
+msgstr "{i}стянуть верх купальника{/i}"
+
+#    # game/dialogues/alicetalk.rpy:4140
+msgid "{i}стянуть низ купальника{/i}"
+msgstr "{i}стянуть низ купальника{/i}"
+
+#    # game/dialogues/alicetalk.rpy:4148
+msgid "{i}шлёпать нежно{/i}"
+msgstr "{i}шлёпать нежно{/i}"
+
+#    # game/dialogues/alicetalk.rpy:4148
+msgid "{i}шлёпать сильно{/i}"
+msgstr "{i}шлёпать сильно{/i}"
+
+#    # game/dialogues/alicetalk.rpy:4154
+msgid "Ну вот, а ты не хотела!"
+msgstr "Ну вот, а ты не хотела!"
+
+#    # game/dialogues/alicetalk.rpy:4154
+msgid "Могу сильнее, а то это уже не наказание!"
+msgstr "Могу сильнее, а то это уже не наказание!"
+
+#    # game/dialogues/alicetalk.rpy:4267
+msgid "И как, тебе нравится?"
+msgstr "И как, тебе нравится?"
+
+#    # game/dialogues/alicetalk.rpy:4267
+msgid "Могу сильнее, раз ты заскучала!"
+msgstr "Могу сильнее, раз ты заскучала!"
 

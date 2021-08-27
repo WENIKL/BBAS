@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-    # game/options.rpy:15
-    old "Большой брат: Другая история"
-    new "Большой брат: Другая история"
+#    # game/options.rpy:15
+msgid "Большой брат: Другая история"
+msgstr "Большой брат: Другая история"
 

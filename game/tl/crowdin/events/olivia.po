@@ -1280,27 +1280,27 @@ translate crowdin olivia_repeatable_night_out_with_cb768b4d:
 
 translate crowdin strings:
 
-    # game/events/olivia.rpy:35
-    old "{i}подсмотреть\n{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
-    new "{i}подсмотреть\n{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
+#    # game/events/olivia.rpy:35
+msgid "{i}подсмотреть\n{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
+msgstr "{i}подсмотреть\n{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
 
-    # game/events/olivia.rpy:91
-    old "{i}дождаться девчонок{/i}"
-    new "{i}дождаться девчонок{/i}"
+#    # game/events/olivia.rpy:91
+msgid "{i}дождаться девчонок{/i}"
+msgstr "{i}дождаться девчонок{/i}"
 
-    # game/events/olivia.rpy:175
-    old "Конечно с вами!"
-    new "Конечно с вами!"
+#    # game/events/olivia.rpy:175
+msgid "Конечно с вами!"
+msgstr "Конечно с вами!"
 
-    # game/events/olivia.rpy:283
-    old "Я с вами!"
-    new "Я с вами!"
+#    # game/events/olivia.rpy:283
+msgid "Я с вами!"
+msgstr "Я с вами!"
 
-    # game/events/olivia.rpy:369
-    old "{i}раздеться и сесть рядом{/i}"
-    new "{i}раздеться и сесть рядом{/i}"
+#    # game/events/olivia.rpy:369
+msgid "{i}раздеться и сесть рядом{/i}"
+msgstr "{i}раздеться и сесть рядом{/i}"
 
-    # game/events/olivia.rpy:613
-    old "{i}идти в свою комнату{/i}"
-    new "{i}идти в свою комнату{/i}"
+#    # game/events/olivia.rpy:613
+msgid "{i}идти в свою комнату{/i}"
+msgstr "{i}идти в свою комнату{/i}"
 

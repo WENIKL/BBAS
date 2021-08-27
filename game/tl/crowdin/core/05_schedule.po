@@ -2,27 +2,27 @@
 
 translate crowdin strings:
 
-    # game/core/05_schedule.rpy:7
-    old "курит"
-    new "курит"
+#    # game/core/05_schedule.rpy:7
+msgid "курит"
+msgstr "курит"
 
-    # game/core/05_schedule.rpy:7
-    old "в бассейне"
-    new "в бассейне"
+#    # game/core/05_schedule.rpy:7
+msgid "в бассейне"
+msgstr "в бассейне"
 
-    # game/core/05_schedule.rpy:74
-    old "спит (утро)"
-    new "спит (утро)"
+#    # game/core/05_schedule.rpy:74
+msgid "спит (утро)"
+msgstr "спит (утро)"
 
-    # game/core/05_schedule.rpy:74
-    old "в своей комнате"
-    new "в своей комнате"
+#    # game/core/05_schedule.rpy:74
+msgid "в своей комнате"
+msgstr "в своей комнате"
 
-    # game/core/05_schedule.rpy:74
-    old "читает на веранде"
-    new "читает на веранде"
+#    # game/core/05_schedule.rpy:74
+msgid "читает на веранде"
+msgstr "читает на веранде"
 
-    # game/core/05_schedule.rpy:162
-    old "семейный ужин"
-    new "семейный ужин"
+#    # game/core/05_schedule.rpy:162
+msgid "семейный ужин"
+msgstr "семейный ужин"
 

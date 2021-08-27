@@ -758,19 +758,19 @@ translate crowdin olivia_about_film_punish_nice_view_3e444279:
 
 translate crowdin strings:
 
-    # game/dialogues/oliviatalk.rpy:11
-    old "Хотя, нет... У меня вообще-то дела есть..."
-    new "Хотя, нет... У меня вообще-то дела есть..."
+#    # game/dialogues/oliviatalk.rpy:11
+msgid "Хотя, нет... У меня вообще-то дела есть..."
+msgstr "Хотя, нет... У меня вообще-то дела есть..."
 
-    # game/dialogues/oliviatalk.rpy:253
-    old "Давай перенесём..."
-    new "Давай перенесём..."
+#    # game/dialogues/oliviatalk.rpy:253
+msgid "Давай перенесём..."
+msgstr "Давай перенесём..."
 
-    # game/dialogues/oliviatalk.rpy:253
-    old "Тогда приятного вам просмотра..."
-    new "Тогда приятного вам просмотра..."
+#    # game/dialogues/oliviatalk.rpy:253
+msgid "Тогда приятного вам просмотра..."
+msgstr "Тогда приятного вам просмотра..."
 
-    # game/dialogues/oliviatalk.rpy:256
-    old "{i}идти в гостиную{/i}"
-    new "{i}идти в гостиную{/i}"
+#    # game/dialogues/oliviatalk.rpy:256
+msgid "{i}идти в гостиную{/i}"
+msgstr "{i}идти в гостиную{/i}"
 

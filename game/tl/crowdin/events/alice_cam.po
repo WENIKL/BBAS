@@ -554,27 +554,27 @@ translate crowdin cam0_blog_with_Eric_340b426d:
 
 translate crowdin strings:
 
-    # game/events/alice_cam.rpy:56
-    old "{i}Конечно{/i}"
-    new "{i}Конечно{/i}"
+#    # game/events/alice_cam.rpy:56
+msgid "{i}Конечно{/i}"
+msgstr "{i}Конечно{/i}"
 
-    # game/events/alice_cam.rpy:72
-    old "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-    new "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+#    # game/events/alice_cam.rpy:72
+msgid "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+msgstr "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
 
-    # game/events/alice_cam.rpy:72
-    old "{i}Да и хрен с ним, пусть дрочит{/i}"
-    new "{i}Да и хрен с ним, пусть дрочит{/i}"
+#    # game/events/alice_cam.rpy:72
+msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
+msgstr "{i}Да и хрен с ним, пусть дрочит{/i}"
 
-    # game/events/alice_cam.rpy:83
-    old "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-    new "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+#    # game/events/alice_cam.rpy:83
+msgid "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+msgstr "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
 
-    # game/events/alice_cam.rpy:327
-    old "{i}продолжать смотреть{/i}"
-    new "{i}продолжать смотреть{/i}"
+#    # game/events/alice_cam.rpy:327
+msgid "{i}продолжать смотреть{/i}"
+msgstr "{i}продолжать смотреть{/i}"
 
-    # game/events/alice_cam.rpy:327
-    old "{i}достаточно{/i}"
-    new "{i}достаточно{/i}"
+#    # game/events/alice_cam.rpy:327
+msgid "{i}достаточно{/i}"
+msgstr "{i}достаточно{/i}"
 

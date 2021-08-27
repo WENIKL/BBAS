@@ -1880,347 +1880,347 @@ translate crowdin dinner_lace_lingerie_e0b844ce:
 
 translate crowdin strings:
 
-    # game/dialogues/dinner.rpy:56
-    old "Как скажешь, мам..."
-    new "Как скажешь, мам..."
-
-    # game/dialogues/dinner.rpy:56
-    old "У тебя всё хорошо?"
-    new "У тебя всё хорошо?"
-
-    # game/dialogues/dinner.rpy:70
-    old "Напомни, а кем ты работаешь?"
-    new "Напомни, а кем ты работаешь?"
-
-    # game/dialogues/dinner.rpy:70
-    old "А где находится твой офис?"
-    new "А где находится твой офис?"
-
-    # game/dialogues/dinner.rpy:73
-    old "Точно. Ну, поздравляю!"
-    new "Точно. Ну, поздравляю!"
-
-    # game/dialogues/dinner.rpy:73
-    old "А с начальником повезло?"
-    new "А с начальником повезло?"
-
-    # game/dialogues/dinner.rpy:80
-    old "Поздравляю!"
-    new "Поздравляю!"
-
-    # game/dialogues/dinner.rpy:92
-    old "А что с ним?"
-    new "А что с ним?"
-
-    # game/dialogues/dinner.rpy:92
-    old "Ещё толще и лысее?"
-    new "Ещё толще и лысее?"
-
-    # game/dialogues/dinner.rpy:98
-    old "Ого! Да он в тебя влюбился?"
-    new "Ого! Да он в тебя влюбился?"
-
-    # game/dialogues/dinner.rpy:98
-    old "И как его зовут?"
-    new "И как его зовут?"
-
-    # game/dialogues/dinner.rpy:98
-    old "Мне кажется, это плохая идея"
-    new "Мне кажется, это плохая идея"
-
-    # game/dialogues/dinner.rpy:101
-    old "Да, точно! А может быть, и он тебе нравится?"
-    new "Да, точно! А может быть, и он тебе нравится?"
-
-    # game/dialogues/dinner.rpy:110
-    old "А вред такой, что если поссорится, её уволят!"
-    new "А вред такой, что если поссорится, её уволят!"
-
-    # game/dialogues/dinner.rpy:110
-    old "Может, ты и права..."
-    new "Может, ты и права..."
-
-    # game/dialogues/dinner.rpy:129
-    old "Ага, а подружку зовут Алекс..."
-    new "Ага, а подружку зовут Алекс..."
-
-    # game/dialogues/dinner.rpy:129
-    old "Что за подружка?"
-    new "Что за подружка?"
-
-    # game/dialogues/dinner.rpy:129
-    old "Что за подружка? {i}(подмигнуть){/i}"
-    new "Что за подружка? {i}(подмигнуть){/i}"
-
-    # game/dialogues/dinner.rpy:133
-    old "Ой, извини. Я думал, у нас нет секретов..."
-    new "Ой, извини. Я думал, у нас нет секретов..."
-
-    # game/dialogues/dinner.rpy:133
-    old "А ты не сказала, что это секрет..."
-    new "А ты не сказала, что это секрет..."
-
-    # game/dialogues/dinner.rpy:159
-    old "Хорошо, мам!"
-    new "Хорошо, мам!"
-
-    # game/dialogues/dinner.rpy:171
-    old "А ты прямо уработалась, да?"
-    new "А ты прямо уработалась, да?"
-
-    # game/dialogues/dinner.rpy:171
-    old "А ты чем занимаешься?"
-    new "А ты чем занимаешься?"
-
-    # game/dialogues/dinner.rpy:182
-    old "А на что она будет поступать?"
-    new "А на что она будет поступать?"
-
-    # game/dialogues/dinner.rpy:182
-    old "Да ей лень!"
-    new "Да ей лень!"
-
-    # game/dialogues/dinner.rpy:185
-    old "Это кто одарённый? Алиса?"
-    new "Это кто одарённый? Алиса?"
-
-    # game/dialogues/dinner.rpy:185
-    old "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
-    new "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
-
-    # game/dialogues/dinner.rpy:185
-    old "А при чём тут Алиса?"
-    new "А при чём тут Алиса?"
-
-    # game/dialogues/dinner.rpy:204
-    old "Так чего жы ты такая бедная?"
-    new "Так чего жы ты такая бедная?"
-
-    # game/dialogues/dinner.rpy:204
-    old "И какой план?"
-    new "И какой план?"
-
-    # game/dialogues/dinner.rpy:223
-    old "Ну как построишь, позови!"
-    new "Ну как построишь, позови!"
-
-    # game/dialogues/dinner.rpy:223
-    old "Помощь нужна?"
-    new "Помощь нужна?"
-
-    # game/dialogues/dinner.rpy:253
-    old "Даже спасибо? Ну, хорошо..."
-    new "Даже спасибо? Ну, хорошо..."
-
-    # game/dialogues/dinner.rpy:253
-    old "Ладно..."
-    new "Ладно..."
-
-    # game/dialogues/dinner.rpy:260
-    old "Спасибо? Мне? От тебя?!"
-    new "Спасибо? Мне? От тебя?!"
-
-    # game/dialogues/dinner.rpy:271
-    old "Ты что, пауков боишься?"
-    new "Ты что, пауков боишься?"
-
-    # game/dialogues/dinner.rpy:271
-    old "Да они же безобидные, наверное..."
-    new "Да они же безобидные, наверное..."
-
-    # game/dialogues/dinner.rpy:296
-    old "А это точно хорошо?"
-    new "А это точно хорошо?"
-
-    # game/dialogues/dinner.rpy:296
-    old "Поздравляю, мам!"
-    new "Поздравляю, мам!"
-
-    # game/dialogues/dinner.rpy:305
-    old "И теперь ты будешь ещё больше от него зависеть..."
-    new "И теперь ты будешь ещё больше от него зависеть..."
-
-    # game/dialogues/dinner.rpy:305
-    old "А если поссоришься с этим Эриком, то всё..."
-    new "А если поссоришься с этим Эриком, то всё..."
-
-    # game/dialogues/dinner.rpy:314
-    old "Давай, рассказывай подробности!"
-    new "Давай, рассказывай подробности!"
-
-    # game/dialogues/dinner.rpy:314
-    old "Ладно, не будем мучать Лизу вопросами..."
-    new "Ладно, не будем мучать Лизу вопросами..."
-
-    # game/dialogues/dinner.rpy:325
-    old "Бери меня с собой!"
-    new "Бери меня с собой!"
-
-    # game/dialogues/dinner.rpy:325
-    old "Я тоже люблю клубы!"
-    new "Я тоже люблю клубы!"
-
-    # game/dialogues/dinner.rpy:349
-    old "А меня сейчас стошнит..."
-    new "А меня сейчас стошнит..."
-
-    # game/dialogues/dinner.rpy:356
-    old "Да загорай голая!"
-    new "Да загорай голая!"
-
-    # game/dialogues/dinner.rpy:369
-    old "Попрошайка!"
-    new "Попрошайка!"
-
-    # game/dialogues/dinner.rpy:376
-    old "И правильно!"
-    new "И правильно!"
-
-    # game/dialogues/dinner.rpy:384
-    old "Подробнее, пожалуйста..."
-    new "Подробнее, пожалуйста..."
-
-    # game/dialogues/dinner.rpy:391
-    old "{i}О нет...{/i}"
-    new "{i}О нет...{/i}"
-
-    # game/dialogues/dinner.rpy:395
-    old "И правильно делаешь!"
-    new "И правильно делаешь!"
-
-    # game/dialogues/dinner.rpy:405
-    old "Повеселитесь там, как следует!"
-    new "Повеселитесь там, как следует!"
-
-    # game/dialogues/dinner.rpy:405
-    old "А что вы будете делать?"
-    new "А что вы будете делать?"
-
-    # game/dialogues/dinner.rpy:429
-    old "И чем будете заниматься?"
-    new "И чем будете заниматься?"
-
-    # game/dialogues/dinner.rpy:429
-    old "Отлично!"
-    new "Отлично!"
-
-    # game/dialogues/dinner.rpy:429
-    old "Зачем он тут нужен?"
-    new "Зачем он тут нужен?"
-
-    # game/dialogues/dinner.rpy:436
-    old "Почему понравился? Нормальный мужик..."
-    new "Почему понравился? Нормальный мужик..."
-
-    # game/dialogues/dinner.rpy:436
-    old "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
-    new "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
-
-    # game/dialogues/dinner.rpy:444
-    old "А за что его любить?"
-    new "А за что его любить?"
-
-    # game/dialogues/dinner.rpy:444
-    old "Да козёл он!"
-    new "Да козёл он!"
-
-    # game/dialogues/dinner.rpy:465
-    old "Ну, кто рад, а кто..."
-    new "Ну, кто рад, а кто..."
-
-    # game/dialogues/dinner.rpy:469
-    old "Да всё нормально..."
-    new "Да всё нормально..."
-
-    # game/dialogues/dinner.rpy:469
-    old "Вы слишком торопитесь."
-    new "Вы слишком торопитесь."
-
-    # game/dialogues/dinner.rpy:469
-    old "Просто не нравишься!"
-    new "Просто не нравишься!"
-
-    # game/dialogues/dinner.rpy:481
-    old "Тебе показалось..."
-    new "Тебе показалось..."
-
-    # game/dialogues/dinner.rpy:542
-    old "Может быть, я такой..."
-    new "Может быть, я такой..."
-
-    # game/dialogues/dinner.rpy:548
-    old "Сдалось оно мне..."
-    new "Сдалось оно мне..."
-
-    # game/dialogues/dinner.rpy:548
-    old "Я подумаю..."
-    new "Я подумаю..."
-
-    # game/dialogues/dinner.rpy:574
-    old "Ты беременна?"
-    new "Ты беременна?"
-
-    # game/dialogues/dinner.rpy:574
-    old "Опять про Эрика?"
-    new "Опять про Эрика?"
-
-    # game/dialogues/dinner.rpy:574
-    old "Не знаю даже..."
-    new "Не знаю даже..."
-
-    # game/dialogues/dinner.rpy:585
-    old "Я так и знал!"
-    new "Я так и знал!"
-
-    # game/dialogues/dinner.rpy:585
-    old "Тётя Кира?"
-    new "Тётя Кира?"
-
-    # game/dialogues/dinner.rpy:593
-    old "Первая хорошая новость..."
-    new "Первая хорошая новость..."
-
-    # game/dialogues/dinner.rpy:600
-    old "Почему ты так говоришь?"
-    new "Почему ты так говоришь?"
-
-    # game/dialogues/dinner.rpy:600
-    old "А на кого она училась?"
-    new "А на кого она училась?"
-
-    # game/dialogues/dinner.rpy:603
-    old "В каком виде?!"
-    new "В каком виде?!"
-
-    # game/dialogues/dinner.rpy:603
-    old "Её арестовывали?"
-    new "Её арестовывали?"
-
-    # game/dialogues/dinner.rpy:614
-    old "Я не в курсе этой истории"
-    new "Я не в курсе этой истории"
-
-    # game/dialogues/dinner.rpy:633
-    old "День шоппинга?"
-    new "День шоппинга?"
-
-    # game/dialogues/dinner.rpy:633
-    old "Тётя Кира приезжает?"
-    new "Тётя Кира приезжает?"
-
-    # game/dialogues/dinner.rpy:640
-    old "А без Эрика сегодня никак?"
-    new "А без Эрика сегодня никак?"
-
-    # game/dialogues/dinner.rpy:640
-    old "А как же шоппинг?"
-    new "А как же шоппинг?"
-
-    # game/dialogues/dinner.rpy:655
-    old "Ну, я не против"
-    new "Ну, я не против"
-
-    # game/dialogues/dinner.rpy:655
-    old "Может быть, наоборот?"
-    new "Может быть, наоборот?"
+#    # game/dialogues/dinner.rpy:56
+msgid "Как скажешь, мам..."
+msgstr "Как скажешь, мам..."
+
+#    # game/dialogues/dinner.rpy:56
+msgid "У тебя всё хорошо?"
+msgstr "У тебя всё хорошо?"
+
+#    # game/dialogues/dinner.rpy:70
+msgid "Напомни, а кем ты работаешь?"
+msgstr "Напомни, а кем ты работаешь?"
+
+#    # game/dialogues/dinner.rpy:70
+msgid "А где находится твой офис?"
+msgstr "А где находится твой офис?"
+
+#    # game/dialogues/dinner.rpy:73
+msgid "Точно. Ну, поздравляю!"
+msgstr "Точно. Ну, поздравляю!"
+
+#    # game/dialogues/dinner.rpy:73
+msgid "А с начальником повезло?"
+msgstr "А с начальником повезло?"
+
+#    # game/dialogues/dinner.rpy:80
+msgid "Поздравляю!"
+msgstr "Поздравляю!"
+
+#    # game/dialogues/dinner.rpy:92
+msgid "А что с ним?"
+msgstr "А что с ним?"
+
+#    # game/dialogues/dinner.rpy:92
+msgid "Ещё толще и лысее?"
+msgstr "Ещё толще и лысее?"
+
+#    # game/dialogues/dinner.rpy:98
+msgid "Ого! Да он в тебя влюбился?"
+msgstr "Ого! Да он в тебя влюбился?"
+
+#    # game/dialogues/dinner.rpy:98
+msgid "И как его зовут?"
+msgstr "И как его зовут?"
+
+#    # game/dialogues/dinner.rpy:98
+msgid "Мне кажется, это плохая идея"
+msgstr "Мне кажется, это плохая идея"
+
+#    # game/dialogues/dinner.rpy:101
+msgid "Да, точно! А может быть, и он тебе нравится?"
+msgstr "Да, точно! А может быть, и он тебе нравится?"
+
+#    # game/dialogues/dinner.rpy:110
+msgid "А вред такой, что если поссорится, её уволят!"
+msgstr "А вред такой, что если поссорится, её уволят!"
+
+#    # game/dialogues/dinner.rpy:110
+msgid "Может, ты и права..."
+msgstr "Может, ты и права..."
+
+#    # game/dialogues/dinner.rpy:129
+msgid "Ага, а подружку зовут Алекс..."
+msgstr "Ага, а подружку зовут Алекс..."
+
+#    # game/dialogues/dinner.rpy:129
+msgid "Что за подружка?"
+msgstr "Что за подружка?"
+
+#    # game/dialogues/dinner.rpy:129
+msgid "Что за подружка? {i}(подмигнуть){/i}"
+msgstr "Что за подружка? {i}(подмигнуть){/i}"
+
+#    # game/dialogues/dinner.rpy:133
+msgid "Ой, извини. Я думал, у нас нет секретов..."
+msgstr "Ой, извини. Я думал, у нас нет секретов..."
+
+#    # game/dialogues/dinner.rpy:133
+msgid "А ты не сказала, что это секрет..."
+msgstr "А ты не сказала, что это секрет..."
+
+#    # game/dialogues/dinner.rpy:159
+msgid "Хорошо, мам!"
+msgstr "Хорошо, мам!"
+
+#    # game/dialogues/dinner.rpy:171
+msgid "А ты прямо уработалась, да?"
+msgstr "А ты прямо уработалась, да?"
+
+#    # game/dialogues/dinner.rpy:171
+msgid "А ты чем занимаешься?"
+msgstr "А ты чем занимаешься?"
+
+#    # game/dialogues/dinner.rpy:182
+msgid "А на что она будет поступать?"
+msgstr "А на что она будет поступать?"
+
+#    # game/dialogues/dinner.rpy:182
+msgid "Да ей лень!"
+msgstr "Да ей лень!"
+
+#    # game/dialogues/dinner.rpy:185
+msgid "Это кто одарённый? Алиса?"
+msgstr "Это кто одарённый? Алиса?"
+
+#    # game/dialogues/dinner.rpy:185
+msgid "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
+msgstr "Ну да, ей уже сейчас должны платить за то, что она такая звезда!"
+
+#    # game/dialogues/dinner.rpy:185
+msgid "А при чём тут Алиса?"
+msgstr "А при чём тут Алиса?"
+
+#    # game/dialogues/dinner.rpy:204
+msgid "Так чего жы ты такая бедная?"
+msgstr "Так чего жы ты такая бедная?"
+
+#    # game/dialogues/dinner.rpy:204
+msgid "И какой план?"
+msgstr "И какой план?"
+
+#    # game/dialogues/dinner.rpy:223
+msgid "Ну как построишь, позови!"
+msgstr "Ну как построишь, позови!"
+
+#    # game/dialogues/dinner.rpy:223
+msgid "Помощь нужна?"
+msgstr "Помощь нужна?"
+
+#    # game/dialogues/dinner.rpy:253
+msgid "Даже спасибо? Ну, хорошо..."
+msgstr "Даже спасибо? Ну, хорошо..."
+
+#    # game/dialogues/dinner.rpy:253
+msgid "Ладно..."
+msgstr "Ладно..."
+
+#    # game/dialogues/dinner.rpy:260
+msgid "Спасибо? Мне? От тебя?!"
+msgstr "Спасибо? Мне? От тебя?!"
+
+#    # game/dialogues/dinner.rpy:271
+msgid "Ты что, пауков боишься?"
+msgstr "Ты что, пауков боишься?"
+
+#    # game/dialogues/dinner.rpy:271
+msgid "Да они же безобидные, наверное..."
+msgstr "Да они же безобидные, наверное..."
+
+#    # game/dialogues/dinner.rpy:296
+msgid "А это точно хорошо?"
+msgstr "А это точно хорошо?"
+
+#    # game/dialogues/dinner.rpy:296
+msgid "Поздравляю, мам!"
+msgstr "Поздравляю, мам!"
+
+#    # game/dialogues/dinner.rpy:305
+msgid "И теперь ты будешь ещё больше от него зависеть..."
+msgstr "И теперь ты будешь ещё больше от него зависеть..."
+
+#    # game/dialogues/dinner.rpy:305
+msgid "А если поссоришься с этим Эриком, то всё..."
+msgstr "А если поссоришься с этим Эриком, то всё..."
+
+#    # game/dialogues/dinner.rpy:314
+msgid "Давай, рассказывай подробности!"
+msgstr "Давай, рассказывай подробности!"
+
+#    # game/dialogues/dinner.rpy:314
+msgid "Ладно, не будем мучать Лизу вопросами..."
+msgstr "Ладно, не будем мучать Лизу вопросами..."
+
+#    # game/dialogues/dinner.rpy:325
+msgid "Бери меня с собой!"
+msgstr "Бери меня с собой!"
+
+#    # game/dialogues/dinner.rpy:325
+msgid "Я тоже люблю клубы!"
+msgstr "Я тоже люблю клубы!"
+
+#    # game/dialogues/dinner.rpy:349
+msgid "А меня сейчас стошнит..."
+msgstr "А меня сейчас стошнит..."
+
+#    # game/dialogues/dinner.rpy:356
+msgid "Да загорай голая!"
+msgstr "Да загорай голая!"
+
+#    # game/dialogues/dinner.rpy:369
+msgid "Попрошайка!"
+msgstr "Попрошайка!"
+
+#    # game/dialogues/dinner.rpy:376
+msgid "И правильно!"
+msgstr "И правильно!"
+
+#    # game/dialogues/dinner.rpy:384
+msgid "Подробнее, пожалуйста..."
+msgstr "Подробнее, пожалуйста..."
+
+#    # game/dialogues/dinner.rpy:391
+msgid "{i}О нет...{/i}"
+msgstr "{i}О нет...{/i}"
+
+#    # game/dialogues/dinner.rpy:395
+msgid "И правильно делаешь!"
+msgstr "И правильно делаешь!"
+
+#    # game/dialogues/dinner.rpy:405
+msgid "Повеселитесь там, как следует!"
+msgstr "Повеселитесь там, как следует!"
+
+#    # game/dialogues/dinner.rpy:405
+msgid "А что вы будете делать?"
+msgstr "А что вы будете делать?"
+
+#    # game/dialogues/dinner.rpy:429
+msgid "И чем будете заниматься?"
+msgstr "И чем будете заниматься?"
+
+#    # game/dialogues/dinner.rpy:429
+msgid "Отлично!"
+msgstr "Отлично!"
+
+#    # game/dialogues/dinner.rpy:429
+msgid "Зачем он тут нужен?"
+msgstr "Зачем он тут нужен?"
+
+#    # game/dialogues/dinner.rpy:436
+msgid "Почему понравился? Нормальный мужик..."
+msgstr "Почему понравился? Нормальный мужик..."
+
+#    # game/dialogues/dinner.rpy:436
+msgid "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
+msgstr "Эрик? Понравился?! Нет, просто рад, что ты дома будешь..."
+
+#    # game/dialogues/dinner.rpy:444
+msgid "А за что его любить?"
+msgstr "А за что его любить?"
+
+#    # game/dialogues/dinner.rpy:444
+msgid "Да козёл он!"
+msgstr "Да козёл он!"
+
+#    # game/dialogues/dinner.rpy:465
+msgid "Ну, кто рад, а кто..."
+msgstr "Ну, кто рад, а кто..."
+
+#    # game/dialogues/dinner.rpy:469
+msgid "Да всё нормально..."
+msgstr "Да всё нормально..."
+
+#    # game/dialogues/dinner.rpy:469
+msgid "Вы слишком торопитесь."
+msgstr "Вы слишком торопитесь."
+
+#    # game/dialogues/dinner.rpy:469
+msgid "Просто не нравишься!"
+msgstr "Просто не нравишься!"
+
+#    # game/dialogues/dinner.rpy:481
+msgid "Тебе показалось..."
+msgstr "Тебе показалось..."
+
+#    # game/dialogues/dinner.rpy:542
+msgid "Может быть, я такой..."
+msgstr "Может быть, я такой..."
+
+#    # game/dialogues/dinner.rpy:548
+msgid "Сдалось оно мне..."
+msgstr "Сдалось оно мне..."
+
+#    # game/dialogues/dinner.rpy:548
+msgid "Я подумаю..."
+msgstr "Я подумаю..."
+
+#    # game/dialogues/dinner.rpy:574
+msgid "Ты беременна?"
+msgstr "Ты беременна?"
+
+#    # game/dialogues/dinner.rpy:574
+msgid "Опять про Эрика?"
+msgstr "Опять про Эрика?"
+
+#    # game/dialogues/dinner.rpy:574
+msgid "Не знаю даже..."
+msgstr "Не знаю даже..."
+
+#    # game/dialogues/dinner.rpy:585
+msgid "Я так и знал!"
+msgstr "Я так и знал!"
+
+#    # game/dialogues/dinner.rpy:585
+msgid "Тётя Кира?"
+msgstr "Тётя Кира?"
+
+#    # game/dialogues/dinner.rpy:593
+msgid "Первая хорошая новость..."
+msgstr "Первая хорошая новость..."
+
+#    # game/dialogues/dinner.rpy:600
+msgid "Почему ты так говоришь?"
+msgstr "Почему ты так говоришь?"
+
+#    # game/dialogues/dinner.rpy:600
+msgid "А на кого она училась?"
+msgstr "А на кого она училась?"
+
+#    # game/dialogues/dinner.rpy:603
+msgid "В каком виде?!"
+msgstr "В каком виде?!"
+
+#    # game/dialogues/dinner.rpy:603
+msgid "Её арестовывали?"
+msgstr "Её арестовывали?"
+
+#    # game/dialogues/dinner.rpy:614
+msgid "Я не в курсе этой истории"
+msgstr "Я не в курсе этой истории"
+
+#    # game/dialogues/dinner.rpy:633
+msgid "День шоппинга?"
+msgstr "День шоппинга?"
+
+#    # game/dialogues/dinner.rpy:633
+msgid "Тётя Кира приезжает?"
+msgstr "Тётя Кира приезжает?"
+
+#    # game/dialogues/dinner.rpy:640
+msgid "А без Эрика сегодня никак?"
+msgstr "А без Эрика сегодня никак?"
+
+#    # game/dialogues/dinner.rpy:640
+msgid "А как же шоппинг?"
+msgstr "А как же шоппинг?"
+
+#    # game/dialogues/dinner.rpy:655
+msgid "Ну, я не против"
+msgstr "Ну, я не против"
+
+#    # game/dialogues/dinner.rpy:655
+msgid "Может быть, наоборот?"
+msgstr "Может быть, наоборот?"
 
