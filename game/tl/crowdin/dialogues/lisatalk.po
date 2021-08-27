@@ -237,8 +237,8 @@ msgstr "[Max_04]Да я не против, можешь смотреть..."
 # game/dialogues/lisatalk.rpy:179
 # translate crowdin MorningWoodCont_4fbd8958:
 
-    # Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
-    Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
+msgid "[Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
+msgstr "[Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
 
 # game/dialogues/lisatalk.rpy:186
 # translate crowdin MorningWoodCont_b3cadc1a:

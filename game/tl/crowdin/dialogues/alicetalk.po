@@ -7179,8 +7179,8 @@ msgstr "[Max_09]{i}( А посмотреть-то хочется! Быстрен
 # game/dialogues/alicetalk.rpy:3690
 # translate crowdin gift_black_lingerie_3163cf24:
 
-    # Alice "{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
-    Alice "{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
+msgid "[Alice]{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
+msgstr "[Alice]{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
 
 # game/dialogues/alicetalk.rpy:3695
 # translate crowdin gift_black_lingerie_75108e7f:
