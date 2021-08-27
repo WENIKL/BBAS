@@ -1174,7 +1174,7 @@ msgstr "[Max_02]{i}( Ухх... Алиса начала сама тереться
 # translate crowdin advanced_massage1_924dbedc:
 
 msgid "[Alice_11]Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... да...[nointeract]"
-    Alice_11 "Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... да...[nointeract]"
+msgstr "[Alice_11]Мне так тепло... там внизу... Кажется, я уже близко... Как хорошо... да...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:876
 # translate crowdin advanced_massage1_faster_b51288bb:
@@ -1270,7 +1270,7 @@ msgstr "[Max_04]{i}( Я сейчас устрою твоей сладкой ки
 # translate crowdin advanced_massage1_no_rush_b40ae767:
 
 msgid "[Alice_11]Ах! Я больше не могу, Макс... Кончаю! Да... Как же это было классно! Ох... Это было потрясающе..."
-    Alice_11 "Ах! Я больше не могу, Макс... Кончаю! Да... Как же это было классно! Ох... Это было потрясающе..."
+msgstr "[Alice_11]Ах! Я больше не могу, Макс... Кончаю! Да... Как же это было классно! Ох... Это было потрясающе..."
 
 # game/dialogues/alicetalk.rpy:945
 # translate crowdin advanced_massage1_no_rush_4ca76960:
