@@ -3555,8 +3555,8 @@ msgstr "[Alice_07]Как приятно... Макс, ты делаешь усп�
 # game/dialogues/alicetalk.rpy:2347
 # translate crowdin massage_sunscreen_ass_e47a4169:
 
-    # "попка"
-    "попка"
+msgid "попка"
+msgstr "попка"
 
 # game/dialogues/alicetalk.rpy:2368
 # translate crowdin massage_sunscreen_hips_cac75cfe:
