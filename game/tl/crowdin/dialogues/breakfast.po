@@ -1413,10 +1413,8 @@ msgstr "[Kira_02]Да не о чем рассказывать. Работала 
 # game/dialogues/breakfast.rpy:746
 # translate crowdin breakfast_18_6935bae9:
 
-msgid "[Max_03]А кем ты хочешь устроиться?" 
-# id breakfast_18_6935bae9
-msgstr "[Max_03]А кем ты хочешь устроиться?" 
-# id breakfast_18_6935bae9
+msgid "[Max_03]А кем ты хочешь устроиться?"
+msgstr "[Max_03]А кем ты хочешь устроиться?"
 
 # game/dialogues/breakfast.rpy:747
 # translate crowdin breakfast_18_86c53803:

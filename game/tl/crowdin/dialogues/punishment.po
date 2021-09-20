@@ -555,18 +555,14 @@ msgstr "[Lisa_10]Ой... Мам! Больно!"
 # game/dialogues/punishment.rpy:519
 # translate crowdin punishment_lisa_303b7136:
 
-msgid "[Ann_16]Давай терпи! Плохо вела себя в школе - получила по голой заднице у всех на глазах." 
-# id punishment_lisa_303b7136
-msgstr "[Ann_16]Давай терпи! Плохо вела себя в школе - получила по голой заднице у всех на глазах." 
-# id punishment_lisa_303b7136
+msgid "[Ann_16]Давай терпи! Плохо вела себя в школе - получила по голой заднице у всех на глазах."
+msgstr "[Ann_16]Давай терпи! Плохо вела себя в школе - получила по голой заднице у всех на глазах."
 
 # game/dialogues/punishment.rpy:521
 # translate crowdin punishment_lisa_b8107edc:
 
-msgid "[Ann_16]Давай терпи! Получила двойку - получила по голой заднице у всех на глазах." 
-# id punishment_lisa_b8107edc
-msgstr "[Ann_16]Давай терпи! Получила двойку - получила по голой заднице у всех на глазах." 
-# id punishment_lisa_b8107edc
+msgid "[Ann_16]Давай терпи! Получила двойку - получила по голой заднице у всех на глазах."
+msgstr "[Ann_16]Давай терпи! Получила двойку - получила по голой заднице у всех на глазах."
 
 # game/dialogues/punishment.rpy:532
 # translate crowdin punishment_lisa_d5d2561c:
