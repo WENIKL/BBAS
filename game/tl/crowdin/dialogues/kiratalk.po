@@ -15,7 +15,7 @@ msgstr "[Kira_01]Конечно, Макс. Ложись рядом. Погода
 # game/dialogues/kiratalk.rpy:20
 # translate crowdin KiraTalkStart_7e1cb4f7:
 
-msgstr "[Kira_00]Макс, чем тебе помочь?[nointeract]"
+msgid "[Kira_00]Макс, чем тебе помочь?[nointeract]"
 msgstr "[Kira_00]Макс, чем тебе помочь?[nointeract]"
 
 # game/dialogues/kiratalk.rpy:35
