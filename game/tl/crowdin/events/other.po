@@ -465,7 +465,7 @@ msgstr "[Alice_07]Я так рада, что ты приехала! Ты же н
 # game/events/other.rpy:250
 # translate crowdin Kira_arrival_94209dce:
 
-msgstr "[Kira_04]Что, уже выгоняете?!"
+msgid "[Kira_04]Что, уже выгоняете?!"
 msgstr "[Kira_04]Что, уже выгоняете?!"
 
 # game/events/other.rpy:251
