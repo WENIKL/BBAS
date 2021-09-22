@@ -1545,7 +1545,7 @@ msgstr "[Kira_07]А ты, Макс, я вижу, нашёл с ним общий
 # game/dialogues/breakfast.rpy:798
 # translate crowdin breakfast_18_next_cc699149:
 
-msgstr "[Kira_06]Так это же здорово! Поздравляю, сестрёнка! Когда свадьба?"
+msgid "[Kira_06]Так это же здорово! Поздравляю, сестрёнка! Когда свадьба?"
 msgstr "[Kira_06]Так это же здорово! Поздравляю, сестрёнка! Когда свадьба?"
 
 # game/dialogues/breakfast.rpy:799
