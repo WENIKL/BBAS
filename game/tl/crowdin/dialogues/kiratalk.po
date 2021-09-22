@@ -1821,7 +1821,7 @@ msgstr "[Max_15]Да, тётя Кира, именно так. И я думаю, 
 # game/dialogues/kiratalk.rpy:991
 # translate crowdin kira_about_ann_secret0_35b169a4:
 
-msgstr "[Kira_16]С этим нужно срочно что-то делать..."
+msgid "[Kira_16]С этим нужно срочно что-то делать..."
 msgstr "[Kira_16]С этим нужно срочно что-то делать..."
 
 # game/dialogues/kiratalk.rpy:992
