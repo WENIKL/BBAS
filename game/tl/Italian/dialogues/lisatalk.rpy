@@ -81,8 +81,8 @@ msgstr "[Lisa_12]Così ti ho creduto! Signora!" nointeract
 # game/dialogues/lisatalk.rpy:114
 translate crowdin MorningWood_9d87c0fa:
 
-msgid "[Ann_15]Лиза? Что случилось?!"
-msgstr "[Ann_15]Lisa? Cos'è successo?!"
+    # Ann_15 "Лиза? Что случилось?!"
+    Ann_15 "Lisa? Cos'è successo?!"
 
 # game/dialogues/lisatalk.rpy:117
 translate crowdin MorningWood_a656cae5:
@@ -93,20 +93,20 @@ msgstr "[Lisa_12]mamma! Guarda cosa ha!"
 # game/dialogues/lisatalk.rpy:118
 translate crowdin MorningWood_a4f80a17:
 
-msgid "[Ann_19]Макс! Объяснишь, чем ты занимался при сестре?!" nointeract
-msgstr "[Ann_19]Max! Puoi spiegare cosa hai fatto con tua sorella?!" nointeract
+    # Ann_19 "Макс! Объяснишь, чем ты занимался при сестре?!" nointeract
+    Ann_19 "Max! Puoi spiegare cosa hai fatto con tua sorella?!" nointeract
 
 # game/dialogues/lisatalk.rpy:121
 translate crowdin MorningWood_2d999f3b:
 
-msgid "[Ann_09]Ну, если ничего не делал и само... Тогда, Лиза, Макс ни в чём не виноват. Так бывает у мальчиков..."
-msgstr "[Ann_09]Beh, se non facessi niente da solo... Quindi, Lisa, Max non è da biasimare per nulla. Questo è quello che succede nei ragazzi..."
+    # Ann_09 "Ну, если ничего не делал и само... Тогда, Лиза, Макс ни в чём не виноват. Так бывает у мальчиков..."
+    Ann_09 "Beh, se non facessi niente da solo... Quindi, Lisa, Max non è da biasimare per nulla. Questo è quello che succede nei ragazzi..."
 
 # game/dialogues/lisatalk.rpy:124
 translate crowdin MorningWood_e227a0bf:
 
-msgid "[Ann_09]Ну, да, Лиза. Так у мальчиков иногда бывает по утрам. Не нужно паниковать..."
-msgstr "[Ann_09]Beh, sì, Lisa. Quindi i ragazzi a volte accadono al mattino. Non c'è bisogno di farsi prendere dal panico..."
+    # Ann_09 "Ну, да, Лиза. Так у мальчиков иногда бывает по утрам. Не нужно паниковать..."
+    Ann_09 "Beh, sì, Lisa. Quindi i ragazzi a volte accadono al mattino. Non c'è bisogno di farsi prendere dal panico..."
 
 # game/dialogues/lisatalk.rpy:125
 translate crowdin MorningWood_37c5030c:
@@ -129,8 +129,8 @@ msgstr "[Max_10]sì, non ho fatto nulla!"
 # game/dialogues/lisatalk.rpy:129
 translate crowdin MorningWood_21eb77e9:
 
-msgid "[Ann_08]Ты сама видела, чтобы Макс чем-то {i}таким{/i} занимался при тебе?"
-msgstr "[Ann_08]Hai visto Max fare qualcosa di {i}come questo{/i} con te?"
+    # Ann_08 "Ты сама видела, чтобы Макс чем-то {i}таким{/i} занимался при тебе?"
+    Ann_08 "Hai visto Max fare qualcosa di {i}come questo{/i} con te?"
 
 # game/dialogues/lisatalk.rpy:130
 translate crowdin MorningWood_089c8445:
@@ -141,8 +141,8 @@ msgstr "[Lisa_09]No, ma mamma... Avevo solo paura."
 # game/dialogues/lisatalk.rpy:134
 translate crowdin MorningWood_138bef5f:
 
-msgid "[Ann_04]Лиза. Ты, похоже, совсем ничего не знаешь о мальчиках. С одной стороны, я рада, что ты у меня такая. А с другой..."
-msgstr "[Ann_04]Lisa. Sembra che tu non sappia nulla dei ragazzi. Da un lato, sono contento di averti. E d'altra parte..."
+    # Ann_04 "Лиза. Ты, похоже, совсем ничего не знаешь о мальчиках. С одной стороны, я рада, что ты у меня такая. А с другой..."
+    Ann_04 "Lisa. Sembra che tu non sappia nulla dei ragazzi. Da un lato, sono contento di averti. E d'altra parte..."
 
 # game/dialogues/lisatalk.rpy:135
 translate crowdin MorningWood_a468566c:
@@ -153,8 +153,8 @@ msgstr "[Lisa_10]E l'altro? Voglio sapere tutto!"
 # game/dialogues/lisatalk.rpy:136
 translate crowdin MorningWood_21fcc87f:
 
-msgid "[Ann_09]Нет, Лиза, тебе ещё рано таким интересоваться. Вот подрастёшь, тогда и поговорим. На этом всё. Сделаем вид, что ничего не было. Ясно?" nointeract
-msgstr "[Ann_09]No, Lisa, è troppo presto per interessarti a questo. Se cresci, allora parleremo. Questo è tutto. Facciamo finta che non ci fosse nulla. Capisco?" nointeract
+    # Ann_09 "Нет, Лиза, тебе ещё рано таким интересоваться. Вот подрастёшь, тогда и поговорим. На этом всё. Сделаем вид, что ничего не было. Ясно?" nointeract
+    Ann_09 "No, Lisa, è troppo presto per interessarti a questo. Se cresci, allora parleremo. Questo è tutto. Facciamo finta che non ci fosse nulla. Capisco?" nointeract
 
 # game/dialogues/lisatalk.rpy:154
 translate crowdin MorningWoodCont_2a9ba99c:

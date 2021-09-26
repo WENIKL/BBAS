@@ -159,8 +159,8 @@ msgstr "[Eric_03]Sì, Max, vai..."
 # game/dialogues/erictalk.rpy:119
 translate crowdin lessons_from_Eric_first_bj_839230dd:
 
-msgid "[Ann_14]Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
-msgstr "[Ann_14]Eric! Vuoi davvero che guardi te e me... Qui dentro..."
+    # Ann_14 "Эрик! Ты правда хочешь, чтобы он смотрел, как мы с тобой... здесь..."
+    Ann_14 "Eric! Vuoi davvero che guardi te e me... Qui dentro..."
 
 # game/dialogues/erictalk.rpy:120
 translate crowdin lessons_from_Eric_first_bj_228bf30f:
@@ -171,8 +171,8 @@ msgstr "[Eric_09]An, rilassati! I bambini hanno bisogno di impararlo da qualcuno
 # game/dialogues/erictalk.rpy:121
 translate crowdin lessons_from_Eric_first_bj_bf1c9777:
 
-msgid "[Ann_13]Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
-msgstr "[Ann_13]Certo che voglio che i bambini stiano bene! Ma in che modo il suo soggiorno con noi aiuterà? Questo è semplicemente sbagliato!"
+    # Ann_13 "Конечно я хочу, чтобы с детьми всё было в порядке! Но, как его пребывание с нами поможет? Это просто неправильно!"
+    Ann_13 "Certo che voglio che i bambini stiano bene! Ma in che modo il suo soggiorno con noi aiuterà? Questo è semplicemente sbagliato!"
 
 # game/dialogues/erictalk.rpy:122
 translate crowdin lessons_from_Eric_first_bj_98ec4a27:
@@ -183,8 +183,8 @@ msgstr "[Eric_00]Non possiamo cambiare il nostro modo di vivere per piacere a tu
 # game/dialogues/erictalk.rpy:123
 translate crowdin lessons_from_Eric_first_bj_5c15448b:
 
-msgid "[Ann_15]Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
-msgstr "[Ann_15]No... Ora capisco perché sta cercando di spiarci. Gli manca l'attenzione dei genitori!"
+    # Ann_15 "Нет... Теперь я понимаю, почему он пытается подглядывать за нами. Ему не хватает родительского внимания!"
+    Ann_15 "No... Ora capisco perché sta cercando di spiarci. Gli manca l'attenzione dei genitori!"
 
 # game/dialogues/erictalk.rpy:132
 translate crowdin lessons_from_Eric_first_bj_8d94ef9d:
@@ -195,8 +195,8 @@ msgstr "[Eric_01]Esattamente, Anh! E solo in momenti così intimi puoi mostrargl
 # game/dialogues/erictalk.rpy:133
 translate crowdin lessons_from_Eric_first_bj_dcbf09ea:
 
-msgid "[Ann_14]Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
-msgstr "[Ann_14]dispiace, Max... Ero una madre così inutile per te..."
+    # Ann_14 "Прости, Макс... Я была такой никудышной матерью по отношению к тебе..."
+    Ann_14 "dispiace, Max... Ero una madre così inutile per te..."
 
 # game/dialogues/erictalk.rpy:134
 translate crowdin lessons_from_Eric_first_bj_e2384074:
@@ -213,8 +213,8 @@ msgstr "[Eric_02]Ora Anh, devi comportarti come faresti se fossimo solo noi due!
 # game/dialogues/erictalk.rpy:144
 translate crowdin lessons_from_Eric_first_bj_0aa141a6:
 
-msgid "[Ann_12]Да, ты прав, я должна сделать это, ради Макса..."
-msgstr "[Ann_12]sì, hai ragione, devo farlo per il bene di Max..."
+    # Ann_12 "Да, ты прав, я должна сделать это, ради Макса..."
+    Ann_12 "sì, hai ragione, devo farlo per il bene di Max..."
 
 # game/dialogues/erictalk.rpy:145
 translate crowdin lessons_from_Eric_first_bj_26abae8c:
@@ -279,8 +279,8 @@ msgstr "[Eric_03]Sì, Max, vai... Tua madre ha solo qualcosa da dirti!"
 # game/dialogues/erictalk.rpy:198
 translate crowdin lessons_from_Eric_second_bj_f12a7ec3:
 
-msgid "[Ann_13]А вам не кажется, что это уже слишком!?"
-msgstr "[Ann_13]Non pensi che sia troppo!?"
+    # Ann_13 "А вам не кажется, что это уже слишком!?"
+    Ann_13 "Non pensi che sia troppo!?"
 
 # game/dialogues/erictalk.rpy:199
 translate crowdin lessons_from_Eric_second_bj_41c10ddd:
@@ -303,8 +303,8 @@ msgstr "[Max_00]Cancella. Continuerai, e vedrò... Così..."
 # game/dialogues/erictalk.rpy:202
 translate crowdin lessons_from_Eric_second_bj_a6141667:
 
-msgid "[Ann_14]Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
-msgstr "[Ann_14]Eric, sei sicuro che sia la cosa giusta da mostrare a mio figlio così francamente!? Sono in grande dubbio!"
+    # Ann_14 "Эрик, ты уверен, что это правильно, так откровенно показывать меня сыну!? Я в больших сомнениях!"
+    Ann_14 "Eric, sei sicuro che sia la cosa giusta da mostrare a mio figlio così francamente!? Sono in grande dubbio!"
 
 # game/dialogues/erictalk.rpy:203
 translate crowdin lessons_from_Eric_second_bj_13f3dcbf:
@@ -315,8 +315,8 @@ msgstr "[Eric_03]Non sforzarti, An. Tutto ciò che tu ed io facciamo è naturale
 # game/dialogues/erictalk.rpy:204
 translate crowdin lessons_from_Eric_second_bj_d7ef656e:
 
-msgid "[Ann_12]Да, Эрик. Если ты в этом уверен, то и я тоже..."
-msgstr "[Ann_12]Sì, Eric. Se sei sicuro di questo, lo sono anche io..."
+    # Ann_12 "Да, Эрик. Если ты в этом уверен, то и я тоже..."
+    Ann_12 "Sì, Eric. Se sei sicuro di questo, lo sono anche io..."
 
 # game/dialogues/erictalk.rpy:205
 translate crowdin lessons_from_Eric_second_bj_866f0ec1:
@@ -339,8 +339,8 @@ msgstr "[Eric_04]Wow, Anh! Penso o sei anche noi più stiamo che mai?"
 # game/dialogues/erictalk.rpy:219
 translate crowdin lessons_from_Eric_second_bj_f70c94a1:
 
-msgid "[Ann_15]Эрик! Не говори такое при Максе! Всё это и так меня очень смущает..."
-msgstr "[Ann_15]Eric! Non dirlo sotto Max! Tutto questo mi confonde già molto..."
+    # Ann_15 "Эрик! Не говори такое при Максе! Всё это и так меня очень смущает..."
+    Ann_15 "Eric! Non dirlo sotto Max! Tutto questo mi confonde già molto..."
 
 # game/dialogues/erictalk.rpy:220
 translate crowdin lessons_from_Eric_second_bj_aceea78b:
@@ -381,8 +381,8 @@ msgstr "[Eric_03]sì, Max, appena in tempo... Ti mostreremo qualcosa, sì An!?"
 # game/dialogues/erictalk.rpy:259
 translate crowdin lessons_from_Eric_third_bj_a1dd2c0a:
 
-msgid "[Ann_12]Ты правда думаешь, что ему нужно такое показывать?"
-msgstr "[Ann_12]Pensi davvero che abbia bisogno di dimostrarlo?"
+    # Ann_12 "Ты правда думаешь, что ему нужно такое показывать?"
+    Ann_12 "Pensi davvero che abbia bisogno di dimostrarlo?"
 
 # game/dialogues/erictalk.rpy:260
 translate crowdin lessons_from_Eric_third_bj_3378f06c:

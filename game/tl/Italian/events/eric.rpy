@@ -363,8 +363,8 @@ msgstr "[Max_07][txt!t]" nointeract
 # game/events/eric.rpy:331
 translate crowdin eric_ann_tv_45b2fa85:
 
-msgid "[Ann_12][txt2!t]" nointeract
-msgstr "[Ann_12][txt2!t]" nointeract
+    # Ann_12 "[txt2!t]" nointeract
+    Ann_12 "[txt2!t]" nointeract
 
 # game/events/eric.rpy:357
 translate crowdin eric_ann_tv_819bbc20:
@@ -465,14 +465,14 @@ msgstr "[Max_15]lo sta succhiando?! Proprio qui... Ecco un insulto, e se qualcun
 # game/events/eric.rpy:493
 translate crowdin eric_ann_tv_closer1_1cc34756:
 
-msgid "[Ann_13]Что? Кто здесь? Макс?! Выйди немедленно, не видишь..." nointeract
-msgstr "[Ann_13]Cosa? Chi c'è qui? Max?! Esci subito, non vedi..." nointeract
+    # Ann_13 "Что? Кто здесь? Макс?! Выйди немедленно, не видишь..." nointeract
+    Ann_13 "Cosa? Chi c'è qui? Max?! Esci subito, non vedi..." nointeract
 
 # game/events/eric.rpy:500
 translate crowdin eric_ann_tv_closer1_282eb1bf:
 
-msgid "[Ann_04]Я рада, Макс, что ты всё понимаешь. Сделаем вид, что ничего не было и ты ничего не видел, хорошо?"
-msgstr "[Ann_04]Sono contento, Max, che tu capisca tutto. Facciamo finta che non ci fosse nulla e tu non avessi visto nulla, ok?"
+    # Ann_04 "Я рада, Макс, что ты всё понимаешь. Сделаем вид, что ничего не было и ты ничего не видел, хорошо?"
+    Ann_04 "Sono contento, Max, che tu capisca tutto. Facciamo finta che non ci fosse nulla e tu non avessi visto nulla, ok?"
 
 # game/events/eric.rpy:501
 translate crowdin eric_ann_tv_closer1_acd22c78:
@@ -483,8 +483,8 @@ msgstr "[Max_01]Certo, mamma!"
 # game/events/eric.rpy:504
 translate crowdin eric_ann_tv_closer1_6019c9f2:
 
-msgid "[Ann_14]Так, Макс, нам надо поговорить! Отойдем на кухню..."
-msgstr "[Ann_14]Allora, Max, abbiamo bisogno di parlare! Andiamo in cucina..."
+    # Ann_14 "Так, Макс, нам надо поговорить! Отойдем на кухню..."
+    Ann_14 "Allora, Max, abbiamo bisogno di parlare! Andiamo in cucina..."
 
 # game/events/eric.rpy:505
 translate crowdin eric_ann_tv_closer1_4a3cf6f9:
@@ -495,14 +495,14 @@ msgstr "[Max_08]Va bene."
 # game/events/eric.rpy:509
 translate crowdin eric_ann_tv_closer1_74c87652:
 
-msgid "[Ann_12]Послушай, сынок... Понимаешь, взрослым иногда нужно уединяться. Мы думали, что все наверху и что мы тут, всем и так понятно... В общем..." nointeract
-msgstr "[Ann_12]Ascolta, figliolo... Vedete, gli adulti a volte hanno bisogno di andare in pensione. Pensavamo che tutto fosse al top e che fossimo qui, tutti già capivano... In generale..." nointeract
+    # Ann_12 "Послушай, сынок... Понимаешь, взрослым иногда нужно уединяться. Мы думали, что все наверху и что мы тут, всем и так понятно... В общем..." nointeract
+    Ann_12 "Ascolta, figliolo... Vedete, gli adulti a volte hanno bisogno di andare in pensione. Pensavamo che tutto fosse al top e che fossimo qui, tutti già capivano... In generale..." nointeract
 
 # game/events/eric.rpy:512
 translate crowdin eric_ann_tv_closer1_e22f3a8c:
 
-msgid "[Ann_15]Макс! Что за слова? И как ты со мной разговариваешь? А ну-ка марш в свою комнату. Чтобы не видела тебя тут, пока мы смотрим фильмы!"
-msgstr "[Ann_15]Max! Che tipo di parole? E come mi parli? Bene, una marcia verso la tua stanza. Non per vederti qui mentre guardiamo film!"
+    # Ann_15 "Макс! Что за слова? И как ты со мной разговариваешь? А ну-ка марш в свою комнату. Чтобы не видела тебя тут, пока мы смотрим фильмы!"
+    Ann_15 "Max! Che tipo di parole? E come mi parli? Bene, una marcia verso la tua stanza. Non per vederti qui mentre guardiamo film!"
 
 # game/events/eric.rpy:513
 translate crowdin eric_ann_tv_closer1_712e0b38:
@@ -513,8 +513,8 @@ msgstr "[Max_11]Va bene, va bene. Questo è quello che direi subito..."
 # game/events/eric.rpy:515
 translate crowdin eric_ann_tv_closer1_8bdd97e7:
 
-msgid "[Ann_04]Макс! Ты у меня такой умница. Хорошо, что ты всё понимаешь. Ладно, иди в свою комнату, мы больше не будем... Тебя смущать..."
-msgstr "[Ann_04]Max! Sei così intelligente. È bene che tu capisca tutto. Ok, vai nella tua stanza, non lo saremo più... Ti imbarazza..."
+    # Ann_04 "Макс! Ты у меня такой умница. Хорошо, что ты всё понимаешь. Ладно, иди в свою комнату, мы больше не будем... Тебя смущать..."
+    Ann_04 "Max! Sei così intelligente. È bene che tu capisca tutto. Ok, vai nella tua stanza, non lo saremo più... Ti imbarazza..."
 
 # game/events/eric.rpy:516
 translate crowdin eric_ann_tv_closer1_26bf3db9:
@@ -525,8 +525,8 @@ msgstr "[Max_01]Va bene, mamma..."
 # game/events/eric.rpy:518
 translate crowdin eric_ann_tv_closer1_640330f1:
 
-msgid "[Ann_13]Посмотришь? На что? На нас? Или фильм? В любом случае нет! Ты ещё маленький. И, вообще, почему я перед тобой отчитываюсь. Дай взрослым отдохнуть. А ты иди в свою комнату!"
-msgstr "[Ann_13]vedi? Dove? Su di noi? O un film? In ogni caso, no! Sei ancora piccolo. E, in generale, perché ti sto riferendo. Concedi agli adulti una pausa. E tu vai nella tua stanza!"
+    # Ann_13 "Посмотришь? На что? На нас? Или фильм? В любом случае нет! Ты ещё маленький. И, вообще, почему я перед тобой отчитываюсь. Дай взрослым отдохнуть. А ты иди в свою комнату!"
+    Ann_13 "vedi? Dove? Su di noi? O un film? In ogni caso, no! Sei ancora piccolo. E, in generale, perché ti sto riferendo. Concedi agli adulti una pausa. E tu vai nella tua stanza!"
 
 # game/events/eric.rpy:519
 translate crowdin eric_ann_tv_closer1_cd0fd095:
@@ -543,14 +543,14 @@ msgstr "[Max_00]A giudicare dai suoni, mia madre ed Eric stanno facendo qualcosa
 # game/events/eric.rpy:578
 translate crowdin eric_ann_fucking_voyeur_c6b7e289:
 
-msgid "[Ann_15][spotted!t]Макс?! Какого чёрта? Ты за нами подглядываешь?! Завтра ты будешь наказан! Немедленно убирайся!"
-msgstr "[Ann_15][spotted!t]Max?! Che diavolo? Ci stai spiando?! Domani sarete puniti! Esci subito!"
+    # Ann_15 "[spotted!t]Макс?! Какого чёрта? Ты за нами подглядываешь?! Завтра ты будешь наказан! Немедленно убирайся!"
+    Ann_15 "[spotted!t]Max?! Che diavolo? Ci stai spiando?! Domani sarete puniti! Esci subito!"
 
 # game/events/eric.rpy:582
 translate crowdin eric_ann_fucking_voyeur_efe42e22:
 
-msgid "[Ann_19]Макс? Ты опять подглядываешь? Утром накажу у всех на глазах за это!"
-msgstr "[Ann_19]Max? Stai sbirciando di nuovo? Al mattino punirò tutti davanti a tutti per questo!"
+    # Ann_19 "Макс? Ты опять подглядываешь? Утром накажу у всех на глазах за это!"
+    Ann_19 "Max? Stai sbirciando di nuovo? Al mattino punirò tutti davanti a tutti per questo!"
 
 # game/events/eric.rpy:583
 translate crowdin eric_ann_fucking_voyeur_05e8307c:
@@ -567,8 +567,8 @@ msgstr "[Eric_03]An, prenditi il tuo tempo. Max è un adolescente ed è interess
 # game/events/eric.rpy:585
 translate crowdin eric_ann_fucking_voyeur_5af09ed2:
 
-msgid "[Ann_14]Ну, хорошо, Эрик. Если ты так считаешь... Но пусть он уйдёт, я не могу так..."
-msgstr "[Ann_14]Bene, va bene, Eric. Se la pensi così... Ma lascialo andare, non posso..."
+    # Ann_14 "Ну, хорошо, Эрик. Если ты так считаешь... Но пусть он уйдёт, я не могу так..."
+    Ann_14 "Bene, va bene, Eric. Se la pensi così... Ma lascialo andare, non posso..."
 
 # game/events/eric.rpy:586
 translate crowdin eric_ann_fucking_voyeur_c6425607:
@@ -579,8 +579,8 @@ msgstr "[Max_07]me ne vado, mamma... Continua ad andare avanti!"
 # game/events/eric.rpy:590
 translate crowdin eric_ann_fucking_voyeur_1a6dca32:
 
-msgid "[Ann_18]Макс? Опять подглядываешь?! Ну-ка бегом отсюда!" nointeract
-msgstr "[Ann_18]Max? Sbirciare di nuovo?! Bene, corri da qui!" nointeract
+    # Ann_18 "Макс? Опять подглядываешь?! Ну-ка бегом отсюда!" nointeract
+    Ann_18 "Max? Sbirciare di nuovo?! Bene, corri da qui!" nointeract
 
 # game/events/eric.rpy:593
 translate crowdin eric_ann_fucking_voyeur_afca94eb:
@@ -591,7 +591,7 @@ msgstr "[Eric_02]An, che ci guardi meglio delle perversioni su Internet, giusto?
 # game/events/eric.rpy:600
 translate crowdin eric_ann_fucking_voyeur_9e12ffd3:
 
-msgid "[Ann_14]Эрик, но... он мой сын. Это неправильно, ты же понимаешь..."
+    # Ann_14 "Эрик, но... он мой сын. Это неправильно, ты же понимаешь..."
 msgstr "eric [Ann_14], ma... è mio figlio. È sbagliato, sai..."
 
 # game/events/eric.rpy:601
@@ -603,8 +603,8 @@ msgstr "[Eric_03]penso che dovremmo lasciarlo guardare se non si mette in mezzo.
 # game/events/eric.rpy:602
 translate crowdin eric_ann_fucking_voyeur_e33a4f0b:
 
-msgid "[Ann_12]Как скажешь, Эрик..."
-msgstr "[Ann_12]Come dici tu, Eric..."
+    # Ann_12 "Как скажешь, Эрик..."
+    Ann_12 "Come dici tu, Eric..."
 
 # game/events/eric.rpy:603
 translate crowdin eric_ann_fucking_voyeur_9f2cfa55:
@@ -651,8 +651,8 @@ msgstr "[Max_07][undetect!t] Wow! Questa è passione! Mia madre cavalca Eric com
 # game/events/eric.rpy:638
 translate crowdin eric_ann_fucking_voyeur_c6b7e289_1:
 
-msgid "[Ann_15][spotted!t]Макс?! Какого чёрта? Ты за нами подглядываешь?! Завтра ты будешь наказан! Немедленно убирайся!"
-msgstr "[Ann_15][spotted!t]Max?! Che diavolo? Ci stai spiando?! Domani sarete puniti! Esci subito!"
+    # Ann_15 "[spotted!t]Макс?! Какого чёрта? Ты за нами подглядываешь?! Завтра ты будешь наказан! Немедленно убирайся!"
+    Ann_15 "[spotted!t]Max?! Che diavolo? Ci stai spiando?! Domani sarete puniti! Esci subito!"
 
 # game/events/eric.rpy:658
 translate crowdin eric_ann_fucking_voyeur_7613d8b5:
@@ -951,8 +951,8 @@ msgstr "[Max_08]Accidenti... è già... Felice bastardo... Mamma splatted su tut
 # game/events/eric.rpy:974
 translate crowdin eric_ann_shower_not_luck_cdfa03c1:
 
-msgid "[Ann_15][spotted!t]Макс?! Ты какого чёрта здесь делаешь? Подглядывал за нами?! Сегодня будешь наказан! А ну быстро убирайся!"
-msgstr "[Ann_15][spotted!t]Max?! Qual è la cosa sbagliata che stai facendo qui? Spiarci?! Oggi sarete puniti! E uscire velocemente!"
+    # Ann_15 "[spotted!t]Макс?! Ты какого чёрта здесь делаешь? Подглядывал за нами?! Сегодня будешь наказан! А ну быстро убирайся!"
+    Ann_15 "[spotted!t]Max?! Qual è la cosa sbagliata che stai facendo qui? Spiarci?! Oggi sarete puniti! E uscire velocemente!"
 
 # game/events/eric.rpy:989
 translate crowdin sexed_lisa_c6d17e9e:
@@ -999,8 +999,8 @@ msgstr "[Eric_01]... Prima o poi avrai un fidanzato e devi sapere come dargli pi
 # game/events/eric.rpy:1056
 translate crowdin sexed_lisa_lesson_0_956d3217:
 
-msgid "[Ann_12]Да, Лиза, вы должны естественно к этому прийти, не нужно с этим торопиться и уж тем более, чтобы тебя к этому принуждали."
-msgstr "[Ann_12]Sì, Lisa, dovresti naturalmente arrivare a questo, non hai bisogno di correre con esso, e ancora di più che sei costretto a farlo."
+    # Ann_12 "Да, Лиза, вы должны естественно к этому прийти, не нужно с этим торопиться и уж тем более, чтобы тебя к этому принуждали."
+    Ann_12 "Sì, Lisa, dovresti naturalmente arrivare a questo, non hai bisogno di correre con esso, e ancora di più che sei costretto a farlo."
 
 # game/events/eric.rpy:1062
 translate crowdin sexed_lisa_lesson_0_ce12a8a8:
@@ -1017,8 +1017,8 @@ msgstr "[Eric_02]Fammi alzare, An, in modo che Lisa possa vedere tutto chiaramen
 # game/events/eric.rpy:1070
 translate crowdin sexed_lisa_lesson_0_8ba12771:
 
-msgid "[Ann_02]Конечно, дорогой. Вот, Лиза, смотри... Нужно взять член крепко, но нежно и делать вот так... Если почувствуешь, что не хватает смазки, можешь использовать слюну или масло..."
-msgstr "[Ann_02]Certo, cara. Ecco, Lisa, guarda... Devi prendere il strettamente, ma delicatamente e fare questo... Se ritieni che non ci sia abbastanza lubrificante, puoi usare saliva o olio..."
+    # Ann_02 "Конечно, дорогой. Вот, Лиза, смотри... Нужно взять член крепко, но нежно и делать вот так... Если почувствуешь, что не хватает смазки, можешь использовать слюну или масло..."
+    Ann_02 "Certo, cara. Ecco, Lisa, guarda... Devi prendere il strettamente, ma delicatamente e fare questo... Se ritieni che non ci sia abbastanza lubrificante, puoi usare saliva o olio..."
 
 # game/events/eric.rpy:1071
 translate crowdin sexed_lisa_lesson_0_3962b7ac:
@@ -1029,8 +1029,8 @@ msgstr "[Lisa_02]mamma, ma come capire che tutto sta accadendo come dovrebbe?"
 # game/events/eric.rpy:1072
 translate crowdin sexed_lisa_lesson_0_71db625e:
 
-msgid "[Ann_05]Ты поймёшь, дорогая. Сразу поймёшь... А может быть твой избранник даже будет подсказывать тебе, как ему больше нравится."
-msgstr "[Ann_05]sottosemina, tesoro. Subito ti renderai conto... O forse il tuo prescelto ti dirà anche come gli piace di più."
+    # Ann_05 "Ты поймёшь, дорогая. Сразу поймёшь... А может быть твой избранник даже будет подсказывать тебе, как ему больше нравится."
+    Ann_05 "sottosemina, tesoro. Subito ti renderai conto... O forse il tuo prescelto ti dirà anche come gli piace di più."
 
 # game/events/eric.rpy:1073
 translate crowdin sexed_lisa_lesson_0_c156074c:
@@ -1047,8 +1047,8 @@ msgstr "[Lisa_03]Dall'esterno, sembra piuttosto semplice o no?"
 # game/events/eric.rpy:1080
 translate crowdin sexed_lisa_lesson_0_4d9014eb:
 
-msgid "[Ann_07]Ну, Лиза, я уже делала это много раз, поэтому и выглядит это очень просто, но здесь нужно чувствовать своего партнёра. У тебя ещё это всё впереди, когда придёт время..."
-msgstr "[Ann_07]Beh, Lisa, l'ho fatto molte volte prima, quindi sembra molto semplice, ma qui devi sentire il tuo partner. Hai ancora tutto davanti a te quando arriverà il momento..."
+    # Ann_07 "Ну, Лиза, я уже делала это много раз, поэтому и выглядит это очень просто, но здесь нужно чувствовать своего партнёра. У тебя ещё это всё впереди, когда придёт время..."
+    Ann_07 "Beh, Lisa, l'ho fatto molte volte prima, quindi sembra molto semplice, ma qui devi sentire il tuo partner. Hai ancora tutto davanti a te quando arriverà il momento..."
 
 # game/events/eric.rpy:1081
 translate crowdin sexed_lisa_lesson_0_d87650b1:
@@ -1077,8 +1077,8 @@ msgstr "[Max_02]{i}(sì, quanto sarebbe bello se la mia sorellina mi insitogliò
 # game/events/eric.rpy:1091
 translate crowdin sexed_lisa_lesson_0_adc1e3a9:
 
-msgid "[Ann_04]Ты у меня умница, дочка. Ладно, ступай, на сегодня я думаю достаточно. Через неделю продолжим..."
-msgstr "[Ann_04]Sei la mia figlia intelligente. Ok, vai un po ', penso abbastanza per oggi. Tra una settimana continueremo..."
+    # Ann_04 "Ты у меня умница, дочка. Ладно, ступай, на сегодня я думаю достаточно. Через неделю продолжим..."
+    Ann_04 "Sei la mia figlia intelligente. Ok, vai un po ', penso abbastanza per oggi. Tra una settimana continueremo..."
 
 # game/events/eric.rpy:1092
 translate crowdin sexed_lisa_lesson_0_d2166188:
@@ -1089,8 +1089,8 @@ msgstr "[Lisa_02]mamma, cosa succede la prossima volta?"
 # game/events/eric.rpy:1093
 translate crowdin sexed_lisa_lesson_0_f98bd6db:
 
-msgid "[Ann_01]Ну, нам с Эриком есть, что тебе ещё показать и рассказать. Но это в следующий раз..."
-msgstr "[Ann_01]Beh, Eric e io abbiamo altro da mostrarti e dirti. Ma questa è la prossima volta..."
+    # Ann_01 "Ну, нам с Эриком есть, что тебе ещё показать и рассказать. Но это в следующий раз..."
+    Ann_01 "Beh, Eric e io abbiamo altro da mostrarti e dirti. Ma questa è la prossima volta..."
 
 # game/events/eric.rpy:1094
 translate crowdin sexed_lisa_lesson_0_25611741:
@@ -1107,8 +1107,8 @@ msgstr "[Max_01]{i}( Vediamo cosa verrà insegnato a mia sorella oggi ... ) {/i}
 # game/events/eric.rpy:1106
 translate crowdin sexed_lisa_lesson_1_87d80caa:
 
-msgid "[Ann_02]... Как правильно стимулировать мужской член рукой я тебе показала. Теперь покажу тебе довольно безобидный и эффективный способ ещё больше возбудить мужчину..."
-msgstr "[Ann_02]... Come stimolare correttamente un uomo con la mia mano che ti ho mostrato. Ora ti mostrerò un modo piuttosto innocuo ed efficace per eccitare ancora di più un uomo..."
+    # Ann_02 "... Как правильно стимулировать мужской член рукой я тебе показала. Теперь покажу тебе довольно безобидный и эффективный способ ещё больше возбудить мужчину..."
+    Ann_02 "... Come stimolare correttamente un uomo con la mia mano che ti ho mostrato. Ora ti mostrerò un modo piuttosto innocuo ed efficace per eccitare ancora di più un uomo..."
 
 # game/events/eric.rpy:1107
 translate crowdin sexed_lisa_lesson_1_85c0a015:
@@ -1119,8 +1119,8 @@ msgstr "[Lisa_01]Sarà una tecnica complicata?"
 # game/events/eric.rpy:1113
 translate crowdin sexed_lisa_lesson_1_d1acd262:
 
-msgid "[Ann_04]Ну, на технику это не тянет, скорее... очень приятное дополнение к ласкам."
-msgstr "[Ann_04]Beh, non tira sulla tecnica, piuttosto... aggiunta molto bella alle carezze."
+    # Ann_04 "Ну, на технику это не тянет, скорее... очень приятное дополнение к ласкам."
+    Ann_04 "Beh, non tira sulla tecnica, piuttosto... aggiunta molto bella alle carezze."
 
 # game/events/eric.rpy:1114
 translate crowdin sexed_lisa_lesson_1_823c8b07:
@@ -1131,8 +1131,8 @@ msgstr "[Eric_02]Fammi alzare, An, in modo che Lisa possa vedere tutto chiaramen
 # game/events/eric.rpy:1121
 translate crowdin sexed_lisa_lesson_1_fa0a2f77:
 
-msgid "[Ann_05]Мужчин очень заводит, когда женщина раздевается, так что в дополнение к ласкам можно обнажить грудь, это точно понравится твоему избраннику."
-msgstr "[Ann_05]Gli uomini sono molto accesi quando una donna si spoglia, quindi oltre alle carezze, puoi mettere a nudo il petto, farà sicuramente appello al tuo prescelto."
+    # Ann_05 "Мужчин очень заводит, когда женщина раздевается, так что в дополнение к ласкам можно обнажить грудь, это точно понравится твоему избраннику."
+    Ann_05 "Gli uomini sono molto accesi quando una donna si spoglia, quindi oltre alle carezze, puoi mettere a nudo il petto, farà sicuramente appello al tuo prescelto."
 
 # game/events/eric.rpy:1122
 translate crowdin sexed_lisa_lesson_1_ac7ee8df:
@@ -1149,8 +1149,8 @@ msgstr "[Lisa_02]Ah, beh, so come fare..."
 # game/events/eric.rpy:1129
 translate crowdin sexed_lisa_lesson_1_3eb6eb73:
 
-msgid "[Ann_15]В каком это смысле умеешь?! Ты что, уже кому-то показывала свою грудь? Признавайся!"
-msgstr "[Ann_15]In che senso puoi farlo?! Hai già mostrato il tuo seno a qualcuno? Ammettere!"
+    # Ann_15 "В каком это смысле умеешь?! Ты что, уже кому-то показывала свою грудь? Признавайся!"
+    Ann_15 "In che senso puoi farlo?! Hai già mostrato il tuo seno a qualcuno? Ammettere!"
 
 # game/events/eric.rpy:1130
 translate crowdin sexed_lisa_lesson_1_2ba6a77d:
@@ -1161,8 +1161,8 @@ msgstr "[Lisa_10]Oh, no, intendevo dire che so come vestirmi e spogliarmi, lo fa
 # game/events/eric.rpy:1137
 translate crowdin sexed_lisa_lesson_1_03d6e80a:
 
-msgid "[Ann_08]Смотри мне, Лиза! Вот... Такая мелочь, дочка, а мужчине приятно..."
-msgstr "[Ann_08]Guardami, Lisa! Qui... Una tale sciocchezza, figlia e un uomo è piacevole..."
+    # Ann_08 "Смотри мне, Лиза! Вот... Такая мелочь, дочка, а мужчине приятно..."
+    Ann_08 "Guardami, Lisa! Qui... Una tale sciocchezza, figlia e un uomo è piacevole..."
 
 # game/events/eric.rpy:1138
 translate crowdin sexed_lisa_lesson_1_d1ae2239:
@@ -1173,8 +1173,8 @@ msgstr "[Lisa_09]mamma, il tuo seno non è certo una sciocchezza! Ne avrò meno.
 # game/events/eric.rpy:1139
 translate crowdin sexed_lisa_lesson_1_0f719766:
 
-msgid "[Ann_02]Не переживай из-за этого, тебе ещё расти и расти."
-msgstr "[Ann_02]Non preoccuparti, devi ancora crescere e crescere."
+    # Ann_02 "Не переживай из-за этого, тебе ещё расти и расти."
+    Ann_02 "Non preoccuparti, devi ancora crescere e crescere."
 
 # game/events/eric.rpy:1140
 translate crowdin sexed_lisa_lesson_1_28fff240:
@@ -1191,8 +1191,8 @@ msgstr "[Lisa_02]Quindi, basta mettere a nudo il petto e basta?"
 # game/events/eric.rpy:1147
 translate crowdin sexed_lisa_lesson_1_77b2fd6c:
 
-msgid "[Ann_05]Ну... можно ещё немного подразнить своего партнёра и поводить его членом по своей груди. Он уж точно от этого не откажется..."
-msgstr "[Ann_05]Beh... puoi stuzzicare un po 'di più il tuo partner e spostarlo sul petto. Di certo non ci arrenderà..."
+    # Ann_05 "Ну... можно ещё немного подразнить своего партнёра и поводить его членом по своей груди. Он уж точно от этого не откажется..."
+    Ann_05 "Beh... puoi stuzzicare un po 'di più il tuo partner e spostarlo sul petto. Di certo non ci arrenderà..."
 
 # game/events/eric.rpy:1148
 translate crowdin sexed_lisa_lesson_1_c79b264a:
@@ -1203,8 +1203,8 @@ msgstr "[Eric_05]E se le dimensioni del seno lo consentono, allora alcuni posson
 # game/events/eric.rpy:1149
 translate crowdin sexed_lisa_lesson_1_9299f861:
 
-msgid "[Ann_01]Я думаю, сегодня Лиза и без этого увидела и узнала достаточно. Так что продолжим мы через неделю."
-msgstr "[Ann_01]penso che lisa abbia visto e imparato abbastanza oggi. Quindi continueremo tra una settimana."
+    # Ann_01 "Я думаю, сегодня Лиза и без этого увидела и узнала достаточно. Так что продолжим мы через неделю."
+    Ann_01 "penso che lisa abbia visto e imparato abbastanza oggi. Quindi continueremo tra una settimana."
 
 # game/events/eric.rpy:1156
 translate crowdin sexed_lisa_lesson_1_933c3a52:
@@ -1227,8 +1227,8 @@ msgstr "[Max_01]{i}( Vediamo cosa verrà insegnato a mia sorella oggi ... ) {/i}
 # game/events/eric.rpy:1169
 translate crowdin sexed_lisa_lesson_2_4668a125:
 
-msgid "[Ann_02]... В дополнение к тому, что ты уже видела, не стоит забывать и ещё кое о чём. Дорогой, встань. Так Лизе будет лучше видно..."
-msgstr "[Ann_02]... Oltre a quello che hai già visto, non dimenticare qualcos'altro. Tesoro, alzati. Quindi Lisa sarà vista meglio..."
+    # Ann_02 "... В дополнение к тому, что ты уже видела, не стоит забывать и ещё кое о чём. Дорогой, встань. Так Лизе будет лучше видно..."
+    Ann_02 "... Oltre a quello che hai già visto, non dimenticare qualcos'altro. Tesoro, alzati. Quindi Lisa sarà vista meglio..."
 
 # game/events/eric.rpy:1170
 translate crowdin sexed_lisa_lesson_2_1340ebb1:
@@ -1239,8 +1239,8 @@ msgstr "[Eric_01]Certo, An, ora."
 # game/events/eric.rpy:1177
 translate crowdin sexed_lisa_lesson_2_24352377:
 
-msgid "[Ann_04]Так вот, Лиза, во время стимуляции члена можно ещё ласкать яички. Делать это нужно нежно и аккуратно."
-msgstr "[Ann_04]Quindi, Lisa, durante la stimolazione del pene, puoi ancora accarezzare i testicoli. Questo dovrebbe essere fatto delicatamente e con attenzione."
+    # Ann_04 "Так вот, Лиза, во время стимуляции члена можно ещё ласкать яички. Делать это нужно нежно и аккуратно."
+    Ann_04 "Quindi, Lisa, durante la stimolazione del pene, puoi ancora accarezzare i testicoli. Questo dovrebbe essere fatto delicatamente e con attenzione."
 
 # game/events/eric.rpy:1178
 translate crowdin sexed_lisa_lesson_2_48f4e3fa:
@@ -1251,8 +1251,8 @@ msgstr "[Lisa_10]Quante sfumature..."
 # game/events/eric.rpy:1179
 translate crowdin sexed_lisa_lesson_2_2fff7579:
 
-msgid "[Ann_05]Как и в любом процессе. Если знаешь как и к чему прикасаться, то принесёшь массу удовольствия мужчине. Вот, посмотри..."
-msgstr "[Ann_05]Come in ogni processo. Se sai come e cosa toccare, porterai molto piacere a un uomo. Guardare..."
+    # Ann_05 "Как и в любом процессе. Если знаешь как и к чему прикасаться, то принесёшь массу удовольствия мужчине. Вот, посмотри..."
+    Ann_05 "Come in ogni processo. Se sai come e cosa toccare, porterai molto piacere a un uomo. Guardare..."
 
 # game/events/eric.rpy:1186
 translate crowdin sexed_lisa_lesson_2_e3d29cb3:
@@ -1263,8 +1263,8 @@ msgstr "[Lisa_02]Quindi, tutto dovrebbe essere fatto come con un pene?"
 # game/events/eric.rpy:1187
 translate crowdin sexed_lisa_lesson_2_078b2cba:
 
-msgid "[Ann_07]Да, разве что член нужно держать крепко, а вот яичкам достаточно лёгких прикосновений, чтобы мужчине стало невероятно хорошо. Так ведь, дорогой?"
-msgstr "[Ann_07]Sì, tranne per il fatto che il pene deve essere tenuto stretto, ma i testicoli hanno abbastanza tocchi leggeri per rendere l'uomo incredibilmente buono. Quindi, cara?"
+    # Ann_07 "Да, разве что член нужно держать крепко, а вот яичкам достаточно лёгких прикосновений, чтобы мужчине стало невероятно хорошо. Так ведь, дорогой?"
+    Ann_07 "Sì, tranne per il fatto che il pene deve essere tenuto stretto, ma i testicoli hanno abbastanza tocchi leggeri per rendere l'uomo incredibilmente buono. Quindi, cara?"
 
 # game/events/eric.rpy:1188
 translate crowdin sexed_lisa_lesson_2_fba6f0fd:
@@ -1287,8 +1287,8 @@ msgstr "[Lisa_03]Fantastico! E per quanto tempo tutto questo dovrebbe essere fat
 # game/events/eric.rpy:1196
 translate crowdin sexed_lisa_lesson_2_d332b109:
 
-msgid "[Ann_08]А об этом мы поговорим уже на следующем уроке, дочка. Заодно и пробежимся ещё раз по всем моментам, которые я тебе показывала. Не хочется, чтобы я тут напрасно распиналась."
-msgstr "[Ann_08]E ne parleremo nella prossima lezione, figlia. Allo stesso tempo, correremo di nuovo attraverso tutti i momenti che ti ho mostrato. Non voglio essere crocifisso qui invano."
+    # Ann_08 "А об этом мы поговорим уже на следующем уроке, дочка. Заодно и пробежимся ещё раз по всем моментам, которые я тебе показывала. Не хочется, чтобы я тут напрасно распиналась."
+    Ann_08 "E ne parleremo nella prossima lezione, figlia. Allo stesso tempo, correremo di nuovo attraverso tutti i momenti che ti ho mostrato. Non voglio essere crocifisso qui invano."
 
 # game/events/eric.rpy:1197
 translate crowdin sexed_lisa_lesson_2_d3b4b1de:
@@ -1299,8 +1299,8 @@ msgstr "[Lisa_10]Va bene. E speravo che almeno non ci sarebbero stati esami qui.
 # game/events/eric.rpy:1198
 translate crowdin sexed_lisa_lesson_2_f429540b:
 
-msgid "[Ann_04]Тут ничего сложного нет. Так что не волнуйся."
-msgstr "[Ann_04]Non c'è niente di complicato qui. Quindi non preoccuparti."
+    # Ann_04 "Тут ничего сложного нет. Так что не волнуйся."
+    Ann_04 "Non c'è niente di complicato qui. Quindi non preoccuparti."
 
 # game/events/eric.rpy:1199
 translate crowdin sexed_lisa_lesson_2_517ed876:
@@ -1317,8 +1317,8 @@ msgstr "[Max_01]{i}( E quello che verrà insegnato a mia sorella oggi... ) {/i}"
 # game/events/eric.rpy:1211
 translate crowdin sexed_lisa_lesson_3_b8ee0608:
 
-msgid "[Ann_02]... Посмотрим, всё ли ты усвоила из наших уроков. Что и как мне нужно сделать, чтобы доставить мужчине удовольствие?"
-msgstr "[Ann_02]... Vediamo se hai imparato tutto dalle nostre lezioni. Cosa e come devo fare per dare piacere a un uomo?"
+    # Ann_02 "... Посмотрим, всё ли ты усвоила из наших уроков. Что и как мне нужно сделать, чтобы доставить мужчине удовольствие?"
+    Ann_02 "... Vediamo se hai imparato tutto dalle nostre lezioni. Cosa e come devo fare per dare piacere a un uomo?"
 
 # game/events/eric.rpy:1212
 translate crowdin sexed_lisa_lesson_3_19a9a059:
@@ -1329,8 +1329,8 @@ msgstr "[Lisa_10]Oh, mamma, ora... Così... Devi prenderlo strettamente ma delic
 # game/events/eric.rpy:1216
 translate crowdin sexed_lisa_lesson_3_cf0e7b09:
 
-msgid "[Ann_04]Верно, дорогая. Я снова покажу всё ещё раз, чтобы мы этот этап стимулирования мужского члена руками закончили и могли двигаться дальше."
-msgstr "[Ann_04]Esatto, tesoro. Ti mostrerò di nuovo in modo che possiamo finire questa fase di stimolazione dell'uomo con le nostre mani e andare avanti."
+    # Ann_04 "Верно, дорогая. Я снова покажу всё ещё раз, чтобы мы этот этап стимулирования мужского члена руками закончили и могли двигаться дальше."
+    Ann_04 "Esatto, tesoro. Ti mostrerò di nuovo in modo che possiamo finire questa fase di stimolazione dell'uomo con le nostre mani e andare avanti."
 
 # game/events/eric.rpy:1217
 translate crowdin sexed_lisa_lesson_3_957e747c:
@@ -1341,8 +1341,8 @@ msgstr "[Lisa_11]Ci sarà qualcos'altro?! Altre lezioni?"
 # game/events/eric.rpy:1218
 translate crowdin sexed_lisa_lesson_3_0db729e3:
 
-msgid "[Ann_05]Да, дочка. Это не единственный способ доставить мужчине удовольствие."
-msgstr "[Ann_05]Sì, figlia. Questo non è l'unico modo per dare piacere a un uomo."
+    # Ann_05 "Да, дочка. Это не единственный способ доставить мужчине удовольствие."
+    Ann_05 "Sì, figlia. Questo non è l'unico modo per dare piacere a un uomo."
 
 # game/events/eric.rpy:1219
 translate crowdin sexed_lisa_lesson_3_18663d6a:
@@ -1359,8 +1359,8 @@ msgstr "[Max_08]{i}(mamma cosa, e sta per succhiare Erica con Lisa?! Sì no... A
 # game/events/eric.rpy:1224
 translate crowdin sexed_lisa_lesson_3_9361d9ee:
 
-msgid "[Ann_12]Лиза, не сегодня. Сегодня у нас что?"
-msgstr "[Ann_12]Lisa, non oggi. Oggi abbiamo cosa?"
+    # Ann_12 "Лиза, не сегодня. Сегодня у нас что?"
+    Ann_12 "Lisa, non oggi. Oggi abbiamo cosa?"
 
 # game/events/eric.rpy:1225
 translate crowdin sexed_lisa_lesson_3_675c30b2:
@@ -1371,8 +1371,8 @@ msgstr "[Lisa_09]sì, ho capito, consolidamento del materiale coperto."
 # game/events/eric.rpy:1231
 translate crowdin sexed_lisa_lesson_3_d212c0f3:
 
-msgid "[Ann_07]Вот и славно. Как я могу ещё больше возбудить мужчину во время стимуляции руками?"
-msgstr "[Ann_07]È glorioso. Come posso eccitare ancora di più un uomo durante la stimolazione della mano?"
+    # Ann_07 "Вот и славно. Как я могу ещё больше возбудить мужчину во время стимуляции руками?"
+    Ann_07 "È glorioso. Come posso eccitare ancora di più un uomo durante la stimolazione della mano?"
 
 # game/events/eric.rpy:1232
 translate crowdin sexed_lisa_lesson_3_bda10a5f:
@@ -1383,8 +1383,8 @@ msgstr "[Lisa_01]Puoi mettere a nudo il petto! Ricordo che..."
 # game/events/eric.rpy:1239
 translate crowdin sexed_lisa_lesson_3_a38562a0:
 
-msgid "[Ann_08]Верно. Поводить его членом по своей груди тоже будет не лишним."
-msgstr "[Ann_08]Giusto. Anche condurla sul petto non sarà superfluo."
+    # Ann_08 "Верно. Поводить его членом по своей груди тоже будет не лишним."
+    Ann_08 "Giusto. Anche condurla sul petto non sarà superfluo."
 
 # game/events/eric.rpy:1240
 translate crowdin sexed_lisa_lesson_3_5816beef:
@@ -1395,8 +1395,8 @@ msgstr "[Lisa_10]Oh, dimenticavo. Esattamente, stavi parlando di prendere in gir
 # game/events/eric.rpy:1246
 translate crowdin sexed_lisa_lesson_3_9fd70478:
 
-msgid "[Ann_02]Что ещё мы можем делать?"
-msgstr "[Ann_02]Cos'altro possiamo fare?"
+    # Ann_02 "Что ещё мы можем делать?"
+    Ann_02 "Cos'altro possiamo fare?"
 
 # game/events/eric.rpy:1247
 translate crowdin sexed_lisa_lesson_3_00b63f32:
@@ -1407,8 +1407,8 @@ msgstr "[Lisa_02]Ora... Oh sì, accarezza i testicoli!"
 # game/events/eric.rpy:1254
 translate crowdin sexed_lisa_lesson_3_59d1a715:
 
-msgid "[Ann_04]И как надо это делать?"
-msgstr "[Ann_04]E come dovrebbe essere fatto?"
+    # Ann_04 "И как надо это делать?"
+    Ann_04 "E come dovrebbe essere fatto?"
 
 # game/events/eric.rpy:1255
 translate crowdin sexed_lisa_lesson_3_cfad66eb:
@@ -1419,8 +1419,8 @@ msgstr "[Lisa_10]Uh...... Gentile e pulito. Massaggio leggero... Giusto, mamma?"
 # game/events/eric.rpy:1261
 translate crowdin sexed_lisa_lesson_3_49a44ec8:
 
-msgid "[Ann_05]Верно, моя дорогая. Ты спрашивала в прошлый раз, как долго это нужно делать. Так вот, этой стимуляцией мужчину нужно довести до оргазма, когда он кончает от наслаждения."
-msgstr "[Ann_05]Esatto, mia cara. L'ultima volta hai chiesto per quanto tempo questo dovrebbe essere fatto. Quindi, con questa stimolazione, un uomo ha bisogno di essere portato all'orgasmo quando sborra dal piacere."
+    # Ann_05 "Верно, моя дорогая. Ты спрашивала в прошлый раз, как долго это нужно делать. Так вот, этой стимуляцией мужчину нужно довести до оргазма, когда он кончает от наслаждения."
+    Ann_05 "Esatto, mia cara. L'ultima volta hai chiesto per quanto tempo questo dovrebbe essere fatto. Quindi, con questa stimolazione, un uomo ha bisogno di essere portato all'orgasmo quando sborra dal piacere."
 
 # game/events/eric.rpy:1262
 translate crowdin sexed_lisa_lesson_3_dd130e24:
@@ -1431,8 +1431,8 @@ msgstr "[Lisa_03]Oh, com'è?!"
 # game/events/eric.rpy:1263
 translate crowdin sexed_lisa_lesson_3_02816cbb:
 
-msgid "[Ann_07]Уже скоро увидишь. Довести мужчину до оргазма не сложно, не то что нас, женщин. Эрик, сегодня нужно показать Лизе как мужчины кончают, так что не сдерживайся..."
-msgstr "[Ann_07]vedremo presto. Portare un uomo all'orgasmo non è difficile, non che noi, donne. Eric, oggi devi mostrare a Lisa come gli uomini, quindi non trattenerti..."
+    # Ann_07 "Уже скоро увидишь. Довести мужчину до оргазма не сложно, не то что нас, женщин. Эрик, сегодня нужно показать Лизе как мужчины кончают, так что не сдерживайся..."
+    Ann_07 "vedremo presto. Portare un uomo all'orgasmo non è difficile, non che noi, donne. Eric, oggi devi mostrare a Lisa come gli uomini, quindi non trattenerti..."
 
 # game/events/eric.rpy:1264
 translate crowdin sexed_lisa_lesson_3_705d7946:
@@ -1449,8 +1449,8 @@ msgstr "[Max_10]{i}(Ehi, non andrai su mia sorella lì! Ok, sei adulto, ma con L
 # game/events/eric.rpy:1269
 translate crowdin sexed_lisa_lesson_3_d99c9cbc:
 
-msgid "[Ann_06]Вот так, Лиза, мужчины и кончают... Лучше при себе иметь влажные салфетки, чтобы привести всё в порядок после этого."
-msgstr "[Ann_06]Esatto, Lisa, gli uomini... È meglio avere salviette umidificate con te per mettere tutto in ordine dopo."
+    # Ann_06 "Вот так, Лиза, мужчины и кончают... Лучше при себе иметь влажные салфетки, чтобы привести всё в порядок после этого."
+    Ann_06 "Esatto, Lisa, gli uomini... È meglio avere salviette umidificate con te per mettere tutto in ordine dopo."
 
 # game/events/eric.rpy:1270
 translate crowdin sexed_lisa_lesson_3_0bb761d3:
@@ -1461,8 +1461,8 @@ msgstr "[Lisa_13]Oh, e non puoi evitarlo... Confusione?"
 # game/events/eric.rpy:1271
 translate crowdin sexed_lisa_lesson_3_bb73c8db:
 
-msgid "[Ann_14]Ну, куда бы мужчина не кончил, всё равно придётся прибраться за собой. Можно ещё конечно... Может ей ещё рано знать о таком, дорогой?"
-msgstr "[Ann_14]Beh, ovunque un uomo sborri, devi ancora ripulire dopo te stesso. Certo che puoi... Forse è troppo presto per lei per saperlo, cara?"
+    # Ann_14 "Ну, куда бы мужчина не кончил, всё равно придётся прибраться за собой. Можно ещё конечно... Может ей ещё рано знать о таком, дорогой?"
+    Ann_14 "Beh, ovunque un uomo sborri, devi ancora ripulire dopo te stesso. Certo che puoi... Forse è troppo presto per lei per saperlo, cara?"
 
 # game/events/eric.rpy:1272
 translate crowdin sexed_lisa_lesson_3_455ad0f2:
@@ -1479,8 +1479,8 @@ msgstr "[Lisa_11]In bocca?! E ingoiare! Oh, foo-foo-foo! No, è meglio dei tovag
 # game/events/eric.rpy:1279
 translate crowdin sexed_lisa_lesson_3_13aa06a4:
 
-msgid "[Ann_01]Пожалуй, я с тобой соглашусь, дочка. По крайней мере, пока в твоей жизни не появится особенный мужчина."
-msgstr "[Ann_01]Credo di essere d'accordo con te, figlia. Almeno fino a quando un uomo speciale appare nella tua vita."
+    # Ann_01 "Пожалуй, я с тобой соглашусь, дочка. По крайней мере, пока в твоей жизни не появится особенный мужчина."
+    Ann_01 "Credo di essere d'accordo con te, figlia. Almeno fino a quando un uomo speciale appare nella tua vita."
 
 # game/events/eric.rpy:1280
 translate crowdin sexed_lisa_lesson_3_a14ce656:
@@ -1497,8 +1497,8 @@ msgstr "[Eric_02]Ma ora sai com'è tutto senza abbellimenti. E ora sei pronto pe
 # game/events/eric.rpy:1282
 translate crowdin sexed_lisa_lesson_3_b6d6c533:
 
-msgid "[Ann_13]Эрик, давай не спешить, пусть у неё это хоть осядет в голове. И вообще, лучше всё ещё раз обсудить, прежде чем показывать ей такое."
-msgstr "[Ann_13]Eric, non affrettiamoci, lasciamola almeno sistemare nella sua testa. Ad ogni modo, è meglio discutere di nuovo di tutto prima di mostrarle questo."
+    # Ann_13 "Эрик, давай не спешить, пусть у неё это хоть осядет в голове. И вообще, лучше всё ещё раз обсудить, прежде чем показывать ей такое."
+    Ann_13 "Eric, non affrettiamoci, lasciamola almeno sistemare nella sua testa. Ad ogni modo, è meglio discutere di nuovo di tutto prima di mostrarle questo."
 
 # game/events/eric.rpy:1283
 translate crowdin sexed_lisa_lesson_3_24f6a637:
@@ -1509,8 +1509,8 @@ msgstr "[Lisa_02]Di cosa stai parlando?"
 # game/events/eric.rpy:1284
 translate crowdin sexed_lisa_lesson_3_8da9317f:
 
-msgid "[Ann_12]Давай не сейчас. Ступай к себе, на сегодня достаточно. Мы тебе скажем, если решим продолжить эти... уроки."
-msgstr "[Ann_12]Non facciamolo ora. Vai a te stesso, abbastanza per oggi. Ti diremo se decidiamo di continuare questi... Lezioni."
+    # Ann_12 "Давай не сейчас. Ступай к себе, на сегодня достаточно. Мы тебе скажем, если решим продолжить эти... уроки."
+    Ann_12 "Non facciamolo ora. Vai a te stesso, abbastanza per oggi. Ti diremo se decidiamo di continuare questi... Lezioni."
 
 # game/events/eric.rpy:1285
 translate crowdin sexed_lisa_lesson_3_93463eeb:
