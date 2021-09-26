@@ -477,56 +477,56 @@ msgid "[Kira_04]Приятных снов, Макс."
 msgstr "[Kira_04]sogni piacevoli, Max."
 
 # game/events/kira.rpy:461## # translate crowdin kira_bath_caught_3ca0ecaf:
-msgid "[Eric_12]Ох нифига себе, Макс!!! Это я удачно зашёл..."
-msgstr "[Eric_12]Oh nifiga me stesso, Max!!! Sono io che sono andato bene..."
+    # Eric_12 "Ох нифига себе, Макс!!! Это я удачно зашёл..."
+    Eric_12 "Oh nifiga me stesso, Max!!! Sono io che sono andato bene..."
 
 # game/events/kira.rpy:462## # translate crowdin kira_bath_caught_0569054a:
     # Max_13 "Это не то, чем кажется! Мы просто..."
     Max_13 "Non è quello che sembra! Siamo solo..."
 
 # game/events/kira.rpy:463## # translate crowdin kira_bath_caught_5e78d419:
-msgid "[Eric_06]Неужели вы тут на самом деле на лыжах катаетесь?! А так сразу и не скажешь!"
-msgstr "[Eric_06]Stai davvero sciando qui?! E non puoi dirlo subito!"
+    # Eric_06 "Неужели вы тут на самом деле на лыжах катаетесь?! А так сразу и не скажешь!"
+    Eric_06 "Stai davvero sciando qui?! E non puoi dirlo subito!"
 
 # game/events/kira.rpy:464## # translate crowdin kira_bath_caught_a3113548:
     # Max_14 "Нет, просто так получилось..."
     Max_14 "No, è appena successo..."
 
 # game/events/kira.rpy:470## # translate crowdin kira_bath_caught_d574cb19:
-msgid "[Eric_04]Да не переживай, Макс. Вам повезло, что это я, а не кто-нибудь из твоих сестёр или твоя мама. Вы бы могли спокойно вылететь из этого дома со скандалом!"
-msgstr "[Eric_04]Non ti preoccupare, Max. Sei fortunato che sono io e non una delle tue sorelle o tua madre. Potresti tranquillamente volare fuori da questa casa con uno scandalo!"
+    # Eric_04 "Да не переживай, Макс. Вам повезло, что это я, а не кто-нибудь из твоих сестёр или твоя мама. Вы бы могли спокойно вылететь из этого дома со скандалом!"
+    Eric_04 "Non ti preoccupare, Max. Sei fortunato che sono io e non una delle tue sorelle o tua madre. Potresti tranquillamente volare fuori da questa casa con uno scandalo!"
 
 # game/events/kira.rpy:471## # translate crowdin kira_bath_caught_7b917c05:
 msgid "[Kira_15]Мне думается, что нам не так уж и повезло, видя то, как ты злорадствуешь!"
 msgstr "[Kira_15]penso che non siamo così fortunati a vederti gongolare!"
 
 # game/events/kira.rpy:472## # translate crowdin kira_bath_caught_7b416a24:
-msgid "[Eric_05]Это как посмотреть. Думаю, всем здесь понятно, что держать этот секрет в тайне от всех остальных я за просто так не стану..."
-msgstr "[Eric_05]È come guardare. Penso che tutti qui capiscano che non terrò segreto questo segreto a tutti gli altri..."
+    # Eric_05 "Это как посмотреть. Думаю, всем здесь понятно, что держать этот секрет в тайне от всех остальных я за просто так не стану..."
+    Eric_05 "È come guardare. Penso che tutti qui capiscano che non terrò segreto questo segreto a tutti gli altri..."
 
 # game/events/kira.rpy:473## # translate crowdin kira_bath_caught_11636359:
 msgid "[Kira_13]И что ты хочешь?"
 msgstr "[Kira_13]E cosa vuoi?"
 
 # game/events/kira.rpy:478## # translate crowdin kira_bath_caught_44eb4c63:
-msgid "[Eric_03]Сомневаюсь, что это Макс тебя совратил, а значит отдуваться тебе, Кира! Мне должно быть {b}приятно{/b} хранить этот секрет! Если понимаешь, о чём я..."
-msgstr "[Eric_03]dubito che sia stato Max a sedottarti, il che significa soffiarti via, Kira! Dovrei essere {b}contento{/b} di mantenere questo segreto! Se sai cosa intendo..."
+    # Eric_03 "Сомневаюсь, что это Макс тебя совратил, а значит отдуваться тебе, Кира! Мне должно быть {b}приятно{/b} хранить этот секрет! Если понимаешь, о чём я..."
+    Eric_03 "dubito che sia stato Max a sedottarti, il che significa soffiarti via, Kira! Dovrei essere {b}contento{/b} di mantenere questo segreto! Se sai cosa intendo..."
 
 # game/events/kira.rpy:479## # translate crowdin kira_bath_caught_b905692f:
 msgid "[Kira_16]По-видимому, секс за молчание?!"
 msgstr "[Kira_16]Apparentemente sesso per il silenzio?!"
 
 # game/events/kira.rpy:480## # translate crowdin kira_bath_caught_4bc31a57:
-msgid "[Eric_08]Приятно вести дела со взрослыми людьми. Правда, если я оттрахаю тебя, то криков ты точно не сдержишь, так что пока будет достаточно просто обалденного минета от тебя, Кира. Как ты на это смотришь?"
-msgstr "[Eric_08]È bello fare affari con gli adulti. Tuttavia, se ti scopo, sicuramente non frenerai le urla, quindi per ora sarà sufficiente solo un fantastico pompino da parte tua, Kira. Come lo guardi?"
+    # Eric_08 "Приятно вести дела со взрослыми людьми. Правда, если я оттрахаю тебя, то криков ты точно не сдержишь, так что пока будет достаточно просто обалденного минета от тебя, Кира. Как ты на это смотришь?"
+    Eric_08 "È bello fare affari con gli adulti. Tuttavia, se ti scopo, sicuramente non frenerai le urla, quindi per ora sarà sufficiente solo un fantastico pompino da parte tua, Kira. Come lo guardi?"
 
 # game/events/kira.rpy:481## # translate crowdin kira_bath_caught_6589a7bc:
 msgid "[Kira_14]Мы тут слишком застигнуты врасплох. Нужно время, чтобы подумать."
 msgstr "[Kira_14]Siamo troppo presi alla sprovvista qui. Ci vuole tempo per pensare."
 
 # game/events/kira.rpy:482## # translate crowdin kira_bath_caught_3d38ed27:
-msgid "[Eric_02]Только не тяните с этим, а то я заскучаю... Ещё увидимся, если вы примете верное решение."
-msgstr "[Eric_02]Basta non trascinarlo fuori, o mi annoierò... Ci vediamo se prendi la decisione giusta."
+    # Eric_02 "Только не тяните с этим, а то я заскучаю... Ещё увидимся, если вы примете верное решение."
+    Eric_02 "Basta non trascinarlo fuori, o mi annoierò... Ci vediamo se prendi la decisione giusta."
 
 # game/events/kira.rpy:489## # translate crowdin kira_bath_caught_a45c03b9:
     # Max_08 "Ты правда собираешься по ночам отсасывать Эрику?!"

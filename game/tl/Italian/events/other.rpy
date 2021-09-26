@@ -256,13 +256,13 @@ translate crowdin MeetingEric_56e6606a:
 translate crowdin MeetingEric_deda115c:
 
     # Eric_01 "Мне тоже. Как жизнь, Макс, чем занимаешься?" nointeract
-msgstr "[Eric_01]anche a me. Come la vita, Max, cosa fai?" nointeract
+    Eric_01 "anche a me. Come la vita, Max, cosa fai?" nointeract
 
 # game/events/other.rpy:123
 translate crowdin MeetingEric_fae75ac4:
 
-msgid "[Eric_06]Отличные слова, Макс. Ну, надеюсь, найдёшь то, что ищешь..."
-msgstr "[Eric_06]Grandi parole, Max. Beh, speriamo che troverai quello che stai cercando..."
+    # Eric_06 "Отличные слова, Макс. Ну, надеюсь, найдёшь то, что ищешь..."
+    Eric_06 "Grandi parole, Max. Beh, speriamo che troverai quello che stai cercando..."
 
 # game/events/other.rpy:124
 translate crowdin MeetingEric_ec11cf76:
@@ -274,7 +274,7 @@ translate crowdin MeetingEric_ec11cf76:
 translate crowdin MeetingEric_aa815859:
 
     # Eric_00 "Понятно. Воздух пинаешь... Ну ничего, в своё время всё изменится..."
-msgstr "[Eric_00]comprensibile. Si prende a calci l'aria... Beh, niente, a tempo debito tutto cambierà..."
+    Eric_00 "comprensibile. Si prende a calci l'aria... Beh, niente, a tempo debito tutto cambierà..."
 
 # game/events/other.rpy:131
 translate crowdin MeetingEric_62426c0e:
@@ -285,8 +285,8 @@ translate crowdin MeetingEric_62426c0e:
 # game/events/other.rpy:137
 translate crowdin MeetingEric_6deddf9e:
 
-msgid "[Eric_09]Ого, какие мы дружелюбные, ну что же, не буду тебя утомлять своими вопросами..."
-msgstr "[Eric_09]Wogo, quanto siamo amichevoli, beh, non ti annoierò con le mie domande..."
+    # Eric_09 "Ого, какие мы дружелюбные, ну что же, не буду тебя утомлять своими вопросами..."
+    Eric_09 "Wogo, quanto siamo amichevoli, beh, non ti annoierò con le mie domande..."
 
 # game/events/other.rpy:138
 translate crowdin MeetingEric_2db9f65a:
@@ -297,14 +297,14 @@ translate crowdin MeetingEric_2db9f65a:
 # game/events/other.rpy:141
 translate crowdin MeetingEric_cf7f1be0:
 
-msgid "[Eric_09]Очень приятно, Макс. А ты у нас не очень разговорчивый, да?" nointeract
-msgstr "[Eric_09]Molto bello, Max. E non sei molto loquace, giusto?" nointeract
+    # Eric_09 "Очень приятно, Макс. А ты у нас не очень разговорчивый, да?" nointeract
+    Eric_09 "Molto bello, Max. E non sei molto loquace, giusto?" nointeract
 
 # game/events/other.rpy:144
 translate crowdin MeetingEric_fda4595b:
 
-msgid "[Eric_06]Вот это да! Молодец, Макс. Вот это правильный подход."
-msgstr "[Eric_06]Wow! Ben fatto, Max. Questo è l'approccio giusto."
+    # Eric_06 "Вот это да! Молодец, Макс. Вот это правильный подход."
+    Eric_06 "Wow! Ben fatto, Max. Questo è l'approccio giusto."
 
 # game/events/other.rpy:145
 translate crowdin MeetingEric_25275504:
@@ -315,8 +315,8 @@ translate crowdin MeetingEric_25275504:
 # game/events/other.rpy:148
 translate crowdin MeetingEric_fdedac6a:
 
-msgid "[Eric_02]Всё ясно с тобой. У нас тут скромный мальчик. Ну, не буду тебя утомлять больше..."
-msgstr "[Eric_02]Tutto è chiaro con te. Abbiamo un ragazzo umile qui. Beh, non ti annoierò più..."
+    # Eric_02 "Всё ясно с тобой. У нас тут скромный мальчик. Ну, не буду тебя утомлять больше..."
+    Eric_02 "Tutto è chiaro con te. Abbiamo un ragazzo umile qui. Beh, non ti annoierò più..."
 
 # game/events/other.rpy:149
 translate crowdin MeetingEric_18637ae8:
@@ -327,8 +327,8 @@ translate crowdin MeetingEric_18637ae8:
 # game/events/other.rpy:155
 translate crowdin MeetingEric_e5d94a12:
 
-msgid "[Eric_02]Ань, а ты не говорила, что у тебя сын такой агрессивный..."
-msgstr "[Eric_02]An, e non hai detto che tuo figlio è così aggressivo..."
+    # Eric_02 "Ань, а ты не говорила, что у тебя сын такой агрессивный..."
+    Eric_02 "An, e non hai detto che tuo figlio è così aggressivo..."
 
 # game/events/other.rpy:156
 translate crowdin MeetingEric_58916f16:
@@ -339,14 +339,14 @@ translate crowdin MeetingEric_58916f16:
 # game/events/other.rpy:162
 translate crowdin MeetingEric_e662491e:
 
-msgid "[Eric_02]Извини, Макс, что не оправдал твои ожидания. В любом случае, приятно с тобой познакомиться..." nointeract
-msgstr "[Eric_02]Mi dispiace, Max, per non aver soddisfatto le tue aspettative. Comunque, è bello conoscerti..." nointeract
+    # Eric_02 "Извини, Макс, что не оправдал твои ожидания. В любом случае, приятно с тобой познакомиться..." nointeract
+    Eric_02 "Mi dispiace, Max, per non aver soddisfatto le tue aspettative. Comunque, è bello conoscerti..." nointeract
 
 # game/events/other.rpy:168
 translate crowdin MeetingEric_5febc517:
 
-msgid "[Eric_05]Макс, давай сразу на ты. Никаких формальностей. Это же семейный ужин. Так что, давайте будем проще..."
-msgstr "[Eric_05]Max, andiamo direttamente a te. Nessuna formalità. È una cena in famiglia. Quindi, siamo più semplici..."
+    # Eric_05 "Макс, давай сразу на ты. Никаких формальностей. Это же семейный ужин. Так что, давайте будем проще..."
+    Eric_05 "Max, andiamo direttamente a te. Nessuna formalità. È una cena in famiglia. Quindi, siamo più semplici..."
 
 # game/events/other.rpy:169
 translate crowdin MeetingEric_696b9e70:
@@ -358,7 +358,7 @@ translate crowdin MeetingEric_696b9e70:
 translate crowdin MeetingEric_44fb47c0:
 
     # Eric_01 "Понятно. Видимо, Макс слишком скромный. Ну ничего страшного, я в его возрасте тоже смущался..."
-msgstr "[Eric_01]comprensibile. A quanto pare Max è troppo modesto. Beh, va bene, ero imbarazzato anche per la sua età..."
+    Eric_01 "comprensibile. A quanto pare Max è troppo modesto. Beh, va bene, ero imbarazzato anche per la sua età..."
 
 # game/events/other.rpy:176
 translate crowdin MeetingEric_c0dc2202:
@@ -369,8 +369,8 @@ translate crowdin MeetingEric_c0dc2202:
 # game/events/other.rpy:179
 translate crowdin MeetingEric_68dfdf17:
 
-msgid "[Eric_09]И что со мной не так? Вот так с первого взгляда делаешь выводы о человеке? Не очень умно... Но для твоего возраста это нормально..." nointeract
-msgstr "[Eric_09]E cosa c'è di sbagliato in me? È così che a prima vista trai conclusioni su una persona? Non molto intelligente... Ma va bene per la tua età..." nointeract
+    # Eric_09 "И что со мной не так? Вот так с первого взгляда делаешь выводы о человеке? Не очень умно... Но для твоего возраста это нормально..." nointeract
+    Eric_09 "E cosa c'è di sbagliato in me? È così che a prima vista trai conclusioni su una persona? Non molto intelligente... Ma va bene per la tua età..." nointeract
 
 # game/events/other.rpy:190
 translate crowdin MeetingEric_good_53d048fe:

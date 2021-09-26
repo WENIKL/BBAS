@@ -3423,8 +3423,8 @@ translate crowdin blog_with_Eric_7ba1d761:
 # game/events/alice.rpy:2627
 translate crowdin blog_with_Eric_aec65cef:
 
-msgid "[Eric_02]Конечно, Алиса. Давай, мне не терпится увидеть, как оно на тебе сидит..."
-msgstr "[Eric_02]Certo, Alice. Dai, non vedo l'ora di vederlo sedersi su di te..."
+    # Eric_02 "Конечно, Алиса. Давай, мне не терпится увидеть, как оно на тебе сидит..."
+    Eric_02 "Certo, Alice. Dai, non vedo l'ora di vederlo sedersi su di te..."
 
 # game/events/alice.rpy:2631
 translate crowdin blog_with_Eric_e501d3e5:
@@ -3435,8 +3435,8 @@ translate crowdin blog_with_Eric_e501d3e5:
 # game/events/alice.rpy:2632
 translate crowdin blog_with_Eric_3786b53a:
 
-msgid "[Eric_03]Ты так красиво начала раздеваться, что я забыл не смотреть. Считай, закрыл."
-msgstr "[Eric_03]Hai iniziato a spogliarti così magnificamente che ho dimenticato di non guardare. Considera, chiuso."
+    # Eric_03 "Ты так красиво начала раздеваться, что я забыл не смотреть. Считай, закрыл."
+    Eric_03 "Hai iniziato a spogliarti così magnificamente che ho dimenticato di non guardare. Considera, chiuso."
 
 # game/events/alice.rpy:2637
 translate crowdin blog_with_Eric_d919352c:
@@ -3459,8 +3459,8 @@ translate crowdin blog_with_Eric_027a5864:
 # game/events/alice.rpy:2648
 translate crowdin blog_with_Eric_abcfcea5:
 
-msgid "[Eric_05]Алиса, на твоём чудесной теле, что угодно будет смотреться шикарно. И да, мне нравится, как это выглядит!"
-msgstr "[Eric_05]Alice, sul tuo corpo meraviglioso, qualsiasi cosa sembrerà stupenda. E sì, adoro il modo in cui appare!"
+    # Eric_05 "Алиса, на твоём чудесной теле, что угодно будет смотреться шикарно. И да, мне нравится, как это выглядит!"
+    Eric_05 "Alice, sul tuo corpo meraviglioso, qualsiasi cosa sembrerà stupenda. E sì, adoro il modo in cui appare!"
 
 # game/events/alice.rpy:2649
 translate crowdin blog_with_Eric_abb8de91:
@@ -3472,7 +3472,7 @@ translate crowdin blog_with_Eric_abb8de91:
 translate crowdin blog_with_Eric_55fa4c7f:
 
     # Eric_01 "Естественно! Всегда можешь ко мне обращаться... Только старайся немного заранее, а то я человек занятой..."
-msgstr "[Eric_01]Certo! Puoi sempre contattarmi... Basta provare un po 'in anticipo, a parte il fatto che sono una persona impegnata..."
+    Eric_01 "Certo! Puoi sempre contattarmi... Basta provare un po 'in anticipo, a parte il fatto che sono una persona impegnata..."
 
 # game/events/alice.rpy:2651
 translate crowdin blog_with_Eric_84a87931:

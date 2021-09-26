@@ -628,7 +628,7 @@ translate crowdin dinner_4_70506d70:
 translate crowdin dinner_4_f7058ec9:
 
     # Eric_01 "Да, купальник был отличный, но я уважаю решение Ани и понимаю, почему не стали покупать. Ну, нет, так нет..."
-msgstr "[Eric_01]Sì, il costume da bagno è stato fantastico, ma rispetto la decisione di Ani e capisco perché non hanno comprato. Beh, no, non lo è..."
+    Eric_01 "Sì, il costume da bagno è stato fantastico, ma rispetto la decisione di Ani e capisco perché non hanno comprato. Beh, no, non lo è..."
 
 # game/dialogues/dinner.rpy:349
 translate crowdin dinner_4_f390e9d0:
@@ -669,8 +669,8 @@ translate crowdin dinner_4_ff02b2d1:
 # game/dialogues/dinner.rpy:363
 translate crowdin dinner_4_f6e8b059:
 
-msgid "[Eric_05]Лиза, я тебе обещаю, что если вместе поедем на шоппинг через неделю, я тебе куплю отличный купальник. Конечно, не дизайнерский, но красивый и такой, в котором сможешь загорать! Это будет мой подарок тебе." nointeract
-msgstr "[Eric_05]Lisa, ti prometto che se andremo a fare shopping insieme tra una settimana, ti comprerò un ottimo costume da bagno. Certo, non di design, ma bellissima e in cui si può prendere il sole! Questo sarà il mio dono per voi." nointeract
+    # Eric_05 "Лиза, я тебе обещаю, что если вместе поедем на шоппинг через неделю, я тебе куплю отличный купальник. Конечно, не дизайнерский, но красивый и такой, в котором сможешь загорать! Это будет мой подарок тебе." nointeract
+    Eric_05 "Lisa, ti prometto che se andremo a fare shopping insieme tra una settimana, ti comprerò un ottimo costume da bagno. Certo, non di design, ma bellissima e in cui si può prendere il sole! Questo sarà il mio dono per voi." nointeract
 
 # game/dialogues/dinner.rpy:368
 translate crowdin dinner_4_74949cf6:
@@ -688,7 +688,7 @@ translate crowdin dinner_4_c6597fba:
 translate crowdin dinner_4_dab367c7:
 
     # Eric_00 "Точно, Алиса. Ты хотела какое-то платье, вроде бы... Верно?"
-msgstr "[Eric_00]Esattamente, Alice. Volevi una specie di vestito, come... Fedelmente?"
+    Eric_00 "Esattamente, Alice. Volevi una specie di vestito, come... Fedelmente?"
 
 # game/dialogues/dinner.rpy:376
 translate crowdin dinner_4_4ac6b15c:
@@ -699,8 +699,8 @@ translate crowdin dinner_4_4ac6b15c:
 # game/dialogues/dinner.rpy:383
 translate crowdin dinner_4_129d1f43:
 
-msgid "[Eric_05]Ань, а ты бываешь строгая, как я погляжу... Мне кажется, тебе стоит Алисе разрешить ходить в клубы. К тому же, она почти взрослая..."
-msgstr "[Eric_05]An, e tu sei severo, mentre guardo... Penso che dovresti lasciare che Alice vada nei club. Inoltre, è quasi un'adulta..."
+    # Eric_05 "Ань, а ты бываешь строгая, как я погляжу... Мне кажется, тебе стоит Алисе разрешить ходить в клубы. К тому же, она почти взрослая..."
+    Eric_05 "An, e tu sei severo, mentre guardo... Penso che dovresti lasciare che Alice vada nei club. Inoltre, è quasi un'adulta..."
 
 # game/dialogues/dinner.rpy:384
 translate crowdin dinner_4_ceb18512:
@@ -717,8 +717,8 @@ translate crowdin dinner_4_259ec354:
 # game/dialogues/dinner.rpy:391
 translate crowdin dinner_4_805d016f:
 
-msgid "[Eric_05]Да не стоит, пустяки. А чтобы ваш семейный бюджет не просел, я сам подарю тебе платье для клуба, какое скажешь. Через неделю." nointeract
-msgstr "[Eric_05]Sì, non ne vale la pena, sciocchezze. E in modo che il tuo budget familiare non scivoli, ti darò un vestito per il club, come dici tu. Una settimana dopo." nointeract
+    # Eric_05 "Да не стоит, пустяки. А чтобы ваш семейный бюджет не просел, я сам подарю тебе платье для клуба, какое скажешь. Через неделю." nointeract
+    Eric_05 "Sì, non ne vale la pena, sciocchezze. E in modo che il tuo budget familiare non scivoli, ti darò un vestito per il club, come dici tu. Una settimana dopo." nointeract
 
 # game/dialogues/dinner.rpy:395
 translate crowdin dinner_4_10f0359a:
@@ -909,8 +909,8 @@ translate crowdin dinner_6_36943836:
 # game/dialogues/dinner.rpy:469
 translate crowdin dinner_6_7d67fcca:
 
-msgid "[Eric_02]Макс, у нас с тобой какие-то проблемы? Может быть, расскажешь, чем я тебе не нравлюсь?" nointeract
-msgstr "[Eric_02]Max, tu ed io abbiamo qualche problema? Forse dimmi perché non ti piaccio?" nointeract
+    # Eric_02 "Макс, у нас с тобой какие-то проблемы? Может быть, расскажешь, чем я тебе не нравлюсь?" nointeract
+    Eric_02 "Max, tu ed io abbiamo qualche problema? Forse dimmi perché non ti piaccio?" nointeract
 
 # game/dialogues/dinner.rpy:472
 translate crowdin dinner_6_438a5f93:
@@ -951,8 +951,8 @@ translate crowdin dinner_6_80f63239:
 # game/dialogues/dinner.rpy:481
 translate crowdin dinner_6_99a07aeb:
 
-msgid "[Eric_02]Макс, мне показалось, или я тебе не очень нравлюсь?" nointeract
-msgstr "[Eric_02]Max, ho pensato, o non ti piaccio davvero?" nointeract
+    # Eric_02 "Макс, мне показалось, или я тебе не очень нравлюсь?" nointeract
+    Eric_02 "Max, ho pensato, o non ti piaccio davvero?" nointeract
 
 # game/dialogues/dinner.rpy:484
 translate crowdin dinner_6_aa905118:
@@ -1005,8 +1005,8 @@ translate crowdin dinner_6_edd8ab5c:
 # game/dialogues/dinner.rpy:494
 translate crowdin dinner_6_08c7017b:
 
-msgid "[Eric_05]Конечно, Макс ещё не совсем мужчина, но он уже в подходящем возрасте для специального подросткового лагеря..."
-msgstr "[Eric_05]Certo, Max non è ancora un uomo, ma è già all'età giusta per un campo speciale per adolescenti..."
+    # Eric_05 "Конечно, Макс ещё не совсем мужчина, но он уже в подходящем возрасте для специального подросткового лагеря..."
+    Eric_05 "Certo, Max non è ancora un uomo, ma è già all'età giusta per un campo speciale per adolescenti..."
 
 # game/dialogues/dinner.rpy:495
 translate crowdin dinner_6_317a2271:
@@ -1018,7 +1018,7 @@ translate crowdin dinner_6_317a2271:
 translate crowdin dinner_6_5356c4a4:
 
     # Eric_01 "Военного. В этом лагере подготавливают детей твоего возраста к службе в армии. Это не значит, что ты обязан будешь идти служить, но тебя к этом подготовят и ты сам решишь, нравится тебе этот путь или нет..."
-msgstr "[Eric_01]militare. In questo campo, i bambini della tua età sono preparati per il servizio militare. Questo non significa che dovrai andare a servire, ma sarai preparato per questo e deciderai da solo se ti piace questo percorso o no..."
+    Eric_01 "militare. In questo campo, i bambini della tua età sono preparati per il servizio militare. Questo non significa che dovrai andare a servire, ma sarai preparato per questo e deciderai da solo se ti piace questo percorso o no..."
 
 # game/dialogues/dinner.rpy:497
 translate crowdin dinner_6_019674e5:
@@ -1029,8 +1029,8 @@ translate crowdin dinner_6_019674e5:
 # game/dialogues/dinner.rpy:498
 translate crowdin dinner_6_5167a21f:
 
-msgid "[Eric_05]Как ты можешь это знать заранее? Ты же не пробовал! Там готовят настоящих будущих мужчин. Дисциплина, физическая подготовка, субординация. Знакомые слова?"
-msgstr "[Eric_05]Come puoi saperlo in anticipo? Non ci hai provato! Preparano veri uomini futuri. Disciplina, allenamento fisico, subordinazione. Suona familiare?"
+    # Eric_05 "Как ты можешь это знать заранее? Ты же не пробовал! Там готовят настоящих будущих мужчин. Дисциплина, физическая подготовка, субординация. Знакомые слова?"
+    Eric_05 "Come puoi saperlo in anticipo? Non ci hai provato! Preparano veri uomini futuri. Disciplina, allenamento fisico, subordinazione. Suona familiare?"
 
 # game/dialogues/dinner.rpy:499
 translate crowdin dinner_6_457b166b:
@@ -1041,8 +1041,8 @@ translate crowdin dinner_6_457b166b:
 # game/dialogues/dinner.rpy:500
 translate crowdin dinner_6_0603d673:
 
-msgid "[Eric_02]А зря. Хотя ваша мама и воспитала вас очень хорошо, ну некоторых точно. Но она воспитывала одна, а для того, чтобы мальчик стал настоящим мужчиной, нужно строгое, мужское воспитание. Вот в этом лагере его можно получить."
-msgstr "[Eric_02]E invano. Anche se tua madre ti ha cresciuto molto bene, beh, alcuni di sicuro. Ma è cresciuta da sola, e affinché il ragazzo diventi un vero uomo, hai bisogno di un'educazione rigorosa e maschile. Ecco dove puoi ottenerlo."
+    # Eric_02 "А зря. Хотя ваша мама и воспитала вас очень хорошо, ну некоторых точно. Но она воспитывала одна, а для того, чтобы мальчик стал настоящим мужчиной, нужно строгое, мужское воспитание. Вот в этом лагере его можно получить."
+    Eric_02 "E invano. Anche se tua madre ti ha cresciuto molto bene, beh, alcuni di sicuro. Ma è cresciuta da sola, e affinché il ragazzo diventi un vero uomo, hai bisogno di un'educazione rigorosa e maschile. Ecco dove puoi ottenerlo."
 
 # game/dialogues/dinner.rpy:501
 translate crowdin dinner_6_2f9d222e:
@@ -1066,7 +1066,7 @@ translate crowdin dinner_6_20ceec69:
 translate crowdin dinner_6_c16222e2:
 
     # Eric_01 "Ну, как я и ожидал... И как же ты станешь настоящим мужчиной? Драться ты не умеешь, наверняка. Физическая подготовка? Ты зарядку хотя бы делаешь? Про дисциплину, вообще, молчу..."
-msgstr "[Eric_01]Beh, come mi aspettavo... E come diventerai un vero uomo? Non puoi combattere, di sicuro. Forma fisica? Fai almeno la ricarica? A proposito di disciplina, in generale, taccio..."
+    Eric_01 "Beh, come mi aspettavo... E come diventerai un vero uomo? Non puoi combattere, di sicuro. Forma fisica? Fai almeno la ricarica? A proposito di disciplina, in generale, taccio..."
 
 # game/dialogues/dinner.rpy:505
 translate crowdin dinner_6_898c60c2:
@@ -1077,8 +1077,8 @@ translate crowdin dinner_6_898c60c2:
 # game/dialogues/dinner.rpy:506
 translate crowdin dinner_6_3819b060:
 
-msgid "[Eric_05]О да. Ну, посмотрим. Я ещё всё выясню про этот лагерь, когда у них ближайший набор, а в твоих силах пока есть время, доказать поступками, что ты уже мужик и не нуждаешься в этом лагере. Всё в твоих руках..."
-msgstr "[Eric_05]Oh sì. Bene, vedremo. Scoprirò di più su questo campo, quando avranno il set più vicino, e avrai ancora tempo per dimostrare con le azioni che sei già un uomo e non hai bisogno di questo campo. Tutto è nelle tue mani..."
+    # Eric_05 "О да. Ну, посмотрим. Я ещё всё выясню про этот лагерь, когда у них ближайший набор, а в твоих силах пока есть время, доказать поступками, что ты уже мужик и не нуждаешься в этом лагере. Всё в твоих руках..."
+    Eric_05 "Oh sì. Bene, vedremo. Scoprirò di più su questo campo, quando avranno il set più vicino, e avrai ancora tempo per dimostrare con le azioni che sei già un uomo e non hai bisogno di questo campo. Tutto è nelle tue mani..."
 
 # game/dialogues/dinner.rpy:507
 translate crowdin dinner_6_58a8fd66:
@@ -1107,8 +1107,8 @@ translate crowdin dinner_6_be309633:
 # game/dialogues/dinner.rpy:514
 translate crowdin dinner_6_d8863d05:
 
-msgid "[Eric_09]Да? Странно. Обычно она всегда помогает. Хотя, мне кажется, что ты делаешь это не так. Вот скажи, ты же стараешься просто шлёпать как можно сильнее, думая, что это всё что требуется, верно?"
-msgstr "[Eric_09]sì? Stranamente. Di solito aiuta sempre. Anche se, penso che non lo stai facendo in questo modo. Dimmi, cerchi di sculacciare il più forte possibile, pensando che sia tutto ciò che serve, giusto?"
+    # Eric_09 "Да? Странно. Обычно она всегда помогает. Хотя, мне кажется, что ты делаешь это не так. Вот скажи, ты же стараешься просто шлёпать как можно сильнее, думая, что это всё что требуется, верно?"
+    Eric_09 "sì? Stranamente. Di solito aiuta sempre. Anche se, penso che non lo stai facendo in questo modo. Dimmi, cerchi di sculacciare il più forte possibile, pensando che sia tutto ciò che serve, giusto?"
 
 # game/dialogues/dinner.rpy:515
 translate crowdin dinner_6_f8fb6fec:
@@ -1131,8 +1131,8 @@ translate crowdin dinner_6_c85861e6:
 # game/dialogues/dinner.rpy:518
 translate crowdin dinner_6_b529c25b:
 
-msgid "[Eric_02]Гораздо больший эффект оказывает окружение и условия, при которых происходит наказание. Я тебе потом обо всём подробно расскажу. Думаю, пока дети не готовы об этом услышать, тем более вот так за ужином..."
-msgstr "[Eric_02]Effetto molto maggiore è esercitato dall'ambiente e dalle condizioni in cui si verifica la punizione. Ti dirò di più su tutto più tardi. Penso che fino a quando i bambini non sono pronti a sentirne parlare, soprattutto così a cena..."
+    # Eric_02 "Гораздо больший эффект оказывает окружение и условия, при которых происходит наказание. Я тебе потом обо всём подробно расскажу. Думаю, пока дети не готовы об этом услышать, тем более вот так за ужином..."
+    Eric_02 "Effetto molto maggiore è esercitato dall'ambiente e dalle condizioni in cui si verifica la punizione. Ti dirò di più su tutto più tardi. Penso che fino a quando i bambini non sono pronti a sentirne parlare, soprattutto così a cena..."
 
 # game/dialogues/dinner.rpy:519
 translate crowdin dinner_6_f4d02f0c:
@@ -1221,8 +1221,8 @@ translate crowdin dinner_11_e2d2f91c:
 # game/dialogues/dinner.rpy:539
 translate crowdin dinner_11_e5f051d6:
 
-msgid "[Eric_02]А что, Алиса, отличная идея. Если проблема с деньгами какая-то, то это не проблема, я помогу и даже организую всё..."
-msgstr "[Eric_02]E cosa, Alice, grande idea. Se c'è qualche problema con i soldi, allora questo non è un problema, aiuterò e persino organizzerò tutto..."
+    # Eric_02 "А что, Алиса, отличная идея. Если проблема с деньгами какая-то, то это не проблема, я помогу и даже организую всё..."
+    Eric_02 "E cosa, Alice, grande idea. Se c'è qualche problema con i soldi, allora questo non è un problema, aiuterò e persino organizzerò tutto..."
 
 # game/dialogues/dinner.rpy:540
 translate crowdin dinner_11_7b7d27fd:
@@ -1239,8 +1239,8 @@ translate crowdin dinner_11_8943ad56:
 # game/dialogues/dinner.rpy:542
 translate crowdin dinner_11_e2de9231:
 
-msgid "[Eric_05]Лиза, что за глупый вопрос. Конечно! В нашем мире без этого ни за что не удалось бы занять такую высокую должность в компании. Да и в жизни без образования пробиваются только единицы..." nointeract
-msgstr "[Eric_05]Lisa, che domanda stupida. Naturalmente,! Nel nostro mondo, senza questo, non sarebbe mai stato possibile occupare una posizione così alta in azienda. E nella vita senza istruzione, solo pochi si fanno strada attraverso..." nointeract
+    # Eric_05 "Лиза, что за глупый вопрос. Конечно! В нашем мире без этого ни за что не удалось бы занять такую высокую должность в компании. Да и в жизни без образования пробиваются только единицы..." nointeract
+    Eric_05 "Lisa, che domanda stupida. Naturalmente,! Nel nostro mondo, senza questo, non sarebbe mai stato possibile occupare una posizione così alta in azienda. E nella vita senza istruzione, solo pochi si fanno strada attraverso..." nointeract
 
 # game/dialogues/dinner.rpy:548
 translate crowdin dinner_11_d501685a:
@@ -1252,13 +1252,13 @@ translate crowdin dinner_11_d501685a:
 translate crowdin dinner_11_559e8fa1:
 
     # Eric_01 "Ну, тогда у тебя одна дорога. В тот самый военный лагерь. Ну или какой-то другой. И это хорошо. Тебя подготовят, натренируют, научат дисциплине и субординации. Станешь настоящим мужиком!"
-msgstr "[Eric_01]Bene, allora hai una strada. A quel campo militare. O qualcos'altro. E questa è una buona cosa. Sarai preparato, addestrato, insegnato disciplina e subordinazione. Diventerai un vero uomo!"
+    Eric_01 "Bene, allora hai una strada. A quel campo militare. O qualcos'altro. E questa è una buona cosa. Sarai preparato, addestrato, insegnato disciplina e subordinazione. Diventerai un vero uomo!"
 
 # game/dialogues/dinner.rpy:553
 translate crowdin dinner_11_b3ece1cc:
 
-msgid "[Eric_03]Ты знаешь, думать нужно быстрее. Потому-что выбор у тебя либо школа, либо военный лагерь, а потом и армия... Я бы выбрал армию на твоём месте, но с твоими физическими данными..."
-msgstr "[Eric_03]Sai, devi pensare più velocemente. Perché la scelta che hai è una scuola o un campo militare, e poi l'esercito... Sceglierei un esercito al tuo posto, ma con i tuoi dati fisici..."
+    # Eric_03 "Ты знаешь, думать нужно быстрее. Потому-что выбор у тебя либо школа, либо военный лагерь, а потом и армия... Я бы выбрал армию на твоём месте, но с твоими физическими данными..."
+    Eric_03 "Sai, devi pensare più velocemente. Perché la scelta che hai è una scuola o un campo militare, e poi l'esercito... Sceglierei un esercito al tuo posto, ma con i tuoi dati fisici..."
 
 # game/dialogues/dinner.rpy:554
 translate crowdin dinner_11_bf1cc148:
@@ -1270,7 +1270,7 @@ translate crowdin dinner_11_bf1cc148:
 translate crowdin dinner_11_de1a56d1:
 
     # Eric_01 "Ну, они не очень. Хотя, тебя подготовят, натренеруют. А главное - научат дисциплине и субординации. Мама за тебя порадуется, когда увидит, что мужиком стал!"
-msgstr "[Eric_01]Beh, non sono molto buoni. Anche se, sarai preparato, addestrato. E, soprattutto, insegna la disciplina e la subordinazione. La mamma sarà felice per te quando vedrà che è diventato un uomo!"
+    Eric_01 "Beh, non sono molto buoni. Anche se, sarai preparato, addestrato. E, soprattutto, insegna la disciplina e la subordinazione. La mamma sarà felice per te quando vedrà che è diventato un uomo!"
 
 # game/dialogues/dinner.rpy:556
 translate crowdin dinner_11_7037837f:
@@ -1281,8 +1281,8 @@ translate crowdin dinner_11_7037837f:
 # game/dialogues/dinner.rpy:557
 translate crowdin dinner_11_293f5d0a:
 
-msgid "[Eric_09]Ну ладно, думай так... Заблуждаться никто не мешает..."
-msgstr "[Eric_09]Ok, pensa di sì... Nessuno si preoccupa di sbagliarsi..."
+    # Eric_09 "Ну ладно, думай так... Заблуждаться никто не мешает..."
+    Eric_09 "Ok, pensa di sì... Nessuno si preoccupa di sbagliarsi..."
 
 # game/dialogues/dinner.rpy:558
 translate crowdin dinner_11_318e1952:
@@ -1600,7 +1600,7 @@ translate crowdin dinner_ab_lisa_ed_ccd44083:
 translate crowdin dinner_ab_lisa_ed_f6502d96:
 
     # Eric_01 "Я решил, что нужно уделить твоему образованию больше внимания, Лиза. Так что я нанял репетитора, который натаскает тебя по учёбе на самые высокие отметки."
-msgstr "[Eric_01]ho deciso che devo prestare più attenzione alla tua educazione, Lisa. Così ho assunto un tutor che ti porterà attraverso i tuoi studi ai voti più alti."
+    Eric_01 "ho deciso che devo prestare più attenzione alla tua educazione, Lisa. Così ho assunto un tutor che ti porterà attraverso i tuoi studi ai voti più alti."
 
 # game/dialogues/dinner.rpy:676
 translate crowdin dinner_ab_lisa_ed_f32204fd:
@@ -1611,8 +1611,8 @@ translate crowdin dinner_ab_lisa_ed_f32204fd:
 # game/dialogues/dinner.rpy:677
 translate crowdin dinner_ab_lisa_ed_8bc69cc7:
 
-msgid "[Eric_02]По воскресеньям. Будете заниматься 3 или 4 часа, этого более чем хватит, чтобы закрепить то, что вы пройдёте в школе."
-msgstr "[Eric_02]La domenica. Studierai per 3 o 4 ore, questo è più che sufficiente per consolidare ciò che passerai a scuola."
+    # Eric_02 "По воскресеньям. Будете заниматься 3 или 4 часа, этого более чем хватит, чтобы закрепить то, что вы пройдёте в школе."
+    Eric_02 "La domenica. Studierai per 3 o 4 ore, questo è più che sufficiente per consolidare ciò che passerai a scuola."
 
 # game/dialogues/dinner.rpy:678
 translate crowdin dinner_ab_lisa_ed_986bb662:
@@ -1642,7 +1642,7 @@ translate crowdin dinner_ab_lisa_ed_ed572311:
 translate crowdin dinner_ab_lisa_ed_45306d35:
 
     # Eric_01 "Я решил, что нужно уделить твоему образованию больше внимания, Лиза. Так что я оплатил дополнительные учебные курсы у вас в школе."
-msgstr "[Eric_01]ho deciso che devo prestare più attenzione alla tua educazione, Lisa. Così ho pagato per ulteriori corsi di formazione presso la vostra scuola."
+    Eric_01 "ho deciso che devo prestare più attenzione alla tua educazione, Lisa. Così ho pagato per ulteriori corsi di formazione presso la vostra scuola."
 
 # game/dialogues/dinner.rpy:690
 translate crowdin dinner_ab_lisa_ed_daffd3b9:
@@ -1653,8 +1653,8 @@ translate crowdin dinner_ab_lisa_ed_daffd3b9:
 # game/dialogues/dinner.rpy:691
 translate crowdin dinner_ab_lisa_ed_35bb1e1e:
 
-msgid "[Eric_02]Сразу после ваших уроков. Будете оставаться после уроков на часок, чтобы закрепить пройденный материал. Уверен, ты станешь круглой отличницей!"
-msgstr "[Eric_02]Subito dopo le lezioni. Rimarrai dopo la scuola per un'ora per consolidare il materiale coperto. Sono sicuro che diventerai uno studente con lode!"
+    # Eric_02 "Сразу после ваших уроков. Будете оставаться после уроков на часок, чтобы закрепить пройденный материал. Уверен, ты станешь круглой отличницей!"
+    Eric_02 "Subito dopo le lezioni. Rimarrai dopo la scuola per un'ora per consolidare il materiale coperto. Sono sicuro che diventerai uno studente con lode!"
 
 # game/dialogues/dinner.rpy:692
 translate crowdin dinner_ab_lisa_ed_ab303f17:
@@ -1671,8 +1671,8 @@ translate crowdin dinner_ab_lisa_ed_2ec88256:
 # game/dialogues/dinner.rpy:694
 translate crowdin dinner_ab_lisa_ed_b7233bd2:
 
-msgid "[Eric_04]Ты бы лучше, Макс, сам хоть школу закончил! Или на курсы подготовительные записался. А если не хочешь, то можешь начинать чистить сапоги и учиться маршировать. Чему-то учиться в любом случае нужно!"
-msgstr "[Eric_04]Staresti meglio, Max, almeno finisci la scuola da solo! Oppure mi sono iscritto a corsi di preparazione. E se non vuoi, puoi iniziare a pulire gli stivali e imparare a marciare. Qualcosa da imparare in ogni caso è necessario!"
+    # Eric_04 "Ты бы лучше, Макс, сам хоть школу закончил! Или на курсы подготовительные записался. А если не хочешь, то можешь начинать чистить сапоги и учиться маршировать. Чему-то учиться в любом случае нужно!"
+    Eric_04 "Staresti meglio, Max, almeno finisci la scuola da solo! Oppure mi sono iscritto a corsi di preparazione. E se non vuoi, puoi iniziare a pulire gli stivali e imparare a marciare. Qualcosa da imparare in ogni caso è necessario!"
 
 # game/dialogues/dinner.rpy:695
 translate crowdin dinner_ab_lisa_ed_2560c843:
