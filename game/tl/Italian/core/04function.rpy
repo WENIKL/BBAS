@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2021-06-19 20:09
 
-translate crowdin strings:
+translate italian strings:
 
     # game/core/04function.rpy:280
     old "+ к навыку скрытности"

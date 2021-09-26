@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2021-06-19 20:09
 
-translate crowdin strings:
+translate italian strings:
 
     # game/extra/extra.rpy:56
     old "Новый купальник Лизы"

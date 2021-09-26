@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2021-06-19 20:09
 
-translate crowdin strings:
+translate italian strings:
 
     # game/core/02init.rpy:18
     old "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"

@@ -1,24 +1,24 @@
 # TODO: Translation updated at 2021-06-19 20:09
 
 # game/core/oldfix.rpy:6
-translate crowdin old_fix_6c975de3:
+translate italian old_fix_6c975de3:
 
     old "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
     new "Il salvataggio della versione demo techno non è supportato. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:10
-translate crowdin old_fix_93331e6b:
+translate italian old_fix_93331e6b:
 
     old "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
     new "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
 # game/core/oldfix.rpy:14
-translate crowdin old_fix_93331e6b_1:
+translate italian old_fix_93331e6b_1:
 
     old "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
     new "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
-translate crowdin strings:
+translate italian strings:
 
     # game/core/oldfix.rpy:49
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
