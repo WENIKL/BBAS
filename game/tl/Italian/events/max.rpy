@@ -241,8 +241,8 @@
     Max_07 "La chiamata al cancello! Sembra che qualcuno sia venuto da noi..."
 
 # game/events/max.rpy:566## # translate crowdin delivery1_80685efe:
-msgid "[Sam_00]Здравствуйте! По этому адресу на сегодня назначена доставка. Распишитесь?"
-msgstr "[Sam_00]Ciao! La consegna è prevista per questo indirizzo oggi. Segno?"
+    # Sam_00 "Здравствуйте! По этому адресу на сегодня назначена доставка. Распишитесь?"
+    Sam_00 "Ciao! La consegna è prevista per questo indirizzo oggi. Segno?"
 
 # game/events/max.rpy:567## # translate crowdin delivery1_509c6af4:
     # Max_00 "Конечно! А что тут?"
