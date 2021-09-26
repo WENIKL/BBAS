@@ -5878,961 +5878,963 @@ msgstr "[Lisa_12]Forse la prossima volta, almeno farai qualcosa, e non solo sede
 msgid "[Max_08]Так и сделаю. В смысле, сделаю..."
 msgstr "[Max_08]lo farò. Voglio dire, lo farò..."
 
-## # translate crowdin strings:#    # game/dialogues/lisatalk.rpy:62
+translate crowdin strings:
+
+# game/dialogues/lisatalk.rpy:62
 msgid "Кажется, я передумал..."
 msgstr "Penso di aver cambiato idea..."
 
-#    # game/dialogues/lisatalk.rpy:85
+    # game/dialogues/lisatalk.rpy:85
 msgid "Что? Ты о чём?"
 msgstr "A cosa? Di cosa stai parlando?"
 
-#    # game/dialogues/lisatalk.rpy:85
+    # game/dialogues/lisatalk.rpy:85
 msgid "Что случилось?"
 msgstr "Cos'è successo?"
 
-#    # game/dialogues/lisatalk.rpy:96
+    # game/dialogues/lisatalk.rpy:96
 msgid "Да это не то, о чём ты думаешь..."
 msgstr "Non è quello che stai pensando..."
 
-#    # game/dialogues/lisatalk.rpy:96
+    # game/dialogues/lisatalk.rpy:96
 msgid "Просто, так бывает утром иногда..."
 msgstr "Semplicemente, a volte succede al mattino..."
 
-#    # game/dialogues/lisatalk.rpy:99
+    # game/dialogues/lisatalk.rpy:99
 msgid "Да не ори ты так!"
 msgstr "Non ti piace!"
 
-#    # game/dialogues/lisatalk.rpy:99
+    # game/dialogues/lisatalk.rpy:99
 msgid "Ничего же не случилось..."
 msgstr "Non è successo niente..."
 
-#    # game/dialogues/lisatalk.rpy:106
+    # game/dialogues/lisatalk.rpy:106
 msgid "Ну что же ты орёшь так..."
 msgstr "Bene, cosa hai intenzione di fare in questo modo..."
 
-#    # game/dialogues/lisatalk.rpy:106
+    # game/dialogues/lisatalk.rpy:106
 msgid "Давай всё мирно уладим..."
 msgstr "Risolviamo tutto pacificamente..."
 
-#    # game/dialogues/lisatalk.rpy:118
+    # game/dialogues/lisatalk.rpy:118
 msgid "Да я просто спал, это само..."
 msgstr "Sì, ero solo addormentato, è..."
 
-#    # game/dialogues/lisatalk.rpy:118
+    # game/dialogues/lisatalk.rpy:118
 msgid "Так бывает по утрам, я не специально..."
 msgstr "Succede la mattina, non sono di proposito..."
 
-#    # game/dialogues/lisatalk.rpy:179
+    # game/dialogues/lisatalk.rpy:179
 msgid "{i}подождать{/i}"
 msgstr "{i}wait{/i}"
 
-#    # game/dialogues/lisatalk.rpy:179
+    # game/dialogues/lisatalk.rpy:179
 msgid "Да трогай уже, он не кусается!"
 msgstr "Sì, tocca già, non morde!"
 
-#    # game/dialogues/lisatalk.rpy:246
+    # game/dialogues/lisatalk.rpy:246
 msgid "Да я сам в шоке!"
 msgstr "Sì, sono scioccato!"
 
-#    # game/dialogues/lisatalk.rpy:246
+    # game/dialogues/lisatalk.rpy:246
 msgid "Так как дела в школе?"
 msgstr "Quindi, come vanno le cose a scuola?"
 
-#    # game/dialogues/lisatalk.rpy:246
+    # game/dialogues/lisatalk.rpy:246
 msgid "Не заблудилась по дороге?"
 msgstr "Non ti sei perso per strada?"
 
-#    # game/dialogues/lisatalk.rpy:249
+    # game/dialogues/lisatalk.rpy:249
 msgid "Да, мы почти в раю"
 msgstr "Sì, siamo quasi in paradiso"
 
-#    # game/dialogues/lisatalk.rpy:249
+    # game/dialogues/lisatalk.rpy:249
 msgid "Может быть, тут ураганы бывают?"
 msgstr "Forse ci sono uragani qui?"
 
-#    # game/dialogues/lisatalk.rpy:252
+    # game/dialogues/lisatalk.rpy:252
 msgid "Ну, как дела в школе?"
 msgstr "Bene, come vanno le cose a scuola?"
 
-#    # game/dialogues/lisatalk.rpy:252
+    # game/dialogues/lisatalk.rpy:252
 msgid "Нашла дорогу домой от школы?"
 msgstr "Hai trovato la strada di casa da scuola?"
 
-#    # game/dialogues/lisatalk.rpy:270
+    # game/dialogues/lisatalk.rpy:270
 msgid "Очень смешно!"
 msgstr "Molto divertente!"
 
-#    # game/dialogues/lisatalk.rpy:270
+    # game/dialogues/lisatalk.rpy:270
 msgid "Хм... Ты слишком счастливая. Что-то случилось в школе?"
 msgstr "Hmm... Sei troppo felice. È successo qualcosa a scuola?"
 
-#    # game/dialogues/lisatalk.rpy:273
+    # game/dialogues/lisatalk.rpy:273
 msgid "А меня всё устраивает"
 msgstr "E sto bene con tutto"
 
-#    # game/dialogues/lisatalk.rpy:273
+    # game/dialogues/lisatalk.rpy:273
 msgid "Здесь я никого не знаю"
 msgstr "Non conosco nessuno qui"
 
-#    # game/dialogues/lisatalk.rpy:273
+    # game/dialogues/lisatalk.rpy:273
 msgid "Просто... не люблю людей"
 msgstr "Semplicemente... Non mi piacciono le persone"
 
-#    # game/dialogues/lisatalk.rpy:280
+    # game/dialogues/lisatalk.rpy:280
 msgid "Почти? С кем-то познакомилась?"
 msgstr "Quasi? Hai incontrato qualcuno?"
 
-#    # game/dialogues/lisatalk.rpy:280
+    # game/dialogues/lisatalk.rpy:280
 msgid "Так что там в школе?"
 msgstr "Quindi cosa c'è nella scuola?"
 
-#    # game/dialogues/lisatalk.rpy:283
+    # game/dialogues/lisatalk.rpy:283
 msgid "Так кто он?"
 msgstr "Allora, chi è?"
 
-#    # game/dialogues/lisatalk.rpy:283
+    # game/dialogues/lisatalk.rpy:283
 msgid "И ничего я не ревную"
 msgstr "E non sono geloso di nulla"
 
-#    # game/dialogues/lisatalk.rpy:283
+    # game/dialogues/lisatalk.rpy:283
 msgid "Ну и не рассказывай, если не хочешь..."
 msgstr "Beh, non dire se non vuoi..."
 
-#    # game/dialogues/lisatalk.rpy:288
+    # game/dialogues/lisatalk.rpy:288
 msgid "Вот это признание!"
 msgstr "Questa è una confessione!"
 
-#    # game/dialogues/lisatalk.rpy:288
+    # game/dialogues/lisatalk.rpy:288
 msgid "Я тоже тебя люблю, сестрёнка"
 msgstr "Ti amo anche io, sorella"
 
-#    # game/dialogues/lisatalk.rpy:302
+    # game/dialogues/lisatalk.rpy:302
 msgid "Ну, приходится..."
 msgstr "Beh, devi..."
 
-#    # game/dialogues/lisatalk.rpy:302
+    # game/dialogues/lisatalk.rpy:302
 msgid "Вы - исключение"
 msgstr "Tu sei l'eccezione"
 
-#    # game/dialogues/lisatalk.rpy:302
+    # game/dialogues/lisatalk.rpy:302
 msgid "Да я пошутил"
 msgstr "Sì, stavo scherzando"
 
-#    # game/dialogues/lisatalk.rpy:331
+    # game/dialogues/lisatalk.rpy:331
 msgid "Что-то ты мне голову морочишь..."
 msgstr "Qualcosa che mi stai prendendo in giro..."
 
-#    # game/dialogues/lisatalk.rpy:331
+    # game/dialogues/lisatalk.rpy:331
 msgid "А имя у твоей подружки не мужское, случайно?"
 msgstr "E il nome della tua ragazza non è maschile, per caso?"
 
-#    # game/dialogues/lisatalk.rpy:334
+    # game/dialogues/lisatalk.rpy:334
 msgid "Что-то я совсем запутался"
 msgstr "Qualcosa di cui sono completamente confuso"
 
-#    # game/dialogues/lisatalk.rpy:345
+    # game/dialogues/lisatalk.rpy:345
 msgid "Да как обычно..."
 msgstr "Sì, come al solito..."
 
-#    # game/dialogues/lisatalk.rpy:345
+    # game/dialogues/lisatalk.rpy:345
 msgid "Привыкаю ко всему"
 msgstr "Mi abitro a tutto"
 
-#    # game/dialogues/lisatalk.rpy:348
+    # game/dialogues/lisatalk.rpy:348
 msgid "Ну, теперь то это будет обычно"
 msgstr "Bene, ora sarà normale"
 
-#    # game/dialogues/lisatalk.rpy:348
+    # game/dialogues/lisatalk.rpy:348
 msgid "Ты права..."
 msgstr "Hai ragione..."
 
-#    # game/dialogues/lisatalk.rpy:351
+    # game/dialogues/lisatalk.rpy:351
 msgid "Ты же у нас оптимист обычно?"
 msgstr "Sei un ottimista di solito?"
 
-#    # game/dialogues/lisatalk.rpy:351
+    # game/dialogues/lisatalk.rpy:351
 msgid "Ага. Или адвокат не заметит ошибку в документах какую-нибудь..."
 msgstr "Aha. Oppure l'avvocato non noterà un errore nei documenti di alcuni..."
 
-#    # game/dialogues/lisatalk.rpy:364
+    # game/dialogues/lisatalk.rpy:364
 msgid "Ну, я постараюсь"
 msgstr "Bene, ci proverò"
 
-#    # game/dialogues/lisatalk.rpy:364
+    # game/dialogues/lisatalk.rpy:364
 msgid "Человек как таракан, ко всему привыкает"
 msgstr "Una persona è come uno scarafaggio, si abitua a tutto"
 
-#    # game/dialogues/lisatalk.rpy:371
+    # game/dialogues/lisatalk.rpy:371
 msgid "Ещё не решил. Что посоветуешь?"
 msgstr "Non ho ancora deciso. Cosa mi consigliate?"
 
-#    # game/dialogues/lisatalk.rpy:371
+    # game/dialogues/lisatalk.rpy:371
 msgid "Придумаю ещё. А у тебя какие планы?"
 msgstr "Ne verrò fuori un po 'di più. Quali sono i tuoi piani?"
 
-#    # game/dialogues/lisatalk.rpy:371
+    # game/dialogues/lisatalk.rpy:371
 msgid "Буду думать как заработать"
 msgstr "Penserò a come guadagnare"
 
-#    # game/dialogues/lisatalk.rpy:386
+    # game/dialogues/lisatalk.rpy:386
 msgid "А если я настаиваю?"
 msgstr "E se insisto?"
 
-#    # game/dialogues/lisatalk.rpy:386
+    # game/dialogues/lisatalk.rpy:386
 msgid "Договорились"
 msgstr "Fatto"
 
-#    # game/dialogues/lisatalk.rpy:389
+    # game/dialogues/lisatalk.rpy:389
 msgid "Короче, рассказывай!"
 msgstr "Insomma, raccontate!"
 
-#    # game/dialogues/lisatalk.rpy:389
+    # game/dialogues/lisatalk.rpy:389
 msgid "Ой, всё..."
 msgstr "Oh, questo è tutto..."
 
-#    # game/dialogues/lisatalk.rpy:401
+    # game/dialogues/lisatalk.rpy:401
 msgid "А подробнее?"
 msgstr "E per maggiori dettagli?"
 
-#    # game/dialogues/lisatalk.rpy:401
+    # game/dialogues/lisatalk.rpy:401
 msgid "И как вы познакомились?"
 msgstr "E come vi siete incontrati?"
 
-#    # game/dialogues/lisatalk.rpy:401
+    # game/dialogues/lisatalk.rpy:401
 msgid "Расскажи о нём"
 msgstr "Parlaci di lui"
 
-#    # game/dialogues/lisatalk.rpy:412
+    # game/dialogues/lisatalk.rpy:412
 msgid "Я не зануда!"
 msgstr "Non sono un nerd!"
 
-#    # game/dialogues/lisatalk.rpy:412
+    # game/dialogues/lisatalk.rpy:412
 msgid "Значит, нравится мой типаж?"
 msgstr "Quindi, come il mio tipo?"
 
-#    # game/dialogues/lisatalk.rpy:412
+    # game/dialogues/lisatalk.rpy:412
 msgid "А я тебе нравлюсь?"
 msgstr "Ti piaccio?"
 
-#    # game/dialogues/lisatalk.rpy:417
+    # game/dialogues/lisatalk.rpy:417
 msgid "А хотела бы, чтобы он им стал?"
 msgstr "Ti piacerebbe che lo fosse?"
 
-#    # game/dialogues/lisatalk.rpy:417
+    # game/dialogues/lisatalk.rpy:417
 msgid "Я, между прочим, тоже ничего..."
 msgstr "Io, a proposito, anche niente..."
 
-#    # game/dialogues/lisatalk.rpy:420
+    # game/dialogues/lisatalk.rpy:420
 msgid "Значит, он тебе нравится?"
 msgstr "Quindi ti piace?"
 
-#    # game/dialogues/lisatalk.rpy:420
+    # game/dialogues/lisatalk.rpy:420
 msgid "И что теперь?"
 msgstr "E adesso?"
 
-#    # game/dialogues/lisatalk.rpy:427
+    # game/dialogues/lisatalk.rpy:427
 msgid "А ты своему парню скажешь, что спишь со своим братом?"
 msgstr "Dirai al tuo ragazzo che dormi con tuo fratello?"
 
-#    # game/dialogues/lisatalk.rpy:427
+    # game/dialogues/lisatalk.rpy:427
 msgid "Спим вместе!"
 msgstr "Dormite insieme!"
 
-#    # game/dialogues/lisatalk.rpy:433
+    # game/dialogues/lisatalk.rpy:433
 msgid "Ладно, ладно. Ну а что он говорил?"
 msgstr "Va bene, va bene. Bene, cosa ha detto?"
 
-#    # game/dialogues/lisatalk.rpy:440
+    # game/dialogues/lisatalk.rpy:440
 msgid "Эй, я не неудачник!"
 msgstr "Ehi, non sono un perdente!"
 
-#    # game/dialogues/lisatalk.rpy:440
+    # game/dialogues/lisatalk.rpy:440
 msgid "Я разве достаю? Просто интересуюсь твоей жизнью"
 msgstr "Lo sto ricevendo? Solo interessato alla tua vita"
 
-#    # game/dialogues/lisatalk.rpy:447
+    # game/dialogues/lisatalk.rpy:447
 msgid "А кто тебе нравится больше? Я или он?"
 msgstr "E chi ti piace di più? Io o lui?"
 
-#    # game/dialogues/lisatalk.rpy:450
+    # game/dialogues/lisatalk.rpy:450
 msgid "Ладно, ладно, извини..."
 msgstr "Va bene, va bene, mi dispiace..."
 
-#    # game/dialogues/lisatalk.rpy:450
+    # game/dialogues/lisatalk.rpy:450
 msgid "А он, значит, теперь нравится больше?"
 msgstr "E a lui, allora, ora piace di più?"
 
-#    # game/dialogues/lisatalk.rpy:450
+    # game/dialogues/lisatalk.rpy:450
 msgid "И всё-таки?"
 msgstr "E ancora?"
 
-#    # game/dialogues/lisatalk.rpy:453
+    # game/dialogues/lisatalk.rpy:453
 msgid "А вот теперь я могу обидеться..."
 msgstr "Ma ora posso essere offeso..."
 
-#    # game/dialogues/lisatalk.rpy:453
+    # game/dialogues/lisatalk.rpy:453
 msgid "Я же в шутку. И, кстати, придурок - это обидно!"
 msgstr "Sto scherzando. E, a proposito, un cretino - è un peccato!"
 
-#    # game/dialogues/lisatalk.rpy:470
+    # game/dialogues/lisatalk.rpy:470
 msgid "Ну, со мной ты всегда можешь поболтать"
 msgstr "Bene, puoi sempre chattare con me"
 
-#    # game/dialogues/lisatalk.rpy:470
+    # game/dialogues/lisatalk.rpy:470
 msgid "Можешь на меня рассчитывать"
 msgstr "Puoi contare su di me"
 
-#    # game/dialogues/lisatalk.rpy:470
+    # game/dialogues/lisatalk.rpy:470
 msgid "Только не превращай меня в свою подушку!"
 msgstr "Basta non trasformarmi nel tuo cuscino!"
 
-#    # game/dialogues/lisatalk.rpy:477
+    # game/dialogues/lisatalk.rpy:477
 msgid "Что? Он уже тебя бросил?!"
 msgstr "A cosa? Ti ha già abbandonato?!"
 
-#    # game/dialogues/lisatalk.rpy:477
+    # game/dialogues/lisatalk.rpy:477
 msgid "А я не убежал и всё ещё здесь!"
 msgstr "E non sono scappato e sono ancora qui!"
 
-#    # game/dialogues/lisatalk.rpy:500
+    # game/dialogues/lisatalk.rpy:500
 msgid "Он тебе нравится?"
 msgstr "Ti piace?"
 
-#    # game/dialogues/lisatalk.rpy:500
+    # game/dialogues/lisatalk.rpy:500
 msgid "Думаю, у вас всё получится"
 msgstr "Penso che ci riuscirai"
 
-#    # game/dialogues/lisatalk.rpy:509
+    # game/dialogues/lisatalk.rpy:509
 msgid "Всё будет хорошо"
 msgstr "Andrà tutto bene"
 
-#    # game/dialogues/lisatalk.rpy:509
+    # game/dialogues/lisatalk.rpy:509
 msgid "Если что, я всегда помогу советом"
 msgstr "Semmai, ti aiuterò sempre con i consigli"
 
-#    # game/dialogues/lisatalk.rpy:509
+    # game/dialogues/lisatalk.rpy:509
 msgid "А не рано тебе с кем-то встречаться?"
 msgstr "Non è troppo presto per uscire con qualcuno?"
 
-#    # game/dialogues/lisatalk.rpy:516
+    # game/dialogues/lisatalk.rpy:516
 msgid "Это я её бросил"
 msgstr "L'ho lasciata"
 
-#    # game/dialogues/lisatalk.rpy:516
+    # game/dialogues/lisatalk.rpy:516
 msgid "Так что, у меня есть опыт"
 msgstr "Quindi, ho esperienza"
 
-#    # game/dialogues/lisatalk.rpy:519
+    # game/dialogues/lisatalk.rpy:519
 msgid "Всё было не так!"
 msgstr "Non era così!"
 
-#    # game/dialogues/lisatalk.rpy:519
+    # game/dialogues/lisatalk.rpy:519
 msgid "В любом случае, у меня опыта больше"
 msgstr "Ad ogni modo, ho più esperienza"
 
-#    # game/dialogues/lisatalk.rpy:519
+    # game/dialogues/lisatalk.rpy:519
 msgid "Это всё в прошлом..."
 msgstr "È tutto nel passato..."
 
-#    # game/dialogues/lisatalk.rpy:535
+    # game/dialogues/lisatalk.rpy:535
 msgid "Я же не обо всём рассказывал..."
 msgstr "Non ho parlato di tutto..."
 
-#    # game/dialogues/lisatalk.rpy:535
+    # game/dialogues/lisatalk.rpy:535
 msgid "Именно поэтому за советами обращайся ко мне"
 msgstr "Ecco perché contattami per un consiglio"
 
-#    # game/dialogues/lisatalk.rpy:543
+    # game/dialogues/lisatalk.rpy:543
 msgid "У меня было много девушек"
 msgstr "Ho avuto un sacco di ragazze"
 
-#    # game/dialogues/lisatalk.rpy:543
+    # game/dialogues/lisatalk.rpy:543
 msgid "А вот это - секрет!"
 msgstr "E questo è un segreto!"
 
-#    # game/dialogues/lisatalk.rpy:543
+    # game/dialogues/lisatalk.rpy:543
 msgid "Тебе лучше не знать..."
 msgstr "È meglio che non lo sappia..."
 
-#    # game/dialogues/lisatalk.rpy:552
+    # game/dialogues/lisatalk.rpy:552
 msgid "В школе по мне все девушки с ума сходили"
 msgstr "A scuola, tutte le ragazze impazzivano per me"
 
-#    # game/dialogues/lisatalk.rpy:552
+    # game/dialogues/lisatalk.rpy:552
 msgid "Не хочешь - не верь. Но опыт у меня есть"
 msgstr "Se non vuoi, non credermi. Ma ho esperienza"
 
-#    # game/dialogues/lisatalk.rpy:555
+    # game/dialogues/lisatalk.rpy:555
 msgid "В любом случае, нужна будет помощь или совет - подходи"
 msgstr "In ogni caso, avrai bisogno di aiuto o consigli - vieni su"
 
-#    # game/dialogues/lisatalk.rpy:555
+    # game/dialogues/lisatalk.rpy:555
 msgid "Так или иначе, о парнях я знаю больше тебя..."
 msgstr "Comunque, ne so più di te sui ragazzi..."
 
-#    # game/dialogues/lisatalk.rpy:569
+    # game/dialogues/lisatalk.rpy:569
 msgid "Я знаю как мыслят парни. Так что, могу помочь советом..."
 msgstr "So come pensano i ragazzi. Quindi, posso aiutare con consigli..."
 
-#    # game/dialogues/lisatalk.rpy:569
+    # game/dialogues/lisatalk.rpy:569
 msgid "Если будет нужна помощь, обращайся"
 msgstr "Se hai bisogno di aiuto, contatta"
 
-#    # game/dialogues/lisatalk.rpy:599
+    # game/dialogues/lisatalk.rpy:599
 msgid "Ну, чего ты в закрытом купальнике лежишь?"
 msgstr "Bene, cosa stai sdraiato in un costume da bagno chiuso?"
 
-#    # game/dialogues/lisatalk.rpy:599
+    # game/dialogues/lisatalk.rpy:599
 msgid "Тебе не жарко в таком купальнике?"
 msgstr "Non sei caldo in quel costume da bagno?"
 
-#    # game/dialogues/lisatalk.rpy:605
+    # game/dialogues/lisatalk.rpy:605
 msgid "Очень жаль... Я могу чем-то помочь?"
 msgstr "Peccato... Posso aiutare?"
 
-#    # game/dialogues/lisatalk.rpy:605
+    # game/dialogues/lisatalk.rpy:605
 msgid "Так загорай голая!"
 msgstr "Quindi prendi il sole nudo!"
 
-#    # game/dialogues/lisatalk.rpy:608
+    # game/dialogues/lisatalk.rpy:608
 msgid "Могу как-то решить твою проблему..."
 msgstr "Posso in qualche modo risolvere il tuo problema..."
 
-#    # game/dialogues/lisatalk.rpy:608
+    # game/dialogues/lisatalk.rpy:608
 msgid "Я что-нибудь придумаю!"
 msgstr "Mi verrà in mente qualcosa!"
 
-#    # game/dialogues/lisatalk.rpy:616
+    # game/dialogues/lisatalk.rpy:616
 msgid "А давай разденемся вместе!"
 msgstr "E disfaiamo insieme!"
 
-#    # game/dialogues/lisatalk.rpy:616
+    # game/dialogues/lisatalk.rpy:616
 msgid "Да легко!"
 msgstr "Sì facile!"
 
-#    # game/dialogues/lisatalk.rpy:616
+    # game/dialogues/lisatalk.rpy:616
 msgid "Боюсь тебя шокировать..."
 msgstr "Ho paura di scioccarti..."
 
-#    # game/dialogues/lisatalk.rpy:616
+    # game/dialogues/lisatalk.rpy:616
 msgid "Боюсь тебя снова шокировать..."
 msgstr "Ho paura di scioccarti di nuovo..."
 
-#    # game/dialogues/lisatalk.rpy:627
+    # game/dialogues/lisatalk.rpy:627
 msgid "Ну, ты сама спросила почему я не раздеваюсь..."
 msgstr "Beh, mi hai chiesto perché non mi spoglio..."
 
-#    # game/dialogues/lisatalk.rpy:627
+    # game/dialogues/lisatalk.rpy:627
 msgid "Точно? А то мне есть что тебе показать..."
 msgstr "Giusto? E poi ho qualcosa da mostrarvi..."
 
-#    # game/dialogues/lisatalk.rpy:630
+    # game/dialogues/lisatalk.rpy:630
 msgid "А какой ты хочешь?"
 msgstr "Cosa vuoi?"
 
-#    # game/dialogues/lisatalk.rpy:642
+    # game/dialogues/lisatalk.rpy:642
 msgid "А я и не шучу..."
 msgstr "E non sto scherzando..."
 
-#    # game/dialogues/lisatalk.rpy:642
+    # game/dialogues/lisatalk.rpy:642
 msgid "Ладно. А какой купальник ты хочешь?"
 msgstr "Ok. E che tipo di costume da bagno vuoi?"
 
-#    # game/dialogues/lisatalk.rpy:645
+    # game/dialogues/lisatalk.rpy:645
 msgid "Извини, шутки у меня дурацкие... А какой купальник ты хочешь?"
 msgstr "Scusate, le mie battute sono sciocche... E che tipo di costume da bagno vuoi?"
 
-#    # game/dialogues/lisatalk.rpy:645
+    # game/dialogues/lisatalk.rpy:645
 msgid "Конечно, одыхай..."
 msgstr "Certo, respira..."
 
-#    # game/dialogues/lisatalk.rpy:666
+    # game/dialogues/lisatalk.rpy:666
 msgid "И всё?"
 msgstr "E questo è tutto?"
 
-#    # game/dialogues/lisatalk.rpy:682
+    # game/dialogues/lisatalk.rpy:682
 msgid "Я про Алекса, ты же сама рассказывала..."
 msgstr "Sto parlando di Alex, mi hai detto..."
 
-#    # game/dialogues/lisatalk.rpy:682
+    # game/dialogues/lisatalk.rpy:682
 msgid "Ты уверена? Его вроде Алекс зовут..."
 msgstr "Sei sicuro? Il suo nome è come Alex..."
 
-#    # game/dialogues/lisatalk.rpy:682
+    # game/dialogues/lisatalk.rpy:682
 msgid "И правильно. Рано ещё тебе парней заводить"
 msgstr "E giustamente. È troppo presto per avere ragazzi"
 
-#    # game/dialogues/lisatalk.rpy:689
+    # game/dialogues/lisatalk.rpy:689
 msgid "Думаю, она со мной согласилась бы"
 msgstr "Penso che sarebbe d'accordo con me"
 
-#    # game/dialogues/lisatalk.rpy:689
+    # game/dialogues/lisatalk.rpy:689
 msgid "Я знаю, что говорю"
 msgstr "So cosa sto dicendo"
 
-#    # game/dialogues/lisatalk.rpy:689
+    # game/dialogues/lisatalk.rpy:689
 msgid "Значит, он твой парень?"
 msgstr "Quindi è il tuo ragazzo?"
 
-#    # game/dialogues/lisatalk.rpy:697
+    # game/dialogues/lisatalk.rpy:697
 msgid "Ага, так он твой парень?!"
 msgstr "Sì, quindi è il tuo ragazzo?!"
 
-#    # game/dialogues/lisatalk.rpy:697
+    # game/dialogues/lisatalk.rpy:697
 msgid "Ну, да..."
 msgstr "Pensa così..."
 
-#    # game/dialogues/lisatalk.rpy:697
+    # game/dialogues/lisatalk.rpy:697
 msgid "Это было бы правильное решение..."
 msgstr "Sarebbe la decisione giusta..."
 
-#    # game/dialogues/lisatalk.rpy:705
+    # game/dialogues/lisatalk.rpy:705
 msgid "Так у нас тут бунтарка!"
 msgstr "Quindi abbiamo un ribelle qui!"
 
-#    # game/dialogues/lisatalk.rpy:705
+    # game/dialogues/lisatalk.rpy:705
 msgid "А вот это мне в тебе нравится!"
 msgstr "E questo è ciò che amo di te!"
 
-#    # game/dialogues/lisatalk.rpy:705
+    # game/dialogues/lisatalk.rpy:705
 msgid "Ну и зря. Иногда большинство бывает право..."
 msgstr "Beh, invano. A volte la maggioranza ha ragione..."
 
-#    # game/dialogues/lisatalk.rpy:715
+    # game/dialogues/lisatalk.rpy:715
 msgid "Да расслабься..."
 msgstr "Rilassare..."
 
-#    # game/dialogues/lisatalk.rpy:715
+    # game/dialogues/lisatalk.rpy:715
 msgid "Ладно, ладно, верю!"
 msgstr "Va bene, va bene, credo!"
 
-#    # game/dialogues/lisatalk.rpy:722
+    # game/dialogues/lisatalk.rpy:722
 msgid "Я подумал, что тебе нужна моя помощь"
 msgstr "Pensavo che avessi bisogno del mio aiuto"
 
-#    # game/dialogues/lisatalk.rpy:722
+    # game/dialogues/lisatalk.rpy:722
 msgid "Хотел дать тебе один совет..."
 msgstr "Volevo darti un consiglio..."
 
-#    # game/dialogues/lisatalk.rpy:722
+    # game/dialogues/lisatalk.rpy:722
 msgid "Да, забей..."
 msgstr "Sì, mi ha picchiato..."
 
-#    # game/dialogues/lisatalk.rpy:725
+    # game/dialogues/lisatalk.rpy:725
 msgid "Как скажешь..."
 msgstr "Se lo dici tu..."
 
-#    # game/dialogues/lisatalk.rpy:725
+    # game/dialogues/lisatalk.rpy:725
 msgid "Если что, ты знаешь где меня искать"
 msgstr "Semmai, sai dove cercarmi"
 
-#    # game/dialogues/lisatalk.rpy:732
+    # game/dialogues/lisatalk.rpy:732
 msgid "Хорошо, хорошо..."
 msgstr "Va bene bene..."
 
-#    # game/dialogues/lisatalk.rpy:732
+    # game/dialogues/lisatalk.rpy:732
 msgid "Ну, если что, я тут"
 msgstr "Beh, semmai, sono qui"
 
-#    # game/dialogues/lisatalk.rpy:749
+    # game/dialogues/lisatalk.rpy:749
 msgid "Хочешь, я помогу тебе домыть остальное?"
 msgstr "Vuoi che ti aiuti a lavare il resto?"
 
-#    # game/dialogues/lisatalk.rpy:768
+    # game/dialogues/lisatalk.rpy:768
 msgid "Хорошо, пойду займусь"
 msgstr "Ok, andrò a farlo"
 
-#    # game/dialogues/lisatalk.rpy:781
+    # game/dialogues/lisatalk.rpy:781
 msgid "Извини, я забыл, что обещал"
 msgstr "Scusa, ho dimenticato quello che ho promesso"
 
-#    # game/dialogues/lisatalk.rpy:781
+    # game/dialogues/lisatalk.rpy:781
 msgid "Извини, но было же весело?"
 msgstr "Scusate, ma è stato divertente?"
 
-#    # game/dialogues/lisatalk.rpy:781
+    # game/dialogues/lisatalk.rpy:781
 msgid "Извини, я не подумал..."
 msgstr "Scusa, non ci ho pensato..."
 
-#    # game/dialogues/lisatalk.rpy:794
+    # game/dialogues/lisatalk.rpy:794
 msgid "Я ни с кем не встречаюсь. В моей жизни есть только ты!"
 msgstr "Non eso con nessuno. Nella mia vita ci sei solo tu!"
 
-#    # game/dialogues/lisatalk.rpy:794
+    # game/dialogues/lisatalk.rpy:794
 msgid "Если бы и был кто-то, ты бы точно свой нос совала!"
 msgstr "Se ci fosse qualcuno, sicuramente ti staresti ficcando il naso!"
 
-#    # game/dialogues/lisatalk.rpy:805
+    # game/dialogues/lisatalk.rpy:805
 msgid "Они всё врут. Ты - самая красивая!"
 msgstr "Stanno tutti mentendo. Sei la più bella!"
 
-#    # game/dialogues/lisatalk.rpy:805
+    # game/dialogues/lisatalk.rpy:805
 msgid "Ты уверена, что она самая красивая?"
 msgstr "Sei sicuro che sia la più bella?"
 
-#    # game/dialogues/lisatalk.rpy:812
+    # game/dialogues/lisatalk.rpy:812
 msgid "Наверное, стерва?"
 msgstr "Probabilmente un?"
 
-#    # game/dialogues/lisatalk.rpy:812
+    # game/dialogues/lisatalk.rpy:812
 msgid "И какая она?"
 msgstr "E che cos'è?"
 
-#    # game/dialogues/lisatalk.rpy:815
+    # game/dialogues/lisatalk.rpy:815
 msgid "В твоём вкусе?"
 msgstr "Secondo i tuoi gusti?"
 
-#    # game/dialogues/lisatalk.rpy:815
+    # game/dialogues/lisatalk.rpy:815
 msgid "Странно..."
 msgstr "Stranamente..."
 
-#    # game/dialogues/lisatalk.rpy:831
+    # game/dialogues/lisatalk.rpy:831
 msgid "Ну вот видишь, не всё потеряно!"
 msgstr "Beh, vedete, non tutto è perduto!"
 
-#    # game/dialogues/lisatalk.rpy:831
+    # game/dialogues/lisatalk.rpy:831
 msgid "Значит, у тебя есть шанс!"
 msgstr "Quindi hai una possibilità!"
 
-#    # game/dialogues/lisatalk.rpy:850
+    # game/dialogues/lisatalk.rpy:850
 msgid "Да ты послушай!"
 msgstr "Oh sì, ascolta!"
 
-#    # game/dialogues/lisatalk.rpy:850
+    # game/dialogues/lisatalk.rpy:850
 msgid "Я хотел извиниться..."
 msgstr "Volevo scusarmi..."
 
-#    # game/dialogues/lisatalk.rpy:928
+    # game/dialogues/lisatalk.rpy:928
 msgid "Помочь, конечно!"
 msgstr "Aiuto, ovviamente!"
 
-#    # game/dialogues/lisatalk.rpy:928
+    # game/dialogues/lisatalk.rpy:928
 msgid "Для начала хотел узнать, как у тебя дела?"
 msgstr "Prima di tutto, volevo sapere come stavi?"
 
-#    # game/dialogues/lisatalk.rpy:931
+    # game/dialogues/lisatalk.rpy:931
 msgid "Тебе повезло, у меня всё хорошо с этими предметами!"
 msgstr "Sei fortunato, sto bene con questi oggetti!"
 
-#    # game/dialogues/lisatalk.rpy:931
+    # game/dialogues/lisatalk.rpy:931
 msgid "Может быть, я тебе и смогу помочь..."
 msgstr "Forse posso aiutarti..."
 
-#    # game/dialogues/lisatalk.rpy:945
+    # game/dialogues/lisatalk.rpy:945
 msgid "Конечно, сестрёнка!"
 msgstr "Certo, sorella!"
 
-#    # game/dialogues/lisatalk.rpy:948
+    # game/dialogues/lisatalk.rpy:948
 msgid "Ну может быть..."
 msgstr "Beh, forse..."
 
-#    # game/dialogues/lisatalk.rpy:948
+    # game/dialogues/lisatalk.rpy:948
 msgid "Обещаю! Хочу только помогать и ничего взамен!"
 msgstr "Promesso! Voglio solo aiutare e niente in cambio!"
 
-#    # game/dialogues/lisatalk.rpy:967
+    # game/dialogues/lisatalk.rpy:967
 msgid "Ну сама подумай, зачем мне тратить время просто так?"
 msgstr "Bene, pensaci, perché dovrei perdere tempo proprio così?"
 
-#    # game/dialogues/lisatalk.rpy:967
+    # game/dialogues/lisatalk.rpy:967
 msgid "Может быть, попрошу что-то..."
 msgstr "Forse chiederò qualcosa..."
 
-#    # game/dialogues/lisatalk.rpy:967
+    # game/dialogues/lisatalk.rpy:967
 msgid "Да нет, конечно. Обещаю, что ничего не попрошу взамен!"
 msgstr "Certo che no. Prometto che non chiederò nulla in cambio!"
 
-#    # game/dialogues/lisatalk.rpy:975
+    # game/dialogues/lisatalk.rpy:975
 msgid "Нет, Лиза. Ты мне - я тебе."
 msgstr "No, Lisa. Tu me - io sono te."
 
-#    # game/dialogues/lisatalk.rpy:975
+    # game/dialogues/lisatalk.rpy:975
 msgid "А я пошутил. Обещаю, что ничего не попрошу взамен!"
 msgstr "E stavo scherzando. Prometto che non chiederò nulla in cambio!"
 
-#    # game/dialogues/lisatalk.rpy:1022
+    # game/dialogues/lisatalk.rpy:1022
 msgid "Ага. Ну так как, ты согласна?"
 msgstr "Aha. Quindi, sei d'accordo?"
 
-#    # game/dialogues/lisatalk.rpy:1022
+    # game/dialogues/lisatalk.rpy:1022
 msgid "Нет, не говорила..."
 msgstr "No, non ho detto..."
 
-#    # game/dialogues/lisatalk.rpy:1062
+    # game/dialogues/lisatalk.rpy:1062
 msgid "Лучше отдохни сегодня, а я всё сделаю за тебя?! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
 msgstr "Meglio riposare oggi, e farò di tutto per te?! {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:1084
+    # game/dialogues/lisatalk.rpy:1084
 msgid "Ну, давай посмотрим..."
 msgstr "Beh, vediamo..."
 
-#    # game/dialogues/lisatalk.rpy:1084
+    # game/dialogues/lisatalk.rpy:1084
 msgid "Хотя, в другой раз..."
 msgstr "Anche se, un'altra volta..."
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "Без проблем!"
 msgstr "Non c'è problema!"
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "Конечно! {i}(сделать ошибки){/i}"
 msgstr "Naturalmente,! {i}(commetti errori){/i}"
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "Ты пока отдохни, я сам всё сделаю!"
 msgstr "Stai ancora riposando, lo farò da solo!"
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "Ага... {i}(сделать ошибки){/i}"
 msgstr "Sì... {i}(commetti errori){/i}"
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "Давай я всё сделаю сам! {i}(без ошибок){/i}"
 msgstr "Lascia che lo faccia da solo! {i}(nessun errore){/i}"
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "Я всё сделаю сам на пятёрку, если ты сделаешь кое-что для меня..."
 msgstr "Lo farò io stesso tra i primi cinque se fai qualcosa per me..."
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "А ножки тебе помассировать?"
 msgstr "Massaggi le gambe?"
 
-#    # game/dialogues/lisatalk.rpy:1097
+    # game/dialogues/lisatalk.rpy:1097
 msgid "Ой, тут много... Давай в другой раз."
 msgstr "Oh, c'è molto... Dai, un'altra volta."
 
-#    # game/dialogues/lisatalk.rpy:1118
+    # game/dialogues/lisatalk.rpy:1118
 msgid "Покажи грудь! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Mostra il tuo seno! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:1156
+    # game/dialogues/lisatalk.rpy:1156
 msgid "Тебе напомнить как мама больно наказывает?"
 msgstr "Puoi ricordarti come mia madre fa male per punire?"
 
-#    # game/dialogues/lisatalk.rpy:1156
+    # game/dialogues/lisatalk.rpy:1156
 msgid "Как хочешь. Но мама тебя накажет!"
 msgstr "Dipende da te. Ma la mamma ti punirà!"
 
-#    # game/dialogues/lisatalk.rpy:1199
+    # game/dialogues/lisatalk.rpy:1199
 msgid "Да, Лиза, ты права..."
 msgstr "Sì, Lisa, hai ragione..."
 
-#    # game/dialogues/lisatalk.rpy:1199
+    # game/dialogues/lisatalk.rpy:1199
 msgid "Лиза, я знаю о чём говорю! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Lisa, so di cosa sto parlando! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:1233
+    # game/dialogues/lisatalk.rpy:1233
 msgid "Лиза очень ценит помощь Макса. Её отношение значительно улучшилось."
 msgstr "Lisa apprezza molto l'aiuto di Max. Il suo atteggiamento è migliorato in modo significativo."
 
-#    # game/dialogues/lisatalk.rpy:1266
+    # game/dialogues/lisatalk.rpy:1266
 msgid "{i}начать массаж{/i}"
 msgstr "{i}iniziare un massaggio{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1341
+    # game/dialogues/lisatalk.rpy:1341
 msgid "Я и плечи помассировать могу, если хочешь? {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
 msgstr "Posso massaggiare le mie spalle se vuoi? {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:1389
+    # game/dialogues/lisatalk.rpy:1389
 msgid "{i}начать массаж \n"
 "{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}{/i}"
 msgstr "{i}iniziare un massaggio \n"
 "{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1408
+    # game/dialogues/lisatalk.rpy:1408
 msgid "{i}продолжить ниже \n"
 "{color=[_ch7.col]}(Массаж. Шанс: [_ch7.vis]){/color}{/i}"
 msgstr "{i}continuare sotto \n"
 "{color=[_ch7.col]}(Massaggio. Possibilità: [_ch7.vis]){/color}{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1520
+    # game/dialogues/lisatalk.rpy:1520
 msgid "Я и плечи помассировать могу, если хочешь? {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
 msgstr "Posso massaggiare le mie spalle se vuoi? {colore=[_ch2.col]} (Persuasione: Chance: [_ch2.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:1555
+    # game/dialogues/lisatalk.rpy:1555
 msgid "{i}продолжить ниже{/i}"
 msgstr "{i}continua qui sotto{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1576
+    # game/dialogues/lisatalk.rpy:1576
 msgid "{i}массировать её грудь \n"
 "{color=[_ch4.col]}(Массаж. Шанс: [_ch4.vis]){/color}{/i}"
 msgstr "{i}massaggiare il seno \n"
 "{color=[_ch4.col]}(Massaggio: Chance: [_ch4.vis]){/color}{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1598
+    # game/dialogues/lisatalk.rpy:1598
 msgid "{i}продолжить массировать её грудь и целовать{/i}"
 msgstr "{i}continuare a massaggiarle il seno e baciarla{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1638
+    # game/dialogues/lisatalk.rpy:1638
 msgid "{i}начать массаж{/i} \n"
 "{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}"
 msgstr "{i}iniziare un massaggio{/i} \n"
 "{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}"
 
-#    # game/dialogues/lisatalk.rpy:1659
+    # game/dialogues/lisatalk.rpy:1659
 msgid "{i}продолжить{/i} \n"
 "{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}"
 msgstr "{i}continue{/i} \n"
 "{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}"
 
-#    # game/dialogues/lisatalk.rpy:1714
+    # game/dialogues/lisatalk.rpy:1714
 msgid "{i}увлечь её поцелуем{/i} {color=[_kiss.col]}(Поцелуи. Шанс: [_kiss.vis]){/color}"
 msgstr "{i}affascinarla con un bacio{/i} {color=[_kiss.col]}(Kisses: Chance: [_kiss.vis]){/color}"
 
-#    # game/dialogues/lisatalk.rpy:1721
+    # game/dialogues/lisatalk.rpy:1721
 msgid "{i}закончить урок{/i}"
 msgstr "{i}finire la lezione{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1773
+    # game/dialogues/lisatalk.rpy:1773
 msgid "{i}притянуть её к себе{/i}"
 msgstr "{i}tirarla da me{/i}"
 
-#    # game/dialogues/lisatalk.rpy:1914
+    # game/dialogues/lisatalk.rpy:1914
 msgid "Конечно. Держи!"
 msgstr "Naturalmente,. Aspettare!"
 
-#    # game/dialogues/lisatalk.rpy:1914
+    # game/dialogues/lisatalk.rpy:1914
 msgid "Ну, не совсем..."
 msgstr "Beh, non proprio..."
 
-#    # game/dialogues/lisatalk.rpy:1919
+    # game/dialogues/lisatalk.rpy:1919
 msgid "Я тебе его подарю, если разрешишь посмотреть, как ты его примеряешь..."
 msgstr "Te lo darò se mi fai vedere che lo provi..."
 
-#    # game/dialogues/lisatalk.rpy:1919
+    # game/dialogues/lisatalk.rpy:1919
 msgid "Я передумал. Ничего не хочу!"
 msgstr "Ho cambiato idea. Non voglio niente!"
 
-#    # game/dialogues/lisatalk.rpy:1945
+    # game/dialogues/lisatalk.rpy:1945
 msgid "Угу, уже... {i}(Демонстративно отвернуться){/i}"
 msgstr "Ug, già... {i}(Defiantly turn away){/i}"
 
-#    # game/dialogues/lisatalk.rpy:2100
+    # game/dialogues/lisatalk.rpy:2100
 msgid "Да, конечно помню..."
 msgstr "Sì, certo che mi ricordo..."
 
-#    # game/dialogues/lisatalk.rpy:2100
+    # game/dialogues/lisatalk.rpy:2100
 msgid "Возможно... А что?"
 msgstr "E' possibile... Che cosa?"
 
-#    # game/dialogues/lisatalk.rpy:2123
+    # game/dialogues/lisatalk.rpy:2123
 msgid "Ага, видела я уже несколько раз, насколько тебе хорошо спится... Аж в трусах не умещается! Но ты прав, мне жарко... и я не хочу, чтобы меня наказывали. Ладно, если это придаст тебе интерес помогать мне, то это запросто!"
 msgstr "Sì, ho visto un paio di volte quanto bene dormi... Già in pantaloncini non si adatta! Ma hai ragione, sono caldo... e non voglio essere punito. Ok, se questo ti dà interesse ad aiutarmi, è facile!"
 
-#    # game/dialogues/lisatalk.rpy:2125
+    # game/dialogues/lisatalk.rpy:2125
 msgid "Ага, видела я уже, насколько тебе хорошо спится... Аж в трусах не умещается! Но ты прав, мне жарко... и я не хочу, чтобы меня наказывали. Ладно, если это придаст тебе интерес помогать мне, то это запросто!"
 msgstr "Sì, ho visto quanto bene dormi... Già in pantaloncini non si adatta! Ma hai ragione, sono caldo... e non voglio essere punito. Ok, se questo ti dà interesse ad aiutarmi, è facile!"
 
-#    # game/dialogues/lisatalk.rpy:2132
+    # game/dialogues/lisatalk.rpy:2132
 msgid "Лиза не любит признавать, что ей нужна помощь Макса. Её отношение к Максу ухудшилось."
 msgstr "A Lisa non piace ammettere di aver bisogno dell'aiuto di Max. Il suo atteggiamento nei confronti di Max si deteriorò."
 
-#    # game/dialogues/lisatalk.rpy:2177
+    # game/dialogues/lisatalk.rpy:2177
 msgid "Лиза недовольна отношением Макса к обещаниям. Её отношение к Максу ухудшилось."
 msgstr "Lisa è insoddisfatta dell'atteggiamento di Max nei confronti delle promesse. Il suo atteggiamento nei confronti di Max si deteriorò."
 
-#    # game/dialogues/lisatalk.rpy:2192
+    # game/dialogues/lisatalk.rpy:2192
 msgid "Лиза обижена. Её отношение к Максу значительно ухудшилось."
 msgstr "Lisa è offesa. Il suo atteggiamento nei confronti di Max si deteriorò considerevolmente."
 
-#    # game/dialogues/lisatalk.rpy:2233
+    # game/dialogues/lisatalk.rpy:2233
 msgid "Правда? Ты всё-таки достал её для меня?! А какую?"
 msgstr "Davvero? L'hai capito per me?! E quale?"
 
-#    # game/dialogues/lisatalk.rpy:2233
+    # game/dialogues/lisatalk.rpy:2233
 msgid "Правда? Ну ты даёшь! А какую на этот раз?!"
 msgstr "Davvero? Bene, tu dai! E quale questa volta?!"
 
-#    # game/dialogues/lisatalk.rpy:2233
+    # game/dialogues/lisatalk.rpy:2233
 msgid "Правда? Ну давай, показывай, что у тебя на этот раз?!"
 msgstr "Davvero? Dai, mostrami cosa hai questa volta?!"
 
-#    # game/dialogues/lisatalk.rpy:2403
+    # game/dialogues/lisatalk.rpy:2403
 msgid "Однозначно надо обнять! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Sicuramente bisogno di un abbraccio! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:2473
+    # game/dialogues/lisatalk.rpy:2473
 msgid "Это было случайно... Просто так получается всё время! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "È stato accidentale... Succede tutto il tempo! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:2670
+    # game/dialogues/lisatalk.rpy:2670
 msgid "Конечно стоит! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Certo che lo è! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:3028
+    # game/dialogues/lisatalk.rpy:3028
 msgid "Лиза, мне можно рассказать! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Lisa, puoi dirmelo! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:3028
+    # game/dialogues/lisatalk.rpy:3028
 msgid "Лиза, мне можно рассказать! {color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
 msgstr "Lisa, puoi dirmelo! {colore=[_ch4.col]} (Persuasione: Chance: [_ch4.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:3168
+    # game/dialogues/lisatalk.rpy:3168
 msgid "Э... Что? Какие условия?"
 msgstr "Uh... A cosa? Quali sono le condizioni?"
 
-#    # game/dialogues/lisatalk.rpy:3168
+    # game/dialogues/lisatalk.rpy:3168
 msgid "Спектакль? Это не спектакль! Но я тебя слушаю..."
 msgstr "Prestazione? Non è uno spettacolo! Ma ti sto ascoltando..."
 
-#    # game/dialogues/lisatalk.rpy:3178
+    # game/dialogues/lisatalk.rpy:3178
 msgid "Понял!"
 msgstr "Ho capito!"
 
-#    # game/dialogues/lisatalk.rpy:3178
+    # game/dialogues/lisatalk.rpy:3178
 msgid "Зато сколько интересного может произойти в комнате..."
 msgstr "Ma quante cose interessanti possono accadere nella stanza..."
 
-#    # game/dialogues/lisatalk.rpy:3202
+    # game/dialogues/lisatalk.rpy:3202
 msgid "Ну кто ещё тебя научит? А сейчас я готов тебе помочь! {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
 msgstr "Bene, chi altro ti insegnerà? E ora sono pronto ad aiutarti! {colore=[_ch2.col]} (Persuasione: Chance: [_ch2.vis]) {/colore}"
 
-#    # game/dialogues/lisatalk.rpy:3211
+    # game/dialogues/lisatalk.rpy:3211
 msgid "{i}Продемонстрировать своё мастерство{/i} {color=[_kiss.col]}(Поцелуи. Шанс: [_kiss.vis]){/color}"
 msgstr "{i}Dimostra le tue abilità{/i} {color=[_kiss.col]}(Kisses: Chance: [_kiss.vis]){/color}"
 
-#    # game/dialogues/lisatalk.rpy:3277
+    # game/dialogues/lisatalk.rpy:3277
 msgid "{i}нежно прикасаться к ней{/i} {color=[_kiss.col]}(Поцелуи. Шанс: [_kiss.vis]){/color}"
 msgstr "{i}toccala delicatamente{/i} {color=[_kiss.col]}(Kisses: Chance: [_kiss.vis]){/color}"
 
-#    # game/dialogues/lisatalk.rpy:3284
+    # game/dialogues/lisatalk.rpy:3284
 msgid "{i}нежно прикасаться к её груди{/i}"
 msgstr "{i}tocca delicatamente il seno{/i}"
 
-#    # game/dialogues/lisatalk.rpy:3372
+    # game/dialogues/lisatalk.rpy:3372
 msgid "{i}нежно прикасаться к её груди{/i} {color=[_kiss.col]}(Поцелуи. Шанс: [_kiss.vis]){/color}"
 msgstr "{i}tocca delicatamente il seno{/i} {color=[_kiss.col]}(Kisses: Chance: [_kiss.vis]){/color}"
 
-#    # game/dialogues/lisatalk.rpy:3436
+    # game/dialogues/lisatalk.rpy:3436
 msgid "{i}всё равно подарить книгу{/i}"
 msgstr "{i}ancora dare il libro{/i}"
 
-#    # game/dialogues/lisatalk.rpy:3436
+    # game/dialogues/lisatalk.rpy:3436
 msgid "{i}сперва прочитать самому{/i}"
 msgstr "{i}leggi prima tu stesso{/i}"
 
-#    # game/dialogues/lisatalk.rpy:3460
+    # game/dialogues/lisatalk.rpy:3460
 msgid "Возбуждённое..."
 msgstr "Eccitato..."
 
-#    # game/dialogues/lisatalk.rpy:3460
+    # game/dialogues/lisatalk.rpy:3460
 msgid "Особое такое..."
 msgstr "È un'offerta speciale..."
 
-#    # game/dialogues/lisatalk.rpy:3470
+    # game/dialogues/lisatalk.rpy:3470
 msgid "Именно!"
 msgstr "Cioè!"
 
-#    # game/dialogues/lisatalk.rpy:3470
+    # game/dialogues/lisatalk.rpy:3470
 msgid "Нет, речь не готовил..."
 msgstr "No, non ho preparato il discorso..."
 
-#    # game/dialogues/lisatalk.rpy:3673
+    # game/dialogues/lisatalk.rpy:3673
 msgid "А то ты не знаешь, как она выглядит..."
 msgstr "O non sai come appare..."
 
-#    # game/dialogues/lisatalk.rpy:3673
+    # game/dialogues/lisatalk.rpy:3673
 msgid "Да легко! Ты показываешь грудь, я член!"
 msgstr "Sì facile! Tu mostri il tuo seno, io sono cazzo!"
 

@@ -52,15 +52,17 @@ msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 msgid "_ver [_version], conf.ver [config.version]"
 msgstr "_ver [_version], conf.ver [config.version]"
 
-## # translate crowdin strings:#    # game/core/core.rpy:353
+translate crowdin strings:
+
+# game/core/core.rpy:353
 msgid "В интернет-магазине доступен новый товар."
 msgstr "Un nuovo prodotto è disponibile nel negozio online."
 
-#    # game/core/core.rpy:553
+    # game/core/core.rpy:553
 msgid "{i}идти на веранду{/i}"
 msgstr "{i}vai in veranda{/i}"
 
-#    # game/core/core.rpy:553
+    # game/core/core.rpy:553
 msgid "{i}не сейчас{/i}"
 msgstr "{i}non ora{/i}"
 

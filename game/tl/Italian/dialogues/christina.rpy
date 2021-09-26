@@ -120,11 +120,13 @@ msgstr "[Christine_03]Grazie, Max. Sono stato felice di conoscerti!"
 msgid "[Max_01]Я тоже, Кристина! Пока."
 msgstr "[Max_01]anch'io, Christina! Finalmente."
 
-## # translate crowdin strings:#    # game/dialogues/christina.rpy:25
+translate crowdin strings:
+
+# game/dialogues/christina.rpy:25
 msgid "Хорошего тебе дня!"
 msgstr "Buona Giornata!"
 
-#    # game/dialogues/christina.rpy:25
+    # game/dialogues/christina.rpy:25
 msgid "А чем вечером будешь заниматься? Давай погуляем!?"
 msgstr "E cosa farai la sera? Facciamo una passeggiata!?"
 

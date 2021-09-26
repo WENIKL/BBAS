@@ -2632,379 +2632,381 @@ msgstr "[Max_09]Ecco il bastardo! Ho abbassato tutto fino all'ultima goccia di K
 msgid "[Max_02]Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа![nointeract]"
 msgstr "[Max_02]Kira non ha perso una sola goccia passata! Ed è come se nessuno l'avessi appena risucchiata... Lavoro pulito![nointeract]"
 
-## # translate crowdin strings:#    # game/events/kira.rpy:23
+translate crowdin strings:
+
+# game/events/kira.rpy:23
 msgid "{i}войти{/i}"
 msgstr "{i}accedi{/i}"
 
-#    # game/events/kira.rpy:85
+    # game/events/kira.rpy:85
 msgid "{i}идти к Кире{/i}"
 msgstr "{i}vai a Kira{/i}"
 
-#    # game/events/kira.rpy:194
+    # game/events/kira.rpy:194
 msgid "{i}присоединиться к тёте{/i}"
 msgstr "{i}unisciti a mia zia{/i}"
 
-#    # game/events/kira.rpy:228
+    # game/events/kira.rpy:228
 msgid "А моё напряжение только растёт, тётя Кира! Может поможешь? \n"
 "{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "E la mia tensione sta solo crescendo, zia Kira! Puoi aiutarmi? \n"
 "{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
 
-#    # game/events/kira.rpy:228
+    # game/events/kira.rpy:228
 msgid "А моё напряжение только растёт, тётя Кира! Может поможешь?"
 msgstr "E la mia tensione sta solo crescendo, zia Kira! Puoi aiutarmi?"
 
-#    # game/events/kira.rpy:261
+    # game/events/kira.rpy:261
 msgid "{i}подтянуть её к себе и ласкать пальцами{/i}"
 msgstr "{i}tirarlo su di te e accarezzarlo con le dita{/i}"
 
-#    # game/events/kira.rpy:261
+    # game/events/kira.rpy:261
 msgid "{i}пытаться не кончить{/i} \n"
 "{color=[_ch1.col]}(Сексуальный опыт. Шанс: [_ch1.vis]){/color}"
 msgstr "{i}cercare di non cum{/i} \n"
 "{color=[_ch1.col]}(Esperienza sessuale: possibilità: [_ch1.vis]){/color}"
 
-#    # game/events/kira.rpy:301
+    # game/events/kira.rpy:301
 msgid "{i}поработать языком{/i}"
 msgstr "{i}funzionano con la lingua{/i}"
 
-#    # game/events/kira.rpy:301
+    # game/events/kira.rpy:301
 msgid "{i}проникнуть в неё пальцами{/i}"
 msgstr "{i}penetrarlo con le dita{/i}"
 
-#    # game/events/kira.rpy:309
+    # game/events/kira.rpy:309
 msgid "{i}работать языком быстрее{/i}"
 msgstr "{i}funzionano più velocemente{/i}"
 
-#    # game/events/kira.rpy:359
+    # game/events/kira.rpy:359
 msgid "Садись на меня, тётя Кира!"
 msgstr "Siediti su di me, zia Kira!"
 
-#    # game/events/kira.rpy:359
+    # game/events/kira.rpy:359
 msgid "Давай-ка сюда свою шикарную попку!"
 msgstr "Vieni qui il tuo splendido culo!"
 
-#    # game/events/kira.rpy:376
+    # game/events/kira.rpy:376
 msgid "{i}приблизиться членом к её лицу{/i}"
 msgstr "{i}avvicinarlo al suo viso{/i}"
 
-#    # game/events/kira.rpy:395
+    # game/events/kira.rpy:395
 msgid "Ох, тётя Кира... Ты слишком ловко меня дразнишь! Я могу не выдержать... \n"
 "{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
 msgstr "Oh, zia Kira... Mi stai prendendo in giro troppo abilmente! Non lo sopporto... \n"
 "{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
 
-#    # game/events/kira.rpy:413
+    # game/events/kira.rpy:413
 msgid "Да, давай ещё тётя Кира! Какие же горячие и ненасытные у тебя губки... Да... \n"
 "{color=[_ch2.col]}(Сексуальный опыт. Шанс: [_ch2.vis]){/color}"
 msgstr "Sì, vieni zia Kira! Che spugne calde e insaziabili hai... Sì... \n"
 "{color=[_ch2.col]}(Esperienza sessuale: Chance: [_ch2.vis]){/color}"
 
-#    # game/events/kira.rpy:424
+    # game/events/kira.rpy:424
 msgid "Тётя Кира, я больше не могу... сейчас кончу! Да-а-а..."
 msgstr "Zia Kira, non ce la faccio più... Finirò ora! Sì..."
 
-#    # game/events/kira.rpy:520
+    # game/events/kira.rpy:520
 msgid "{i}Наслаждаться{/i} {color=[ch3.col]}(Сексуальный опыт. Шанс: [ch3.vis]){/color}"
 msgstr "{i}Enjoy{/i} {color=[ch3.col]}(Esperienza sessuale: Chance: [ch3.vis]){/color}"
 
-#    # game/events/kira.rpy:537
+    # game/events/kira.rpy:537
 msgid "{i}кончить в неё{/i}"
 msgstr "{i}in esso{/i}"
 
-#    # game/events/kira.rpy:537
+    # game/events/kira.rpy:537
 msgid "{i}кончить ей на ноги{/i}"
 msgstr "{i}in piedi{/i}"
 
-#    # game/events/kira.rpy:537
+    # game/events/kira.rpy:537
 msgid "{i}кончить ей в рот{/i} {color=[ch2.col]}(Сексуальный опыт. Шанс: [ch2.vis]){/color}"
 msgstr "{i}in bocca{/i} {color=[ch2.col]}(Esperienza sessuale: Chance: [ch2.vis]){/color}"
 
-#    # game/events/kira.rpy:582
+    # game/events/kira.rpy:582
 msgid "{i}трахать её{/i} {color=[ch3.col]}(Сексуальный опыт. Шанс: [ch3.vis]){/color}"
 msgstr "{i}scopare lei{/i} {color=[ch3.col]}(Esperienza sessuale: Chance: [ch3.vis]){/color}"
 
-#    # game/events/kira.rpy:599
+    # game/events/kira.rpy:599
 msgid "{i}кончить ей на попку{/i}"
 msgstr "{i}sul suo culo{/i}"
 
-#    # game/events/kira.rpy:714
+    # game/events/kira.rpy:714
 msgid "Да, что-то не спится... К тебе можно?"
 msgstr "Sì, qualcosa non dorme... Posso venire da te?"
 
-#    # game/events/kira.rpy:714
+    # game/events/kira.rpy:714
 msgid "Не могу уснуть, слишком напряжён! {i}(снять шорты){/i}"
 msgstr "Non riesco a dormire, sono troppo teso! {i}(pantaloncini da togliere){/i}"
 
-#    # game/events/kira.rpy:714
+    # game/events/kira.rpy:714
 msgid "Я просто прогуливался перед сном. Пойду, уже поздно..."
 msgstr "Ho appena camminato prima di andare a letto. Vado, è troppo tardi..."
 
-#    # game/events/kira.rpy:747
+    # game/events/kira.rpy:747
 msgid "{i}кончить ей в рот!{/i}"
 msgstr "{i}in bocca! {/i}"
 
-#    # game/events/kira.rpy:775
+    # game/events/kira.rpy:775
 msgid "{i}спуститься к Кире{/i}"
 msgstr "{i}scendere a Kira{/i}"
 
-#    # game/events/kira.rpy:814
+    # game/events/kira.rpy:814
 msgid "{i}сдерживаться{/i} {color=[sex4.col]}(Сексуальный опыт. Шанс: [sex4.vis]){/color}"
 msgstr "{i}di trattenere{/i} {color=[sex4.col]}(Esperienza sessuale: Chance: [sex4.vis]){/color}"
 
-#    # game/events/kira.rpy:834
+    # game/events/kira.rpy:834
 msgid "{i}получать удовольствие{/i} {color=[sex2.col]}(Сексуальный опыт. Шанс: [sex2.vis]){/color}"
 msgstr "{i}divertirsi{/i} {color=[sex2.col]}(Esperienza sessuale: Chance: [sex2.vis]){/color}"
 
-#    # game/events/kira.rpy:904
+    # game/events/kira.rpy:904
 msgid "{i}подойти поближе{/i}"
 msgstr "{i}avvicinarti{/i}"
 
-#    # game/events/kira.rpy:931
+    # game/events/kira.rpy:931
 msgid "Тёте Кире очень идёт быть голой! Может быть, это потому что я привык видеть её голой? В такие округлости просто нельзя не влюбиться..."
 msgstr "Zia Kira sarà davvero nuda! Forse perché sono abituato a vederla nuda? In tale rotondità è semplicemente impossibile non innamorarsi..."
 
-#    # game/events/kira.rpy:933
+    # game/events/kira.rpy:933
 msgid "Ага! Тётя Кира ещё спит. Хорошо, что её ночнушка слегка просвечивает... Ухх, как она хороша..."
 msgstr "Aha! Zia Kira è ancora addormentata. È bello che la sua camicia da notte brilli leggermente... Whee, quanto è brava..."
 
-#    # game/events/kira.rpy:978
+    # game/events/kira.rpy:978
 msgid "{i}посмотреть, что будет дальше{/i}"
 msgstr "{i}vedere cosa succede dopo{/i}"
 
-#    # game/events/kira.rpy:978
+    # game/events/kira.rpy:978
 msgid "{i}уже поздно, пора спать...{/i}"
 msgstr "{i}è troppo tardi, è ora di dormire... {/i}"
 
-#    # game/events/kira.rpy:985
+    # game/events/kira.rpy:985
 msgid "Мне что-то не спится. Можно тоже телек с тобой посмотреть?"
 msgstr "Non riesco a dormire. Posso guardare la Tv anche con te?"
 
-#    # game/events/kira.rpy:985
+    # game/events/kira.rpy:985
 msgid "Я насчёт уроков поцелуев, если момент подходящий..."
 msgstr "Sto baciando le lezioni, se il momento è giusto..."
 
-#    # game/events/kira.rpy:985
+    # game/events/kira.rpy:985
 msgid "Я просто хотел пожелать спокойной ночи!"
 msgstr "Volevo solo augurarvi una buona notte!"
 
-#    # game/events/kira.rpy:988
+    # game/events/kira.rpy:988
 msgid "Может быть, эротику?"
 msgstr "Forse erotica?"
 
-#    # game/events/kira.rpy:988
+    # game/events/kira.rpy:988
 msgid "Давай смотреть порно?!"
 msgstr "Guardiamo il porno?!"
 
-#    # game/events/kira.rpy:1014
+    # game/events/kira.rpy:1014
 msgid "Ни капли!"
 msgstr "Non una goccia!"
 
-#    # game/events/kira.rpy:1014
+    # game/events/kira.rpy:1014
 msgid "Да ты продолжай, я посижу, посмотрю..."
 msgstr "Sì, vai avanti, mi siederò e vedrò..."
 
-#    # game/events/kira.rpy:1058
+    # game/events/kira.rpy:1058
 msgid "Конечно, да!"
 msgstr "Sì certo!"
 
-#    # game/events/kira.rpy:1095
+    # game/events/kira.rpy:1095
 msgid "Вообще-то, с лучшей тётей на свете! \n"
 "{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "In realtà, con la migliore zia del mondo! \n"
 "{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
 
-#    # game/events/kira.rpy:1095
+    # game/events/kira.rpy:1095
 msgid "Вообще-то, с лучшей тётей на свете!"
 msgstr "In realtà, con la migliore zia del mondo!"
 
-#    # game/events/kira.rpy:1141
+    # game/events/kira.rpy:1141
 msgid "{i}начать дрочить{/i}"
 msgstr "{i}iniziano a tremare{/i}"
 
-#    # game/events/kira.rpy:1216
+    # game/events/kira.rpy:1216
 msgid "{i}начать ласкать её киску языком{/i}"
 msgstr "{i}iniziare ad accarezzarla con la lingua{/i}"
 
-#    # game/events/kira.rpy:1221
+    # game/events/kira.rpy:1221
 msgid "{i}раздеть её и повернуть{/i}"
 msgstr "{i}spogliarlo e girare{/i}"
 
-#    # game/events/kira.rpy:1241
+    # game/events/kira.rpy:1241
 msgid "{i}продолжить языком{/i}"
 msgstr "{i}continuare con{/i}"
 
-#    # game/events/kira.rpy:1267
+    # game/events/kira.rpy:1267
 msgid "С чего начнём?"
 msgstr "Da dove cominciamo?"
 
-#    # game/events/kira.rpy:1267
+    # game/events/kira.rpy:1267
 msgid "Как в прошлый раз?"
 msgstr "Come l'ultima volta?"
 
-#    # game/events/kira.rpy:1292
+    # game/events/kira.rpy:1292
 msgid "{i}поцеловать её{/i}"
 msgstr "{i}baciala{/i}"
 
-#    # game/events/kira.rpy:1298
+    # game/events/kira.rpy:1298
 msgid "{i}продолжить целоваться{/i}"
 msgstr "{i}continuare a baciare{/i}"
 
-#    # game/events/kira.rpy:1360
+    # game/events/kira.rpy:1360
 msgid "{i}прикоснуться к её попке{/i}"
 msgstr "{i}toccarle il culo{/i}"
 
-#    # game/events/kira.rpy:1360
+    # game/events/kira.rpy:1360
 msgid "{i}подтянуть её ближе к себе{/i}"
 msgstr "{i}avvicinalo a te{/i}"
 
-#    # game/events/kira.rpy:1436
+    # game/events/kira.rpy:1436
 msgid "Давай ещё немного, тётя Кира... У меня ведь неплохо получается? \n"
 "{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
 msgstr "Dai un po' di più, zia Kira... Sono bravo a farlo? \n"
 "{color=[_ch2.col]}(Persuasione: Chance: [_ch2.vis]){/color}"
 
-#    # game/events/kira.rpy:1447
+    # game/events/kira.rpy:1447
 msgid "{i}развязать её ночнушку{/i}"
 msgstr "{i}slegare il suo nightie{/i}"
 
-#    # game/events/kira.rpy:1514
+    # game/events/kira.rpy:1514
 msgid "{i}ласкать её грудь и киску{/i}"
 msgstr "{i}accarezza il seno e la figa{/i}"
 
-#    # game/events/kira.rpy:1536
+    # game/events/kira.rpy:1536
 msgid "{i}продолжить пальцами и языком{/i}"
 msgstr "{i}continuare con le dita e la lingua{/i}"
 
-#    # game/events/kira.rpy:1561
+    # game/events/kira.rpy:1561
 msgid "Как бы мне не кончить уже сейчас! Какой у тебя игривый язычок... Ммм... \n"
 "{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
 msgstr "Come potrei non farlo ora! Che lingua giocosa hai... Mmm... \n"
 "{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
 
-#    # game/events/kira.rpy:1580
+    # game/events/kira.rpy:1580
 msgid "Да, вот так тётя Кира, твои губки творят чудеса! Охх... \n"
 "{color=[_ch2.col]}(Сексуальный опыт. Шанс: [_ch2.vis]){/color}"
 msgstr "Sì, è così che è zia Kira, le tue spugne fanno miracoli! oh... \n"
 "{color=[_ch2.col]}(Esperienza sessuale: Chance: [_ch2.vis]){/color}"
 
-#    # game/events/kira.rpy:1595
+    # game/events/kira.rpy:1595
 msgid "Тётя Кира, ещё быстрее... Да... Я сейчас кончу... А-а-а..."
 msgstr "Zia Kira, ancora più veloce... Sì... Vado a ora... Ahh..."
 
-#    # game/events/kira.rpy:1662
+    # game/events/kira.rpy:1662
 msgid "{i}раздеть её{/i}"
 msgstr "{i}spogliarla{/i}"
 
-#    # game/events/kira.rpy:1662
+    # game/events/kira.rpy:1662
 msgid "{i}раздеться вместе{/i}"
 msgstr "{i}spogliarsi insieme{/i}"
 
-#    # game/events/kira.rpy:1749
+    # game/events/kira.rpy:1749
 msgid "{i}получать удовольствие{/i}"
 msgstr "{i}divertiti{/i}"
 
-#    # game/events/kira.rpy:1872
+    # game/events/kira.rpy:1872
 msgid "{i}трахнуть тётю Киру{/i} (миссионерская поза)"
 msgstr "{i}cazzo zia Kira{/i} (posa missionaria)"
 
-#    # game/events/kira.rpy:1872
+    # game/events/kira.rpy:1872
 msgid "{i}снять шорты и трахнуть тётю Киру{/i} (миссионерская поза)"
 msgstr "{i}togliermi i pantaloncini e scopare zia Kira{/i} (posa missionaria)"
 
-#    # game/events/kira.rpy:1872
+    # game/events/kira.rpy:1872
 msgid "{i}трахнуть тётю Киру{/i} (поза на боку)"
 msgstr "{i}cazzo zia Kira{/i} (posa laterale)"
 
-#    # game/events/kira.rpy:1887
+    # game/events/kira.rpy:1887
 msgid "{i}трахнуть тётю Киру (догги-стайл){/i}"
 msgstr "{i}cazzo zia Kira (stile cagnolino){/i}"
 
-#    # game/events/kira.rpy:1894
+    # game/events/kira.rpy:1894
 msgid "{i}трахать её{/i} {color=[_ch_sex4.col]}(Сексуальный опыт. Шанс: [_ch_sex4.vis]){/color}"
 msgstr "{i}scopare lei{/i} {color=[_ch_sex4.col]}(Esperienza sessuale: Chance: [_ch_sex4.vis]){/color}"
 
-#    # game/events/kira.rpy:1918
+    # game/events/kira.rpy:1918
 msgid "{i}кончить ей в рот{/i} {color=[_ch_sex4.col]}(Сексуальный опыт. Шанс: [_ch_sex4.vis]){/color}"
 msgstr "{i}in bocca{/i} {color=[_ch_sex4.col]}(Esperienza sessuale: Chance: [_ch_sex4.vis]){/color}"
 
-#    # game/events/kira.rpy:1918
+    # game/events/kira.rpy:1918
 msgid "Порадуешь меня минетом, тётя Кира? {color=[_ch_sex2.col]}(Сексуальный опыт. Шанс: [_ch_sex2.vis]){/color}"
 msgstr "Mi darai un, zia Kira? {colore=[_ch_sex2.col]} (Esperienza sessuale: Chance: [_ch_sex2.vis]) {/colore}"
 
-#    # game/events/kira.rpy:1995
+    # game/events/kira.rpy:1995
 msgid "{i}кончить ей на живот{/i}"
 msgstr "{i}a pancia in giù{/i}"
 
-#    # game/events/kira.rpy:2099
+    # game/events/kira.rpy:2099
 msgid "{i}получать удовольствие{/i} {color=[_ch_sex2.col]}(Сексуальный опыт. Шанс: [_ch_sex2.vis]){/color}"
 msgstr "{i}divertirsi{/i} {color=[_ch_sex2.col]}(Esperienza sessuale: Chance: [_ch_sex2.vis]){/color}"
 
-#    # game/events/kira.rpy:2234
+    # game/events/kira.rpy:2234
 msgid "К тебе можно, тётя Кира?"
 msgstr "Posso venire da te, zia Kira?"
 
-#    # game/events/kira.rpy:2310
+    # game/events/kira.rpy:2310
 msgid "{i}раздеться и присоединиться к Кире{/i}"
 msgstr "{i}spogliati e unisciti a Kira{/i}"
 
-#    # game/events/kira.rpy:2316
+    # game/events/kira.rpy:2316
 msgid "{i}ласкать её грудь{/i}"
 msgstr "{i}accarezza il seno{/i}"
 
-#    # game/events/kira.rpy:2323
+    # game/events/kira.rpy:2323
 msgid "{i}ласкать её киску пальцами{/i}"
 msgstr "{i}accarezzarla con le dita{/i}"
 
-#    # game/events/kira.rpy:2675
+    # game/events/kira.rpy:2675
 msgid "Давай лучше я уложу тётю Киру!"
 msgstr "Facciamo meglio a posare zia Kira!"
 
-#    # game/events/kira.rpy:2675
+    # game/events/kira.rpy:2675
 msgid "Ну, ладно... Пока!"
 msgstr "Ok... Finalmente!"
 
-#    # game/events/kira.rpy:2682
+    # game/events/kira.rpy:2682
 msgid "{i}отвести тётю в гостиную{/i}"
 msgstr "{i}portare mia zia in salotto{/i}"
 
-#    # game/events/kira.rpy:2720
+    # game/events/kira.rpy:2720
 msgid "{i}Дать Алисе конфету и отвести тётю в гостиную{/i}"
 msgstr "{i}Regala ad Alice caramelle e porta sua zia in salotto{/i}"
 
-#    # game/events/kira.rpy:2720
+    # game/events/kira.rpy:2720
 msgid "{i}Отвести тётю в гостиную{/i}"
 msgstr "{i}Porta mia zia in salotto{/i}"
 
-#    # game/events/kira.rpy:2741
+    # game/events/kira.rpy:2741
 msgid "Такого поворота событий я не ожидал! Можно и задержаться..."
 msgstr "Non mi aspettavo una tale svolta degli eventi! Puoi soffermarti..."
 
-#    # game/events/kira.rpy:2741
+    # game/events/kira.rpy:2741
 msgid "Я бы задержался, но нужно проверить, как там Алиса..."
 msgstr "Sarei in ritardo, ma ho bisogno di controllare come Alice è lì..."
 
-#    # game/events/kira.rpy:2837
+    # game/events/kira.rpy:2837
 msgid "Хочу грудью!"
 msgstr "Voglio il seno!"
 
-#    # game/events/kira.rpy:2837
+    # game/events/kira.rpy:2837
 msgid "Хочу попкой!"
 msgstr "Voglio il mio culo!"
 
-#    # game/events/kira.rpy:2846
+    # game/events/kira.rpy:2846
 msgid "Но я всё равно хочу твою грудь!"
 msgstr "Ma voglio ancora il tuo seno!"
 
-#    # game/events/kira.rpy:2846
+    # game/events/kira.rpy:2846
 msgid "Я не могу устоять перед твоей попкой. Хочу её!"
 msgstr "Non posso resistere al tuo. La voglio!"
 
-#    # game/events/kira.rpy:2877
+    # game/events/kira.rpy:2877
 msgid "Но я всё равно хочу твою попку!"
 msgstr "Ma voglio ancora il tuo culo!"
 
-#    # game/events/kira.rpy:2877
+    # game/events/kira.rpy:2877
 msgid "Я не могу устоять перед твоей грудью. Хочу её!"
 msgstr "Non posso resistere al tuo seno. La voglio!"
 

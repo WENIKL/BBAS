@@ -2334,423 +2334,425 @@ msgstr "[Max_09]{i}(Aspetta, stanno parlando di comprare lingerie ... E senza di
 msgid "[Max_07]{i}( Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего... ){/i}[nointeract]"
 msgstr "[Max_07]{i}(Eric ha deciso di essere intelligente di fronte alla conoscenza di Alice nel consumismo e nella pubblicità ... Beh, sì, e nel frattempo fissa il suo fascino, a malapena coperto di biancheria intima. Non ho ancora niente da fare qui...) {/i}[nointeract]"
 
-## # translate crowdin strings:#    # game/events/alice.rpy:12
+translate crowdin strings:
+
+# game/events/alice.rpy:12
 msgid "{i}постучаться{/i}"
 msgstr "{i}knock{/i}"
 
-#    # game/events/alice.rpy:12
+    # game/events/alice.rpy:12
 msgid "{i}заглянуть со двора{/i}"
 msgstr "{i}guardare dal cortile{/i}"
 
-#    # game/events/alice.rpy:12
+    # game/events/alice.rpy:12
 msgid "{i}установить стремянку{/i}"
 msgstr "{i}installare una stepladder{/i}"
 
-#    # game/events/alice.rpy:12
+    # game/events/alice.rpy:12
 msgid "{i}воспользоваться стремянкой{/i}"
 msgstr "{i}usare una stepladder{/i}"
 
-#    # game/events/alice.rpy:15
+    # game/events/alice.rpy:15
 msgid "Это я, Макс. Можно войти?"
 msgstr "Sono io, Max. Posso entrare?"
 
-#    # game/events/alice.rpy:59
+    # game/events/alice.rpy:59
 msgid "{i}смотреть ещё{/i}"
 msgstr "{i}vedere di più{/i}"
 
-#    # game/events/alice.rpy:99
+    # game/events/alice.rpy:99
 msgid "{i}заглянуть в окно{/i}"
 msgstr "{i}guarda fuori dalla finestra{/i}"
 
-#    # game/events/alice.rpy:173
+    # game/events/alice.rpy:173
 msgid "{i}прокрасться в комнату{/i}"
 msgstr "{i}intrufolarsi nella stanza{/i}"
 
-#    # game/events/alice.rpy:347
+    # game/events/alice.rpy:347
 msgid "{i}продолжить смотреть\n"
 "{color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
 msgstr "{i}continuare a guardare il\n"
 "{color=[_ch1.col]} (Stealth: Chance: [_ch1.vis]){/color}{/i}"
 
-#    # game/events/alice.rpy:347
+    # game/events/alice.rpy:347
 msgid "{i}взглянуть со стороны\n"
 "{color=[_ch2.col]}(Скрытность. Шанс: [_ch2.vis]){/color}{/i}"
 msgstr "{i}guardare dal lato del\n"
 "{color=[_ch2.col]}(Stealth: Chance: [_ch2.vis]){/color}{/i}"
 
-#    # game/events/alice.rpy:347
+    # game/events/alice.rpy:347
 msgid "{i}немного пошуметь{/i}"
 msgstr "{i}fare un po' di rumore{/i}"
 
-#    # game/events/alice.rpy:347
+    # game/events/alice.rpy:347
 msgid "{i}запустить паука к Алисе{/i}"
 msgstr "{i}lancia spider ad Alice{/i}"
 
-#    # game/events/alice.rpy:368
+    # game/events/alice.rpy:368
 msgid "{i}спрятаться{/i}"
 msgstr "{i}nascondi{/i}"
 
-#    # game/events/alice.rpy:401
+    # game/events/alice.rpy:401
 msgid "{i}принести Алисе полотенце{/i}"
 msgstr "{i}porta ad Alice un asciugamano{/i}"
 
-#    # game/events/alice.rpy:411
+    # game/events/alice.rpy:411
 msgid "{i}отдать Алисе полотенце{/i}"
 msgstr "{i}dare ad Alice un asciugamano{/i}"
 
-#    # game/events/alice.rpy:411
+    # game/events/alice.rpy:411
 msgid "{i}отдать Алисе полотенце (выронив его из одной руки){/i}"
 msgstr "{i}dare ad Alice un asciugamano (lasciandolo cadere da una mano){/i}"
 
-#    # game/events/alice.rpy:419
+    # game/events/alice.rpy:419
 msgid "Да ладно, это ерунда, обращайся."
 msgstr "Dai, è una sciocchezza, vai un po '."
 
-#    # game/events/alice.rpy:419
+    # game/events/alice.rpy:419
 msgid "А как же братика обнять? {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
 msgstr "E come può il fratello abbracciarsi? {colore=[_ch2.col]} (Persuasione: Chance: [_ch2.vis]) {/colore}"
 
-#    # game/events/alice.rpy:442
+    # game/events/alice.rpy:442
 msgid "Конечно нет! Оно случайно выскочило из руки! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Certo che no! È saltato accidentalmente fuori dalla sua mano! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/events/alice.rpy:471
+    # game/events/alice.rpy:471
 msgid "Зато у меня руки свободны... {i}(обнять в ответ){/i}"
 msgstr "Ma le mie mani sono libere... {i}(abbraccio in risposta){/i}"
 
-#    # game/events/alice.rpy:471
+    # game/events/alice.rpy:471
 msgid "Вот это другое дело! Рад был помочь."
 msgstr "Questa è un'altra cosa! Felice di aiutarti."
 
-#    # game/events/alice.rpy:477
+    # game/events/alice.rpy:477
 msgid "Нет. Слишком - это вот так... {i}(обнять за попку){/i}"
 msgstr "Lol · Troppo - è così... {i}(abbraccia il culo){/i}"
 
-#    # game/events/alice.rpy:477
+    # game/events/alice.rpy:477
 msgid "Может быть, чуть-чуть... Рад был помочь."
 msgstr "Forse un po'... Felice di aiutarti."
 
-#    # game/events/alice.rpy:507
+    # game/events/alice.rpy:507
 msgid "{i}не убирать руки{/i}"
 msgstr "{i}non togliere le mani{/i}"
 
-#    # game/events/alice.rpy:605
+    # game/events/alice.rpy:605
 msgid "{i}Бежать{/i}"
 msgstr "{i}Run{/i}"
 
-#    # game/events/alice.rpy:679
+    # game/events/alice.rpy:679
 msgid "Хорошо, я подожду..."
 msgstr "Ok, aspetterò..."
 
-#    # game/events/alice.rpy:888
+    # game/events/alice.rpy:888
 msgid "Выглядишь... шикарно!"
 msgstr "Guardare... Chic!"
 
-#    # game/events/alice.rpy:888
+    # game/events/alice.rpy:888
 msgid "У меня для тебя презент..."
 msgstr "Ho un regalo per te..."
 
-#    # game/events/alice.rpy:893
+    # game/events/alice.rpy:893
 msgid "Ты знаешь, я забыл..."
 msgstr "Sai, dimenticavo..."
 
-#    # game/events/alice.rpy:904
+    # game/events/alice.rpy:904
 msgid "{i}дать одну конфету{/i}"
 msgstr "{i}dare una caramella{/i}"
 
-#    # game/events/alice.rpy:908
+    # game/events/alice.rpy:908
 msgid "Ну, можешь трусы показать..."
 msgstr "Beh, puoi mostrare le tue mutandine..."
 
-#    # game/events/alice.rpy:908
+    # game/events/alice.rpy:908
 msgid "Да, никакого подвоха!"
 msgstr "Sì, nessuna cattura!"
 
-#    # game/events/alice.rpy:1007
+    # game/events/alice.rpy:1007
 msgid "Разбирайся сама..."
 msgstr "Scoprilo tu stesso..."
 
-#    # game/events/alice.rpy:1015
+    # game/events/alice.rpy:1015
 msgid "Ну, пойдём посмотрим..."
 msgstr "Bene, andiamo a vedere..."
 
-#    # game/events/alice.rpy:1015
+    # game/events/alice.rpy:1015
 msgid "Паук? Ерунда какая. Сама разбирайся с ним..."
 msgstr "Ragno? Che assurdità. Affrontalo tu stesso..."
 
-#    # game/events/alice.rpy:1025
+    # game/events/alice.rpy:1025
 msgid "{i}спать до утра{/i}"
 msgstr "{i}dormire fino al mattino{/i}"
 
-#    # game/events/alice.rpy:1044
+    # game/events/alice.rpy:1044
 msgid "А что мне за это будет?"
 msgstr "E cosa farò per questo?"
 
-#    # game/events/alice.rpy:1044
+    # game/events/alice.rpy:1044
 msgid "Хорошо, где он там..."
 msgstr "Ok, dov'è lì..."
 
-#    # game/events/alice.rpy:1044
+    # game/events/alice.rpy:1044
 msgid "Паука-то я поймаю, только вот кое-кто нарушает уговор! Или может я не прав?!"
 msgstr "Cetach il ragno, ma alcune persone stanno rompendo la persuasione! O forse mi sbaglio?!"
 
-#    # game/events/alice.rpy:1049
+    # game/events/alice.rpy:1049
 msgid "Давай $10! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Vieni su $ 10! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/events/alice.rpy:1049
+    # game/events/alice.rpy:1049
 msgid "Покажи сиськи! {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
 msgstr "Mostra le tue tette! {colore=[_ch2.col]} (Persuasione: Chance: [_ch2.vis]) {/colore}"
 
-#    # game/events/alice.rpy:1049
+    # game/events/alice.rpy:1049
 msgid "Сними верх! {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
 msgstr "Toglilo! {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
 
-#    # game/events/alice.rpy:1049
+    # game/events/alice.rpy:1049
 msgid "А, ничего. Так поймаю..."
 msgstr "Aa, niente. Quindi sarò attraverso..."
 
-#    # game/events/alice.rpy:1078
+    # game/events/alice.rpy:1078
 msgid "На красивое глаза легче открываются... {color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
 msgstr "Gli occhi belli sono più facili da aprire... {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
 
-#    # game/events/alice.rpy:1078
+    # game/events/alice.rpy:1078
 msgid "Давай уже показывай сиськи!"
 msgstr "Mostriamo le tue tette!"
 
-#    # game/events/alice.rpy:1092
+    # game/events/alice.rpy:1092
 msgid "Не прикрывайся руками!"
 msgstr "Non coprirti con le mani!"
 
-#    # game/events/alice.rpy:1132
+    # game/events/alice.rpy:1132
 msgid "Раздевайся!"
 msgstr "Spogliati!"
 
-#    # game/events/alice.rpy:1140
+    # game/events/alice.rpy:1140
 msgid "Сиськи ещё покажи..."
 msgstr "Le tette mostrano ancora..."
 
-#    # game/events/alice.rpy:1140
+    # game/events/alice.rpy:1140
 msgid "О да, я очень доволен!"
 msgstr "Oh sì, sono molto soddisfatto!"
 
-#    # game/events/alice.rpy:1243
+    # game/events/alice.rpy:1243
 msgid "{i}оставлю этого паука себе{/i}"
 msgstr "{i}terrò questo ragno per me{/i}"
 
-#    # game/events/alice.rpy:1243
+    # game/events/alice.rpy:1243
 msgid "{i}выброшу этого паука с балкона{/i}"
 msgstr "{i}getterai questo ragno dal balcone{/i}"
 
-#    # game/events/alice.rpy:1243
+    # game/events/alice.rpy:1243
 msgid "{i}убью этого паука{/i}"
 msgstr "{i}ucciderai questo ragno{/i}"
 
-#    # game/events/alice.rpy:1246
+    # game/events/alice.rpy:1246
 msgid "Я не буду его убивать!"
 msgstr "Non lo ucciderò!"
 
-#    # game/events/alice.rpy:1246
+    # game/events/alice.rpy:1246
 msgid "Пусть живёт. Я пойду и выкину его с балкона за ограду, чтобы он обратно не приполз.\n"
 "{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Lasciatelo vivere. Andrò a buttarlo giù dal balcone dietro la recinzione in modo che non striscia indietro.\n"
 "{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
 
-#    # game/events/alice.rpy:1246
+    # game/events/alice.rpy:1246
 msgid "{i}выбросить с балкона{/i}"
 msgstr "{i}gettato dal balcone{/i}"
 
-#    # game/events/alice.rpy:1246
+    # game/events/alice.rpy:1246
 msgid "{i}убить паука{/i}"
 msgstr "{i}uccidere un ragno{/i}"
 
-#    # game/events/alice.rpy:1249
+    # game/events/alice.rpy:1249
 msgid "{i}вернуться в кровать{/i}"
 msgstr "{i}tornare a letto{/i}"
 
-#    # game/events/alice.rpy:1455
+    # game/events/alice.rpy:1455
 msgid "У тебя... Очень красивая грудь..."
 msgstr "Hai... Seni molto belli..."
 
-#    # game/events/alice.rpy:1455
+    # game/events/alice.rpy:1455
 msgid "А ты не хочешь мне помочь?"
 msgstr "Non vuoi aiutarmi?"
 
-#    # game/events/alice.rpy:1487
+    # game/events/alice.rpy:1487
 msgid "Ну Алиса... Ну чуть-чуть..."
 msgstr "Beh, Alice... Beh, un po'..."
 
-#    # game/events/alice.rpy:1487
+    # game/events/alice.rpy:1487
 msgid "Хорошо. Спокойной ночи, Алиса..."
 msgstr "Ok. Buona notte, Alice..."
 
-#    # game/events/alice.rpy:1509
+    # game/events/alice.rpy:1509
 msgid "Хочу, чтобы ты сняла трусики..."
 msgstr "Voglio che ti togli le mutandine..."
 
-#    # game/events/alice.rpy:1509
+    # game/events/alice.rpy:1509
 msgid "Хочу, чтобы ты поласкала его..."
 msgstr "Voglio che tu lo accarezzi..."
 
-#    # game/events/alice.rpy:1509
+    # game/events/alice.rpy:1509
 msgid "Хочу, чтобы ты отсосала..."
 msgstr "Voglio che tu faccia schifo..."
 
-#    # game/events/alice.rpy:1542
+    # game/events/alice.rpy:1542
 msgid "Хочу показать тебе, как я научился целоваться..."
 msgstr "Voglio mostrarvi come ho imparato a baciare..."
 
-#    # game/events/alice.rpy:1542
+    # game/events/alice.rpy:1542
 msgid "А если бы я был твоим парнем... Что бы ты сделала дальше?"
 msgstr "E se fossi il tuo ragazzo... Cosa faresti dopo?"
 
-#    # game/events/alice.rpy:1542
+    # game/events/alice.rpy:1542
 msgid "На всё остальное ты не согласишься..."
 msgstr "Non accetterai nient'altro..."
 
-#    # game/events/alice.rpy:1550
+    # game/events/alice.rpy:1550
 msgid "{i}целовать Алису{/i}"
 msgstr "{i}bacio Alice{/i}"
 
-#    # game/events/alice.rpy:1558
+    # game/events/alice.rpy:1558
 msgid "{i}закончить целоваться{/i}"
 msgstr "{i}finisci di baciare{/i}"
 
-#    # game/events/alice.rpy:1558
+    # game/events/alice.rpy:1558
 msgid "{i}прикоснуться к её груди{/i}"
 msgstr "{i}toccarle il seno{/i}"
 
-#    # game/events/alice.rpy:1635
+    # game/events/alice.rpy:1635
 msgid "{i}ласкать её киску рукой{/i}"
 msgstr "{i}accarezzarla con la mano{/i}"
 
-#    # game/events/alice.rpy:1647
+    # game/events/alice.rpy:1647
 msgid "{i}проникнуть в её киску пальцами{/i} {color=[_ch_sex4.col]}(Сексуальный опыт. Шанс: [_ch_sex4.vis]){/color}"
 msgstr "{i}penetrarla con le dita{/i} {color=[_ch_sex4.col]}(Esperienza sessuale: Chance: [_ch_sex4.vis]){/color}"
 
-#    # game/events/alice.rpy:1647
+    # game/events/alice.rpy:1647
 msgid "{i}ласкать её киску языком{/i} {color=[_ch_sex4.col]}(Сексуальный опыт. Шанс: [_ch_sex4.vis]){/color}"
 msgstr "{i}accarezzarla con la lingua{/i} {color=[_ch_sex4.col]}(Esperienza sessuale: caso: [_ch_sex4.vis]){/colore}"
 
-#    # game/events/alice.rpy:1657
+    # game/events/alice.rpy:1657
 msgid "{i}ускориться{/i} {color=[_ch_sex3.col]}(Сексуальный опыт. Шанс: [_ch_sex3.vis]){/color}"
 msgstr "{i}accelerate{/i} {color=[_ch_sex3.col]}(Esperienza sessuale: Chance: [_ch_sex3.vis]){/color}"
 
-#    # game/events/alice.rpy:1691
+    # game/events/alice.rpy:1691
 msgid "{i}кончить ей на лицо{/i}"
 msgstr "{i}sul suo viso{/i}"
 
-#    # game/events/alice.rpy:1691
+    # game/events/alice.rpy:1691
 msgid "{i}кончить ей на грудь{/i}"
 msgstr "{i}sul petto{/i}"
 
-#    # game/events/alice.rpy:1691
+    # game/events/alice.rpy:1691
 msgid "Вообще-то, я надеялся, что ты возьмёшь его в рот..."
 msgstr "In realtà, speravo che lo prendessi in bocca..."
 
-#    # game/events/alice.rpy:1767
+    # game/events/alice.rpy:1767
 msgid "{i}отправиться спать{/i}"
 msgstr "{i}andare a letto{/i}"
 
-#    # game/events/alice.rpy:1792
+    # game/events/alice.rpy:1792
 msgid "Я могу лучше..."
 msgstr "Posso fare di meglio..."
 
-#    # game/events/alice.rpy:1792
+    # game/events/alice.rpy:1792
 msgid "Извини, я не хотел. Не обижайся..."
 msgstr "Mi dispiace, non volevo. Non offenderti..."
 
-#    # game/events/alice.rpy:1924
+    # game/events/alice.rpy:1924
 msgid "{i}продолжить смотреть{/i}"
 msgstr "{i}continua a guardare{/i}"
 
-#    # game/events/alice.rpy:1924
+    # game/events/alice.rpy:1924
 msgid "{i}взглянуть со стороны{/i}"
 msgstr "{i}guarda dall'esterno{/i}"
 
-#    # game/events/alice.rpy:1988
+    # game/events/alice.rpy:1988
 msgid "Я твои фотки принёс..."
 msgstr "Ho portato le tue foto..."
 
-#    # game/events/alice.rpy:1988
+    # game/events/alice.rpy:1988
 msgid "Я тут не удержался и купил тебе боди раньше Эрика!"
 msgstr "Non ho resistito e ti ho comprato un body prima di Eric!"
 
-#    # game/events/alice.rpy:1988
+    # game/events/alice.rpy:1988
 msgid "Отлично смотришься в этом белье!"
 msgstr "Hai un bell'aspetto in questa lingerie!"
 
-#    # game/events/alice.rpy:1988
+    # game/events/alice.rpy:1988
 msgid "Как идут дела с блогом?"
 msgstr "Come stanno andando le cose con il blog?"
 
-#    # game/events/alice.rpy:2091
+    # game/events/alice.rpy:2091
 msgid "{i}сбежать{/i}"
 msgstr "{i}escape{/i}"
 
-#    # game/events/alice.rpy:2091
+    # game/events/alice.rpy:2091
 msgid "Классно смотришься!"
 msgstr "Bello da vedere!"
 
-#    # game/events/alice.rpy:2091
+    # game/events/alice.rpy:2091
 msgid "А я тебе принёс кое-что!"
 msgstr "E ti ho portato qualcosa!"
 
-#    # game/events/alice.rpy:2100
+    # game/events/alice.rpy:2100
 msgid "Чем занята?"
 msgstr "Come va?"
 
-#    # game/events/alice.rpy:2100
+    # game/events/alice.rpy:2100
 msgid "Чего дверь-то закрыла?"
 msgstr "Cosa ha chiuso la porta?"
 
-#    # game/events/alice.rpy:2105
+    # game/events/alice.rpy:2105
 msgid "Точно получается?"
 msgstr "Esattamente?"
 
-#    # game/events/alice.rpy:2117
+    # game/events/alice.rpy:2117
 msgid "Что делаешь-то?"
 msgstr "Che stai facendo?"
 
-#    # game/events/alice.rpy:2144
+    # game/events/alice.rpy:2144
 msgid "Ладно, подожду..."
 msgstr "Ok, aspetterò..."
 
-#    # game/events/alice.rpy:2144
+    # game/events/alice.rpy:2144
 msgid "А если конфетку дам, то остаться можно?"
 msgstr "E se do una caramella, allora puoi rimanere?"
 
-#    # game/events/alice.rpy:2160
+    # game/events/alice.rpy:2160
 msgid "{i}войти в комнату{/i}"
 msgstr "{i}entra nella stanza{/i}"
 
-#    # game/events/alice.rpy:2344
+    # game/events/alice.rpy:2344
 msgid "{i}открыть дверь{/i}"
 msgstr "{i}apri la porta{/i}"
 
-#    # game/events/alice.rpy:2411
+    # game/events/alice.rpy:2411
 msgid "Ну, разве, что так...\n"
 "{i}(начать массировать её киску рукой){/i}"
 msgstr "Beh, a parte questo...\n"
 "{i}(inizia a massaggiarla con la mano){/i}"
 
-#    # game/events/alice.rpy:2411
+    # game/events/alice.rpy:2411
 msgid "Поласкай свою киску для меня..."
 msgstr "Accarezza il tuo per me..."
 
-#    # game/events/alice.rpy:2460
+    # game/events/alice.rpy:2460
 msgid "{i}массировать её ножки{/i}"
 msgstr "{i}massaggiare le gambe{/i}"
 
-#    # game/events/alice.rpy:2471
+    # game/events/alice.rpy:2471
 msgid "{i}тереться членом о её ногу{/i}"
 msgstr "{i}strofinando il suo contro la sua gamba{/i}"
 
-#    # game/events/alice.rpy:2501
+    # game/events/alice.rpy:2501
 msgid "Ох! Тогда тебе стоит быстрее работать рукой..."
 msgstr "Oh! Allora dovresti lavorare più velocemente con la mano..."
 
-#    # game/events/alice.rpy:2501
+    # game/events/alice.rpy:2501
 msgid "Так пусти в дело свой язычок..."
 msgstr "Quindi lascia andare la tua lingua..."
 

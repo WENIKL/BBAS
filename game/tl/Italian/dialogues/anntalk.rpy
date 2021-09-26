@@ -1116,241 +1116,243 @@ msgstr "[Ann_13]Sii più umile. Questo film è stato molto emozionante..."
 msgid "[Max_01]Конечно, мам!"
 msgstr "[Max_01]Certo, mamma!"
 
-## # translate crowdin strings:#    # game/dialogues/anntalk.rpy:61
+translate crowdin strings:
+
+# game/dialogues/anntalk.rpy:61
 msgid "В другой раз..."
 msgstr "Un'altra volta..."
 
-#    # game/dialogues/anntalk.rpy:86
+    # game/dialogues/anntalk.rpy:86
 msgid "Точно, извини..."
 msgstr "Esatto, mi dispiace..."
 
-#    # game/dialogues/anntalk.rpy:98
+    # game/dialogues/anntalk.rpy:98
 msgid "Мне стыдно, но очень нужны деньги..."
 msgstr "Mi vergogno, ma ho davvero bisogno di soldi..."
 
-#    # game/dialogues/anntalk.rpy:98
+    # game/dialogues/anntalk.rpy:98
 msgid "Я могу сделать какую-то работу, чтобы не просто так выпрашивать деньги..."
 msgstr "Posso fare un po 'di lavoro per emosinare soldi per un motivo..."
 
-#    # game/dialogues/anntalk.rpy:98
+    # game/dialogues/anntalk.rpy:98
 msgid "Ты права, стыдно. В другой раз..."
 msgstr "Hai ragione, vergognoso. Un'altra volta..."
 
-#    # game/dialogues/anntalk.rpy:102
+    # game/dialogues/anntalk.rpy:102
 msgid "Ага! Спасибо, мам!"
 msgstr "Aha! Grazie mamma!"
 
-#    # game/dialogues/anntalk.rpy:102
+    # game/dialogues/anntalk.rpy:102
 msgid "Может быть, я могу что-то сделать?"
 msgstr "Forse posso fare qualcosa?"
 
-#    # game/dialogues/anntalk.rpy:113
+    # game/dialogues/anntalk.rpy:113
 msgid "Может быть, почистить бассейн?"
 msgstr "Forse pulire la piscina?"
 
-#    # game/dialogues/anntalk.rpy:113
+    # game/dialogues/anntalk.rpy:113
 msgid "Ну, могу заказать продукты"
 msgstr "Bene, posso ordinare prodotti"
 
-#    # game/dialogues/anntalk.rpy:113
+    # game/dialogues/anntalk.rpy:113
 msgid "Не знаю. Видимо, ничего..."
 msgstr "Non lo so. Apparentemente niente..."
 
-#    # game/dialogues/anntalk.rpy:118
+    # game/dialogues/anntalk.rpy:118
 msgid "Может я могу ещё что-то сделать?"
 msgstr "Forse posso fare qualcos'altro?"
 
-#    # game/dialogues/anntalk.rpy:138
+    # game/dialogues/anntalk.rpy:138
 msgid "Супер!"
 msgstr "Super!"
 
-#    # game/dialogues/anntalk.rpy:168
+    # game/dialogues/anntalk.rpy:168
 msgid "Конечно! Что смотреть будем?"
 msgstr "Naturalmente,! Cosa guarderemo?"
 
-#    # game/dialogues/anntalk.rpy:168
+    # game/dialogues/anntalk.rpy:168
 msgid "А я прикупил фильм на вечер. Посмотрим?"
 msgstr "E ho comprato un film per la sera. Vedere?"
 
-#    # game/dialogues/anntalk.rpy:168
+    # game/dialogues/anntalk.rpy:168
 msgid "Мы не досмотрели один фильм. Помнишь?"
 msgstr "Non abbiamo finito un film. Ricordare?"
 
-#    # game/dialogues/anntalk.rpy:182
+    # game/dialogues/anntalk.rpy:182
 msgid "Да, очень!"
 msgstr "Sì, davvero!"
 
-#    # game/dialogues/anntalk.rpy:182
+    # game/dialogues/anntalk.rpy:182
 msgid "Почти также, как сидеть рядом с тобой..."
 msgstr "Quasi come sedersi accanto a te..."
 
-#    # game/dialogues/anntalk.rpy:204
+    # game/dialogues/anntalk.rpy:204
 msgid "Не буду тебе мешать..."
 msgstr "Non ti disturberò..."
 
-#    # game/dialogues/anntalk.rpy:221
+    # game/dialogues/anntalk.rpy:221
 msgid "Нет, не слышал о таком. Давай смотреть!"
 msgstr "No, non ne ho sentito parlare. Guardiamo!"
 
-#    # game/dialogues/anntalk.rpy:221
+    # game/dialogues/anntalk.rpy:221
 msgid "Да это же эротика!"
 msgstr "Sì, è erotico!"
 
-#    # game/dialogues/anntalk.rpy:221
+    # game/dialogues/anntalk.rpy:221
 msgid "Да, слышал кое-что о нём..."
 msgstr "Sì, ho sentito qualcosa su di lui..."
 
-#    # game/dialogues/anntalk.rpy:224
+    # game/dialogues/anntalk.rpy:224
 msgid "{i}начать просмотр{/i}"
 msgstr "{i}inizia a navigare{/i}"
 
-#    # game/dialogues/anntalk.rpy:231
+    # game/dialogues/anntalk.rpy:231
 msgid "Да, отзывы отличные"
 msgstr "Sì, le recensioni sono eccellenti"
 
-#    # game/dialogues/anntalk.rpy:231
+    # game/dialogues/anntalk.rpy:231
 msgid "Ну, это эротика..."
 msgstr "Beh, è erotica..."
 
-#    # game/dialogues/anntalk.rpy:240
+    # game/dialogues/anntalk.rpy:240
 msgid "Да всё в порядке, я уже взрослый!"
 msgstr "Sì, va bene, sono un adulto!"
 
-#    # game/dialogues/anntalk.rpy:240
+    # game/dialogues/anntalk.rpy:240
 msgid "Ну, как скажешь. Я тогда пойду..."
 msgstr "Bene, come dici tu. Andrò allora..."
 
-#    # game/dialogues/anntalk.rpy:268
+    # game/dialogues/anntalk.rpy:268
 msgid "Я не смотрю, а что там?"
 msgstr "Non sto guardando, ma cosa c'è?"
 
-#    # game/dialogues/anntalk.rpy:268
+    # game/dialogues/anntalk.rpy:268
 msgid "Я уже взрослый!"
 msgstr "Sono un adulto!"
 
-#    # game/dialogues/anntalk.rpy:294
+    # game/dialogues/anntalk.rpy:294
 msgid "А что такого?"
 msgstr "Cos'è?"
 
-#    # game/dialogues/anntalk.rpy:294
+    # game/dialogues/anntalk.rpy:294
 msgid "Хорошо, постараюсь..."
 msgstr "Ok, ci proverò..."
 
-#    # game/dialogues/anntalk.rpy:297
+    # game/dialogues/anntalk.rpy:297
 msgid "Ого, мам..."
 msgstr "Walth, mamma..."
 
-#    # game/dialogues/anntalk.rpy:297
+    # game/dialogues/anntalk.rpy:297
 msgid "Разве это должно пугать?"
 msgstr "Dovrebbe essere spaventoso?"
 
-#    # game/dialogues/anntalk.rpy:300
+    # game/dialogues/anntalk.rpy:300
 msgid "Значит, тебе понравилось?"
 msgstr "Quindi ti è piaciuto?"
 
-#    # game/dialogues/anntalk.rpy:300
+    # game/dialogues/anntalk.rpy:300
 msgid "Ладно, я всё понял..."
 msgstr "Ok, ho capito..."
 
-#    # game/dialogues/anntalk.rpy:308
+    # game/dialogues/anntalk.rpy:308
 msgid "Взрослую женщину притягивает?"
 msgstr "Una donna adulta è attratta?"
 
-#    # game/dialogues/anntalk.rpy:308
+    # game/dialogues/anntalk.rpy:308
 msgid "Да, я всё понял!"
 msgstr "Sì, ho capito!"
 
-#    # game/dialogues/anntalk.rpy:332
+    # game/dialogues/anntalk.rpy:332
 msgid "Нет, никого не было..."
 msgstr "No, non c'era nessuno..."
 
-#    # game/dialogues/anntalk.rpy:332
+    # game/dialogues/anntalk.rpy:332
 msgid "Может быть, показалось?"
 msgstr "Forse sì?"
 
-#    # game/dialogues/anntalk.rpy:342
+    # game/dialogues/anntalk.rpy:342
 msgid "Нет, мам, нечего рассказывать"
 msgstr "No, mamma, non c'è niente da dire"
 
-#    # game/dialogues/anntalk.rpy:349
+    # game/dialogues/anntalk.rpy:349
 msgid "Всегда пожалуйста, сестрёнка!"
 msgstr "Sempre per favore, sorella!"
 
-#    # game/dialogues/anntalk.rpy:349
+    # game/dialogues/anntalk.rpy:349
 msgid "Может, ещё сдам..."
 msgstr "Forse ci arrenderò..."
 
-#    # game/dialogues/anntalk.rpy:349
+    # game/dialogues/anntalk.rpy:349
 msgid "Если сделаешь кое-что, то и не сдам..."
 msgstr "Se fai qualcosa, non ci arrenderai..."
 
-#    # game/dialogues/anntalk.rpy:360
+    # game/dialogues/anntalk.rpy:360
 msgid "Да я пошутил..."
 msgstr "Sì, stavo scherzando..."
 
-#    # game/dialogues/anntalk.rpy:360
+    # game/dialogues/anntalk.rpy:360
 msgid "Извини..."
 msgstr "Scusa..."
 
-#    # game/dialogues/anntalk.rpy:360
+    # game/dialogues/anntalk.rpy:360
 msgid "Всё в твоих руках..."
 msgstr "Tutto è nelle tue mani..."
 
-#    # game/dialogues/anntalk.rpy:399
+    # game/dialogues/anntalk.rpy:399
 msgid "Да это не важно..."
 msgstr "Non importa..."
 
-#    # game/dialogues/anntalk.rpy:399
+    # game/dialogues/anntalk.rpy:399
 msgid "Ну, красивая..."
 msgstr "Beh, bellissimo..."
 
-#    # game/dialogues/anntalk.rpy:524
+    # game/dialogues/anntalk.rpy:524
 msgid "Тебе не жарко, мам?"
 msgstr "Non sei calda, mamma?"
 
-#    # game/dialogues/anntalk.rpy:524
+    # game/dialogues/anntalk.rpy:524
 msgid "Продолжай, мам. Я весь во внимании..."
 msgstr "Vai avanti, mamma. Sono tutte orecchie..."
 
-#    # game/dialogues/anntalk.rpy:611
+    # game/dialogues/anntalk.rpy:611
 msgid "..."
 msgstr "..."
 
-#    # game/dialogues/anntalk.rpy:633
+    # game/dialogues/anntalk.rpy:633
 msgid "Давай ещё?! Ты такая классная!"
 msgstr "Dai?! Sei così figo!"
 
-#    # game/dialogues/anntalk.rpy:633
+    # game/dialogues/anntalk.rpy:633
 msgid "Конечно, мам! Не скучай..."
 msgstr "Certo, mamma! Non annoiarti..."
 
-#    # game/dialogues/anntalk.rpy:640
+    # game/dialogues/anntalk.rpy:640
 msgid "Хорошо... Я тебя люблю, мам!"
 msgstr "Ok... Ti voglio bene mamma!"
 
-#    # game/dialogues/anntalk.rpy:701
+    # game/dialogues/anntalk.rpy:701
 msgid "{i}перестраховаться (массаж){/i}"
 msgstr "{i}di andare sul sicuro (massaggio){/i}"
 
-#    # game/dialogues/anntalk.rpy:796
+    # game/dialogues/anntalk.rpy:796
 msgid "Мам, хочешь массаж?"
 msgstr "Mamma, vuoi un massaggio?"
 
-#    # game/dialogues/anntalk.rpy:796
+    # game/dialogues/anntalk.rpy:796
 msgid "{i}сидеть и надеяться на лучшее{/i}"
 msgstr "{i}siedono e speriamo per il meglio{/i}"
 
-#    # game/dialogues/anntalk.rpy:823
+    # game/dialogues/anntalk.rpy:823
 msgid "Мам, у тебя полотенце сползает..."
 msgstr "Mamma, il tuo asciugamano sta scivolando..."
 
-#    # game/dialogues/anntalk.rpy:823
+    # game/dialogues/anntalk.rpy:823
 msgid "{i}продолжать массаж{/i} \n"
 "{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
 msgstr "{i}continuare il massaggio{/i} \n"
 "{color=[ch.col]}(Massaggio. Possibilità: [ch.vis]){/color}"
 
-#    # game/dialogues/anntalk.rpy:900
+    # game/dialogues/anntalk.rpy:900
 msgid "{i}попытаться скрыть стояк{/i} \n"
 "{color=[ch.col]}(Скрытность. Шанс: [ch.vis]){/color}"
 msgstr "{i}prova a nascondere riser{/i} \n"

@@ -164,35 +164,37 @@ msgstr "[Max_00]Alcune \"opportunità\" sono temporanee. Alcuni possono portare 
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
 msgstr "[Max_04]Ma non dovresti aver paura di loro. È grazie alle \"opportunità\" che puoi realizzare qualcosa che alcuni non sognano nemmeno![nointeract]"
 
-## # translate crowdin strings:#    # game/script.rpy:37
+translate crowdin strings:
+
+# game/script.rpy:37
 msgid "{i}далее{/i}"
 msgstr "{i}successivo{/i}"
 
-#    # game/script.rpy:37
+    # game/script.rpy:37
 msgid "{i}пропустить{/i}"
 msgstr "{i}skip{/i}"
 
-#    # game/script.rpy:81
+    # game/script.rpy:81
 msgid "{i}пару недель спустя...{/i}"
 msgstr "{i}un paio di settimane dopo... {/i}"
 
-#    # game/script.rpy:97
+    # game/script.rpy:97
 msgid "{i}спустя неделю...{/i}"
 msgstr "{i}una settimana dopo... {/i}"
 
-#    # game/script.rpy:103
+    # game/script.rpy:103
 msgid "{i}Начать игру{/i}"
 msgstr "{i}Avvia gioco{/i}"
 
-#    # game/script.rpy:103
+    # game/script.rpy:103
 msgid "{i}Повторить историю{/i}"
 msgstr "{i}Ripeti cronologia{/i}"
 
-#    # game/script.rpy:120
+    # game/script.rpy:120
 msgid "{i}всё ясно{/i}"
 msgstr "{i}tutto è chiaro{/i}"
 
-#    # game/script.rpy:120
+    # game/script.rpy:120
 msgid "{i}повторить{/i}"
 msgstr "{i}ripetere{/i}"
 

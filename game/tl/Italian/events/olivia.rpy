@@ -852,29 +852,31 @@ msgstr "[Olivia_01]Buonanotte a tutti..."
 msgid "[Max_01]Приятных снов."
 msgstr "[Max_01]sogni piacevoli."
 
-## # translate crowdin strings:#    # game/events/olivia.rpy:35
+translate crowdin strings:
+
+# game/events/olivia.rpy:35
 msgid "{i}подсмотреть\n"
 "{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
 msgstr "{i}spy\n"
 "{color=[ch1.col]}(Stealth: Chance: [ch1.vis]){/color}{/i}"
 
-#    # game/events/olivia.rpy:91
+    # game/events/olivia.rpy:91
 msgid "{i}дождаться девчонок{/i}"
 msgstr "{i}aspettare le ragazze{/i}"
 
-#    # game/events/olivia.rpy:175
+    # game/events/olivia.rpy:175
 msgid "Конечно с вами!"
 msgstr "Naturalmente con te!"
 
-#    # game/events/olivia.rpy:283
+    # game/events/olivia.rpy:283
 msgid "Я с вами!"
 msgstr "Sono con te!"
 
-#    # game/events/olivia.rpy:369
+    # game/events/olivia.rpy:369
 msgid "{i}раздеться и сесть рядом{/i}"
 msgstr "{i}spogliati e siediti accanto a{/i}"
 
-#    # game/events/olivia.rpy:613
+    # game/events/olivia.rpy:613
 msgid "{i}идти в свою комнату{/i}"
 msgstr "{i}vai nella tua stanza{/i}"
 

@@ -1472,307 +1472,309 @@ msgstr "[Max_01]Sì, grazie per il consiglio!"
 msgid "[Max_09]{i}( Если я буду проводить с мамой больше времени вместе, то может быть и от Эрика будет не так уж сложно избавиться?! Главное, не вести себя по идиотски с ней... И про сестёр нужно не забывать, хорошие и доверительные отношения с ними тоже могут мне помочь. По-моему, мама каждое утро занимается йогой. Пожалуй, стоит попробовать составить ей компанию... ){/i}"
 msgstr "[Max_09]{i}(Se passo più tempo con mia madre insieme, potrebbe non essere così difficile sbarazzarsi di Eric?! La cosa principale è non comportarsi in modo idiota con lei ... E non dobbiamo dimenticare le sorelle, un rapporto buono e fiducioso con loro può anche aiutarmi. Penso che mia madre faccia yoga ogni mattina. Forse dovresti cercare di farle compagnia...) {/i}"
 
-## # translate crowdin strings:#    # game/dialogues/kiratalk.rpy:11
+translate crowdin strings:
+
+# game/dialogues/kiratalk.rpy:11
 msgid "{i}Ой, в другой раз...{/i}"
 msgstr "{i}Oh, un'altra volta... {/i}"
 
-#    # game/dialogues/kiratalk.rpy:37
+    # game/dialogues/kiratalk.rpy:37
 msgid "О... Да, было бы супер!"
 msgstr "Circa... Sì, sarebbe fantastico!"
 
-#    # game/dialogues/kiratalk.rpy:37
+    # game/dialogues/kiratalk.rpy:37
 msgid "Ну, я не знаю..."
 msgstr "Beh, io non lo so..."
 
-#    # game/dialogues/kiratalk.rpy:40
+    # game/dialogues/kiratalk.rpy:40
 msgid "Извини, тётя Кира..."
 msgstr "Mi dispiace, zia Kira..."
 
-#    # game/dialogues/kiratalk.rpy:40
+    # game/dialogues/kiratalk.rpy:40
 msgid "Просто я отвлёкся..."
 msgstr "Sono solo distratto..."
 
-#    # game/dialogues/kiratalk.rpy:57
+    # game/dialogues/kiratalk.rpy:57
 msgid "Да я и не скрываю..."
 msgstr "E non mi nascondo..."
 
-#    # game/dialogues/kiratalk.rpy:64
+    # game/dialogues/kiratalk.rpy:64
 msgid "Что?!"
 msgstr "A cosa?!"
 
-#    # game/dialogues/kiratalk.rpy:64
+    # game/dialogues/kiratalk.rpy:64
 msgid "Откуда ты знаешь, что..."
 msgstr "Come fai a saperlo..."
 
-#    # game/dialogues/kiratalk.rpy:76
+    # game/dialogues/kiratalk.rpy:76
 msgid "{i}снять напряжение{/i}"
 msgstr "{i}alleviare la tensione{/i}"
 
-#    # game/dialogues/kiratalk.rpy:96
+    # game/dialogues/kiratalk.rpy:96
 msgid "Есть!"
 msgstr "Mangiare!"
 
-#    # game/dialogues/kiratalk.rpy:96
+    # game/dialogues/kiratalk.rpy:96
 msgid "Нет..."
 msgstr "No..."
 
-#    # game/dialogues/kiratalk.rpy:99
+    # game/dialogues/kiratalk.rpy:99
 msgid "Ты права, нет девушки..."
 msgstr "Hai ragione, non c'è nessuna ragazza..."
 
-#    # game/dialogues/kiratalk.rpy:118
+    # game/dialogues/kiratalk.rpy:118
 msgid "Что ты, всё хорошо!"
 msgstr "Che tu, tutto va bene!"
 
-#    # game/dialogues/kiratalk.rpy:118
+    # game/dialogues/kiratalk.rpy:118
 msgid "Меня всё устраивает..."
 msgstr "Sto bene con quello..."
 
-#    # game/dialogues/kiratalk.rpy:130
+    # game/dialogues/kiratalk.rpy:130
 msgid "Верно..."
 msgstr "Fedelmente..."
 
-#    # game/dialogues/kiratalk.rpy:130
+    # game/dialogues/kiratalk.rpy:130
 msgid "И что ты ей скажешь?"
 msgstr "E cosa le dici?"
 
-#    # game/dialogues/kiratalk.rpy:140
+    # game/dialogues/kiratalk.rpy:140
 msgid "Не надо прикрываться!"
 msgstr "Non c'è bisogno di nascondersi dietro!"
 
-#    # game/dialogues/kiratalk.rpy:140
+    # game/dialogues/kiratalk.rpy:140
 msgid "Пожалуй, я пойду..."
 msgstr "Immagino che andrò..."
 
-#    # game/dialogues/kiratalk.rpy:150
+    # game/dialogues/kiratalk.rpy:150
 msgid "{i}кончить{/i}"
 msgstr "{i}cum{/i}"
 
-#    # game/dialogues/kiratalk.rpy:167
+    # game/dialogues/kiratalk.rpy:167
 msgid "Сегодня точно всё в порядке!"
 msgstr "Oggi tutto è decisamente in ordine!"
 
-#    # game/dialogues/kiratalk.rpy:167
+    # game/dialogues/kiratalk.rpy:167
 msgid "Да я не могу ни о чём думать, когда тут такое..."
 msgstr "Non riesco a pensare a nulla quando c'è questo..."
 
-#    # game/dialogues/kiratalk.rpy:180
+    # game/dialogues/kiratalk.rpy:180
 msgid "Вот именно!"
 msgstr "Esattamente!"
 
-#    # game/dialogues/kiratalk.rpy:180
+    # game/dialogues/kiratalk.rpy:180
 msgid "Нет, тебе показалось..."
 msgstr "No, hai pensato..."
 
-#    # game/dialogues/kiratalk.rpy:183
+    # game/dialogues/kiratalk.rpy:183
 msgid "{i}рассказать всю правду про Эрика{/i}"
 msgstr "{i}dire tutta la verità su Eric{/i}"
 
-#    # game/dialogues/kiratalk.rpy:188
+    # game/dialogues/kiratalk.rpy:188
 msgid "Ну ладно... {i}Рассказать всю правду про Эрика{/i}"
 msgstr "Ok... {i}Dire tutta la verità su Eric{/i}"
 
-#    # game/dialogues/kiratalk.rpy:192
+    # game/dialogues/kiratalk.rpy:192
 msgid "Чем ты пользовалась?"
 msgstr "Cosa hai usato?"
 
-#    # game/dialogues/kiratalk.rpy:192
+    # game/dialogues/kiratalk.rpy:192
 msgid "Я говорю правду!"
 msgstr "Sto dicendo la verità!"
 
-#    # game/dialogues/kiratalk.rpy:216
+    # game/dialogues/kiratalk.rpy:216
 msgid "А можно что-то ещё?"
 msgstr "Puoi fare qualcos'altro?"
 
-#    # game/dialogues/kiratalk.rpy:216
+    # game/dialogues/kiratalk.rpy:216
 msgid "Для начала только целоваться!"
 msgstr "Basta baciare per cominciare!"
 
-#    # game/dialogues/kiratalk.rpy:223
+    # game/dialogues/kiratalk.rpy:223
 msgid "Мама не помогла..."
 msgstr "La mamma non ha aiutato..."
 
-#    # game/dialogues/kiratalk.rpy:223
+    # game/dialogues/kiratalk.rpy:223
 msgid "Да, Алиса меня отшила..."
 msgstr "Sì, Alice mi ha cucito via..."
 
-#    # game/dialogues/kiratalk.rpy:233
+    # game/dialogues/kiratalk.rpy:233
 msgid "Договорились!"
 msgstr "Fatto!"
 
-#    # game/dialogues/kiratalk.rpy:233
+    # game/dialogues/kiratalk.rpy:233
 msgid "Хорошо! А ты только этому учишь?"
 msgstr "Ok! È questo che stai insegnando?"
 
-#    # game/dialogues/kiratalk.rpy:258
+    # game/dialogues/kiratalk.rpy:258
 msgid "Кто же вечером порядок наводит?"
 msgstr "Chi porta ordine la sera?"
 
-#    # game/dialogues/kiratalk.rpy:258
+    # game/dialogues/kiratalk.rpy:258
 msgid "Ну, твои руки не как у горничной..."
 msgstr "Beh, le tue mani non sono come quella di una cameriera..."
 
-#    # game/dialogues/kiratalk.rpy:268
+    # game/dialogues/kiratalk.rpy:268
 msgid "А кем тогда?"
 msgstr "E chi allora?"
 
-#    # game/dialogues/kiratalk.rpy:268
+    # game/dialogues/kiratalk.rpy:268
 msgid "И для чего тебе форма горничной?"
 msgstr "E perché hai bisogno di un'uniforme da cameriera?"
 
-#    # game/dialogues/kiratalk.rpy:279
+    # game/dialogues/kiratalk.rpy:279
 msgid "И что это за фильм?"
 msgstr "E che tipo di film è questo?"
 
-#    # game/dialogues/kiratalk.rpy:393
+    # game/dialogues/kiratalk.rpy:393
 msgid "Ещё нет..."
 msgstr "Non ancora..."
 
-#    # game/dialogues/kiratalk.rpy:393
+    # game/dialogues/kiratalk.rpy:393
 msgid "Ага, он у меня!"
 msgstr "Sì, ce l'ho!"
 
-#    # game/dialogues/kiratalk.rpy:396
+    # game/dialogues/kiratalk.rpy:396
 msgid "Всё понял..."
 msgstr "Ho capito tutto..."
 
-#    # game/dialogues/kiratalk.rpy:423
+    # game/dialogues/kiratalk.rpy:423
 msgid "{i}подарить сорочку{/i}"
 msgstr "{i}regala una camicia{/i}"
 
-#    # game/dialogues/kiratalk.rpy:441
+    # game/dialogues/kiratalk.rpy:441
 msgid "Да, сделаем сперва снимок, будто ты только-только проснулась..."
 msgstr "Sì, facciamo prima una foto, come se ti fossi appena svegliato..."
 
-#    # game/dialogues/kiratalk.rpy:441
+    # game/dialogues/kiratalk.rpy:441
 msgid "Ты уже проснулась и решила красиво потянуться..."
 msgstr "Ti sei già svegliato e hai deciso di allungare magnificamente..."
 
-#    # game/dialogues/kiratalk.rpy:468
+    # game/dialogues/kiratalk.rpy:468
 msgid "Просто повернись в сторону окна..."
 msgstr "Basta girare verso la finestra..."
 
-#    # game/dialogues/kiratalk.rpy:468
+    # game/dialogues/kiratalk.rpy:468
 msgid "Немного привстань, а остальное за мной..."
 msgstr "Alzati un po' e il resto sta a me..."
 
-#    # game/dialogues/kiratalk.rpy:494
+    # game/dialogues/kiratalk.rpy:494
 msgid "Сделаем снимок не для портфолио в монастырь..."
 msgstr "Facciamo una foto non per un portfolio nel monastero..."
 
-#    # game/dialogues/kiratalk.rpy:494
+    # game/dialogues/kiratalk.rpy:494
 msgid "Переходим с дивана к столу..."
 msgstr "Passando dal divano al tavolo..."
 
-#    # game/dialogues/kiratalk.rpy:527
+    # game/dialogues/kiratalk.rpy:527
 msgid "Хотя, я знаю, как он станет ещё лучше..."
 msgstr "Anche se, so come andrà ancora meglio..."
 
-#    # game/dialogues/kiratalk.rpy:548
+    # game/dialogues/kiratalk.rpy:548
 msgid "Пора показать класс, тётя Кира!"
 msgstr "È tempo di mostrare alla classe, zia Kira!"
 
-#    # game/dialogues/kiratalk.rpy:548
+    # game/dialogues/kiratalk.rpy:548
 msgid "Может, сразу удивишь меня чем-нибудь?"
 msgstr "Forse mi sorprenderai subito con qualcosa?"
 
-#    # game/dialogues/kiratalk.rpy:656
+    # game/dialogues/kiratalk.rpy:656
 msgid "{i}кончить!{/i}"
 msgstr "{i}cum! {/i}"
 
-#    # game/dialogues/kiratalk.rpy:687
+    # game/dialogues/kiratalk.rpy:687
 msgid "Нет, я не забыл... были дела с Лизой."
 msgstr "No, non l'ho dimenticato... c'erano cose con Lisa."
 
-#    # game/dialogues/kiratalk.rpy:687
+    # game/dialogues/kiratalk.rpy:687
 msgid "Нет, просто были дела с Алисой."
 msgstr "No, c'erano solo affari con Alice."
 
-#    # game/dialogues/kiratalk.rpy:728
+    # game/dialogues/kiratalk.rpy:728
 msgid "Всё, что угодно!"
 msgstr "Vabbè!"
 
-#    # game/dialogues/kiratalk.rpy:728
+    # game/dialogues/kiratalk.rpy:728
 msgid "Особая? Это какая?"
 msgstr "Speciale? Cos'è?"
 
-#    # game/dialogues/kiratalk.rpy:751
+    # game/dialogues/kiratalk.rpy:751
 msgid "{i}подсмотреть за Кирой{/i}"
 msgstr "{i}spia kira{/i}"
 
-#    # game/dialogues/kiratalk.rpy:818
+    # game/dialogues/kiratalk.rpy:818
 msgid "{i}крепко привязать Киру{/i}"
 msgstr "{i}legare strettamente Kira{/i}"
 
-#    # game/dialogues/kiratalk.rpy:826
+    # game/dialogues/kiratalk.rpy:826
 msgid "{i}раздеться и поиграть с её грудью{/i}"
 msgstr "{i}spogliarsi e giocare con il seno{/i}"
 
-#    # game/dialogues/kiratalk.rpy:826
+    # game/dialogues/kiratalk.rpy:826
 msgid "{i}раздеться и дать ей пососать свой член{/i}"
 msgstr "{i}spogliarsi e lasciarla succhiare il suo cazzo{/i}"
 
-#    # game/dialogues/kiratalk.rpy:838
+    # game/dialogues/kiratalk.rpy:838
 msgid "А вот это вряд ли! (дать ей пососать свой член)"
 msgstr "Ma è improbabile! (lasciala succhiare il suo cazzo)"
 
-#    # game/dialogues/kiratalk.rpy:859
+    # game/dialogues/kiratalk.rpy:859
 msgid "{i}ласкать её киску языком{/i}"
 msgstr "{i}accarezzarla con la lingua{/i}"
 
-#    # game/dialogues/kiratalk.rpy:859
+    # game/dialogues/kiratalk.rpy:859
 msgid "{i}проникнуть в её киску пальцами{/i}"
 msgstr "{i}penetrarla con le dita{/i}"
 
-#    # game/dialogues/kiratalk.rpy:865
+    # game/dialogues/kiratalk.rpy:865
 msgid "{i}активнее работать языком и губами{/i}"
 msgstr "{i}lavorare più attivamente con la lingua e le labbra{/i}"
 
-#    # game/dialogues/kiratalk.rpy:872
+    # game/dialogues/kiratalk.rpy:872
 msgid "{i}тереться членом о её киску{/i}"
 msgstr "{i}strofinando il suo contro la sua figa{/i}"
 
-#    # game/dialogues/kiratalk.rpy:878
+    # game/dialogues/kiratalk.rpy:878
 msgid "{i}трахать её пальцами{/i}"
 msgstr "{i}scopare con le dita{/i}"
 
-#    # game/dialogues/kiratalk.rpy:884
+    # game/dialogues/kiratalk.rpy:884
 msgid "{i}медленно проникнуть в неё членом{/i}"
 msgstr "{i}penetrarlo lentamente con un membro{/i}"
 
-#    # game/dialogues/kiratalk.rpy:923
+    # game/dialogues/kiratalk.rpy:923
 msgid "{i}трахать тётю Киру{/i}"
 msgstr "{i}cazzo zia Kira{/i}"
 
-#    # game/dialogues/kiratalk.rpy:932
+    # game/dialogues/kiratalk.rpy:932
 msgid "{i}ускориться{/i}"
 msgstr "{i}accelerare{/i}"
 
-#    # game/dialogues/kiratalk.rpy:939
+    # game/dialogues/kiratalk.rpy:939
 msgid "{i}кончить Кире на живот{/i}"
 msgstr "{i}Kira sullo stomaco{/i}"
 
-#    # game/dialogues/kiratalk.rpy:952
+    # game/dialogues/kiratalk.rpy:952
 msgid "{i}развязать Киру{/i}"
 msgstr "{i}scatenare Kira{/i}"
 
-#    # game/dialogues/kiratalk.rpy:1008
+    # game/dialogues/kiratalk.rpy:1008
 msgid "Но это моя семья! \n"
 "{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
 msgstr "Ma questa è la mia famiglia! \n"
 "{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
 
-#    # game/dialogues/kiratalk.rpy:1030
+    # game/dialogues/kiratalk.rpy:1030
 msgid "Я же не из корыстных целей это спрашиваю! Я хочу ей помочь... \n"
 "{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
 msgstr "Non lo sto chiedendo per scopi egoistici! Voglio aiutarla... \n"
 "{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
 
-#    # game/dialogues/kiratalk.rpy:1053
+    # game/dialogues/kiratalk.rpy:1053
 msgid "Так ты бросила там мою маму?"
 msgstr "Quindi hai lasciato mia madre lì?"
 
-#    # game/dialogues/kiratalk.rpy:1053
+    # game/dialogues/kiratalk.rpy:1053
 msgid "Тебе удалось сбежать?"
 msgstr "Sei riuscito a fuggire?"
 

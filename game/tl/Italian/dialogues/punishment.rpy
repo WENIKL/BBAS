@@ -552,127 +552,129 @@ msgstr "[Ann_12]Quindi, questo è tutto, indossa i pantaloncini. Spero che tu ab
 msgid "[Ann_12]Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
 msgstr "[Ann_12]Beh, hai imparato una lezione? Vergognoso? Corretto. Dovrebbe essere un peccato. Speriamo che questo non accada di nuovo. Ora, vestiti..."
 
-## # translate crowdin strings:#    # game/dialogues/punishment.rpy:169
+translate crowdin strings:
+
+# game/dialogues/punishment.rpy:169
 msgid "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
 msgstr "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
 
-#    # game/dialogues/punishment.rpy:171
+    # game/dialogues/punishment.rpy:171
 msgid "Ну, я оказался случайно рядом с душем, где мылась Алиса..."
 msgstr "Beh, mi è capitato di essere vicino alla doccia dove Alice si stava lavando..."
 
-#    # game/dialogues/punishment.rpy:173
+    # game/dialogues/punishment.rpy:173
 msgid "Ну, я подглядывал за тобой, мам..."
 msgstr "Beh, ti stavo spiando, mamma..."
 
-#    # game/dialogues/punishment.rpy:175
+    # game/dialogues/punishment.rpy:175
 msgid "Ну, я подглядывал за вами с Эриком..."
 msgstr "Beh, stavo spiando te ed Eric..."
 
-#    # game/dialogues/punishment.rpy:177
+    # game/dialogues/punishment.rpy:177
 msgid "Ну, я плохо себя вёл..."
 msgstr "Beh, mi sono comportato male..."
 
-#    # game/dialogues/punishment.rpy:223
+    # game/dialogues/punishment.rpy:223
 msgid "Я же не виноват! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
 msgstr "Non è colpa mia! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
-#    # game/dialogues/punishment.rpy:238
+    # game/dialogues/punishment.rpy:238
 msgid "штаны"
 msgstr "pantaloni"
 
-#    # game/dialogues/punishment.rpy:240
+    # game/dialogues/punishment.rpy:240
 msgid "шорты"
 msgstr "calzoncini"
 
-#    # game/dialogues/punishment.rpy:241
+    # game/dialogues/punishment.rpy:241
 msgid "{i}снять штаны{/i}"
 msgstr "{i}togliermi i pantaloni{/i}"
 
-#    # game/dialogues/punishment.rpy:263
+    # game/dialogues/punishment.rpy:263
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Лизой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
 msgstr "Se non lo sai, Max sarà punito per aver spiato Lisa. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
 
-#    # game/dialogues/punishment.rpy:263
+    # game/dialogues/punishment.rpy:263
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
 msgstr "Se non lo sai, Max sarà punito per aver spiato Alice. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
 
-#    # game/dialogues/punishment.rpy:263
+    # game/dialogues/punishment.rpy:263
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
 msgstr "Se non lo sai, Max sarà punito per avermi spiato. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
 
-#    # game/dialogues/punishment.rpy:263
+    # game/dialogues/punishment.rpy:263
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной... с Эриком. Я уже предупреждала, что такое недопустимо!"
 msgstr "Se non lo sai, Max sarà punito per avermi spiato... con Eric. Ho già avvertito che questo è inaccettabile!"
 
-#    # game/dialogues/punishment.rpy:263
+    # game/dialogues/punishment.rpy:263
 msgid "Если вы не в курсе, Макс будет наказан за своё отвратительное поведение. Надеюсь, теперь ты будешь хорошенько думать о том, что делаешь и что говоришь!"
 msgstr "Se non lo sai, Max sarà punito per il suo comportamento disgustoso. Spero che ora rifletterete attentamente su ciò che state facendo e su ciò che state dicendo!"
 
-#    # game/dialogues/punishment.rpy:263
+    # game/dialogues/punishment.rpy:263
 msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой в душе и, возможно, даже подбросил туда паука. Ты знаешь, что такое я не потерплю!"
 msgstr "Se non lo sai, Max sarà punito per aver spiato Alice sotto la doccia e forse anche per aver gettato lì un ragno. Sai cosa non posso tollerare!"
 
-#    # game/dialogues/punishment.rpy:295
+    # game/dialogues/punishment.rpy:295
 msgid "{i}раздеться{/i}"
 msgstr "{i}spogliarsi{/i}"
 
-#    # game/dialogues/punishment.rpy:300
+    # game/dialogues/punishment.rpy:300
 msgid "{i}снять шорты{/i}"
 msgstr "{i}togliermi i pantaloncini{/i}"
 
-#    # game/dialogues/punishment.rpy:399
+    # game/dialogues/punishment.rpy:399
 msgid "Ближе подходи, Лиза. И да, снимай штаны, ты заслужила!"
 msgstr "Avvicinati, Lisa. E sì, togliti i pantaloni, te lo meriti!"
 
-#    # game/dialogues/punishment.rpy:401
+    # game/dialogues/punishment.rpy:401
 msgid "Ближе подходи, Лиза. И да, снимай свой халат, ты заслужила!"
 msgstr "Avvicinati, Lisa. E sì, togliti la veste, te lo meriti!"
 
-#    # game/dialogues/punishment.rpy:406
+    # game/dialogues/punishment.rpy:406
 msgid "{i}Заступиться за Лизу {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}{/i}"
 msgstr "{i}Alzati in piedi per Lisa {color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}{/i}"
 
-#    # game/dialogues/punishment.rpy:429
+    # game/dialogues/punishment.rpy:429
 msgid "Быстро снимай штаны!"
 msgstr "Togliti i pantaloni velocemente!"
 
-#    # game/dialogues/punishment.rpy:431
+    # game/dialogues/punishment.rpy:431
 msgid "Быстро снимай халат!"
 msgstr "Rimuovi rapidamente la veste!"
 
-#    # game/dialogues/punishment.rpy:446
+    # game/dialogues/punishment.rpy:446
 msgid "Теперь ложись, и побыстрее, все есть хотят..."
 msgstr "Ora sdraiati e, rapidamente, tutti vogliono mangiare..."
 
-#    # game/dialogues/punishment.rpy:449
+    # game/dialogues/punishment.rpy:449
 msgid "Что прикрываешься, Лиза? Стесняешься? Стыдно? Вот и хорошо... А теперь ложись на мои колени. Быстро!"
 msgstr "Cosa ti nascondi dietro, Lisa? Vergognoso? Vergognoso? Va bene... Ora sdraiati sulle mie ginocchia. Presto!"
 
-#    # game/dialogues/punishment.rpy:506
+    # game/dialogues/punishment.rpy:506
 msgid "Говоришь тебе, говоришь, все как об стенку горох..."
 msgstr "Tu dici, tu dici, è come un muro di piselli..."
 
-#    # game/dialogues/punishment.rpy:512
+    # game/dialogues/punishment.rpy:512
 msgid "Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь!"
 msgstr "Sorprendentemente! Anche Max ti aiuta, e tu afferri i deuces!"
 
-#    # game/dialogues/punishment.rpy:566
+    # game/dialogues/punishment.rpy:566
 msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
 msgstr "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloni e si sdraiò sulle mie ginocchia, a cui raccontò!"
 
-#    # game/dialogues/punishment.rpy:568
+    # game/dialogues/punishment.rpy:568
 msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
 msgstr "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloncini e si sdraiò sulle mie ginocchia, che lei raccontò!"
 
-#    # game/dialogues/punishment.rpy:572
+    # game/dialogues/punishment.rpy:572
 msgid "{i}Заступиться за Алису {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}{/i}"
 msgstr "{i}Intercede for Alice {color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}{/i}"
 
-#    # game/dialogues/punishment.rpy:631
+    # game/dialogues/punishment.rpy:631
 msgid "Теперь ложись побыстрее, ужин стынет..."
 msgstr "Ora vai a letto velocemente, la cena è asciutta..."
 
-#    # game/dialogues/punishment.rpy:634
+    # game/dialogues/punishment.rpy:634
 msgid "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
 msgstr "Bene, Alice, ti vergogni? Silenzioso? Pensa al tuo atto mentre io ti punisco davanti a tutti... Sdraiati sulle mie ginocchia!"
 

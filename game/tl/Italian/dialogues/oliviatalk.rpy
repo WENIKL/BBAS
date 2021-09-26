@@ -504,19 +504,21 @@ msgstr "[Olivia_06]Come?! Non rimarrai con noi? Miseramente..."
 msgid "[Max_01]Мне тоже. Не скучайте."
 msgstr "[Max_01]anche a me. Non annoiarti."
 
-## # translate crowdin strings:#    # game/dialogues/oliviatalk.rpy:11
+translate crowdin strings:
+
+# game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgstr "Anche se, no... In realtà ho cose da fare..."
 
-#    # game/dialogues/oliviatalk.rpy:253
+    # game/dialogues/oliviatalk.rpy:253
 msgid "Давай перенесём..."
 msgstr "Spostiamoci..."
 
-#    # game/dialogues/oliviatalk.rpy:253
+    # game/dialogues/oliviatalk.rpy:253
 msgid "Тогда приятного вам просмотра..."
 msgstr "Allora goditi la tua visione..."
 
-#    # game/dialogues/oliviatalk.rpy:256
+    # game/dialogues/oliviatalk.rpy:256
 msgid "{i}идти в гостиную{/i}"
 msgstr "{i}vai in salotto{/i}"
 

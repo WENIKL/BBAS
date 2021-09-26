@@ -368,27 +368,29 @@ msgstr "[Max_09]{i}(Tutto è chiaro con te, Alice si è seduta sul collo di Eric
 msgid "[Max_08]{i}( Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю... ){/i}"
 msgstr "[Max_08]{i}(Eric è nella stanza di Alice oggi. Sembra che stia cercando di aiutare con il blog ... Ma in realtà, a fissare Alice in lingerie, lo so per me stesso... ) {/i}"
 
-## # translate crowdin strings:#    # game/events/alice_cam.rpy:56
+translate crowdin strings:
+
+# game/events/alice_cam.rpy:56
 msgid "{i}Конечно{/i}"
 msgstr "{i}Certo{/i}"
 
-#    # game/events/alice_cam.rpy:72
+    # game/events/alice_cam.rpy:72
 msgid "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
 msgstr "{i}Prendi una macchina fotografica e vai alla finestra di Alice {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
 
-#    # game/events/alice_cam.rpy:72
+    # game/events/alice_cam.rpy:72
 msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
 msgstr "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
 
-#    # game/events/alice_cam.rpy:83
+    # game/events/alice_cam.rpy:83
 msgid "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
 msgstr "{i}Prendi una macchina fotografica e vai sul balcone {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
 
-#    # game/events/alice_cam.rpy:327
+    # game/events/alice_cam.rpy:327
 msgid "{i}продолжать смотреть{/i}"
 msgstr "{i}continua a guardare{/i}"
 
-#    # game/events/alice_cam.rpy:327
+    # game/events/alice_cam.rpy:327
 msgid "{i}достаточно{/i}"
 msgstr "{i}abbastanza{/i}"
 
