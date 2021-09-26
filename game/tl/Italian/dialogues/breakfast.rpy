@@ -3,8 +3,8 @@
 # game/dialogues/breakfast.rpy:12
 translate crowdin typical_breakfast_32286f7d:
 
-msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
-msgstr "[Ann_00]Buongiorno a tutti ancora una volta, buon appetito a tutti! Facciamo uno spuntino in silenzio oggi, se non ti dispiace...[nointeract]"
+msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете..." nointeract
+msgstr "[Ann_00]Buongiorno a tutti ancora una volta, buon appetito a tutti! Facciamo uno spuntino in silenzio oggi, se non ti dispiace..." nointeract
 
 # game/dialogues/breakfast.rpy:15
 translate crowdin typical_breakfast_1211a2f4:
@@ -39,92 +39,92 @@ msgstr "[Ann_07]Beh, ragazzi, come vivete in un posto nuovo? Come hai dormito la
 # game/dialogues/breakfast.rpy:26
 translate crowdin breakfast_first_6ac209bf:
 
-msgid "[Alice_07]Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная...[nointeract]"
-msgstr "[Alice_07]Semplicemente non ci sono parole! Dopo quel nostro appartamento in affitto, è una specie di paradiso! E che letto comodo...[nointeract]"
+msgid "[Alice_07]Просто нет слов! После той нашей съёмной квартиры это какой-то рай! А кровать какая удобная..." nointeract
+msgstr "[Alice_07]Semplicemente non ci sono parole! Dopo quel nostro appartamento in affitto, è una specie di paradiso! E che letto comodo..." nointeract
 
 # game/dialogues/breakfast.rpy:29
 translate crowdin breakfast_first_494e7581:
 
-msgid "[Ann_12]Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно...[nointeract]"
-msgstr "[Ann_12]Sì, anch'io sono preoccupato per questo problema. Ma al mio nuovo lavoro, mi promettono un ottimo stipendio. Forse non è tutto male. A proposito, non è necessario pagare per l'elettricità...[nointeract]"
+msgid "[Ann_12]Да, меня тоже этот вопрос беспокоит. Но на новой работе мне обещают очень хорошую зарплату. Может быть, не всё так плохо. Кстати, за электричество платить не нужно..." nointeract
+msgstr "[Ann_12]Sì, anch'io sono preoccupato per questo problema. Ma al mio nuovo lavoro, mi promettono un ottimo stipendio. Forse non è tutto male. A proposito, non è necessario pagare per l'elettricità..." nointeract
 
 # game/dialogues/breakfast.rpy:36
 translate crowdin breakfast_first_02490cba:
 
-msgid "[Lisa_01]А вдруг, нигде не кидают? Хотя я папу и не помню, но мне кажется, что никто не стал бы дарить целый дом только чтобы как-то кинуть...[nointeract]"
-msgstr "[Lisa_01]E all'improvviso, non buttano da nessuna parte? Anche se non ricordo mio padre, mi sembra che nessuno darebbe un'intera casa solo per gettare in qualche modo...[nointeract]"
+msgid "[Lisa_01]А вдруг, нигде не кидают? Хотя я папу и не помню, но мне кажется, что никто не стал бы дарить целый дом только чтобы как-то кинуть..." nointeract
+msgstr "[Lisa_01]E all'improvviso, non buttano da nessuna parte? Anche se non ricordo mio padre, mi sembra che nessuno darebbe un'intera casa solo per gettare in qualche modo..." nointeract
 
 # game/dialogues/breakfast.rpy:45
 translate crowdin breakfast_first_3acfb325:
 
-msgid "[Lisa_03]Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую...[nointeract]"
-msgstr "[Lisa_03]È perché tu ed io abbiamo i nostri vecchi letti. Hai dimenticato? A proposito, mi piace il mio. Non voglio nemmeno cambiarlo in uno nuovo...[nointeract]"
+msgid "[Lisa_03]Это потому, что у нас с тобой наши старые кровати. Ты забыл? Кстати, мне нравится моя. Даже не хочу менять её на новую..." nointeract
+msgstr "[Lisa_03]È perché tu ed io abbiamo i nostri vecchi letti. Hai dimenticato? A proposito, mi piace il mio. Non voglio nemmeno cambiarlo in uno nuovo..." nointeract
 
 # game/dialogues/breakfast.rpy:48
 translate crowdin breakfast_first_54853909:
 
-msgid "[Ann_00]Если что, мебель всегда можно будет купить...[nointeract]"
-msgstr "[Ann_00]Semmai, i mobili possono sempre essere acquistati...[nointeract]"
+msgid "[Ann_00]Если что, мебель всегда можно будет купить..." nointeract
+msgstr "[Ann_00]Semmai, i mobili possono sempre essere acquistati..." nointeract
 
 # game/dialogues/breakfast.rpy:56
 translate crowdin breakfast_first_bf_change_a3dfedbb:
 
-msgid "[Ann_00]Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу.[nointeract]"
-msgstr "[Ann_00]Basta. Cambiamo argomento. Ad esempio, oggi Lisa va in una nuova scuola per la prima volta.[nointeract]"
+msgid "[Ann_00]Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу." nointeract
+msgstr "[Ann_00]Basta. Cambiamo argomento. Ad esempio, oggi Lisa va in una nuova scuola per la prima volta." nointeract
 
 # game/dialogues/breakfast.rpy:59
 translate crowdin breakfast_first_bf_change_44297202:
 
-msgid "[Lisa_02]Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив...[nointeract]"
-msgstr "[Lisa_02]Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Un nuovo posto, una nuova scuola, una nuova squadra...[nointeract]"
+msgid "[Lisa_02]Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив..." nointeract
+msgstr "[Lisa_02]Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Un nuovo posto, una nuova scuola, una nuova squadra..." nointeract
 
 # game/dialogues/breakfast.rpy:62
 translate crowdin breakfast_first_bf_change_76249fd8:
 
-msgid "[Alice_13]Ага, помощник. Самого выгнали, а он учить собрался...[nointeract]"
-msgstr "[Alice_13]sì, aiutante. Fu cacciato e stava per insegnare...[nointeract]"
+msgid "[Alice_13]Ага, помощник. Самого выгнали, а он учить собрался..." nointeract
+msgstr "[Alice_13]sì, aiutante. Fu cacciato e stava per insegnare..." nointeract
 
 # game/dialogues/breakfast.rpy:65
 translate crowdin breakfast_first_bf_change_e252eb97:
 
-msgid "[Alice_06]Да все мы знаем за что тебя выгнали. Но это не значит, что и учился ты хорошо...[nointeract]"
-msgstr "[Alice_06]Sì, sappiamo tutti perché sei stato cacciato. Ma questo non significa che tu abbia studiato bene...[nointeract]"
+msgid "[Alice_06]Да все мы знаем за что тебя выгнали. Но это не значит, что и учился ты хорошо..." nointeract
+msgstr "[Alice_06]Sì, sappiamo tutti perché sei stato cacciato. Ma questo non significa che tu abbia studiato bene..." nointeract
 
 # game/dialogues/breakfast.rpy:74
 translate crowdin breakfast_first_bf_change_f6a0ca75:
 
-msgid "[Alice_06]Ага, знаешь как к учителям приставать. Этому планируешь научить Лизу?[nointeract]"
-msgstr "[Alice_06]sì, sai come molestare gli insegnanti. È questo che hai intenzione di insegnare a Lisa?[nointeract]"
+msgid "[Alice_06]Ага, знаешь как к учителям приставать. Этому планируешь научить Лизу?" nointeract
+msgstr "[Alice_06]sì, sai come molestare gli insegnanti. È questo che hai intenzione di insegnare a Lisa?" nointeract
 
 # game/dialogues/breakfast.rpy:81
 translate crowdin breakfast_first_bf_change_50f154cf:
 
-msgid "[Lisa_01]Ага, деваться то некуда. Кстати, после завтрака я буду уже собираться, в 11 выхожу. А часам к 4 уже вернусь[nointeract]"
-msgstr "[Lisa_01]sì, non c'è nessun posto dove andare. A proposito, dopo colazione mi riunirò, alle 11 uscirò. E alle 4 tornerò[nointeract]"
+msgid "[Lisa_01]Ага, деваться то некуда. Кстати, после завтрака я буду уже собираться, в 11 выхожу. А часам к 4 уже вернусь" nointeract
+msgstr "[Lisa_01]sì, non c'è nessun posto dove andare. A proposito, dopo colazione mi riunirò, alle 11 uscirò. E alle 4 tornerò" nointeract
 
 # game/dialogues/breakfast.rpy:84
 translate crowdin breakfast_first_bf_change_c23566a9:
 
-msgid "[Lisa_02]Нет, не только сегодня. Вообще, уроки короткие в этой школе. Так что, соскучиться не успеете![nointeract]"
-msgstr "[Lisa_02]No, non solo oggi. In generale, le lezioni sono brevi in questa scuola. Quindi, non avrai il tempo di annoiarti![nointeract]"
+msgid "[Lisa_02]Нет, не только сегодня. Вообще, уроки короткие в этой школе. Так что, соскучиться не успеете!" nointeract
+msgstr "[Lisa_02]No, non solo oggi. In generale, le lezioni sono brevi in questa scuola. Quindi, non avrai il tempo di annoiarti!" nointeract
 
 # game/dialogues/breakfast.rpy:93
 translate crowdin breakfast_first_bf_change_73ce3762:
 
-msgid "[Lisa_00]Видимо, после завтрака буду уходить и возвращаться часам к 4-м.[nointeract]"
-msgstr "[Lisa_00]A quanto pare, dopo colazione partirò e tornerò alle 4[nointeract]"
+msgid "[Lisa_00]Видимо, после завтрака буду уходить и возвращаться часам к 4-м." nointeract
+msgstr "[Lisa_00]A quanto pare, dopo colazione partirò e tornerò alle 4" nointeract
 
 # game/dialogues/breakfast.rpy:100
 translate crowdin breakfast_first_bf_change_3b6c15c9:
 
-msgid "[Lisa_03]Нет, представляешь! Говорят, ещё и район хороший. А учимся мы, вообще, всего 4 или 5 часов![nointeract]"
-msgstr "[Lisa_03]No, puoi immaginare! Dicono che anche la zona è buona. E studiamo, in generale, solo 4 o 5 ore![nointeract]"
+msgid "[Lisa_03]Нет, представляешь! Говорят, ещё и район хороший. А учимся мы, вообще, всего 4 или 5 часов!" nointeract
+msgstr "[Lisa_03]No, puoi immaginare! Dicono che anche la zona è buona. E studiamo, in generale, solo 4 o 5 ore!" nointeract
 
 # game/dialogues/breakfast.rpy:108
 translate crowdin breakfast_first_bf_time2_c49cfb24:
 
-msgid "[Lisa_02]Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Правда, про каникулы ничего не знаю...[nointeract]"
-msgstr "[Lisa_02]Beh, abbiamo questa scuola così. Sto bene con quello. Studiamo anche solo cinque giorni alla settimana! Tuttavia, non so nulla delle vacanze...[nointeract]"
+msgid "[Lisa_02]Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Правда, про каникулы ничего не знаю..." nointeract
+msgstr "[Lisa_02]Beh, abbiamo questa scuola così. Sto bene con quello. Studiamo anche solo cinque giorni alla settimana! Tuttavia, non so nulla delle vacanze..." nointeract
 
 # game/dialogues/breakfast.rpy:114
 translate crowdin breakfast_first_bf_time3_dd21def3:
@@ -135,62 +135,62 @@ msgstr "[Lisa_03]Grazie. Cercherò di non delarvi!"
 # game/dialogues/breakfast.rpy:118
 translate crowdin breakfast_first_bf_earn_9ddc6400:
 
-msgid "[Alice_06]Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноуте...[nointeract]"
-msgstr "[Alice_06]sì, quindi come si fa a fare soldi? Non c'è educazione, non si può davvero sapere nulla. Solo a casa ti siedi tutto il tempo nella tua nota...[nointeract]"
+msgid "[Alice_06]Ага, и как же ты заработаешь? Образования нет, ничего толком не умеешь. Только дома сидишь всё время в своём ноуте..." nointeract
+msgstr "[Alice_06]sì, quindi come si fa a fare soldi? Non c'è educazione, non si può davvero sapere nulla. Solo a casa ti siedi tutto il tempo nella tua nota..." nointeract
 
 # game/dialogues/breakfast.rpy:122
 translate crowdin breakfast_first_bf_earn_0aead3d0:
 
-msgid "[Alice_14]Может быть, себя? У меня то хоть свой блог есть, а вот у тебя ни-че-го![nointeract]"
-msgstr "[Alice_14]Forse io? Ho almeno il mio blog, ma tu non hai nulla![nointeract]"
+msgid "[Alice_14]Может быть, себя? У меня то хоть свой блог есть, а вот у тебя ни-че-го!" nointeract
+msgstr "[Alice_14]Forse io? Ho almeno il mio blog, ma tu non hai nulla!" nointeract
 
 # game/dialogues/breakfast.rpy:125
 translate crowdin breakfast_first_bf_earn_9894dee3:
 
-msgid "[Alice_13]Он даёт подписчиков, аудиторию. Когда начну рекламу крутить, то деньги польются рекой![nointeract]"
-msgstr "[Alice_13]Egli dà agli abbonati, un pubblico. Quando comincio a fare pubblicità, il denaro scorrerà come un fiume![nointeract]"
+msgid "[Alice_13]Он даёт подписчиков, аудиторию. Когда начну рекламу крутить, то деньги польются рекой!" nointeract
+msgstr "[Alice_13]Egli dà agli abbonati, un pubblico. Quando comincio a fare pubblicità, il denaro scorrerà come un fiume!" nointeract
 
 # game/dialogues/breakfast.rpy:132
 translate crowdin breakfast_first_bf_earn_a431c924:
 
-msgid "[Alice_13]Ещё нет, но я только набираю аудиторию. А когда придёт время, запущу рекламу и стану богатой![nointeract]"
-msgstr "[Alice_13]Non ancora, ma sto solo guadagnando un pubblico. E quando sarà il momento, inizierò a fare pubblicità e diventerò ricco![nointeract]"
+msgid "[Alice_13]Ещё нет, но я только набираю аудиторию. А когда придёт время, запущу рекламу и стану богатой!" nointeract
+msgstr "[Alice_13]Non ancora, ma sto solo guadagnando un pubblico. E quando sarà il momento, inizierò a fare pubblicità e diventerò ricco!" nointeract
 
 # game/dialogues/breakfast.rpy:139
 translate crowdin breakfast_first_bf_earn_3e84d9e6:
 
-msgid "[Alice_07]Мозги? У тебя?! А кого же из школы тогда выперли? Слишком умный для них был, да?[nointeract]"
-msgstr "[Alice_07]cervelli? Davvero?! E chi è stato cacciato da scuola allora? Troppo intelligente per loro era, eh?[nointeract]"
+msgid "[Alice_07]Мозги? У тебя?! А кого же из школы тогда выперли? Слишком умный для них был, да?" nointeract
+msgstr "[Alice_07]cervelli? Davvero?! E chi è stato cacciato da scuola allora? Troppo intelligente per loro era, eh?" nointeract
 
 # game/dialogues/breakfast.rpy:148
 translate crowdin breakfast_first_bf_earn_f0d53b97:
 
-msgid "[Alice_02]Ага, просиживать штаны ты научишься. Объявлений с предложением работы полно. Выбирай - не хочу.[nointeract]"
-msgstr "[Alice_02]sì, imparerai a sederti attraverso i pantaloni. Le offerte di lavoro sono piene. Non voglio scegliere.[nointeract]"
+msgid "[Alice_02]Ага, просиживать штаны ты научишься. Объявлений с предложением работы полно. Выбирай - не хочу." nointeract
+msgstr "[Alice_02]sì, imparerai a sederti attraverso i pantaloni. Le offerte di lavoro sono piene. Non voglio scegliere." nointeract
 
 # game/dialogues/breakfast.rpy:161
 translate crowdin breakfast_first_bf_earn3_c2b148d6:
 
-msgid "[Alice_13]Я делом занимаюсь. Раскручиваю свой блог, набираю аудиторию. А потом, когда придёт время, начну крутить рекламу и всё![nointeract]"
-msgstr "[Alice_13]sto facendo affari. Promuovo il mio blog, guadagno un pubblico. E poi, quando sarà il momento, inizierò a girare annunci e il gioco è fatto![nointeract]"
+msgid "[Alice_13]Я делом занимаюсь. Раскручиваю свой блог, набираю аудиторию. А потом, когда придёт время, начну крутить рекламу и всё!" nointeract
+msgstr "[Alice_13]sto facendo affari. Promuovo il mio blog, guadagno un pubblico. E poi, quando sarà il momento, inizierò a girare annunci e il gioco è fatto!" nointeract
 
 # game/dialogues/breakfast.rpy:164
 translate crowdin breakfast_first_bf_earn3_c9ee5343:
 
-msgid "[Alice_00]А я и не говорю, что это просто. В любом случае, я хоть чем-то занимаюсь, в отличие, от некоторых...[nointeract]"
-msgstr "[Alice_00]E non sto dicendo che sia facile. In ogni caso, faccio almeno qualcosa, a differenza di alcuni...[nointeract]"
+msgid "[Alice_00]А я и не говорю, что это просто. В любом случае, я хоть чем-то занимаюсь, в отличие, от некоторых..." nointeract
+msgstr "[Alice_00]E non sto dicendo che sia facile. In ogni caso, faccio almeno qualcosa, a differenza di alcuni..." nointeract
 
 # game/dialogues/breakfast.rpy:173
 translate crowdin breakfast_first_bf_earn3_dfce9c3d:
 
-msgid "[Alice_00]А это не важно. Что нужно будет, то и буду рекламировать. А вообще, у меня бьюти-блог![nointeract]"
-msgstr "[Alice_00]Non importa. Ciò che è necessario, farò pubblicità. In generale, ho un blog di bellezza![nointeract]"
+msgid "[Alice_00]А это не важно. Что нужно будет, то и буду рекламировать. А вообще, у меня бьюти-блог!" nointeract
+msgstr "[Alice_00]Non importa. Ciò che è necessario, farò pubblicità. In generale, ho un blog di bellezza!" nointeract
 
 # game/dialogues/breakfast.rpy:182
 translate crowdin breakfast_first_bf_earn3_57ece003:
 
-msgid "[Alice_00]Я не говорила, что у меня миллион подписчиков, но будет. И не один. А вот у тебя вообще ничего нет![nointeract]"
-msgstr "[Alice_00]non ho detto di avere un milione di follower, ma lo farò. E non uno. Ma non hai niente![nointeract]"
+msgid "[Alice_00]Я не говорила, что у меня миллион подписчиков, но будет. И не один. А вот у тебя вообще ничего нет!" nointeract
+msgstr "[Alice_00]non ho detto di avere un milione di follower, ma lo farò. E non uno. Ma non hai niente!" nointeract
 
 # game/dialogues/breakfast.rpy:192
 translate crowdin breakfast_first_bf_roof_75336744:
@@ -201,116 +201,116 @@ msgstr "[Ann_01]Il nostro intero tetto è costituito da pannelli solari. C'è un
 # game/dialogues/breakfast.rpy:193
 translate crowdin breakfast_first_bf_roof_306fdb3a:
 
-msgid "[Lisa_09]Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда.[nointeract]"
-msgstr "[Lisa_09]sì, a proposito, fa molto caldo qui. Non sono ancora abituato a questo clima. D'altra parte, non è così dispiaciuto per i vestiti che sono scomparsi durante il trasloco.[nointeract]"
+msgid "[Lisa_09]Да, кстати, очень жарко тут. Я ещё не привыкла к этому климату. С другой стороны, не так жалко ту одежду, что пропала во время переезда." nointeract
+msgstr "[Lisa_09]sì, a proposito, fa molto caldo qui. Non sono ancora abituato a questo clima. D'altra parte, non è così dispiaciuto per i vestiti che sono scomparsi durante il trasloco." nointeract
 
 # game/dialogues/breakfast.rpy:196
 translate crowdin breakfast_first_bf_roof_6de5b34a:
 
-msgid "[Ann_00]Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно...[nointeract]"
-msgstr "[Ann_00]chiamato. Dicono di aver mandato in un'altra città per errore, e poi completamente perso. Promettono di compensare, ma quando - è ancora sconosciuto...[nointeract]"
+msgid "[Ann_00]Звонила. Говорят, отправили в другой город по ошибке, а потом и вовсе потеряли. Обещают компенсировать, но когда - пока неизвестно..." nointeract
+msgstr "[Ann_00]chiamato. Dicono di aver mandato in un'altra città per errore, e poi completamente perso. Promettono di compensare, ma quando - è ancora sconosciuto..." nointeract
 
 # game/dialogues/breakfast.rpy:200
 translate crowdin breakfast_first_bf_roof_640b53f3:
 
-msgid "[Alice_00]Ты и рад, наверное, голым ходить, а у меня там были хорошие вещички, в которых я блог веду обычно...[nointeract]"
-msgstr "[Alice_00]Probabilmente sei felice di camminare nudo, e avevo cose buone di cui di solito scrivo sul blog...[nointeract]"
+msgid "[Alice_00]Ты и рад, наверное, голым ходить, а у меня там были хорошие вещички, в которых я блог веду обычно..." nointeract
+msgstr "[Alice_00]Probabilmente sei felice di camminare nudo, e avevo cose buone di cui di solito scrivo sul blog..." nointeract
 
 # game/dialogues/breakfast.rpy:203
 translate crowdin breakfast_first_bf_roof_1bd47619:
 
-msgid "[Alice_06]Ну да, на словах все такие храбрые. А на деле...[nointeract]"
-msgstr "[Alice_06]Beh, sì, a parole tutti sono così coraggiosi. E infatti...[nointeract]"
+msgid "[Alice_06]Ну да, на словах все такие храбрые. А на деле..." nointeract
+msgstr "[Alice_06]Beh, sì, a parole tutti sono così coraggiosi. E infatti..." nointeract
 
 # game/dialogues/breakfast.rpy:212
 translate crowdin breakfast_first_bf_roof_74b6810e:
 
-msgid "[Alice_06]Это тебе плевать! А бьюти-блогер должна каждый раз выглядеть по-новому![nointeract]"
-msgstr "[Alice_06]Non ti interessa! Un blogger di bellezza dovrebbe apparire nuovo ogni volta![nointeract]"
+msgid "[Alice_06]Это тебе плевать! А бьюти-блогер должна каждый раз выглядеть по-новому!" nointeract
+msgstr "[Alice_06]Non ti interessa! Un blogger di bellezza dovrebbe apparire nuovo ogni volta!" nointeract
 
 # game/dialogues/breakfast.rpy:219
 translate crowdin breakfast_first_bf_roof_089f3e28:
 
-msgid "[Alice_00]Ну, когда-нибудь, когда раскручусь. А вот ты чем будешь заниматься? Штаны просиживать?[nointeract]"
-msgstr "[Alice_00]Beh, un giorno, quando girerò. Ma cosa hai intenzione di fare? Pantaloni per sedersi?[nointeract]"
+msgid "[Alice_00]Ну, когда-нибудь, когда раскручусь. А вот ты чем будешь заниматься? Штаны просиживать?" nointeract
+msgstr "[Alice_00]Beh, un giorno, quando girerò. Ma cosa hai intenzione di fare? Pantaloni per sedersi?" nointeract
 
 # game/dialogues/breakfast.rpy:230
 translate crowdin breakfast_first_bf_roof_a71d40d7:
 
-msgid "[Ann_00]Про кондиционеры я всё узнала. Дом не успели достроить и не вся техника и мебель была закуплена. А теперь уже и не знаю. Видимо, самим придётся всё остальное докупать.[nointeract]"
-msgstr "[Ann_00]ho imparato tutto sui condizionatori d'aria. La casa non ha avuto il tempo di finire e non tutti gli elettrodomestici e i mobili sono stati acquistati. E ora non lo so. Apparentemente, dovrai comprare tutto il resto da solo.[nointeract]"
+msgid "[Ann_00]Про кондиционеры я всё узнала. Дом не успели достроить и не вся техника и мебель была закуплена. А теперь уже и не знаю. Видимо, самим придётся всё остальное докупать." nointeract
+msgstr "[Ann_00]ho imparato tutto sui condizionatori d'aria. La casa non ha avuto il tempo di finire e non tutti gli elettrodomestici e i mobili sono stati acquistati. E ora non lo so. Apparentemente, dovrai comprare tutto il resto da solo." nointeract
 
 # game/dialogues/breakfast.rpy:237
 translate crowdin breakfast_first_bf_roof_2ce97c4c:
 
-msgid "[Ann_15]Да и без кондиционеров проживём. Как-то же справлялись. Да, здесь климат совсем другой, но человек ко всему привыкает. Да и не до того пока.[nointeract]"
-msgstr "[Ann_15]Sì, vivremo senza aria condizionata. In qualche modo ce l'hanno cavata. Sì, qui il clima è completamente diverso, ma una persona si abitua a tutto. E non ancora.[nointeract]"
+msgid "[Ann_15]Да и без кондиционеров проживём. Как-то же справлялись. Да, здесь климат совсем другой, но человек ко всему привыкает. Да и не до того пока." nointeract
+msgstr "[Ann_15]Sì, vivremo senza aria condizionata. In qualche modo ce l'hanno cavata. Sì, qui il clima è completamente diverso, ma una persona si abitua a tutto. E non ancora." nointeract
 
 # game/dialogues/breakfast.rpy:240
 translate crowdin breakfast_first_bf_roof_2486ec98:
 
-msgid "[Alice_09]Ага, специально для тебя все сейчас разденемся до гола![nointeract]"
-msgstr "[Alice_09]sì, soprattutto per tutti voi ora disfatti verso l'obiettivo![nointeract]"
+msgid "[Alice_09]Ага, специально для тебя все сейчас разденемся до гола!" nointeract
+msgstr "[Alice_09]sì, soprattutto per tutti voi ora disfatti verso l'obiettivo!" nointeract
 
 # game/dialogues/breakfast.rpy:243
 translate crowdin breakfast_first_bf_roof_c18fd8f1:
 
-msgid "[Alice_07]Никто и не сомневается. Может быть, сам и покажешь пример?[nointeract]"
-msgstr "[Alice_07]Nessuno dubita. Forse puoi dare l'esempio tu stesso?[nointeract]"
+msgid "[Alice_07]Никто и не сомневается. Может быть, сам и покажешь пример?" nointeract
+msgstr "[Alice_07]Nessuno dubita. Forse puoi dare l'esempio tu stesso?" nointeract
 
 # game/dialogues/breakfast.rpy:252
 translate crowdin breakfast_first_bf_roof_c18fd8f1_1:
 
-msgid "[Alice_07]Никто и не сомневается. Может быть, сам и покажешь пример?[nointeract]"
-msgstr "[Alice_07]Nessuno dubita. Forse puoi dare l'esempio tu stesso?[nointeract]"
+msgid "[Alice_07]Никто и не сомневается. Может быть, сам и покажешь пример?" nointeract
+msgstr "[Alice_07]Nessuno dubita. Forse puoi dare l'esempio tu stesso?" nointeract
 
 # game/dialogues/breakfast.rpy:261
 translate crowdin breakfast_first_bf_roof_3ec80d37:
 
-msgid "[Alice_13]А больше ничего и не остаётся. Вещей то нет. Может быть, на шоппинг сходим, если деньги будут...[nointeract]"
-msgstr "[Alice_13]E non c'è più nulla. Le cose no. Magari andiamo a fare shopping se i soldi sono...[nointeract]"
+msgid "[Alice_13]А больше ничего и не остаётся. Вещей то нет. Может быть, на шоппинг сходим, если деньги будут..." nointeract
+msgstr "[Alice_13]E non c'è più nulla. Le cose no. Magari andiamo a fare shopping se i soldi sono..." nointeract
 
 # game/dialogues/breakfast.rpy:268
 translate crowdin breakfast_first_bf_roof_de4768e0:
 
-msgid "[Alice_07]Дикарь! Ты в одной комнате с младшей сестрёнкой живёшь, забыл?[nointeract]"
-msgstr "[Alice_07]selvaggio! Vivi nella stessa stanza con tua sorella minore, dimentica?[nointeract]"
+msgid "[Alice_07]Дикарь! Ты в одной комнате с младшей сестрёнкой живёшь, забыл?" nointeract
+msgstr "[Alice_07]selvaggio! Vivi nella stessa stanza con tua sorella minore, dimentica?" nointeract
 
 # game/dialogues/breakfast.rpy:278
 translate crowdin breakfast_first_bf_buy_new_837aef32:
 
-msgid "[Alice_06]Ага, вот только купилка у некоторых не выросла ещё![nointeract]"
-msgstr "[Alice_06]sì, questo è solo l'acquisto da alcuni non è ancora cresciuto![nointeract]"
+msgid "[Alice_06]Ага, вот только купилка у некоторых не выросла ещё!" nointeract
+msgstr "[Alice_06]sì, questo è solo l'acquisto da alcuni non è ancora cresciuto!" nointeract
 
 # game/dialogues/breakfast.rpy:281
 translate crowdin breakfast_first_bf_buy_new_f7b11ae0:
 
-msgid "[Alice_15]Так ты ею будешь зарабатывать? Любопытно...[nointeract]"
-msgstr "[Alice_15]Quindi farai soldi con esso? Curioso...[nointeract]"
+msgid "[Alice_15]Так ты ею будешь зарабатывать? Любопытно..." nointeract
+msgstr "[Alice_15]Quindi farai soldi con esso? Curioso..." nointeract
 
 # game/dialogues/breakfast.rpy:288
 translate crowdin breakfast_first_bf_buy_new_00b44dcb:
 
-msgid "[Alice_14]Я ещё не раскрутилась. Но со временем всё будет в шоколаде![nointeract]"
-msgstr "[Alice_14]non ho ancora girato. Ma nel tempo, tutto sarà in cioccolato![nointeract]"
+msgid "[Alice_14]Я ещё не раскрутилась. Но со временем всё будет в шоколаде!" nointeract
+msgstr "[Alice_14]non ho ancora girato. Ma nel tempo, tutto sarà in cioccolato!" nointeract
 
 # game/dialogues/breakfast.rpy:298
 translate crowdin breakfast_first_bf_change2_d76935c0:
 
-msgid "[Ann_00]Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады.[nointeract]"
-msgstr "[Ann_00]Quindi, grazie a tutti per la colazione. Ed è ora per me di scappare al lavoro. Alice, come sempre, lava i piatti dopo colazione, e Lisa dopo cena. Max, se vuoi aiutare le sorelle, saranno felici.[nointeract]"
+msgid "[Ann_00]Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады." nointeract
+msgstr "[Ann_00]Quindi, grazie a tutti per la colazione. Ed è ora per me di scappare al lavoro. Alice, come sempre, lava i piatti dopo colazione, e Lisa dopo cena. Max, se vuoi aiutare le sorelle, saranno felici." nointeract
 
 # game/dialogues/breakfast.rpy:306
 translate crowdin breakfast_first_bf_change2_c2fa27a6:
 
-msgid "[Ann_00]Да, Макс. Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате.[nointeract]"
-msgstr "[Ann_00]Sì, Max. Quando ho ripulito, ho trovato alcune scatole. Apparentemente, sono rimasti con le riparazioni. Guarda, se non c'è nulla di valore, allora lo butteremo via. Ora sono nella tua stanza.[nointeract]"
+msgid "[Ann_00]Да, Макс. Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате." nointeract
+msgstr "[Ann_00]Sì, Max. Quando ho ripulito, ho trovato alcune scatole. Apparentemente, sono rimasti con le riparazioni. Guarda, se non c'è nulla di valore, allora lo butteremo via. Ora sono nella tua stanza." nointeract
 
 # game/dialogues/breakfast.rpy:311
 translate crowdin breakfast_first_bf_change2_decd1aa4:
 
-msgid "[Ann_00]Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам.[nointeract]"
-msgstr "[Ann_00]Se lo sapessi, non te lo chiederei. Non capisco l'elettronica. Guardate voi stessi.[nointeract]"
+msgid "[Ann_00]Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам." nointeract
+msgstr "[Ann_00]Se lo sapessi, non te lo chiederei. Non capisco l'elettronica. Guardate voi stessi." nointeract
 
 # game/dialogues/breakfast.rpy:330
 translate crowdin breakfast_2_7396b2f9:
@@ -339,8 +339,8 @@ msgstr "[Lisa_00]Beh mamma... Non avevamo anatomia nell'ultima scuola, ed ecco u
 # game/dialogues/breakfast.rpy:336
 translate crowdin breakfast_2_816ba32e:
 
-msgid "[Ann_01]Что значит конечно не смогла? Хочешь, чтобы и тебя выперли из школы, как этого балбеса?[nointeract]"
-msgstr "[Ann_01]Cosa significa ovviamente non potrebbe? Vuoi essere cacciato da scuola come questa balbe?[nointeract]"
+msgid "[Ann_01]Что значит конечно не смогла? Хочешь, чтобы и тебя выперли из школы, как этого балбеса?" nointeract
+msgstr "[Ann_01]Cosa significa ovviamente non potrebbe? Vuoi essere cacciato da scuola come questa balbe?" nointeract
 
 # game/dialogues/breakfast.rpy:342
 translate crowdin breakfast_2_cc5a72e4:
@@ -351,8 +351,8 @@ msgstr "[Ann_00]Bene, dato che sei così intelligente, Max, allora aiuta la tua 
 # game/dialogues/breakfast.rpy:347
 translate crowdin breakfast_2_17622a4d:
 
-msgid "[Lisa_09]Ну мам... Я же не специально. Я обещаю, что всё выучу![nointeract]"
-msgstr "[Lisa_09]Beh mamma... Non sono di proposito. Prometto che imparerò tutto![nointeract]"
+msgid "[Lisa_09]Ну мам... Я же не специально. Я обещаю, что всё выучу!" nointeract
+msgstr "[Lisa_09]Beh mamma... Non sono di proposito. Prometto che imparerò tutto!" nointeract
 
 # game/dialogues/breakfast.rpy:350
 translate crowdin breakfast_2_591293ef:
@@ -387,8 +387,8 @@ msgstr "[Ann_00]Va bene che ho capito. Ora vai a sederti. Mi dispiace di aver do
 # game/dialogues/breakfast.rpy:366
 translate crowdin breakfast_2_1d9581e2:
 
-msgid "[Ann_00]И да, если узнаю, что кто-то мне врёт, тот получит гораздо сильнее. Больше всего ненавижу ложь. Всё ясно?[nointeract]"
-msgstr "[Ann_00]E sì, se scopro che qualcuno mi sta mentendo, diventerà molto più forte. Odio di più le bugie. E' chiaro?[nointeract]"
+msgid "[Ann_00]И да, если узнаю, что кто-то мне врёт, тот получит гораздо сильнее. Больше всего ненавижу ложь. Всё ясно?" nointeract
+msgstr "[Ann_00]E sì, se scopro che qualcuno mi sta mentendo, diventerà molto più forte. Odio di più le bugie. E' chiaro?" nointeract
 
 # game/dialogues/breakfast.rpy:376
 translate crowdin breakfast_2_696eb569:
@@ -417,8 +417,8 @@ msgstr "[Max_01]Sì, non è necessario..."
 # game/dialogues/breakfast.rpy:384
 translate crowdin breakfast_2_9096c069:
 
-msgid "[Lisa_02]Спасибо, Макс! Ты же мне поможешь с уроками?[nointeract]"
-msgstr "[Lisa_02]Grazie, Max! Potete aiutarmi con le lezioni?[nointeract]"
+msgid "[Lisa_02]Спасибо, Макс! Ты же мне поможешь с уроками?" nointeract
+msgstr "[Lisa_02]Grazie, Max! Potete aiutarmi con le lezioni?" nointeract
 
 # game/dialogues/breakfast.rpy:390
 translate crowdin breakfast_2_57992ee0:
@@ -435,14 +435,14 @@ msgstr "[Max_00]buon appetito"
 # game/dialogues/breakfast.rpy:392
 translate crowdin breakfast_2_2501d22e:
 
-msgid "[Ann_00]Давайте сменим тему. Скажите, только меня смущают картины, которые висят в наших комнатах?[nointeract]"
-msgstr "[Ann_00]Cambiamo argomento. Dimmi, solo io sono confuso dalle foto che pendono nelle nostre stanze?[nointeract]"
+msgid "[Ann_00]Давайте сменим тему. Скажите, только меня смущают картины, которые висят в наших комнатах?" nointeract
+msgstr "[Ann_00]Cambiamo argomento. Dimmi, solo io sono confuso dalle foto che pendono nelle nostre stanze?" nointeract
 
 # game/dialogues/breakfast.rpy:395
 translate crowdin breakfast_2_f64d9ad1:
 
-msgid "[Alice_01]Макс, не притворяйся, что не видел. В наших спальнях с мамой уже была вся мебель и картины, в том числе. Наверняка, пялился на них, когда увидел...[nointeract]"
-msgstr "[Alice_01]Max, non fingere di non averlo visto. Nelle nostre camere da letto con mia madre c'erano già tutti i mobili e i dipinti, compresi. Devo averli guardati quando ho visto...[nointeract]"
+msgid "[Alice_01]Макс, не притворяйся, что не видел. В наших спальнях с мамой уже была вся мебель и картины, в том числе. Наверняка, пялился на них, когда увидел..." nointeract
+msgstr "[Alice_01]Max, non fingere di non averlo visto. Nelle nostre camere da letto con mia madre c'erano già tutti i mobili e i dipinti, compresi. Devo averli guardati quando ho visto..." nointeract
 
 # game/dialogues/breakfast.rpy:398
 translate crowdin breakfast_2_9beefc93:
@@ -489,20 +489,20 @@ msgstr "[Ann_01]No, e grazie al cielo. Certo, sono contento di questo dono, di q
 # game/dialogues/breakfast.rpy:407
 translate crowdin breakfast_2_ea287806:
 
-msgid "[Ann_00]Так, всем спасибо за завтрак, мне пора на работу. Сегодня мне позвонили и сказали, что приедет машина, довезёт до работы. Нельзя опаздывать...[nointeract]"
-msgstr "[Ann_00]Quindi, grazie a tutti per la colazione, è ora per me di andare al lavoro. Oggi ho ricevuto una chiamata che diceva che una macchina sarebbe venuta a portarmi al lavoro. Non si può essere in ritardo...[nointeract]"
+msgid "[Ann_00]Так, всем спасибо за завтрак, мне пора на работу. Сегодня мне позвонили и сказали, что приедет машина, довезёт до работы. Нельзя опаздывать..." nointeract
+msgstr "[Ann_00]Quindi, grazie a tutti per la colazione, è ora per me di andare al lavoro. Oggi ho ricevuto una chiamata che diceva che una macchina sarebbe venuta a portarmi al lavoro. Non si può essere in ritardo..." nointeract
 
 # game/dialogues/breakfast.rpy:410
 translate crowdin breakfast_2_42d6f90e:
 
-msgid "[Ann_12]Да... Видимо, так компания старается поддерживать новичков...[nointeract]"
-msgstr "[Ann_12]sì... Apparentemente, questo è il modo in cui l'azienda cerca di supportare i nuovi arrivati...[nointeract]"
+msgid "[Ann_12]Да... Видимо, так компания старается поддерживать новичков..." nointeract
+msgstr "[Ann_12]sì... Apparentemente, questo è il modo in cui l'azienda cerca di supportare i nuovi arrivati..." nointeract
 
 # game/dialogues/breakfast.rpy:417
 translate crowdin breakfast_2_cc48757f:
 
-msgid "[Ann_05]Нет, Макс, что ты. Он большой начальник. Босс моего босса. Его тоже возит свой водитель. Просто... Я думаю, что так компания поддерживает новичков...[nointeract]"
-msgstr "[Ann_05]No, Max, cosa sei. È un grande capo. Il capo del mio capo. È anche preso dal suo autista. Semplicemente... Penso che sia così che l'azienda supporta i nuovi arrivati...[nointeract]"
+msgid "[Ann_05]Нет, Макс, что ты. Он большой начальник. Босс моего босса. Его тоже возит свой водитель. Просто... Я думаю, что так компания поддерживает новичков..." nointeract
+msgstr "[Ann_05]No, Max, cosa sei. È un grande capo. Il capo del mio capo. È anche preso dal suo autista. Semplicemente... Penso che sia così che l'azienda supporta i nuovi arrivati..." nointeract
 
 # game/dialogues/breakfast.rpy:426
 translate crowdin breakfast_2_c5e2637b:
@@ -555,8 +555,8 @@ msgstr "[Alice_01]Dump, Max. Il fatto è che mi piacerebbe andare in una discote
 # game/dialogues/breakfast.rpy:446
 translate crowdin breakfast_3_b2276362:
 
-msgid "[Ann_01]Алиса, мы не в том положении, чтобы покупать тебе платья для клубов. Да и о чём ты говоришь? Ты бы делом занялась, а не о клубах думала![nointeract]"
-msgstr "[Ann_01]Alice, non siamo in grado di comprarti abiti da club. E di cosa stai parlando? Faresti affari, non club![nointeract]"
+msgid "[Ann_01]Алиса, мы не в том положении, чтобы покупать тебе платья для клубов. Да и о чём ты говоришь? Ты бы делом занялась, а не о клубах думала!" nointeract
+msgstr "[Ann_01]Alice, non siamo in grado di comprarti abiti da club. E di cosa stai parlando? Faresti affari, non club!" nointeract
 
 # game/dialogues/breakfast.rpy:452
 translate crowdin breakfast_3_29d5cb7f:
@@ -567,8 +567,8 @@ msgstr "[Alice_13]mamma! Sono giovane, bella, ho bisogno di divertirmi. Mi hai d
 # game/dialogues/breakfast.rpy:453
 translate crowdin breakfast_3_469954dc:
 
-msgid "[Ann_14]Ну, Алиса... Я тебя понимаю, конечно. Но ты же хочешь какое-то дорогое платье, наверняка? Сейчас у нас не очень много денег, ты сама знаешь...[nointeract]"
-msgstr "[Ann_14]Beh, Alice... Ti capisco, ovviamente. Ma vuoi un vestito costoso, giusto? Non abbiamo molti soldi in questo momento, sai...[nointeract]"
+msgid "[Ann_14]Ну, Алиса... Я тебя понимаю, конечно. Но ты же хочешь какое-то дорогое платье, наверняка? Сейчас у нас не очень много денег, ты сама знаешь..." nointeract
+msgstr "[Ann_14]Beh, Alice... Ti capisco, ovviamente. Ma vuoi un vestito costoso, giusto? Non abbiamo molti soldi in questo momento, sai..." nointeract
 
 # game/dialogues/breakfast.rpy:456
 translate crowdin breakfast_3_7411d85a:
@@ -603,20 +603,20 @@ msgstr "[Alice_13]mamma, beh, non troppo breve... In generale, qualsiasi. La cos
 # game/dialogues/breakfast.rpy:463
 translate crowdin breakfast_3_713275ed:
 
-msgid "[Ann_01]Ну не знаю, Алиса. Посмотрим. Кстати, завтра после завтрака вы все едем на шоппинг. Ну, кроме Макса, наверное...[nointeract]"
-msgstr "[Ann_01]Beh, non lo so, Alice. Vedere. A proposito, domani dopo colazione andate tutti a fare shopping. Beh, ad eccezione di Max, probabilmente...[nointeract]"
+msgid "[Ann_01]Ну не знаю, Алиса. Посмотрим. Кстати, завтра после завтрака вы все едем на шоппинг. Ну, кроме Макса, наверное..." nointeract
+msgstr "[Ann_01]Beh, non lo so, Alice. Vedere. A proposito, domani dopo colazione andate tutti a fare shopping. Beh, ad eccezione di Max, probabilmente..." nointeract
 
 # game/dialogues/breakfast.rpy:466
 translate crowdin breakfast_3_6637c044:
 
-msgid "[Ann_05]Ты знаешь, мне кажется, что тебе будут мало интересны магазины со шмотками. У тебя всё есть, а нам, девочкам, нужно кое-что прикупить...[nointeract]"
-msgstr "[Ann_05]Sai, mi sembra che non sarai interessato ai negozi con vestiti. Tu hai tutto, e noi ragazze abbiamo bisogno di comprare qualcosa...[nointeract]"
+msgid "[Ann_05]Ты знаешь, мне кажется, что тебе будут мало интересны магазины со шмотками. У тебя всё есть, а нам, девочкам, нужно кое-что прикупить..." nointeract
+msgstr "[Ann_05]Sai, mi sembra che non sarai interessato ai negozi con vestiti. Tu hai tutto, e noi ragazze abbiamo bisogno di comprare qualcosa..." nointeract
 
 # game/dialogues/breakfast.rpy:473
 translate crowdin breakfast_3_e50e70cf:
 
-msgid "[Ann_05]Вот и я так подумала. Разве тебе будут интересны наши девчачьи магазины? А вот нам очень. Как раз всем нам нужно кое-что прикупить...[nointeract]"
-msgstr "[Ann_05]Così ho pensato. Sarai interessato ai nostri negozi girly? Ma noi davvero. Abbiamo tutti bisogno di comprare qualcosa...[nointeract]"
+msgid "[Ann_05]Вот и я так подумала. Разве тебе будут интересны наши девчачьи магазины? А вот нам очень. Как раз всем нам нужно кое-что прикупить..." nointeract
+msgstr "[Ann_05]Così ho pensato. Sarai interessato ai nostri negozi girly? Ma noi davvero. Abbiamo tutti bisogno di comprare qualcosa..." nointeract
 
 # game/dialogues/breakfast.rpy:480
 translate crowdin breakfast_3_nomany_eff4ca88:
@@ -633,8 +633,8 @@ msgstr "[Max_07]Cancella. E chi sarà fortunato?"
 # game/dialogues/breakfast.rpy:483
 translate crowdin breakfast_3_driver_636e2df7:
 
-msgid "[Ann_01]Макс, ну я же уже говорила про Эрика, вот он за нами отправит машину, а с ним мы встретимся уже в магазине...[nointeract]"
-msgstr "[Ann_01]Max, beh, ho già parlato di Eric, qui manderà una macchina per noi, e lo incontreremo già nel negozio...[nointeract]"
+msgid "[Ann_01]Макс, ну я же уже говорила про Эрика, вот он за нами отправит машину, а с ним мы встретимся уже в магазине..." nointeract
+msgstr "[Ann_01]Max, beh, ho già parlato di Eric, qui manderà una macchina per noi, e lo incontreremo già nel negozio..." nointeract
 
 # game/dialogues/breakfast.rpy:486
 translate crowdin breakfast_3_driver_fb54e463:
@@ -663,8 +663,8 @@ msgstr "[Lisa_01]E cos'è, mamma? Raccontare! Quindi sei serio, giusto? Ti sei b
 # game/dialogues/breakfast.rpy:492
 translate crowdin breakfast_3_driver_c321de54:
 
-msgid "[Ann_04]Лиза! Какие вопросы... Нельзя же так спрашивать в лоб! Возможно, у нас всё серьёзно, да. Я давно не встречала такого мужчину. Честно говоря, вообще никогда таких не встречала. Он почти идеален![nointeract]"
-msgstr "[Ann_04]Lisa! Quali domande... Non puoi chiedere così in fronte! Forse siamo seri, sì. Non ho incontrato un uomo del genere da molto tempo. Ad essere onesti, non ne ho mai incontrato uno. È quasi perfetto![nointeract]"
+msgid "[Ann_04]Лиза! Какие вопросы... Нельзя же так спрашивать в лоб! Возможно, у нас всё серьёзно, да. Я давно не встречала такого мужчину. Честно говоря, вообще никогда таких не встречала. Он почти идеален!" nointeract
+msgstr "[Ann_04]Lisa! Quali domande... Non puoi chiedere così in fronte! Forse siamo seri, sì. Non ho incontrato un uomo del genere da molto tempo. Ad essere onesti, non ne ho mai incontrato uno. È quasi perfetto!" nointeract
 
 # game/dialogues/breakfast.rpy:495
 translate crowdin breakfast_3_driver_42f8bb2c:
@@ -681,26 +681,26 @@ msgstr "[Max_08]Non hai fretta di giure a conclusioni?"
 # game/dialogues/breakfast.rpy:497
 translate crowdin breakfast_3_driver_12442c75:
 
-msgid "[Ann_05]Думаю, что нет. Но... посмотрим. Кажется, вы нас женили ещё до того, как мы признались друг другу в симпатии...[nointeract]"
-msgstr "[Ann_05]non credo. Ma... Vedere. Sembra che tu ci abbia sposato ancor prima che ci confessassimo l'un l'altro di simpatia...[nointeract]"
+msgid "[Ann_05]Думаю, что нет. Но... посмотрим. Кажется, вы нас женили ещё до того, как мы признались друг другу в симпатии..." nointeract
+msgstr "[Ann_05]non credo. Ma... Vedere. Sembra che tu ci abbia sposato ancor prima che ci confessassimo l'un l'altro di simpatia..." nointeract
 
 # game/dialogues/breakfast.rpy:507
 translate crowdin breakfast_3_driver_35fbc5f1:
 
-msgid "[Alice_04]Макс, тебе не всё ли равно? Очевидно же, что маме нравится этот Эрик. Лучше порадуйся за неё![nointeract]"
-msgstr "[Alice_04]Max, non ti interessa? Ovviamente, alla mamma piace questo Eric. Meglio essere felici per lei![nointeract]"
+msgid "[Alice_04]Макс, тебе не всё ли равно? Очевидно же, что маме нравится этот Эрик. Лучше порадуйся за неё!" nointeract
+msgstr "[Alice_04]Max, non ti interessa? Ovviamente, alla mamma piace questo Eric. Meglio essere felici per lei!" nointeract
 
 # game/dialogues/breakfast.rpy:510
 translate crowdin breakfast_3_driver_f12412d8:
 
-msgid "[Ann_05]Спасибо, Макс. Для меня очень важна поддержка семьи. Хотя, меня немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии...[nointeract]"
-msgstr "[Ann_05]Grazie, Max. Il sostegno della famiglia è molto importante per me. Anche se, sono un po 'confuso che sembra che tu ci abbia già sposato mentalmente prima che ci confessassimo l'un l'altro in simpatia...[nointeract]"
+msgid "[Ann_05]Спасибо, Макс. Для меня очень важна поддержка семьи. Хотя, меня немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии..." nointeract
+msgstr "[Ann_05]Grazie, Max. Il sostegno della famiglia è molto importante per me. Anche se, sono un po 'confuso che sembra che tu ci abbia già sposato mentalmente prima che ci confessassimo l'un l'altro in simpatia..." nointeract
 
 # game/dialogues/breakfast.rpy:519
 translate crowdin breakfast_3_driver_29b87c33:
 
-msgid "[Ann_05]Не сомневаюсь, что любопытно. Не стоит забегать вперёд. Меня даже немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии...[nointeract]"
-msgstr "[Ann_05]non ho dubbi che sia curioso. Non anticipare te stesso. Mi dà anche un po' fastidio che sia come se ci avessi già sposati mentalmente prima ancora che ci confessassimo la reciproca simpatia...[nointeract]"
+msgid "[Ann_05]Не сомневаюсь, что любопытно. Не стоит забегать вперёд. Меня даже немного смущает, что вы как будто нас уже поженили мысленно ещё до того, как мы признались друг другу в симпатии..." nointeract
+msgstr "[Ann_05]non ho dubbi che sia curioso. Non anticipare te stesso. Mi dà anche un po' fastidio che sia come se ci avessi già sposati mentalmente prima ancora che ci confessassimo la reciproca simpatia..." nointeract
 
 # game/dialogues/breakfast.rpy:528
 translate crowdin breakfast_3_conf_57f2673b:
@@ -741,8 +741,8 @@ msgstr "[Max_09]E non sto scavando nulla..."
 # game/dialogues/breakfast.rpy:541
 translate crowdin breakfast_3_end_280db0e0:
 
-msgid "[Ann_00]Так, ладно. Кажется, завтрак закончен, все уже наелись. Мне пора на работу, а Лизе в школу. Алиса, не забудь вымыть посуду![nointeract]"
-msgstr "[Ann_00]Va bene. Sembra che la colazione sia finita, tutti hanno già servito. È tempo per me di andare al lavoro e Lisa a scuola. Alice, non dimenticare di lavare i piatti![nointeract]"
+msgid "[Ann_00]Так, ладно. Кажется, завтрак закончен, все уже наелись. Мне пора на работу, а Лизе в школу. Алиса, не забудь вымыть посуду!" nointeract
+msgstr "[Ann_00]Va bene. Sembra che la colazione sia finita, tutti hanno già servito. È tempo per me di andare al lavoro e Lisa a scuola. Alice, non dimenticare di lavare i piatti!" nointeract
 
 # game/dialogues/breakfast.rpy:553
 translate crowdin breakfast_4_a0ebdb73:
@@ -771,8 +771,8 @@ msgstr "[Max_00]Come dici tu, mamma..."
 # game/dialogues/breakfast.rpy:557
 translate crowdin breakfast_4_c34f4557:
 
-msgid "[Alice_01]Макс, мне показалось или ты как-то предвзято относишься к Эрику? Как будто уже его ненавидишь...[nointeract]"
-msgstr "[Alice_01]Max, ho pensato o sei in qualche modo prevenuto contro Eric? È come se lo odissi...[nointeract]"
+msgid "[Alice_01]Макс, мне показалось или ты как-то предвзято относишься к Эрику? Как будто уже его ненавидишь..." nointeract
+msgstr "[Alice_01]Max, ho pensato o sei in qualche modo prevenuto contro Eric? È come se lo odissi..." nointeract
 
 # game/dialogues/breakfast.rpy:560
 translate crowdin breakfast_4_111a77d9:
@@ -789,8 +789,8 @@ msgstr "[Max_00]Bene, va bene..."
 # game/dialogues/breakfast.rpy:564
 translate crowdin breakfast_4_3320b1d4:
 
-msgid "[Lisa_03]И за кого он себя выдаёт? За человека, которому нравится мама, а на само деле он... кто?[nointeract]"
-msgstr "[Lisa_03]E chi finge di essere? Per un uomo a cui piace sua madre, ma in realtà lui... Chi?[nointeract]"
+msgid "[Lisa_03]И за кого он себя выдаёт? За человека, которому нравится мама, а на само деле он... кто?" nointeract
+msgstr "[Lisa_03]E chi finge di essere? Per un uomo a cui piace sua madre, ma in realtà lui... Chi?" nointeract
 
 # game/dialogues/breakfast.rpy:567
 translate crowdin breakfast_4_a7ed0c3d:
@@ -831,8 +831,8 @@ msgstr "[Max_09]Ok, diamo un'occhiata al tuo Eric..."
 # game/dialogues/breakfast.rpy:576
 translate crowdin breakfast_4_05cc408b:
 
-msgid "[Alice_02]Да ты не переживать должен, а радоваться, что у мамы налаживается её личная жизнь! К тому же, ещё и с работой так повезло и даже повышение в первую неделю светит...[nointeract]"
-msgstr "[Alice_02]Sì, non dovresti preoccuparti, ma gioire che tua madre stia migliorando la sua vita personale! Inoltre, anche con il lavoro così fortunato e anche un rialzo nella prima settimana brilla...[nointeract]"
+msgid "[Alice_02]Да ты не переживать должен, а радоваться, что у мамы налаживается её личная жизнь! К тому же, ещё и с работой так повезло и даже повышение в первую неделю светит..." nointeract
+msgstr "[Alice_02]Sì, non dovresti preoccuparti, ma gioire che tua madre stia migliorando la sua vita personale! Inoltre, anche con il lavoro così fortunato e anche un rialzo nella prima settimana brilla..." nointeract
 
 # game/dialogues/breakfast.rpy:582
 translate crowdin breakfast_4_71328ac0:
@@ -933,8 +933,8 @@ msgstr "[Max_07]Bene, come è andata?"
 # game/dialogues/breakfast.rpy:607
 translate crowdin breakfast_5_717457d5:
 
-msgid "[Ann_14]Ты о чём, Макс? Я не понимаю...[nointeract]"
-msgstr "[Ann_14]Stai parlando, Max? Non capisco...[nointeract]"
+msgid "[Ann_14]Ты о чём, Макс? Я не понимаю..." nointeract
+msgstr "[Ann_14]Stai parlando, Max? Non capisco..." nointeract
 
 # game/dialogues/breakfast.rpy:613
 translate crowdin breakfast_5_c980ce82:
@@ -969,8 +969,8 @@ msgstr "[Ann_12]Lisa, non so nemmeno cosa dirti... Io ed Eric... ci piacciamo. E
 # game/dialogues/breakfast.rpy:618
 translate crowdin breakfast_5_97033bef:
 
-msgid "[Alice_04]Да всё мы понимаем, мам. Не переживай. Просто, ты так долго была одна и тут такой... Эрик... Мы очень рады, что у тебя налаживается твоя личная жизнь. И мы не будем тебе мешать, да, Макс?[nointeract]"
-msgstr "[Alice_04]Sì, capiamo tutto, mamma. Non preoccuparti. È solo che sei stato solo per così tanto tempo e c'è questo... Eric... Siamo molto contenti che la tua vita personale stia migliorando. E non ti daremo fastidio, giusto, Max?[nointeract]"
+msgid "[Alice_04]Да всё мы понимаем, мам. Не переживай. Просто, ты так долго была одна и тут такой... Эрик... Мы очень рады, что у тебя налаживается твоя личная жизнь. И мы не будем тебе мешать, да, Макс?" nointeract
+msgstr "[Alice_04]Sì, capiamo tutto, mamma. Non preoccuparti. È solo che sei stato solo per così tanto tempo e c'è questo... Eric... Siamo molto contenti che la tua vita personale stia migliorando. E non ti daremo fastidio, giusto, Max?" nointeract
 
 # game/dialogues/breakfast.rpy:624
 translate crowdin breakfast_5_fb058679:
@@ -999,14 +999,14 @@ msgstr "[Max_08]sì, ho appena chiesto..."
 # game/dialogues/breakfast.rpy:628
 translate crowdin breakfast_5_2e9a76d0:
 
-msgid "[Ann_01]Да всё в порядке, Алиса. Я понимаю, Максу любопытно. Это же и нарушение вашего личного пространства, когда кто-то посторонний начинает посещать наш общий дом.[nointeract]"
-msgstr "[Ann_01]sì, va bene, Alice. Capisco che Max sia curioso. È anche una violazione del tuo spazio personale quando qualcun altro inizia a visitare la nostra casa comune.[nointeract]"
+msgid "[Ann_01]Да всё в порядке, Алиса. Я понимаю, Максу любопытно. Это же и нарушение вашего личного пространства, когда кто-то посторонний начинает посещать наш общий дом." nointeract
+msgstr "[Ann_01]sì, va bene, Alice. Capisco che Max sia curioso. È anche una violazione del tuo spazio personale quando qualcun altro inizia a visitare la nostra casa comune." nointeract
 
 # game/dialogues/breakfast.rpy:634
 translate crowdin breakfast_5_d75ec0ba:
 
-msgid "[Ann_12]Ещё рано об этом говорить, но... может быть... будем с ним встречаться через день-два, то у него, то у нас... Может быть...[nointeract]"
-msgstr "[Ann_12]È troppo presto per dirlo, ma... Potrebbe essere... ci incontreremo con lui tra un giorno o due, poi a casa sua, poi al nostro... Forse...[nointeract]"
+msgid "[Ann_12]Ещё рано об этом говорить, но... может быть... будем с ним встречаться через день-два, то у него, то у нас... Может быть..." nointeract
+msgstr "[Ann_12]È troppo presto per dirlo, ma... Potrebbe essere... ci incontreremo con lui tra un giorno o due, poi a casa sua, poi al nostro... Forse..." nointeract
 
 # game/dialogues/breakfast.rpy:637
 translate crowdin breakfast_5_6aaaaa8a:
@@ -1065,8 +1065,8 @@ msgstr "[Max_04]Va bene..."
 # game/dialogues/breakfast.rpy:651
 translate crowdin breakfast_5_b0c67912:
 
-msgid "[Ann_05]В любом случае, для вас ничего не изменится. А если вы подружитесь с Эриком, я буду очень рада![nointeract]"
-msgstr "[Ann_05]In ogni caso, nulla cambierà per te. E se fai amicizia con Eric, sarei molto felice![nointeract]"
+msgid "[Ann_05]В любом случае, для вас ничего не изменится. А если вы подружитесь с Эриком, я буду очень рада!" nointeract
+msgstr "[Ann_05]In ogni caso, nulla cambierà per te. E se fai amicizia con Eric, sarei molto felice!" nointeract
 
 # game/dialogues/breakfast.rpy:656
 translate crowdin breakfast_5_3ebe962a:
@@ -1245,14 +1245,14 @@ msgstr "[Max_01]segreto da chi?"
 # game/dialogues/breakfast.rpy:702
 translate crowdin breakfast_12_e27f5c8d:
 
-msgid "[Ann_07]Ты прав, Макс. Здесь же все свои. В общем, мы с Эриком решили пожениться![nointeract]"
-msgstr "[Ann_07]Hai ragione, Max. È tutto loro. Ad ogni modo, Eric e io abbiamo deciso di sposarci![nointeract]"
+msgid "[Ann_07]Ты прав, Макс. Здесь же все свои. В общем, мы с Эриком решили пожениться!" nointeract
+msgstr "[Ann_07]Hai ragione, Max. È tutto loro. Ad ogni modo, Eric e io abbiamo deciso di sposarci!" nointeract
 
 # game/dialogues/breakfast.rpy:705
 translate crowdin breakfast_12_f740488d:
 
-msgid "[Ann_13]Макс! Сейчас выпорю перед всеми за такие слова. Я думала, ты порадуешься за свою маму, но такой реакции точно не ожидала...[nointeract]"
-msgstr "[Ann_13]Max! Ora ti darò una posizione di fronte a tutti per queste parole. Pensavo che saresti stato felice per tua madre, ma sicuramente non mi aspettavo una reazione del genere...[nointeract]"
+msgid "[Ann_13]Макс! Сейчас выпорю перед всеми за такие слова. Я думала, ты порадуешься за свою маму, но такой реакции точно не ожидала..." nointeract
+msgstr "[Ann_13]Max! Ora ti darò una posizione di fronte a tutti per queste parole. Pensavo che saresti stato felice per tua madre, ma sicuramente non mi aspettavo una reazione del genere..." nointeract
 
 # game/dialogues/breakfast.rpy:708
 translate crowdin breakfast_12_88a4a734:
@@ -1443,26 +1443,26 @@ msgstr "[Max_04]la cameriera?"
 # game/dialogues/breakfast.rpy:751
 translate crowdin breakfast_18_c316b223:
 
-msgid "[Kira_03]Ну... Да. Просто подумала, что это не то, чем стоит гордиться. Ты вот работаешь в такой компании крупной, да ещё... Кстати, кем ты работаешь сейчас?[nointeract]"
-msgstr "[Kira_03]Beh... Sì. Ho solo pensato che non fosse qualcosa di cui essere orgogliosi. Lavori in un'azienda così grande e persino... A proposito, per chi stai lavorando ora?[nointeract]"
+msgid "[Kira_03]Ну... Да. Просто подумала, что это не то, чем стоит гордиться. Ты вот работаешь в такой компании крупной, да ещё... Кстати, кем ты работаешь сейчас?" nointeract
+msgstr "[Kira_03]Beh... Sì. Ho solo pensato che non fosse qualcosa di cui essere orgogliosi. Lavori in un'azienda così grande e persino... A proposito, per chi stai lavorando ora?" nointeract
 
 # game/dialogues/breakfast.rpy:754
 translate crowdin breakfast_18_4898e38f:
 
-msgid "[Ann_04]Макс! Как тебе не стыдно. Я личный ассистент руководителя регионального отделения компании...[nointeract]"
-msgstr "[Ann_04]Max! Come non ti vergogni. Sono assistente personale del responsabile della filiale regionale dell'azienda...[nointeract]"
+msgid "[Ann_04]Макс! Как тебе не стыдно. Я личный ассистент руководителя регионального отделения компании..." nointeract
+msgstr "[Ann_04]Max! Come non ti vergogni. Sono assistente personale del responsabile della filiale regionale dell'azienda..." nointeract
 
 # game/dialogues/breakfast.rpy:761
 translate crowdin breakfast_18_e1fcda17:
 
-msgid "[Ann_02]Макс! Я не секретарша, а личный ассистент руководителя регионального отделения компании...[nointeract]"
-msgstr "[Ann_02]Max! Non sono una segretaria, ma un'assistente personale del capo della filiale regionale dell'azienda...[nointeract]"
+msgid "[Ann_02]Макс! Я не секретарша, а личный ассистент руководителя регионального отделения компании..." nointeract
+msgstr "[Ann_02]Max! Non sono una segretaria, ma un'assistente personale del capo della filiale regionale dell'azienda..." nointeract
 
 # game/dialogues/breakfast.rpy:768
 translate crowdin breakfast_18_2ffeff05:
 
-msgid "[Ann_06]Я же тебе рассказывала, что я сейчас личный ассистент руководителя регионального отделения компании...[nointeract]"
-msgstr "[Ann_06]ti ho detto che ora sono un assistente personale del capo della filiale regionale dell'azienda...[nointeract]"
+msgid "[Ann_06]Я же тебе рассказывала, что я сейчас личный ассистент руководителя регионального отделения компании..." nointeract
+msgstr "[Ann_06]ti ho detto che ora sono un assistente personale del capo della filiale regionale dell'azienda..." nointeract
 
 # game/dialogues/breakfast.rpy:774
 translate crowdin breakfast_18_7701c024:
@@ -1479,14 +1479,14 @@ msgstr "[Max_00]Va bene, va bene..."
 # game/dialogues/breakfast.rpy:776
 translate crowdin breakfast_18_next_f5423a85:
 
-msgid "[Kira_05]Ну, то есть, сфера обслуги, верно? Да шучу я, Ань, шучу. Ладно, а что там с этим вашим Эриком? Какой он?[nointeract]"
-msgstr "[Kira_05]Beh, voglio dire, il settore dei servizi, giusto? Lasciatemi scherzare, An, sto solo scherzando. Ok, cosa succede con quel tuo Eric? Cos'è?[nointeract]"
+msgid "[Kira_05]Ну, то есть, сфера обслуги, верно? Да шучу я, Ань, шучу. Ладно, а что там с этим вашим Эриком? Какой он?" nointeract
+msgstr "[Kira_05]Beh, voglio dire, il settore dei servizi, giusto? Lasciatemi scherzare, An, sto solo scherzando. Ok, cosa succede con quel tuo Eric? Cos'è?" nointeract
 
 # game/dialogues/breakfast.rpy:779
 translate crowdin breakfast_18_next_9ffa848f:
 
-msgid "[Ann_16]Макс! Да как ты разговариваешь! Снимай штаны![nointeract]"
-msgstr "[Ann_16]Max! Come parli! Togliti i pantaloni![nointeract]"
+msgid "[Ann_16]Макс! Да как ты разговариваешь! Снимай штаны!" nointeract
+msgstr "[Ann_16]Max! Come parli! Togliti i pantaloni!" nointeract
 
 # game/dialogues/breakfast.rpy:782
 translate crowdin breakfast_18_next_b4169c04:
@@ -1509,8 +1509,8 @@ msgstr "[Max_00]Va bene..."
 # game/dialogues/breakfast.rpy:786
 translate crowdin breakfast_18_next_38a95e47:
 
-msgid "[Kira_13]Ого! У вас снова в моде физические наказания? Прямо как у нас в детстве, да Ань? Неужели, дети перестали слушаться обычных голосовых команд?[nointeract]"
-msgstr "[Kira_13]'s ow! Le punizioni fisiche sono tornate in voga? Proprio come eravamo nell'infanzia, sì Anh? I bambini hanno smesso di ascoltare i soliti comandi vocali?[nointeract]"
+msgid "[Kira_13]Ого! У вас снова в моде физические наказания? Прямо как у нас в детстве, да Ань? Неужели, дети перестали слушаться обычных голосовых команд?" nointeract
+msgstr "[Kira_13]'s ow! Le punizioni fisiche sono tornate in voga? Proprio come eravamo nell'infanzia, sì Anh? I bambini hanno smesso di ascoltare i soliti comandi vocali?" nointeract
 
 # game/dialogues/breakfast.rpy:789
 translate crowdin breakfast_18_next_7b275243:
@@ -1539,8 +1539,8 @@ msgstr "[Max_08]Buono non basta..."
 # game/dialogues/breakfast.rpy:795
 translate crowdin breakfast_18_next_df2f93f7:
 
-msgid "[Kira_07]А ты, Макс, я вижу, нашёл с ним общий язык? Значит, Эрик и правда хороший парень. Нужно будет с ним познакомиться...[nointeract]"
-msgstr "[Kira_07]E tu, Max, vedo, hai trovato un linguaggio comune con lui? Quindi Eric è davvero un bravo ragazzo. Dovrai conoscerlo...[nointeract]"
+msgid "[Kira_07]А ты, Макс, я вижу, нашёл с ним общий язык? Значит, Эрик и правда хороший парень. Нужно будет с ним познакомиться..." nointeract
+msgstr "[Kira_07]E tu, Max, vedo, hai trovato un linguaggio comune con lui? Quindi Eric è davvero un bravo ragazzo. Dovrai conoscerlo..." nointeract
 
 # game/dialogues/breakfast.rpy:798
 translate crowdin breakfast_18_next_cc699149:

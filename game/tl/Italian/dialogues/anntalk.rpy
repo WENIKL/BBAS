@@ -3,32 +3,32 @@
 # game/dialogues/anntalk.rpy:17
 translate crowdin AnnTalkStart_452e8666:
 
-msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
-msgstr "[Ann_00]È successo qualcosa, cara?[nointeract]"
+msgid "[Ann_00]Что-то случилось, дорогой?" nointeract
+msgstr "[Ann_00]È successo qualcosa, cara?" nointeract
 
 # game/dialogues/anntalk.rpy:43
 translate crowdin Ann_badbadmood_321edff9:
 
-msgid "[Ann_18]Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать![nointeract]"
-msgstr "[Ann_18]Max, sono di pessimo umore in questo momento e non voglio parlare con te![nointeract]"
+msgid "[Ann_18]Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать!" nointeract
+msgstr "[Ann_18]Max, sono di pessimo umore in questo momento e non voglio parlare con te!" nointeract
 
 # game/dialogues/anntalk.rpy:52
 translate crowdin Ann_badmood_46817e38:
 
-msgid "[Ann_18]Макс, я сейчас не в настроении и не хочу разговаривать.[nointeract]"
-msgstr "[Ann_18]Max, non sono dell'umore giusto in questo momento e non voglio parlare.[nointeract]"
+msgid "[Ann_18]Макс, я сейчас не в настроении и не хочу разговаривать." nointeract
+msgstr "[Ann_18]Max, non sono dell'umore giusto in questo momento e non voglio parlare." nointeract
 
 # game/dialogues/anntalk.rpy:61
 translate crowdin Ann_asksorry_634d3dbe:
 
-msgid "[Ann_01]Да? Я тебя слушаю?[nointeract]"
-msgstr "[Ann_01]sì? Ti sto ascoltando?[nointeract]"
+msgid "[Ann_01]Да? Я тебя слушаю?" nointeract
+msgstr "[Ann_01]sì? Ti sto ascoltando?" nointeract
 
 # game/dialogues/anntalk.rpy:68
 translate crowdin Ann_normalmood_085fa1a6:
 
-msgid "[Ann_18]Макс, не сейчас, хорошо?[nointeract]"
-msgstr "[Ann_18]Max, non ora, ok?[nointeract]"
+msgid "[Ann_18]Макс, не сейчас, хорошо?" nointeract
+msgstr "[Ann_18]Max, non ora, ok?" nointeract
 
 # game/dialogues/anntalk.rpy:75
 translate crowdin Ann_cooldown_caafbb44:
@@ -51,62 +51,62 @@ msgstr "Nello scenario normale, questa riga non avrebbe dovuto apparire. Dillo a
 # game/dialogues/anntalk.rpy:86
 translate crowdin ann_ask_money_59ac536a:
 
-msgid "[Ann_05]Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста...[nointeract]"
-msgstr "[Ann_05]Max, vedi, sono impegnato in questo momento... Scegli un momento più appropriato, per favore...[nointeract]"
+msgid "[Ann_05]Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста..." nointeract
+msgstr "[Ann_05]Max, vedi, sono impegnato in questo momento... Scegli un momento più appropriato, per favore..." nointeract
 
 # game/dialogues/anntalk.rpy:91
 translate crowdin ann_ask_money_2dec4e10:
 
-msgid "[Ann_05]Очень смешно, Макс. Ты видишь у меня карманы? Нет? Выбери более подходящий момент, пожалуйста...[nointeract]"
-msgstr "[Ann_05]Molto divertente, Max. Vedi le mie tasche? No? Scegli un momento più appropriato, per favore...[nointeract]"
+msgid "[Ann_05]Очень смешно, Макс. Ты видишь у меня карманы? Нет? Выбери более подходящий момент, пожалуйста..." nointeract
+msgstr "[Ann_05]Molto divertente, Max. Vedi le mie tasche? No? Scegli un momento più appropriato, per favore..." nointeract
 
 # game/dialogues/anntalk.rpy:98
 translate crowdin ann_ask_money_81819136:
 
-msgid "[Ann_00]Макс, тебе не стыдно просить деньги у мамы, хотя сам целыми днями дома сидишь и ничего не делаешь?[nointeract]"
-msgstr "[Ann_00]Max, non ti vergogni di chiedere soldi a tua madre, anche se stai seduto a casa tutto il giorno e non fai nulla?[nointeract]"
+msgid "[Ann_00]Макс, тебе не стыдно просить деньги у мамы, хотя сам целыми днями дома сидишь и ничего не делаешь?" nointeract
+msgstr "[Ann_00]Max, non ti vergogni di chiedere soldi a tua madre, anche se stai seduto a casa tutto il giorno e non fai nulla?" nointeract
 
 # game/dialogues/anntalk.rpy:102
 translate crowdin ann_ask_money_cc7b3480:
 
-msgid "[Ann_04]Ладно, держи. И найди себе уже работу, хотя бы через интернет. Нам лишние деньги не помешают...[nointeract]"
-msgstr "[Ann_04]Va bene, tieni. E trova un lavoro, almeno attraverso Internet. I soldi extra non ci impediranno...[nointeract]"
+msgid "[Ann_04]Ладно, держи. И найди себе уже работу, хотя бы через интернет. Нам лишние деньги не помешают..." nointeract
+msgstr "[Ann_04]Va bene, tieni. E trova un lavoro, almeno attraverso Internet. I soldi extra non ci impediranno..." nointeract
 
 # game/dialogues/anntalk.rpy:113
 translate crowdin ann_ask_money_work_b06de883:
 
-msgid "[Ann_01]И что же, например?[nointeract]"
-msgstr "[Ann_01]E allora, per esempio?[nointeract]"
+msgid "[Ann_01]И что же, например?" nointeract
+msgstr "[Ann_01]E allora, per esempio?" nointeract
 
 # game/dialogues/anntalk.rpy:118
 translate crowdin ann_ask_money_work_0e83a6b3:
 
-msgid "[Ann_04]Отличная идея, Макс! Лучше уж я заплачу тебе $40, чем нанимать какого-то человека. Держи. Да, лучше это делать пока светло и никого нет.[nointeract]"
-msgstr "[Ann_04]Ottima idea, Max! Preferirei pagarti $ 40 piuttosto che assumere qualcuno. Aspettare. Sì, è meglio farlo mentre è leggero e non c'è nessuno.[nointeract]"
+msgid "[Ann_04]Отличная идея, Макс! Лучше уж я заплачу тебе $40, чем нанимать какого-то человека. Держи. Да, лучше это делать пока светло и никого нет." nointeract
+msgstr "[Ann_04]Ottima idea, Max! Preferirei pagarti $ 40 piuttosto che assumere qualcuno. Aspettare. Sì, è meglio farlo mentre è leggero e non c'è nessuno." nointeract
 
 # game/dialogues/anntalk.rpy:127
 translate crowdin ann_ask_money_work_db69fd50:
 
-msgid "[Ann_04]Хорошая мысль, Макс. Я дам тебе $50 на продукты и авансом $10 за твои услуги, так сказать. Устроит?[nointeract]"
-msgstr "[Ann_04]Buona idea, Max. Ti darò $ 50 per generi alimentari e $ 10 in anticipo per i tuoi servizi, per così dire. Vestito?[nointeract]"
+msgid "[Ann_04]Хорошая мысль, Макс. Я дам тебе $50 на продукты и авансом $10 за твои услуги, так сказать. Устроит?" nointeract
+msgstr "[Ann_04]Buona idea, Max. Ti darò $ 50 per generi alimentari e $ 10 in anticipo per i tuoi servizi, per così dire. Vestito?" nointeract
 
 # game/dialogues/anntalk.rpy:138
 translate crowdin ann_aboutfood_6a389713:
 
-msgid "[Ann_05]Спасибо, Макс. Продукты я или Алиса заберём, когда привезут. Об этом не беспокойся.[nointeract]"
-msgstr "[Ann_05]Grazie, Max. Io o Alice ritireremo i prodotti quando li porteranno. Non preoccuparti.[nointeract]"
+msgid "[Ann_05]Спасибо, Макс. Продукты я или Алиса заберём, когда привезут. Об этом не беспокойся." nointeract
+msgstr "[Ann_05]Grazie, Max. Io o Alice ritireremo i prodotti quando li porteranno. Non preoccuparti." nointeract
 
 # game/dialogues/anntalk.rpy:151
 translate crowdin ann_aboutpool_ddbab3e4:
 
-msgid "[Ann_05]Спасибо, Макс, на недельку этого должно хватить.[nointeract]"
-msgstr "[Ann_05]Grazie, Max, dovrebbe essere sufficiente per una settimana.[nointeract]"
+msgid "[Ann_05]Спасибо, Макс, на недельку этого должно хватить." nointeract
+msgstr "[Ann_05]Grazie, Max, dovrebbe essere sufficiente per una settimana." nointeract
 
 # game/dialogues/anntalk.rpy:168
 translate crowdin ann_talk_tv_3f2cda46:
 
-msgid "[Ann_00]Да так, всё подряд. Садись рядом, если хочешь...[nointeract]"
-msgstr "[Ann_00]sì, tutto. Siediti accanto a te se vuoi...[nointeract]"
+msgid "[Ann_00]Да так, всё подряд. Садись рядом, если хочешь..." nointeract
+msgstr "[Ann_00]sì, tutto. Siediti accanto a te se vuoi..." nointeract
 
 # game/dialogues/anntalk.rpy:173
 translate crowdin ann_talk_tv_b9644c38:
@@ -123,8 +123,8 @@ msgstr "[Max_02]{i}(La mamma è così vicina... In un asciugamano... Non so nemm
 # game/dialogues/anntalk.rpy:182
 translate crowdin ann_talk_tv_31044bb9:
 
-msgid "[Ann_05]Ну что, отличный фильм, как мне кажется! А тебе понравилось, Макс?[nointeract]"
-msgstr "[Ann_05]Beh, un grande film, credo! Ti è piaciuto, Max?[nointeract]"
+msgid "[Ann_05]Ну что, отличный фильм, как мне кажется! А тебе понравилось, Макс?" nointeract
+msgstr "[Ann_05]Beh, un grande film, credo! Ti è piaciuto, Max?" nointeract
 
 # game/dialogues/anntalk.rpy:186
 translate crowdin ann_talk_tv_3bc2ea57:
@@ -165,14 +165,14 @@ msgstr "[Max_03]sì, ben seduto..."
 # game/dialogues/anntalk.rpy:204
 translate crowdin ann_talk_tv_f84710e8:
 
-msgid "[Ann_05]Как хочешь, дорогой. А я что-нибудь посмотрю...[nointeract]"
-msgstr "[Ann_05]Come desideri, cara. E vedrò qualcosa...[nointeract]"
+msgid "[Ann_05]Как хочешь, дорогой. А я что-нибудь посмотрю..." nointeract
+msgstr "[Ann_05]Come desideri, cara. E vedrò qualcosa..." nointeract
 
 # game/dialogues/anntalk.rpy:212
 translate crowdin ann_talk_tv_first_movie_f195305d:
 
-msgid "[Ann_01]Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего...[nointeract]"
-msgstr "[Ann_01]sì, ogni sorta di sciocchezze. Volevo vedere un film. Siediti accanto a te se non c'è niente da fare...[nointeract]"
+msgid "[Ann_01]Да так, всякую ерунду. Хотела какой-нибудь фильм посмотреть. Садись рядом, если тоже делать нечего..." nointeract
+msgstr "[Ann_01]sì, ogni sorta di sciocchezze. Volevo vedere un film. Siediti accanto a te se non c'è niente da fare..." nointeract
 
 # game/dialogues/anntalk.rpy:218
 translate crowdin ann_talk_tv_first_movie_45629b2c:
@@ -189,32 +189,32 @@ msgstr "[Max_01]non ti disturberò..."
 # game/dialogues/anntalk.rpy:221
 translate crowdin ann_talk_tv_first_movie_3a5a46d3:
 
-msgid "[Ann_04]Я не знаю. Мне вот подруга посоветовала фильм с Томом Крузом и Николь Кидман, называется \"С широко закрытыми глазами\". Смотрел?[nointeract]"
-msgstr "[Ann_04]non lo so. Un amico ha consigliato un film con Tom Cruise e Nicole Kidman chiamato \"Eyes Wide Shut\". Guardato?[nointeract]"
+msgid "[Ann_04]Я не знаю. Мне вот подруга посоветовала фильм с Томом Крузом и Николь Кидман, называется \"С широко закрытыми глазами\". Смотрел?" nointeract
+msgstr "[Ann_04]non lo so. Un amico ha consigliato un film con Tom Cruise e Nicole Kidman chiamato \"Eyes Wide Shut\". Guardato?" nointeract
 
 # game/dialogues/anntalk.rpy:224
 translate crowdin ann_talk_tv_first_movie_01e23211:
 
-msgid "[Ann_05]Отлично! Вот сейчас и посмотрим, что там подруга насоветовала...[nointeract]"
-msgstr "[Ann_05]Eccellente! Ora vediamo cosa ha consigliato un amico lì...[nointeract]"
+msgid "[Ann_05]Отлично! Вот сейчас и посмотрим, что там подруга насоветовала..." nointeract
+msgstr "[Ann_05]Eccellente! Ora vediamo cosa ha consigliato un amico lì..." nointeract
 
 # game/dialogues/anntalk.rpy:231
 translate crowdin ann_talk_tv_first_movie_f174135b:
 
-msgid "[Ann_02]Да? И что ты о нём слышал? Хороший фильм? Стоит смотреть?[nointeract]"
-msgstr "[Ann_02]sì? E cosa hai sentito di lui? Un buon film? Vale la pena guardare?[nointeract]"
+msgid "[Ann_02]Да? И что ты о нём слышал? Хороший фильм? Стоит смотреть?" nointeract
+msgstr "[Ann_02]sì? E cosa hai sentito di lui? Un buon film? Vale la pena guardare?" nointeract
 
 # game/dialogues/anntalk.rpy:234
 translate crowdin ann_talk_tv_first_movie_12158efe:
 
-msgid "[Ann_05]Ну, раз отзывы хорошие, тогда, давай смотреть![nointeract]"
-msgstr "[Ann_05]Bene, visto che le recensioni sono buone, allora, guardiamo![nointeract]"
+msgid "[Ann_05]Ну, раз отзывы хорошие, тогда, давай смотреть!" nointeract
+msgstr "[Ann_05]Bene, visto che le recensioni sono buone, allora, guardiamo!" nointeract
 
 # game/dialogues/anntalk.rpy:240
 translate crowdin ann_talk_tv_ero_ea9d350a:
 
-msgid "[Ann_13]Правда?! Ой, Макс, извини, я не знала. Тогда, нам с тобой его точно смотреть вместе не следует. А подруге я всё скажу, за то, что не предупредила...[nointeract]"
-msgstr "[Ann_13]Davvero?! Oh, Max, scusa, non lo sapevo. Quindi, tu ed io non dovremmo assolutamente guardarlo insieme. E dirò tutto al mio amico, per non aver avvertito...[nointeract]"
+msgid "[Ann_13]Правда?! Ой, Макс, извини, я не знала. Тогда, нам с тобой его точно смотреть вместе не следует. А подруге я всё скажу, за то, что не предупредила..." nointeract
+msgstr "[Ann_13]Davvero?! Oh, Max, scusa, non lo sapevo. Quindi, tu ed io non dovremmo assolutamente guardarlo insieme. E dirò tutto al mio amico, per non aver avvertito..." nointeract
 
 # game/dialogues/anntalk.rpy:243
 translate crowdin ann_talk_tv_ero_e5c312c1:
@@ -285,8 +285,8 @@ msgstr "[Max_02]Beh, pensaci, Tom Cruise e Nicole Kidman avrebbero recitato nell
 # game/dialogues/anntalk.rpy:268
 translate crowdin ann_talk_tv_start_6382bd94:
 
-msgid "[Ann_15]Надеюсь, ты закрыл глаза, потому-что это уже слишком![nointeract]"
-msgstr "[Ann_15]spero che tu abbia chiuso gli occhi perché è troppo![nointeract]"
+msgid "[Ann_15]Надеюсь, ты закрыл глаза, потому-что это уже слишком!" nointeract
+msgstr "[Ann_15]spero che tu abbia chiuso gli occhi perché è troppo!" nointeract
 
 # game/dialogues/anntalk.rpy:275
 translate crowdin ann_talk_tv_start_166013e6:
@@ -339,20 +339,20 @@ msgstr "[Max_04]Sono contento che tu capisca"
 # game/dialogues/anntalk.rpy:294
 translate crowdin Ann_MorningWood_75ea92a8:
 
-msgid "[Ann_14]Но Макс. Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?[nointeract]"
-msgstr "[Ann_14]Ma Max. Lisa è ancora piccola e cerca di non vedere la tua... te. Quindi mi prendi, giusto?[nointeract]"
+msgid "[Ann_14]Но Макс. Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?" nointeract
+msgstr "[Ann_14]Ma Max. Lisa è ancora piccola e cerca di non vedere la tua... te. Quindi mi prendi, giusto?" nointeract
 
 # game/dialogues/anntalk.rpy:297
 translate crowdin Ann_MorningWood_4d3a269f:
 
-msgid "[Ann_04]Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром![nointeract]"
-msgstr "[Ann_04]Che cos'è? Sì, il fatto che una ragazza non dovrebbe vedere il pesante di suo fratello quando si sveglia la mattina![nointeract]"
+msgid "[Ann_04]Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром!" nointeract
+msgstr "[Ann_04]Che cos'è? Sì, il fatto che una ragazza non dovrebbe vedere il pesante di suo fratello quando si sveglia la mattina!" nointeract
 
 # game/dialogues/anntalk.rpy:300
 translate crowdin Ann_MorningWood_31985b42:
 
-msgid "[Ann_07]Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу...[nointeract]"
-msgstr "[Ann_07]Mi dispiace, qualcosa mi ha infastidito. Semplicemente, anche io sono rimasto scioccato quando ho visto, e cosa possiamo dire di Lisa...[nointeract]"
+msgid "[Ann_07]Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу..." nointeract
+msgstr "[Ann_07]Mi dispiace, qualcosa mi ha infastidito. Semplicemente, anche io sono rimasto scioccato quando ho visto, e cosa possiamo dire di Lisa..." nointeract
 
 # game/dialogues/anntalk.rpy:303
 translate crowdin Ann_MorningWood_20707248:
@@ -369,8 +369,8 @@ msgstr "[Max_00]Va bene, mamma..."
 # game/dialogues/anntalk.rpy:308
 translate crowdin Ann_MorningWood_0bac3ba4:
 
-msgid "[Ann_12]Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?[nointeract]"
-msgstr "[Ann_12]Beh, attrae anche una donna adulta, ma è ovviamente troppo presto per una ragazza per guardare questo, mi hai capito?[nointeract]"
+msgid "[Ann_12]Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?" nointeract
+msgstr "[Ann_12]Beh, attrae anche una donna adulta, ma è ovviamente troppo presto per una ragazza per guardare questo, mi hai capito?" nointeract
 
 # game/dialogues/anntalk.rpy:311
 translate crowdin Ann_MorningWood_845bcbb0:
@@ -411,14 +411,14 @@ msgstr "[Max_00]Va bene, mamma..."
 # game/dialogues/anntalk.rpy:332
 translate crowdin talk_about_smoking_becba3c8:
 
-msgid "[Ann_12]Макс. Я не уверена, но мне кажется, что чувствую запах сигаретного дыма. К нам кто-то приходил?[nointeract]"
-msgstr "[Ann_12]Max. Non ne sono sicuro, ma penso di sentire l'odore del fumo di sigaretta. Qualcuno è venuto da noi?[nointeract]"
+msgid "[Ann_12]Макс. Я не уверена, но мне кажется, что чувствую запах сигаретного дыма. К нам кто-то приходил?" nointeract
+msgstr "[Ann_12]Max. Non ne sono sicuro, ma penso di sentire l'odore del fumo di sigaretta. Qualcuno è venuto da noi?" nointeract
 
 # game/dialogues/anntalk.rpy:342
 translate crowdin talk_about_smoking_812b7a4b:
 
-msgid "[Ann_00]Точно? Макс, ты ничего не хочешь рассказать?[nointeract]"
-msgstr "[Ann_00]esattamente? Max, non vuoi dirti nulla?[nointeract]"
+msgid "[Ann_00]Точно? Макс, ты ничего не хочешь рассказать?" nointeract
+msgstr "[Ann_00]esattamente? Max, non vuoi dirti nulla?" nointeract
 
 # game/dialogues/anntalk.rpy:345
 translate crowdin talk_about_smoking_b75bee26:
@@ -429,8 +429,8 @@ msgstr "[Ann_01]sì? Beh, forse lo ha fatto davvero. O dai vicini imbrogliati...
 # game/dialogues/anntalk.rpy:349
 translate crowdin talk_about_smoking_bc384657:
 
-msgid "[Alice_03]Спасибо, Макс, что не сдал меня... Я это ценю.[nointeract]"
-msgstr "[Alice_03]Grazie, Max, per non avermi strozzato in... Lo apprezzo.[nointeract]"
+msgid "[Alice_03]Спасибо, Макс, что не сдал меня... Я это ценю." nointeract
+msgstr "[Alice_03]Grazie, Max, per non avermi strozzato in... Lo apprezzo." nointeract
 
 # game/dialogues/anntalk.rpy:353
 translate crowdin talk_about_smoking_582d9cb8:
@@ -447,14 +447,14 @@ msgstr "[Max_01]sì. Ok, ceniamo"
 # game/dialogues/anntalk.rpy:360
 translate crowdin talk_about_smoking_ae9788a4:
 
-msgid "[Alice_16]Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты...[nointeract]"
-msgstr "[Alice_16]Max! Sei insopportabile. Pensavo già che tu fossi un fratello normale, e tu...[nointeract]"
+msgid "[Alice_16]Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты..." nointeract
+msgstr "[Alice_16]Max! Sei insopportabile. Pensavo già che tu fossi un fratello normale, e tu..." nointeract
 
 # game/dialogues/anntalk.rpy:371
 translate crowdin talk_about_smoking_82373ff8:
 
-msgid "[Alice_13]Макс! Опять ты за своё? Не будь придурком![nointeract]"
-msgstr "[Alice_13]Max! Sei di nuovo per te? Non essere un coglione![nointeract]"
+msgid "[Alice_13]Макс! Опять ты за своё? Не будь придурком!" nointeract
+msgstr "[Alice_13]Max! Sei di nuovo per te? Non essere un coglione!" nointeract
 
 # game/dialogues/anntalk.rpy:383
 translate crowdin talk_about_smoking_joke_eaa2da91:
@@ -495,8 +495,8 @@ msgstr "[Max_01]sì, esattamente!"
 # game/dialogues/anntalk.rpy:399
 translate crowdin ann_about_kiss_060b6710:
 
-msgid "[Ann_04]Ого! Поздравляю, Макс. Наконец-то ты нашёл кого-то. Расскажи, какая она?[nointeract]"
-msgstr "[Ann_04]'s ow! Congratulazioni, Max. Hai finalmente trovato qualcuno. Dicci di cosa si tratta?[nointeract]"
+msgid "[Ann_04]Ого! Поздравляю, Макс. Наконец-то ты нашёл кого-то. Расскажи, какая она?" nointeract
+msgstr "[Ann_04]'s ow! Congratulazioni, Max. Hai finalmente trovato qualcuno. Dicci di cosa si tratta?" nointeract
 
 # game/dialogues/anntalk.rpy:402
 translate crowdin ann_about_kiss_b3dba2cb:
@@ -765,8 +765,8 @@ msgstr "[Ann_05]Esattamente, Max. Grazie per la compagnia, insieme molto più di
 # game/dialogues/anntalk.rpy:496
 translate crowdin ann_yoga_with_max0_fb97042e:
 
-msgid "[Max_01]Хорошо, мам. Это я с радостью![nointeract]"
-msgstr "[Max_01]Va bene, mamma. Sono io con gioia![nointeract]"
+msgid "[Max_01]Хорошо, мам. Это я с радостью!" nointeract
+msgstr "[Max_01]Va bene, mamma. Sono io con gioia!" nointeract
 
 # game/dialogues/anntalk.rpy:506
 translate crowdin yoga_after_peeping_81dfb3e8:
@@ -801,8 +801,8 @@ msgstr "[Max_11]Ok, capito..."
 # game/dialogues/anntalk.rpy:524
 translate crowdin ann_yoga_with_maxr_6cc59cc4:
 
-msgid "[Ann_05]Конечно, Макс, зачем спрашиваешь... Если ты ещё не созрел проверить свою гибкость, то просто смотри и помогай, если я попрошу. Ну и запоминай, что я делаю...[nointeract]"
-msgstr "[Ann_05]Certo, Max, perché stai chiedendo... Se non sei ancora maturato per testare la tua flessibilità, guarda e aiuta se te lo chiedo. Beh, ricorda cosa sto facendo...[nointeract]"
+msgid "[Ann_05]Конечно, Макс, зачем спрашиваешь... Если ты ещё не созрел проверить свою гибкость, то просто смотри и помогай, если я попрошу. Ну и запоминай, что я делаю..." nointeract
+msgstr "[Ann_05]Certo, Max, perché stai chiedendo... Se non sei ancora maturato per testare la tua flessibilità, guarda e aiuta se te lo chiedo. Beh, ricorda cosa sto facendo..." nointeract
 
 # game/dialogues/anntalk.rpy:527
 translate crowdin ann_yoga_with_maxr_77a6f27b:
@@ -987,8 +987,8 @@ msgstr "[Ann_04]Phew... Questa è probabilmente la fine. Grazie per aver tenuto 
 # game/dialogues/anntalk.rpy:589
 translate crowdin ann_yoga_with_maxr_4e133757:
 
-msgid "[Max_01]С радостью, мам! Обязательно...[nointeract]"
-msgstr "[Max_01]Con gioia, mamma! Deve...[nointeract]"
+msgid "[Max_01]С радостью, мам! Обязательно..." nointeract
+msgstr "[Max_01]Con gioia, mamma! Deve..." nointeract
 
 # game/dialogues/anntalk.rpy:601
 translate crowdin ann_gift_fit1_d73a8076:
@@ -1077,8 +1077,8 @@ msgstr "[Max_05]{i}(Oh sì... La mamma ha un corpo così straordinario! È così
 # game/dialogues/anntalk.rpy:633
 translate crowdin ann_gift_fit1_0056777b:
 
-msgid "[Ann_04]Ну всё, мой дорогой, не будем же мы так часами стоять обниматься, пора делами заняться...[nointeract]"
-msgstr "[Ann_04]Beh, mia cara, non stiamo lì per ore ad abbracciarci, è ora di fare affari...[nointeract]"
+msgid "[Ann_04]Ну всё, мой дорогой, не будем же мы так часами стоять обниматься, пора делами заняться..." nointeract
+msgstr "[Ann_04]Beh, mia cara, non stiamo lì per ore ad abbracciarci, è ora di fare affari..." nointeract
 
 # game/dialogues/anntalk.rpy:636
 translate crowdin ann_gift_fit1_bad26272:
@@ -1095,8 +1095,8 @@ msgstr "[Max_06]{i}(Uhh, ma come voglio tirare mia madre a me per il suo appetit
 # game/dialogues/anntalk.rpy:640
 translate crowdin ann_gift_fit1_c5ca0730:
 
-msgid "[Ann_04]Ну вот, дорогой. Теперь, давай заниматься своими делами...[nointeract]"
-msgstr "[Ann_04]Oh caro. Ora, andiamo avanti con i nostri affari...[nointeract]"
+msgid "[Ann_04]Ну вот, дорогой. Теперь, давай заниматься своими делами..." nointeract
+msgstr "[Ann_04]Oh caro. Ora, andiamo avanti con i nostri affari..." nointeract
 
 # game/dialogues/anntalk.rpy:643
 translate crowdin ann_gift_fit1_e41c68c6:
@@ -1185,14 +1185,14 @@ msgstr "[Max_02]{i}( Solo nei film in macchina si può guidare una ragazza così
 # game/dialogues/anntalk.rpy:697
 translate crowdin erofilm2_1_5b1b90d2:
 
-msgid "[Max_08]{i}( Вот чёрт! Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт. ){/i}[nointeract]"
-msgstr "[Max_08]{i}(Accidenti! l'ho immaginato invano... Se mia madre vede il mio riser, allora la visione finirà sicuramente per me. Anche se, indosso una maglietta... Forse non se ne accorgerà, ma non è un dato di fatto. ){/i}[nointeract]"
+msgid "[Max_08]{i}( Вот чёрт! Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. Хотя, на мне майка... Может она и не заметит, но не факт. ){/i}" nointeract
+msgstr "[Max_08]{i}(Accidenti! l'ho immaginato invano... Se mia madre vede il mio riser, allora la visione finirà sicuramente per me. Anche se, indosso una maglietta... Forse non se ne accorgerà, ma non è un dato di fatto. ){/i}" nointeract
 
 # game/dialogues/anntalk.rpy:700
 translate crowdin erofilm2_1_181a0d25:
 
-msgid "[Max_08]{i}( Вот чёрт! Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли. ){/i}[nointeract]"
-msgstr "[Max_08]{i}(Accidenti! l'ho immaginato invano... Se mia madre vede il mio riser, allora la visione finirà sicuramente per me. Sicuramente non nasconderò il mio in questi pantaloncini ora! Forse, ovviamente, non se ne accorgerà, ma è improbabile. ){/i}[nointeract]"
+msgid "[Max_08]{i}( Вот чёрт! Зря я это представил... Если мама увидит мой стояк, то просмотр для меня точно закончится. В этих шортах я точно свой член сейчас не спрячу! Может, конечно, она и не заметит, но вряд ли. ){/i}" nointeract
+msgstr "[Max_08]{i}(Accidenti! l'ho immaginato invano... Se mia madre vede il mio riser, allora la visione finirà sicuramente per me. Sicuramente non nasconderò il mio in questi pantaloncini ora! Forse, ovviamente, non se ne accorgerà, ma è improbabile. ){/i}" nointeract
 
 # game/dialogues/anntalk.rpy:704
 translate crowdin erofilm2_1_4bc4fcc1:
@@ -1407,8 +1407,8 @@ msgstr "[Ann_17]Allora, Max... Questa volta immaginiamo di non aver sentito null
 # game/dialogues/anntalk.rpy:796
 translate crowdin erofilm2_2_dcbf8bc3:
 
-msgid "[Max_08]{i}( Эх, мам... Уже поздно. И о таком зрелище я точно в ближайшее время не смогу забыть! Надеюсь, она не заметит, что у меня стоит... Но не факт, может стоит подстраховаться? ){/i}[nointeract]"
-msgstr "[Max_08]{i}( Uh, mamma... È troppo tardi. E non potrò dimenticare un tale spettacolo nel prossimo futuro! Spero che non si accorga di quello che ho... Ma non il fatto, forse vale la pena assicurarlo? ){/i}[nointeract]"
+msgid "[Max_08]{i}( Эх, мам... Уже поздно. И о таком зрелище я точно в ближайшее время не смогу забыть! Надеюсь, она не заметит, что у меня стоит... Но не факт, может стоит подстраховаться? ){/i}" nointeract
+msgstr "[Max_08]{i}( Uh, mamma... È troppo tardi. E non potrò dimenticare un tale spettacolo nel prossimo futuro! Spero che non si accorga di quello che ho... Ma non il fatto, forse vale la pena assicurarlo? ){/i}" nointeract
 
 # game/dialogues/anntalk.rpy:799
 translate crowdin erofilm2_2_6748e4f4:
@@ -1473,8 +1473,8 @@ msgstr "[Max_07]Come fai a sapere che sono normali? Non stiamo facendo nulla di 
 # game/dialogues/anntalk.rpy:823
 translate crowdin erofilm2_2_7125d86d:
 
-msgid "[Max_05]{i}( Уххх... А у мамы ведь полотенце сползло... И она это ещё не заметила! Должно быть, мой массаж действительно её хорошо расслабил! Надо продолжать... Или лучше сказать? ){/i}[nointeract]"
-msgstr "[Max_05]{i}( Uhhhh E l'asciugamano di mia madre scivolò ... E lei non se ne era ancora accorta! Il mio massaggio deve averla rilassata molto bene! Dobbiamo andare avanti... O per meglio dire? ){/i}[nointeract]"
+msgid "[Max_05]{i}( Уххх... А у мамы ведь полотенце сползло... И она это ещё не заметила! Должно быть, мой массаж действительно её хорошо расслабил! Надо продолжать... Или лучше сказать? ){/i}" nointeract
+msgstr "[Max_05]{i}( Uhhhh E l'asciugamano di mia madre scivolò ... E lei non se ne era ancora accorta! Il mio massaggio deve averla rilassata molto bene! Dobbiamo andare avanti... O per meglio dire? ){/i}" nointeract
 
 # game/dialogues/anntalk.rpy:830
 translate crowdin erofilm2_2_549298fc:
@@ -1605,8 +1605,8 @@ msgstr "[Max_03]Dove vedi i bambini qui?"
 # game/dialogues/anntalk.rpy:900
 translate crowdin erofilm2_2_end_film_08fc031d:
 
-msgid "[Ann_06]Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят...[nointeract]"
-msgstr "[Ann_06]Questo è tutto. Detective interessante... Mi è piaciuto. Ma questo film non è nemmeno vicino ad essere fatto per i bambini...[nointeract]"
+msgid "[Ann_06]Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..." nointeract
+msgstr "[Ann_06]Questo è tutto. Detective interessante... Mi è piaciuto. Ma questo film non è nemmeno vicino ad essere fatto per i bambini..." nointeract
 
 # game/dialogues/anntalk.rpy:905
 translate crowdin erofilm2_2_end_film_4c76bd57:

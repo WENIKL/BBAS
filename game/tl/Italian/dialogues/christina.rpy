@@ -87,8 +87,8 @@ msgstr "[Max_07]Non è vero! Due volte dieci!"
 # game/dialogues/christina.rpy:25
 translate crowdin christina_first_talk_0f071789:
 
-msgid "[Christine_03]А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить...[nointeract]"
-msgstr "[Christine_03]Forse tutte e tre le volte dieci? Ok, sto uscendo con te, ho ancora qualcosa da consegnare...[nointeract]"
+msgid "[Christine_03]А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить..." nointeract
+msgstr "[Christine_03]Forse tutte e tre le volte dieci? Ok, sto uscendo con te, ho ancora qualcosa da consegnare..." nointeract
 
 # game/dialogues/christina.rpy:28
 translate crowdin christina_first_talk_13d9bbd2:

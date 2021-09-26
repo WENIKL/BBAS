@@ -171,8 +171,8 @@ msgstr "[Max_10]non sono più colpevole!"
 # game/dialogues/punishment.rpy:161
 translate crowdin punishment_max_aa40f9a0:
 
-msgid "[Ann_17]Не виноват, значит? Снова? Кажется, ты не осознаёшь, что это последнее предупреждение и в следующий раз я тебя выпорю на глазах у сестёр. Ты меня понял? А теперь рассказывай, что натворил, чтобы все были в курсе![nointeract]"
-msgstr "[Ann_17]non è colpevole, allora? Ancora una volta? Sembra che tu non ti renda conto che questo è l'ultimo avvertimento e la prossima volta ti spoorrò di fronte alle mie sorelle. Mi hai capito? E ora dicci cosa hai fatto in modo che tutti lo sappiano![nointeract]"
+msgid "[Ann_17]Не виноват, значит? Снова? Кажется, ты не осознаёшь, что это последнее предупреждение и в следующий раз я тебя выпорю на глазах у сестёр. Ты меня понял? А теперь рассказывай, что натворил, чтобы все были в курсе!" nointeract
+msgstr "[Ann_17]non è colpevole, allora? Ancora una volta? Sembra che tu non ti renda conto che questo è l'ultimo avvertimento e la prossima volta ti spoorrò di fronte alle mie sorelle. Mi hai capito? E ora dicci cosa hai fatto in modo che tutti lo sappiano!" nointeract
 
 # game/dialogues/punishment.rpy:163
 translate crowdin punishment_max_81902265:
@@ -183,8 +183,8 @@ msgstr "[Max_10]non sono colpevole!"
 # game/dialogues/punishment.rpy:164
 translate crowdin punishment_max_3cc1d6e0:
 
-msgid "[Ann_17]Не виноват, значит? А я думаю, что ещё как виноват. В этот раз тебе повезло, это всего лишь первое предупреждение. Надеюсь, второго не потребуется... Кстати, можешь всем рассказать, что ты натворил...[nointeract]"
-msgstr "[Ann_17]non è colpevole, allora? E penso che sia ancora da biasimare. Questa volta sei fortunato, è solo il primo avvertimento. Spero che non ne abbiate bisogno di un secondo... A proposito, puoi dire a tutti cosa hai fatto...[nointeract]"
+msgid "[Ann_17]Не виноват, значит? А я думаю, что ещё как виноват. В этот раз тебе повезло, это всего лишь первое предупреждение. Надеюсь, второго не потребуется... Кстати, можешь всем рассказать, что ты натворил..." nointeract
+msgstr "[Ann_17]non è colpevole, allora? E penso che sia ancora da biasimare. Questa volta sei fortunato, è solo il primo avvertimento. Spero che non ne abbiate bisogno di un secondo... A proposito, puoi dire a tutti cosa hai fatto..." nointeract
 
 # game/dialogues/punishment.rpy:182
 translate crowdin punishment_max_pun_reson_2be684f3:
@@ -261,20 +261,20 @@ msgstr "[Max_09]Vigliacco!"
 # game/dialogues/punishment.rpy:212
 translate crowdin punishment_max_pun_reson_b1c59edb:
 
-msgid "[Ann_18]Ты не закончил, Макс. Продолжай...[nointeract]"
-msgstr "[Ann_18]Non hai finito, Max. Vai avanti...[nointeract]"
+msgid "[Ann_18]Ты не закончил, Макс. Продолжай..." nointeract
+msgstr "[Ann_18]Non hai finito, Max. Vai avanti..." nointeract
 
 # game/dialogues/punishment.rpy:214
 translate crowdin punishment_max_pun_reson_bcdffc42:
 
-msgid "[Ann_18]Дальше, Макс, мы тебя внимательно слушаем...[nointeract]"
-msgstr "[Ann_18]Avanti, Max, ti stiamo ascoltando attentamente...[nointeract]"
+msgid "[Ann_18]Дальше, Макс, мы тебя внимательно слушаем..." nointeract
+msgstr "[Ann_18]Avanti, Max, ti stiamo ascoltando attentamente..." nointeract
 
 # game/dialogues/punishment.rpy:216
 translate crowdin punishment_max_pun_reson_a9365548:
 
-msgid "[Ann_18]А ты про кое-что ещё не забыл?[nointeract]"
-msgstr "[Ann_18]Hai dimenticato qualcos'altro?[nointeract]"
+msgid "[Ann_18]А ты про кое-что ещё не забыл?" nointeract
+msgstr "[Ann_18]Hai dimenticato qualcos'altro?" nointeract
 
 # game/dialogues/punishment.rpy:218
 translate crowdin punishment_max_pun_reson_33837bf7:
@@ -297,8 +297,8 @@ msgstr "[Ann_12]In generale, questa volta la questione è stata risolta. Tutti h
 # game/dialogues/punishment.rpy:223
 translate crowdin punishment_max_pun_reson_bf38fe93:
 
-msgid "[Ann_16]Макс! Сейчас ты будешь наказан, сам знаешь за что![nointeract]"
-msgstr "[Ann_16]Max! Ora sarai punito, sai cosa![nointeract]"
+msgid "[Ann_16]Макс! Сейчас ты будешь наказан, сам знаешь за что!" nointeract
+msgstr "[Ann_16]Max! Ora sarai punito, sai cosa!" nointeract
 
 # game/dialogues/punishment.rpy:229
 translate crowdin punishment_max_pun_reson_db52f1d4:
@@ -315,8 +315,8 @@ msgstr "[Max_08]Grazie, mamma!"
 # game/dialogues/punishment.rpy:241
 translate crowdin punishment_max_pun_reson_291cc499:
 
-msgid "[Ann_19][failed!t]Вот так просто? \"Я не виноват\" и всё забудем? Нет, Макс, со мной эти шуточки не прокатят. Давай, снимай [_text!t] и ложись на мои колени. Надеюсь, ты сегодня в трусах...[nointeract]"
-msgstr "[Ann_19][failed!t] È così semplice? \"Non sono colpevole\" e dimenticare tutto? No, Max, queste battute non mi andranno a rotoli. Dai, decolla [_text!t] e sdraiati sulle mie ginocchia. Spero che oggi tu sia in mutande...[nointeract]"
+msgid "[Ann_19][failed!t]Вот так просто? \"Я не виноват\" и всё забудем? Нет, Макс, со мной эти шуточки не прокатят. Давай, снимай [_text!t] и ложись на мои колени. Надеюсь, ты сегодня в трусах..." nointeract
+msgstr "[Ann_19][failed!t] È così semplice? \"Non sono colpevole\" e dimenticare tutto? No, Max, queste battute non mi andranno a rotoli. Dai, decolla [_text!t] e sdraiati sulle mie ginocchia. Spero che oggi tu sia in mutande..." nointeract
 
 # game/dialogues/punishment.rpy:250
 translate crowdin punishment_max_pun_reson_8b8f1722:
@@ -353,20 +353,20 @@ msgstr "[Ann_12]Bene. Ora tutti capiscono tutto? Comportati bene e non stai aspe
 # game/dialogues/punishment.rpy:295
 translate crowdin punishment_max_pun_reson_2f01137f:
 
-msgid "[Ann_12]Ну, Макс, раздевайся до трусов. Остальные просто посмотрят, что бывает, когда кто-то косячит...[nointeract]"
-msgstr "[Ann_12]Bene, Max, spogliati fino alle mutandine. Il resto vedrà solo cosa succede quando qualcuno falcia...[nointeract]"
+msgid "[Ann_12]Ну, Макс, раздевайся до трусов. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+msgstr "[Ann_12]Bene, Max, spogliati fino alle mutandine. Il resto vedrà solo cosa succede quando qualcuno falcia..." nointeract
 
 # game/dialogues/punishment.rpy:300
 translate crowdin punishment_max_pun_reson_09e2a1e5:
 
-msgid "[Ann_12]Ну, Макс, снимай шорты. Остальные просто посмотрят, что бывает, когда кто-то косячит...[nointeract]"
-msgstr "[Ann_12]Bene, Max, togliti i pantaloncini. Il resto vedrà solo cosa succede quando qualcuno falcia...[nointeract]"
+msgid "[Ann_12]Ну, Макс, снимай шорты. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+msgstr "[Ann_12]Bene, Max, togliti i pantaloncini. Il resto vedrà solo cosa succede quando qualcuno falcia..." nointeract
 
 # game/dialogues/punishment.rpy:305
 translate crowdin punishment_max_pun_reson_ad895117:
 
-msgid "[Ann_12]Ну, Макс, раздевайся. Остальные просто посмотрят, что бывает, когда кто-то косячит...[nointeract]"
-msgstr "[Ann_12]Bene, Max, spogliati. Il resto vedrà solo cosa succede quando qualcuno falcia...[nointeract]"
+msgid "[Ann_12]Ну, Макс, раздевайся. Остальные просто посмотрят, что бывает, когда кто-то косячит..." nointeract
+msgstr "[Ann_12]Bene, Max, spogliati. Il resto vedrà solo cosa succede quando qualcuno falcia..." nointeract
 
 # game/dialogues/punishment.rpy:313
 translate crowdin punishment_max_pun_reson_2f871657:
@@ -409,8 +409,8 @@ msgstr "[Ann_16][_text!t]"
 # game/dialogues/punishment.rpy:406
 translate crowdin punishment_lisa_0b6806cc:
 
-msgid "[Ann_16][_text!t][nointeract]"
-msgstr "[Ann_16][_text!t][nointeract]"
+msgid "[Ann_16][_text!t]" nointeract
+msgstr "[Ann_16][_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:410
 translate crowdin punishment_lisa_f1ea86d0:
@@ -481,8 +481,8 @@ msgstr "[Ann_18][_text!t]"
 # game/dialogues/punishment.rpy:455
 translate crowdin punishment_lisa_67c8b436:
 
-msgid "[Ann_18][_text!t][nointeract]"
-msgstr "[Ann_18][_text!t][nointeract]"
+msgid "[Ann_18][_text!t]" nointeract
+msgstr "[Ann_18][_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:460
 translate crowdin punishment_lisa_a1d39e4d:
@@ -607,8 +607,8 @@ msgstr "[Ann_18][_text!t]"
 # game/dialogues/punishment.rpy:572
 translate crowdin punishment_alice_67c8b436:
 
-msgid "[Ann_18][_text!t][nointeract]"
-msgstr "[Ann_18][_text!t][nointeract]"
+msgid "[Ann_18][_text!t]" nointeract
+msgstr "[Ann_18][_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:576
 translate crowdin punishment_alice_cb34e360:
@@ -733,8 +733,8 @@ msgstr "[Ann_18][_text!t]"
 # game/dialogues/punishment.rpy:646
 translate crowdin punishment_alice_67c8b436_1:
 
-msgid "[Ann_18][_text!t][nointeract]"
-msgstr "[Ann_18][_text!t][nointeract]"
+msgid "[Ann_18][_text!t]" nointeract
+msgstr "[Ann_18][_text!t]" nointeract
 
 # game/dialogues/punishment.rpy:650
 translate crowdin punishment_alice_cb34e360_1:

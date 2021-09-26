@@ -4,81 +4,81 @@
 translate crowdin ann_sleep_240f8eab:
 
 msgid "[Max_00]В это время мама обычно спит.\n"
-"Мне кажется, не стоит её будить...[nointeract]"
+"Мне кажется, не стоит её будить..." nointeract
 msgstr "[Max_00]In questo momento, la mamma di solito dorme.\n"
-"Non credo che dovresti svegliarla...[nointeract]"
+"Non credo che dovresti svegliarla..." nointeract
 
 # game/events/ann.rpy:18
 translate crowdin ann_sleep_261d0248:
 
-msgid "[Max_01]Класс! Мама спит... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
-msgstr "[Max_01]classe! La mamma dorme... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita![nointeract]"
+msgid "[Max_01]Класс! Мама спит... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!" nointeract
+msgstr "[Max_01]classe! La mamma dorme... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita!" nointeract
 
 # game/events/ann.rpy:20
 translate crowdin ann_sleep_3060fb81:
 
-msgid "[Max_04]О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер![nointeract]"
-msgstr "[Max_04]Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Semplicemente fantastico![nointeract]"
+msgid "[Max_04]О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер!" nointeract
+msgstr "[Max_04]Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Semplicemente fantastico!" nointeract
 
 # game/events/ann.rpy:22
 translate crowdin ann_sleep_dfc27cd6:
 
-msgid "[Max_07]Обалденно! Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется![nointeract]"
-msgstr "[Max_07]fantastico! Quanto sono fortunata ad avere una mamma così calda... Sembra incredibile, non vuoi strapparti gli occhi![nointeract]"
+msgid "[Max_07]Обалденно! Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!" nointeract
+msgstr "[Max_07]fantastico! Quanto sono fortunata ad avere una mamma così calda... Sembra incredibile, non vuoi strapparti gli occhi!" nointeract
 
 # game/events/ann.rpy:25
 translate crowdin ann_sleep_697ba3b2:
 
-msgid "[Max_01]Класс! Мама спит в ночнушке... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
-msgstr "[Max_01]classe! La mamma dorme in camicia da notte... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita![nointeract]"
+msgid "[Max_01]Класс! Мама спит в ночнушке... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!" nointeract
+msgstr "[Max_01]classe! La mamma dorme in camicia da notte... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita!" nointeract
 
 # game/events/ann.rpy:27
 translate crowdin ann_sleep_21484aea:
 
-msgid "[Max_04]О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Её попку даже немного видно через ночнушку![nointeract]"
-msgstr "[Max_04]Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Il suo è anche leggermente visibile attraverso la camicia da notte![nointeract]"
+msgid "[Max_04]О, да! Какая у мамы попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Её попку даже немного видно через ночнушку!" nointeract
+msgstr "[Max_04]Oh sì! Che di mamma! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Il suo è anche leggermente visibile attraverso la camicia da notte!" nointeract
 
 # game/events/ann.rpy:29
 translate crowdin ann_sleep_8a07d51f:
 
-msgid "[Max_07]Обалденно! Как же повезло, что у меня такая горячая мама... В этой ночнушке она выглядит потрясающе, аж глаза отрывать не хочется![nointeract]"
-msgstr "[Max_07]fantastico! Quanto sono fortunata ad avere una mamma così calda... In questa camicia da notte sembra incredibile, già gli occhi non vogliono strapparsi![nointeract]"
+msgid "[Max_07]Обалденно! Как же повезло, что у меня такая горячая мама... В этой ночнушке она выглядит потрясающе, аж глаза отрывать не хочется!" nointeract
+msgstr "[Max_07]fantastico! Quanto sono fortunata ad avere una mamma così calda... In questa camicia da notte sembra incredibile, già gli occhi non vogliono strapparsi!" nointeract
 
 # game/events/ann.rpy:38
 translate crowdin ann_sleep_d5c35f70:
 
-msgid "[Max_03]Чёрт, у меня самая аппетитная мама на свете! Вот бы снять с неё всё белье и пристроиться сзади... Но лучше потихоньку уходить, пока она не проснулась.[nointeract]"
-msgstr "[Max_03]accidenti, ho la mamma più appetitosa del mondo! Vorrei potermi togliere tutta la biancheria intima e attaccarmi alla schiena... Ma è meglio andarsene lentamente prima che si svegli.[nointeract]"
+msgid "[Max_03]Чёрт, у меня самая аппетитная мама на свете! Вот бы снять с неё всё белье и пристроиться сзади... Но лучше потихоньку уходить, пока она не проснулась." nointeract
+msgstr "[Max_03]accidenti, ho la mamma più appetitosa del mondo! Vorrei potermi togliere tutta la biancheria intima e attaccarmi alla schiena... Ma è meglio andarsene lentamente prima che si svegli." nointeract
 
 # game/events/ann.rpy:40
 translate crowdin ann_sleep_c99b810c:
 
-msgid "[Max_02]Ухх! Так и хочется прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться.[nointeract]"
-msgstr "[Max_02]Uhhh Quindi voglio accoccolarmi in questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi.[nointeract]"
+msgid "[Max_02]Ухх! Так и хочется прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться." nointeract
+msgstr "[Max_02]Uhhh Quindi voglio accoccolarmi in questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi." nointeract
 
 # game/events/ann.rpy:42
 translate crowdin ann_sleep_acd8f5fc:
 
-msgid "[Max_05]Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительно! Только бы она сейчас не проснулась...[nointeract]"
-msgstr "[Max_05]Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo allettante! Se solo non si svegliasse ora...[nointeract]"
+msgid "[Max_05]Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительно! Только бы она сейчас не проснулась..." nointeract
+msgstr "[Max_05]Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo allettante! Se solo non si svegliasse ora..." nointeract
 
 # game/events/ann.rpy:45
 translate crowdin ann_sleep_72364154:
 
-msgid "[Max_03]Чёрт, у меня самая аппетитная мама на свете! Вот бы пристроиться сзади и запустить руки под эту сорочку... Но лучше потихоньку уходить, пока она не проснулась.[nointeract]"
-msgstr "[Max_03]accidenti, ho la mamma più appetitosa del mondo! Vorrei dover sedermi e passare le mani sotto questa camicia... Ma è meglio andarsene lentamente prima che si svegli.[nointeract]"
+msgid "[Max_03]Чёрт, у меня самая аппетитная мама на свете! Вот бы пристроиться сзади и запустить руки под эту сорочку... Но лучше потихоньку уходить, пока она не проснулась." nointeract
+msgstr "[Max_03]accidenti, ho la mamma più appetitosa del mondo! Vorrei dover sedermi e passare le mani sotto questa camicia... Ma è meglio andarsene lentamente prima che si svegli." nointeract
 
 # game/events/ann.rpy:47
 translate crowdin ann_sleep_fd1a61fb:
 
-msgid "[Max_02]Ухх! Так и хочется задрать её сорочку, прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться.[nointeract]"
-msgstr "[Max_02]Uhhh Quindi voglio tirarle su la camicia, accoccolarmi fino a questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi.[nointeract]"
+msgid "[Max_02]Ухх! Так и хочется задрать её сорочку, прижаться к этой обворожительной попке и шалить всю ночь... Но пора уходить, а то она может проснуться." nointeract
+msgstr "[Max_02]Uhhh Quindi voglio tirarle su la camicia, accoccolarmi fino a questo affascinante e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi." nointeract
 
 # game/events/ann.rpy:49
 translate crowdin ann_sleep_0107c89f:
 
-msgid "[Max_05]Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком уж соблазнительно она выглядит в этой сорочке! Только бы она сейчас не проснулась...[nointeract]"
-msgstr "[Max_05]Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo seducente lei guarda in questa camicia! Se solo non si svegliasse ora...[nointeract]"
+msgid "[Max_05]Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком уж соблазнительно она выглядит в этой сорочке! Только бы она сейчас не проснулась..." nointeract
+msgstr "[Max_05]Wow! La vista di quelle gambe allargate fa sì che sia mia madre... Troppo seducente lei guarda in questa camicia! Se solo non si svegliasse ora..." nointeract
 
 # game/events/ann.rpy:60
 translate crowdin ann_shower_05e06b33:
@@ -101,14 +101,14 @@ msgstr "[Max_00]Oggi mia madre mi ha quasi catturato oggi. Non tentare il destin
 # game/events/ann.rpy:69
 translate crowdin ann_shower_9c2211b3:
 
-msgid "[Max_00]Мама сейчас принимает душ...[nointeract]"
-msgstr "[Max_00]mamma si sta facendo la doccia ora...[nointeract]"
+msgid "[Max_00]Мама сейчас принимает душ..." nointeract
+msgstr "[Max_00]mamma si sta facendo la doccia ora..." nointeract
 
 # game/events/ann.rpy:75
 translate crowdin ann_shower_39468bae:
 
-msgid "[Max_00]Похоже, мама принимает душ...[nointeract]"
-msgstr "[Max_00]Sembra che la mamma si stia facendo la doccia...[nointeract]"
+msgid "[Max_00]Похоже, мама принимает душ..." nointeract
+msgstr "[Max_00]Sembra che la mamma si stia facendo la doccia..." nointeract
 
 # game/events/ann.rpy:87
 translate crowdin ann_shower_ladder_2b325faf:
@@ -155,8 +155,8 @@ msgstr "[Max_00]preferirei andarmene prima che qualcuno vede..."
 # game/events/ann.rpy:122
 translate crowdin ann_shower_start_peeping_f0132630:
 
-msgid "[Max_07]Ух, аж завораживает! Повезло же, что у меня такая сексуальная мама... Надеюсь, она меня не заметит...[nointeract]"
-msgstr "[Max_07]Ukh, è affascinante! Fortunato ad avere una mamma così sexy... Spero che non si accorga di me...[nointeract]"
+msgid "[Max_07]Ух, аж завораживает! Повезло же, что у меня такая сексуальная мама... Надеюсь, она меня не заметит..." nointeract
+msgstr "[Max_07]Ukh, è affascinante! Fortunato ad avere una mamma così sexy... Spero che non si accorga di me..." nointeract
 
 # game/events/ann.rpy:144
 translate crowdin ann_shower_alt_peepeng_e486fb14:
@@ -193,14 +193,14 @@ msgstr "[Max_12]{color=[orange]}{i}Sembra che mia madre sospettasse qualcosa! {/
 # game/events/ann.rpy:185
 translate crowdin ann_shower_not_luck_9b36810d:
 
-msgid "[Ann_15][spotted!t]Макс!!! Что ты здесь делаешь? А ну быстро отвернись!!![nointeract]"
-msgstr "[Ann_15][spotted!t]Max!!! Che ci fai qui? E allontanati rapidamente!!![nointeract]"
+msgid "[Ann_15][spotted!t]Макс!!! Что ты здесь делаешь? А ну быстро отвернись!!!" nointeract
+msgstr "[Ann_15][spotted!t]Max!!! Che ci fai qui? E allontanati rapidamente!!!" nointeract
 
 # game/events/ann.rpy:197
 translate crowdin ann_shower_serious_talk_9d79db42:
 
-msgid "[Ann_19]Ты что, подглядываешь за мной? Тебе должно быть стыдно! Нас ждёт серьёзный разговор...[nointeract]"
-msgstr "[Ann_19]Mi stai spiando? Dovresti vergognarti! Avremo una conversazione seria...[nointeract]"
+msgid "[Ann_19]Ты что, подглядываешь за мной? Тебе должно быть стыдно! Нас ждёт серьёзный разговор..." nointeract
+msgstr "[Ann_19]Mi stai spiando? Dovresti vergognarti! Avremo una conversazione seria..." nointeract
 
 # game/events/ann.rpy:202
 translate crowdin ann_shower_serious_talk_5cc0688c:
@@ -253,14 +253,14 @@ msgstr "[Max_14]Va bene..."
 # game/events/ann.rpy:256
 translate crowdin ann_dressed_work_7b31f3ed:
 
-msgid "[Max_09]Сейчас 10 часов, а значит, мама собирается на работу...[nointeract]"
-msgstr "[Max_09]Sono le 10, il che significa che mia madre sta andando al lavoro...[nointeract]"
+msgid "[Max_09]Сейчас 10 часов, а значит, мама собирается на работу..." nointeract
+msgstr "[Max_09]Sono le 10, il che significa che mia madre sta andando al lavoro..." nointeract
 
 # game/events/ann.rpy:259
 translate crowdin ann_dressed_work_b21abe2e:
 
-msgid "[Ann]{b}Анна:{/b} Кто там?[nointeract]"
-msgstr "[Ann]{b}Anna:{/b} Chi c'è?[nointeract]"
+msgid "[Ann]{b}Анна:{/b} Кто там?" nointeract
+msgstr "[Ann]{b}Anna:{/b} Chi c'è?" nointeract
 
 # game/events/ann.rpy:262
 translate crowdin ann_dressed_work_2e55a9e3:
@@ -289,8 +289,8 @@ msgstr "[Max_00]Va bene, mamma."
 # game/events/ann.rpy:281
 translate crowdin ann_dressed_work_79ab0f47:
 
-msgid "[Ann_13]Макс! Я же учила тебя стучаться![nointeract]"
-msgstr "[Ann_13]Max! Ti ho insegnato a bussare![nointeract]"
+msgid "[Ann_13]Макс! Я же учила тебя стучаться!" nointeract
+msgstr "[Ann_13]Max! Ti ho insegnato a bussare!" nointeract
 
 # game/events/ann.rpy:285
 translate crowdin ann_dressed_work_66960e11:
@@ -451,8 +451,8 @@ msgstr "[Max_05]{i}(Oh sì... Ho davvero la migliore mamma del mondo! Che figura
 # game/events/ann.rpy:352
 translate crowdin ann_dressed_work_gift_b6991faf:
 
-msgid "[Ann_04]Ну всё, мой дорогой, мне уже скоро на работу и нужно успеть сделать ещё кое-какие дела...[nointeract]"
-msgstr "[Ann_04]Beh, mia cara, lavorerò presto e ho bisogno di avere tempo per fare altre cose...[nointeract]"
+msgid "[Ann_04]Ну всё, мой дорогой, мне уже скоро на работу и нужно успеть сделать ещё кое-какие дела..." nointeract
+msgstr "[Ann_04]Beh, mia cara, lavorerò presto e ho bisogno di avere tempo per fare altre cose..." nointeract
 
 # game/events/ann.rpy:358
 translate crowdin ann_dressed_work_gift_e66adddb:
@@ -469,14 +469,14 @@ msgstr "[Max_06]{i}(Wow! È ancora più di quanto speravo... Ed è altrettanto b
 # game/events/ann.rpy:364
 translate crowdin ann_dressed_work_gift_c0df5b86:
 
-msgid "[Ann_04]А теперь иди, сынок... Пора заниматься делами.[nointeract]"
-msgstr "[Ann_04]Ora vai, figliolo... È tempo di fare le cose.[nointeract]"
+msgid "[Ann_04]А теперь иди, сынок... Пора заниматься делами." nointeract
+msgstr "[Ann_04]Ora vai, figliolo... È tempo di fare le cose." nointeract
 
 # game/events/ann.rpy:384
 translate crowdin ann_dressed_work_fail_a9cf1e2d:
 
-msgid "[Ann_01][_text!t]Макс, я так на работу не успею собраться... Давай, сынок, иди... Пора заниматься делами.[nointeract]"
-msgstr "[Ann_01][_text!t] Max, non avrò il tempo di prepararmi per il lavoro... Dai, figliolo, vai... È tempo di fare le cose.[nointeract]"
+msgid "[Ann_01][_text!t]Макс, я так на работу не успею собраться... Давай, сынок, иди... Пора заниматься делами." nointeract
+msgstr "[Ann_01][_text!t] Max, non avrò il tempo di prepararmi per il lavoro... Dai, figliolo, vai... È tempo di fare le cose." nointeract
 
 # game/events/ann.rpy:392
 translate crowdin ann_dressed_work_loveyou_e41c68c6:
@@ -493,14 +493,14 @@ msgstr "[Ann_02]Grazie, figliolo! E anche tu..."
 # game/events/ann.rpy:418
 translate crowdin ann_dressed_shop_d4cf236b:
 
-msgid "[Max_09]Сегодня суббота, день шоппинга. Видимо, мама собирается...[nointeract]"
-msgstr "[Max_09]Oggi è sabato, una giornata di shopping. Apparentemente, la mamma sta per...[nointeract]"
+msgid "[Max_09]Сегодня суббота, день шоппинга. Видимо, мама собирается..." nointeract
+msgstr "[Max_09]Oggi è sabato, una giornata di shopping. Apparentemente, la mamma sta per..." nointeract
 
 # game/events/ann.rpy:421
 translate crowdin ann_dressed_shop_b21abe2e:
 
-msgid "[Ann]{b}Анна:{/b} Кто там?[nointeract]"
-msgstr "[Ann]{b}Anna:{/b} Chi c'è?[nointeract]"
+msgid "[Ann]{b}Анна:{/b} Кто там?" nointeract
+msgstr "[Ann]{b}Anna:{/b} Chi c'è?" nointeract
 
 # game/events/ann.rpy:424
 translate crowdin ann_dressed_shop_bf2abaef:
@@ -529,8 +529,8 @@ msgstr "[Max_00]Va bene, mamma."
 # game/events/ann.rpy:443
 translate crowdin ann_dressed_shop_79ab0f47:
 
-msgid "[Ann_13]Макс! Я же учила тебя стучаться![nointeract]"
-msgstr "[Ann_13]Max! Ti ho insegnato a bussare![nointeract]"
+msgid "[Ann_13]Макс! Я же учила тебя стучаться!" nointeract
+msgstr "[Ann_13]Max! Ti ho insegnato a bussare!" nointeract
 
 # game/events/ann.rpy:447
 translate crowdin ann_dressed_shop_66960e11:
@@ -679,8 +679,8 @@ msgstr "[Max_05]{i}(Oh sì... Ho davvero la migliore mamma del mondo! Che figura
 # game/events/ann.rpy:509
 translate crowdin ann_dressed_shop_gift_cda3b4f9:
 
-msgid "[Ann_04]Ну всё, мой дорогой, нам с девочками ещё нужно успеть пробежаться по магазинам сегодня...[nointeract]"
-msgstr "[Ann_04]Beh, mia cara, io e le ragazze abbiamo ancora bisogno di avere tempo per correre tra i negozi oggi...[nointeract]"
+msgid "[Ann_04]Ну всё, мой дорогой, нам с девочками ещё нужно успеть пробежаться по магазинам сегодня..." nointeract
+msgstr "[Ann_04]Beh, mia cara, io e le ragazze abbiamo ancora bisogno di avere tempo per correre tra i negozi oggi..." nointeract
 
 # game/events/ann.rpy:515
 translate crowdin ann_dressed_shop_gift_e66adddb:
@@ -697,14 +697,14 @@ msgstr "[Max_06]{i}(Wow! È ancora più di quanto speravo... Ed è altrettanto b
 # game/events/ann.rpy:521
 translate crowdin ann_dressed_shop_gift_c0df5b86:
 
-msgid "[Ann_04]А теперь иди, сынок... Пора заниматься делами.[nointeract]"
-msgstr "[Ann_04]Ora vai, figliolo... È tempo di fare le cose.[nointeract]"
+msgid "[Ann_04]А теперь иди, сынок... Пора заниматься делами." nointeract
+msgstr "[Ann_04]Ora vai, figliolo... È tempo di fare le cose." nointeract
 
 # game/events/ann.rpy:541
 translate crowdin ann_dressed_shop_fail_f49b0b30:
 
-msgid "[Ann_01][_text!t]Макс, мне нужно ещё успеть сделать кое-какие дела... Давай, сынок, иди... Займись чем-нибудь.[nointeract]"
-msgstr "[Ann_01][_text!t] Max, ho ancora un po' di tempo per fare alcune cose... Dai, figliolo, vai... Fate qualcosa.[nointeract]"
+msgid "[Ann_01][_text!t]Макс, мне нужно ещё успеть сделать кое-какие дела... Давай, сынок, иди... Займись чем-нибудь." nointeract
+msgstr "[Ann_01][_text!t] Max, ho ancora un po' di tempo per fare alcune cose... Dai, figliolo, vai... Fate qualcosa." nointeract
 
 # game/events/ann.rpy:549
 translate crowdin ann_dressed_shop_loveyou_e41c68c6:
@@ -721,26 +721,26 @@ msgstr "[Ann_02]Grazie, figliolo! E anche tu..."
 # game/events/ann.rpy:632
 translate crowdin ann_bath_9132bdea:
 
-msgid "[Max_00]Видимо, мама принимает ванну...[nointeract]"
-msgstr "[Max_00]A quanto pare, mia madre fa il bagno...[nointeract]"
+msgid "[Max_00]Видимо, мама принимает ванну..." nointeract
+msgstr "[Max_00]A quanto pare, mia madre fa il bagno..." nointeract
 
 # game/events/ann.rpy:635
 translate crowdin ann_bath_cddc6bee:
 
-msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну![nointeract]"
-msgstr "[Ann]{b}Anna:{/b} Chi c'è? Faccio il bagno![nointeract]"
+msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну!" nointeract
+msgstr "[Ann]{b}Anna:{/b} Chi c'è? Faccio il bagno!" nointeract
 
 # game/events/ann.rpy:638
 translate crowdin ann_bath_29fc0d16:
 
-msgid "[Ann]{b}Анна:{/b} Дорогой, что ты хотел?[nointeract]"
-msgstr "[Ann]{b}Anna:{/b} Tesoro, cosa volevi?[nointeract]"
+msgid "[Ann]{b}Анна:{/b} Дорогой, что ты хотел?" nointeract
+msgstr "[Ann]{b}Anna:{/b} Tesoro, cosa volevi?" nointeract
 
 # game/events/ann.rpy:642
 translate crowdin ann_bath_13e7202f:
 
-msgid "[Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри![nointeract]"
-msgstr "[Ann]{b}Anna:{/b} Beh... va bene, entra. Basta non guardare![nointeract]"
+msgid "[Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри!" nointeract
+msgstr "[Ann]{b}Anna:{/b} Beh... va bene, entra. Basta non guardare!" nointeract
 
 # game/events/ann.rpy:666
 translate crowdin ann_bath_9b9b753a:
@@ -763,8 +763,8 @@ msgstr "[Max_00]Uh... peccato che il vetro sia parzialmente opaco. Quindi non pu
 # game/events/ann.rpy:675
 translate crowdin ann_bath_617c9a2e:
 
-msgid "[Max_09]Нужно что-нибудь придумать...[nointeract]"
-msgstr "[Max_09]Bisogno di inventare qualcosa...[nointeract]"
+msgid "[Max_09]Нужно что-нибудь придумать..." nointeract
+msgstr "[Max_09]Bisogno di inventare qualcosa..." nointeract
 
 # game/events/ann.rpy:683
 translate crowdin ann_bath_6a58c36d:
@@ -781,26 +781,26 @@ msgstr "[Max_04]Vediamo cosa abbiamo qui..."
 # game/events/ann.rpy:706
 translate crowdin ann_bath_ladder_55a4f81a:
 
-msgid "[Max_03]Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит...[nointeract]"
-msgstr "[Max_03]Oh, che caldo! Certo, non sto parlando dell'acqua, ma del suo aspetto. Uh... La mamma sembra incredibile...[nointeract]"
+msgid "[Max_03]Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит..." nointeract
+msgstr "[Max_03]Oh, che caldo! Certo, non sto parlando dell'acqua, ma del suo aspetto. Uh... La mamma sembra incredibile..." nointeract
 
 # game/events/ann.rpy:712
 translate crowdin ann_bath_ladder_e2ffea21:
 
-msgid "[Max_05]Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...[nointeract]"
-msgstr "[Max_05]Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque...[nointeract]"
+msgid "[Max_05]Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно..." nointeract
+msgstr "[Max_05]Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque..." nointeract
 
 # game/events/ann.rpy:721
 translate crowdin ann_bath_ladder_e2ffea21_1:
 
-msgid "[Max_05]Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...[nointeract]"
-msgstr "[Max_05]Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque...[nointeract]"
+msgid "[Max_05]Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно..." nointeract
+msgstr "[Max_05]Wow, è affascinante! Le procedure dell'acqua della madre possono competere con i video erotici più caldi! Questi seni elastici e queste gambe lunghe e sottili faranno impazzire chiunque..." nointeract
 
 # game/events/ann.rpy:727
 translate crowdin ann_bath_ladder_36138fd2:
 
-msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
-msgstr "[Max_07]Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha...[nointeract]"
+msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка..." nointeract
+msgstr "[Max_07]Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha..." nointeract
 
 translate crowdin strings:
 

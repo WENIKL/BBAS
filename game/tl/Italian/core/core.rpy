@@ -15,8 +15,8 @@ msgstr "[Max_19]Ora puoi dormire sonni tranquilli e niente di più..."
 # game/core/core.rpy:553
 translate crowdin cam_after_waiting_6058d5d4:
 
-msgid "[Max_09]Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
-msgstr "[Max_09]penso che guardare le telecamere ora non sia l'idea migliore. Non c'era abbastanza per Lisa per notare qualcosa... Forse dovresti andare in veranda? Non dovrebbe esserci nessuno lì ora...[nointeract]"
+msgid "[Max_09]Думаю, просматривать сейчас камеры не самая лучшая идея. Не хватало ещё, чтобы Лиза что-то заметила... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
+msgstr "[Max_09]penso che guardare le telecamere ora non sia l'idea migliore. Non c'era abbastanza per Lisa per notare qualcosa... Forse dovresti andare in veranda? Non dovrebbe esserci nessuno lì ora..." nointeract
 
 # game/core/core.rpy:561
 translate crowdin cam_after_waiting_c283f316:
@@ -27,14 +27,14 @@ msgstr "[Max_09]Lisa è nella stanza in questo momento... E sulla veranda il pos
 # game/core/core.rpy:565
 translate crowdin cam_after_waiting_38f46f18:
 
-msgid "[Max_09]Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила...[nointeract]"
-msgstr "[Max_09]Meglio vedere le telecamere altrove! Non è bastato a Lisa notare qualcosa...[nointeract]"
+msgid "[Max_09]Лучше просматривать камеры в другом месте! Не хватало ещё, чтобы Лиза что-то заметила..." nointeract
+msgstr "[Max_09]Meglio vedere le telecamere altrove! Non è bastato a Lisa notare qualcosa..." nointeract
 
 # game/core/core.rpy:577
 translate crowdin cam_after_waiting_d4f49617:
 
-msgid "[Max_09]Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть...[nointeract]"
-msgstr "[Max_09]Forse non dovresti guardare le telecamere ora. Lisa potrebbe svegliarsi e notare quello che sto facendo... Forse dovresti andare in veranda? Non dovrebbe esserci nessuno lì ora...[nointeract]"
+msgid "[Max_09]Пожалуй, не стоит сейчас просматривать камеры. Лиза может проснуться и заметить, что я делаю... Может, стоит пойти на веранду? Там сейчас не должно никого быть..." nointeract
+msgstr "[Max_09]Forse non dovresti guardare le telecamere ora. Lisa potrebbe svegliarsi e notare quello che sto facendo... Forse dovresti andare in veranda? Non dovrebbe esserci nessuno lì ora..." nointeract
 
 # game/core/core.rpy:585
 translate crowdin cam_after_waiting_c283f316_1:
@@ -45,8 +45,8 @@ msgstr "[Max_09]Lisa è nella stanza in questo momento... E sulla veranda il pos
 # game/core/core.rpy:589
 translate crowdin cam_after_waiting_eea92f18:
 
-msgid "[Max_09]Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю...[nointeract]"
-msgstr "[Max_09]Meglio vedere le telecamere altrove! Lisa potrebbe svegliarsi e notare quello che sto facendo...[nointeract]"
+msgid "[Max_09]Лучше просматривать камеры в другом месте! Лиза может проснуться и заметить, что я делаю..." nointeract
+msgstr "[Max_09]Meglio vedere le telecamere altrove! Lisa potrebbe svegliarsi e notare quello che sto facendo..." nointeract
 
 # game/core/core.rpy:645
 translate crowdin cam_after_waiting_27f05bf1:

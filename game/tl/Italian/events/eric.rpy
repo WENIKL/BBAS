@@ -15,8 +15,8 @@ msgstr "[Max_01]Certo..."
 # game/events/eric.rpy:16
 translate crowdin Eric_talk_afterdinner_7bba59ab:
 
-msgid "[Eric_05]Я заметил, что ты настроен вполне дружелюбно. Для меня важно подружиться с твоей семьёй, чтобы твоя мама не испытывала дискомфорт на этой почве, если ты меня понимаешь...[nointeract]"
-msgstr "[Eric_05]ho notato che sei abbastanza amichevole. Per me è importante fare amicizia con la tua famiglia in modo che tua madre non si senta a disagio, se mi capisci...[nointeract]"
+msgid "[Eric_05]Я заметил, что ты настроен вполне дружелюбно. Для меня важно подружиться с твоей семьёй, чтобы твоя мама не испытывала дискомфорт на этой почве, если ты меня понимаешь..." nointeract
+msgstr "[Eric_05]ho notato che sei abbastanza amichevole. Per me è importante fare amicizia con la tua famiglia in modo che tua madre non si senta a disagio, se mi capisci..." nointeract
 
 # game/events/eric.rpy:23
 translate crowdin Eric_talk_afterdinner_0d5cb7f0:
@@ -27,8 +27,8 @@ msgstr "[Max_00]Beh, dai..."
 # game/events/eric.rpy:25
 translate crowdin Eric_talk_afterdinner_6065daea:
 
-msgid "[Eric_09]Я знаю, что мы начали знакомство не идеально, но мне показалось, что мы можем найти общий язык. Для меня важно, чтобы твоя мама не испытывала какой-либо дискомфорт из-за этого...[nointeract]"
-msgstr "[Eric_09]so che non abbiamo iniziato a frequentarci perfettamente, ma mi è sembrato che potessimo trovare un linguaggio comune. Per me è importante che tua madre non provi alcun disagio al riguardo...[nointeract]"
+msgid "[Eric_09]Я знаю, что мы начали знакомство не идеально, но мне показалось, что мы можем найти общий язык. Для меня важно, чтобы твоя мама не испытывала какой-либо дискомфорт из-за этого..." nointeract
+msgstr "[Eric_09]so che non abbiamo iniziato a frequentarci perfettamente, ma mi è sembrato che potessimo trovare un linguaggio comune. Per me è importante che tua madre non provi alcun disagio al riguardo..." nointeract
 
 # game/events/eric.rpy:32
 translate crowdin Eric_talk_afterdinner_3d2bc793:
@@ -39,44 +39,44 @@ msgstr "[Max_09]Ho una scelta?"
 # game/events/eric.rpy:34
 translate crowdin Eric_talk_afterdinner_f01572f3:
 
-msgid "[Eric_13]Ты знаешь, мы начали знакомство как-то совсем неудачно. Предлагаю как-то уладить этот конфликт. Я бы очень не хотел, чтобы твоя мама испытывала дискомфорт по этому поводу...[nointeract]"
-msgstr "[Eric_13]Sai, abbiamo iniziato la nostra conoscenza in qualche modo senza successo. Propongo di risolvere in qualche modo questo conflitto. Non vorrei davvero che tua madre si sentisse a disagio per questo...[nointeract]"
+msgid "[Eric_13]Ты знаешь, мы начали знакомство как-то совсем неудачно. Предлагаю как-то уладить этот конфликт. Я бы очень не хотел, чтобы твоя мама испытывала дискомфорт по этому поводу..." nointeract
+msgstr "[Eric_13]Sai, abbiamo iniziato la nostra conoscenza in qualche modo senza successo. Propongo di risolvere in qualche modo questo conflitto. Non vorrei davvero che tua madre si sentisse a disagio per questo..." nointeract
 
 # game/events/eric.rpy:45
 translate crowdin Eric_talk_afterdinner_good_576d188f:
 
-msgid "[Eric_01]Отлично. Если мы подружимся, ты не пожалеешь, Макс. Но, чтобы убедиться, давай вернёмся к этому разговору через неделю. Если мы найдём общий язык, то всё будет отлично. Ну а если нет...[nointeract]"
-msgstr "[Eric_01]Ottimo. Se facciamo amicizia, non te ne pentirai, Max. Ma per essere sicuri, torniamo a quella conversazione tra una settimana. Se troviamo un linguaggio comune, allora tutto andrà bene. Beh, se no...[nointeract]"
+msgid "[Eric_01]Отлично. Если мы подружимся, ты не пожалеешь, Макс. Но, чтобы убедиться, давай вернёмся к этому разговору через неделю. Если мы найдём общий язык, то всё будет отлично. Ну а если нет..." nointeract
+msgstr "[Eric_01]Ottimo. Se facciamo amicizia, non te ne pentirai, Max. Ma per essere sicuri, torniamo a quella conversazione tra una settimana. Se troviamo un linguaggio comune, allora tutto andrà bene. Beh, se no..." nointeract
 
 # game/events/eric.rpy:57
 translate crowdin Eric_talk_afterdinner_bad_5431f4ad:
 
-msgid "[Eric_01]Я бы на твоём месте не искал врага там, где его нет. Предлагаю вернуться к этому разговору через неделю. Если мы подружимся, ты не пожалеешь. А вот если решишь со мной воевать, то ты точно проиграешь...[nointeract]"
-msgstr "[Eric_01]non cercherei un nemico al tuo posto dove non ce n'è. Suggerisco di tornare a questa conversazione tra una settimana. Se facciamo amicizia, non te ne pentirai. Ma se decidi di combattere con me, perderai sicuramente...[nointeract]"
+msgid "[Eric_01]Я бы на твоём месте не искал врага там, где его нет. Предлагаю вернуться к этому разговору через неделю. Если мы подружимся, ты не пожалеешь. А вот если решишь со мной воевать, то ты точно проиграешь..." nointeract
+msgstr "[Eric_01]non cercherei un nemico al tuo posto dove non ce n'è. Suggerisco di tornare a questa conversazione tra una settimana. Se facciamo amicizia, non te ne pentirai. Ma se decidi di combattere con me, perderai sicuramente..." nointeract
 
 # game/events/eric.rpy:65
 translate crowdin Eric_talk_afterdinner_what_bd2c8839:
 
-msgid "[Eric_05]Если решишь испытать судьбу, то сам всё скоро узнаешь. У меня есть влияние, деньги, харизма. А главное - я умею убеждать и подчинять других людей. А что есть у тебя?[nointeract]"
-msgstr "[Eric_05]Se decidi di tentare la fortuna, scoprirai presto tutto da solo. Ho influenza, denaro, carisma. E, soprattutto, so come convincere e sottomettere le altre persone. Che cosa avete?[nointeract]"
+msgid "[Eric_05]Если решишь испытать судьбу, то сам всё скоро узнаешь. У меня есть влияние, деньги, харизма. А главное - я умею убеждать и подчинять других людей. А что есть у тебя?" nointeract
+msgstr "[Eric_05]Se decidi di tentare la fortuna, scoprirai presto tutto da solo. Ho influenza, denaro, carisma. E, soprattutto, so come convincere e sottomettere le altre persone. Che cosa avete?" nointeract
 
 # game/events/eric.rpy:74
 translate crowdin Eric_talk_afterdinner_what_3a292d72:
 
-msgid "[Eric_02]Правда? А я вот уже слышал, что Алиса относится к тебе как к маленькому извращенцу, Лиза рядом с тобой просто потому, что других защитников в доме не было, а мать смотрит на тебя как на неудачника...[nointeract]"
-msgstr "[Eric_02]Davvero? E ho già sentito che Alice ti tratta come una piccola pervertita, Lisa è accanto a te semplicemente perché non c'erano altri difensori in casa, e sua madre ti guarda come un perdente...[nointeract]"
+msgid "[Eric_02]Правда? А я вот уже слышал, что Алиса относится к тебе как к маленькому извращенцу, Лиза рядом с тобой просто потому, что других защитников в доме не было, а мать смотрит на тебя как на неудачника..." nointeract
+msgstr "[Eric_02]Davvero? E ho già sentito che Alice ti tratta come una piccola pervertita, Lisa è accanto a te semplicemente perché non c'erano altri difensori in casa, e sua madre ti guarda come un perdente..." nointeract
 
 # game/events/eric.rpy:84
 translate crowdin Eric_talk_afterdinner_what_c8163074:
 
-msgid "[Eric_02]Серьёзно? И как ты с этими мозгами довёл ситуацию до того, что Алиса в тебе видит маленького извращенца, подглядывающего из-за угла. Лиза рядом только потому, что других защитников не было, а мать... смотрит на тебя как на неудачника![nointeract]"
-msgstr "[Eric_02]Serio? E come hai portato la situazione con questi cervelli al punto che Alice vede in te un piccolo pervertito che fa capolino da dietro l'angolo. Lisa è lì solo perché non c'erano altri difensori, e sua madre... ti guarda come un perdente![nointeract]"
+msgid "[Eric_02]Серьёзно? И как ты с этими мозгами довёл ситуацию до того, что Алиса в тебе видит маленького извращенца, подглядывающего из-за угла. Лиза рядом только потому, что других защитников не было, а мать... смотрит на тебя как на неудачника!" nointeract
+msgstr "[Eric_02]Serio? E come hai portato la situazione con questi cervelli al punto che Alice vede in te un piccolo pervertito che fa capolino da dietro l'angolo. Lisa è lì solo perché non c'erano altri difensori, e sua madre... ti guarda come un perdente!" nointeract
 
 # game/events/eric.rpy:92
 translate crowdin Eric_talk_afterdinner_bullshit_efb61ad4:
 
-msgid "[Eric_09]Ну не знаю... Даже если что-то ещё и не так, то с моей помощью всё так и будет, поверь... Но повторюсь, я не хочу с тобой воевать и лучше бы ты был на моей стороне...[nointeract]"
-msgstr "[Eric_09]Beh, non lo so... Anche se c'è qualcos'altro che non va, allora con il mio aiuto tutto sarà così, credetemi... Ma ancora una volta, non voglio combatterti e preferirei essere dalla mia parte...[nointeract]"
+msgid "[Eric_09]Ну не знаю... Даже если что-то ещё и не так, то с моей помощью всё так и будет, поверь... Но повторюсь, я не хочу с тобой воевать и лучше бы ты был на моей стороне..." nointeract
+msgstr "[Eric_09]Beh, non lo so... Anche se c'è qualcos'altro che non va, allora con il mio aiuto tutto sarà così, credetemi... Ma ancora una volta, non voglio combatterti e preferirei essere dalla mia parte..." nointeract
 
 # game/events/eric.rpy:100
 translate crowdin Eric_talk_afterdinner_shesaid_d48a9a8b:
@@ -87,26 +87,26 @@ msgstr "[Eric_09]Beh, non a parole, ma lo vedo dall'esterno. Sei stato cacciato 
 # game/events/eric.rpy:102
 translate crowdin Eric_talk_afterdinner_shesaid_de4eb4e2:
 
-msgid "[Eric_00]Но повторюсь, я не хочу с тобой воевать. Наоборот, я бы хотел с тобой подружиться и если ты будешь на моей стороне, ты только выиграешь...[nointeract]"
-msgstr "[Eric_00]Ma ancora una volta, non voglio combatterti. Al contrario, vorrei fare amicizia con te e se sei dalla mia parte, vincerai solo...[nointeract]"
+msgid "[Eric_00]Но повторюсь, я не хочу с тобой воевать. Наоборот, я бы хотел с тобой подружиться и если ты будешь на моей стороне, ты только выиграешь..." nointeract
+msgstr "[Eric_00]Ma ancora una volta, non voglio combatterti. Al contrario, vorrei fare amicizia con te e se sei dalla mia parte, vincerai solo..." nointeract
 
 # game/events/eric.rpy:112
 translate crowdin Eric_talk_afterdinner_ok_b9f85d9a:
 
-msgid "[Eric_05]Смотря как пройдёт наше общение за следующую неделю. Если помиримся, то я буду помогать решать твои проблемы, ну а ты мои, если такие возникнут с твоей семьёй...[nointeract]"
-msgstr "[Eric_05]A seconda di come andrà la nostra comunicazione la prossima settimana. Se ci riconciliamo, allora ti aiuterò a risolvere i tuoi problemi, ma tu sei mio, se questo sorge con la tua famiglia...[nointeract]"
+msgid "[Eric_05]Смотря как пройдёт наше общение за следующую неделю. Если помиримся, то я буду помогать решать твои проблемы, ну а ты мои, если такие возникнут с твоей семьёй..." nointeract
+msgstr "[Eric_05]A seconda di come andrà la nostra comunicazione la prossima settimana. Se ci riconciliamo, allora ti aiuterò a risolvere i tuoi problemi, ma tu sei mio, se questo sorge con la tua famiglia..." nointeract
 
 # game/events/eric.rpy:115
 translate crowdin Eric_talk_afterdinner_ok_4dcd84ae:
 
-msgid "[Eric_00]Ты слишком забегаешь вперёд, Макс. Давай сначала посмотрим на то, как всё пойдёт. Дай мне хотя бы шанс тебя убедить...[nointeract]"
-msgstr "[Eric_00]Stai andando troppo avanti, Max. Vediamo prima come vanno le cose. Dammi almeno la possibilità di convincerti...[nointeract]"
+msgid "[Eric_00]Ты слишком забегаешь вперёд, Макс. Давай сначала посмотрим на то, как всё пойдёт. Дай мне хотя бы шанс тебя убедить..." nointeract
+msgstr "[Eric_00]Stai andando troppo avanti, Max. Vediamo prima come vanno le cose. Dammi almeno la possibilità di convincerti..." nointeract
 
 # game/events/eric.rpy:127
 translate crowdin Eric_talk_afterdinner_no_099d542e:
 
-msgid "[Eric_00]Ну, как хочешь. Надеюсь, в тебе сейчас говорят эмоции, а не здравый смысл. У тебя есть неделя, чтобы передумать. Тогда и поговорим снова и будет ясно, как быть.[nointeract]"
-msgstr "[Eric_00]Beh, quello che vuoi. Spero che tu stia parlando di emozioni ora, non di buon senso. Hai una settimana per cambiare idea. Poi parleremo di nuovo e sarà chiaro come essere.[nointeract]"
+msgid "[Eric_00]Ну, как хочешь. Надеюсь, в тебе сейчас говорят эмоции, а не здравый смысл. У тебя есть неделя, чтобы передумать. Тогда и поговорим снова и будет ясно, как быть." nointeract
+msgstr "[Eric_00]Beh, quello che vuoi. Spero che tu stia parlando di emozioni ora, non di buon senso. Hai una settimana per cambiare idea. Poi parleremo di nuovo e sarà chiaro come essere." nointeract
 
 # game/events/eric.rpy:137
 translate crowdin Eric_talk_afterdinner_friend_9b6bd24d:
@@ -135,8 +135,8 @@ msgstr "[Max_01]Certo!"
 # game/events/eric.rpy:154
 translate crowdin Eric_talk_afterdinner_second_talk_5a895ebf:
 
-msgid "[Eric_05]Отлично! Ну что, вроде бы ты и правда настроен на дружбу. Я прав?[nointeract]"
-msgstr "[Eric_05]Eccellente! Bene, sembra che tu sia davvero pronto per l'amicizia. Ho ragione?[nointeract]"
+msgid "[Eric_05]Отлично! Ну что, вроде бы ты и правда настроен на дружбу. Я прав?" nointeract
+msgstr "[Eric_05]Eccellente! Bene, sembra che tu sia davvero pronto per l'amicizia. Ho ragione?" nointeract
 
 # game/events/eric.rpy:161
 translate crowdin Eric_talk_afterdinner_second_talk_6f10b98c:
@@ -147,8 +147,8 @@ msgstr "[Max_00]Beh, puoi..."
 # game/events/eric.rpy:162
 translate crowdin Eric_talk_afterdinner_second_talk_7a3e3f7a:
 
-msgid "[Eric_01]Правда, я не до конца понял твою позицию. Ты настроен на дружбу или хочешь попытаться повоевать?[nointeract]"
-msgstr "[Eric_01]È vero, non ho capito appieno la tua posizione. Sei in vena di amicizia o vuoi provare a combattere?[nointeract]"
+msgid "[Eric_01]Правда, я не до конца понял твою позицию. Ты настроен на дружбу или хочешь попытаться повоевать?" nointeract
+msgstr "[Eric_01]È vero, non ho capito appieno la tua posizione. Sei in vena di amicizia o vuoi provare a combattere?" nointeract
 
 # game/events/eric.rpy:169
 translate crowdin Eric_talk_afterdinner_second_talk_becdd118:
@@ -159,8 +159,8 @@ msgstr "[Max_09]ancora qui?"
 # game/events/eric.rpy:170
 translate crowdin Eric_talk_afterdinner_second_talk_9f170499:
 
-msgid "[Eric_09]Значит, дружить ты не намерен. Я правильно понимаю?[nointeract]"
-msgstr "[Eric_09]Quindi non avete intenzione di essere amici. Ho capito bene?[nointeract]"
+msgid "[Eric_09]Значит, дружить ты не намерен. Я правильно понимаю?" nointeract
+msgstr "[Eric_09]Quindi non avete intenzione di essere amici. Ho capito bene?" nointeract
 
 # game/events/eric.rpy:180
 translate crowdin Eric_talk_afterdinner_badbad_ee988680:
@@ -195,38 +195,38 @@ msgstr "[Max_07]In che senso?"
 # game/events/eric.rpy:194
 translate crowdin Eric_talk_afterdinner_goodgood_6b61a60f:
 
-msgid "[Eric_05]Я не слепой и вижу как ты смотришь на своих сестёр и даже маму. Не отрицай, иногда даже твои штаны тебя выдают. Но я тебя не виню, ещё бы, такие цыпочки кругом![nointeract]"
-msgstr "[Eric_05]non sono cieco e ti vedo guardare le tue sorelle e persino tua madre. Non negare, a volte anche i tuoi pantaloni ti tradiscono. Ma non ti biasimo, ancora, questi pulcini tutto intorno![nointeract]"
+msgid "[Eric_05]Я не слепой и вижу как ты смотришь на своих сестёр и даже маму. Не отрицай, иногда даже твои штаны тебя выдают. Но я тебя не виню, ещё бы, такие цыпочки кругом!" nointeract
+msgstr "[Eric_05]non sono cieco e ti vedo guardare le tue sorelle e persino tua madre. Non negare, a volte anche i tuoi pantaloni ti tradiscono. Ma non ti biasimo, ancora, questi pulcini tutto intorno!" nointeract
 
 # game/events/eric.rpy:202
 translate crowdin Eric_talk_afterdinner_goodgood_3e31f80b:
 
-msgid "[Eric_01]Да ладно, здесь все свои! Любой мужик бы думал только о том, как поиметь их всех по очереди или даже разом. Это нормально! Я тебя понимаю![nointeract]"
-msgstr "[Eric_01]Dai, è tutto tuo! Qualsiasi ragazzo penserebbe solo a come averli tutti a turno o anche in una volta. È ok! Ti capisco![nointeract]"
+msgid "[Eric_01]Да ладно, здесь все свои! Любой мужик бы думал только о том, как поиметь их всех по очереди или даже разом. Это нормально! Я тебя понимаю!" nointeract
+msgstr "[Eric_01]Dai, è tutto tuo! Qualsiasi ragazzo penserebbe solo a come averli tutti a turno o anche in una volta. È ok! Ti capisco!" nointeract
 
 # game/events/eric.rpy:205
 translate crowdin Eric_talk_afterdinner_goodgood_25bd7ebc:
 
-msgid "[Eric_05]Уверен в этом. И если честно, надеюсь, у меня всё получится. А ты мне в этом поможешь![nointeract]"
-msgstr "[Eric_05]sono sicuro. E ad essere onesti, spero di riuscirci. E tu mi aiuterai con questo![nointeract]"
+msgid "[Eric_05]Уверен в этом. И если честно, надеюсь, у меня всё получится. А ты мне в этом поможешь!" nointeract
+msgstr "[Eric_05]sono sicuro. E ad essere onesti, spero di riuscirci. E tu mi aiuterai con questo!" nointeract
 
 # game/events/eric.rpy:214
 translate crowdin Eric_talk_afterdinner_goodgood_6f764d15:
 
-msgid "[Eric_05]Конечно! Я же нормальный мужик... Кстати, ты же никому не расскажешь, верно? Мы же типа друзья?[nointeract]"
-msgstr "[Eric_05]Certo! Sono un ragazzo normale... A proposito, non lo dirai a nessuno, giusto? Siamo una specie di amici, non è vero?[nointeract]"
+msgid "[Eric_05]Конечно! Я же нормальный мужик... Кстати, ты же никому не расскажешь, верно? Мы же типа друзья?" nointeract
+msgstr "[Eric_05]Certo! Sono un ragazzo normale... A proposito, non lo dirai a nessuno, giusto? Siamo una specie di amici, non è vero?" nointeract
 
 # game/events/eric.rpy:222
 translate crowdin Eric_talk_afterdinner_tell_539dcb1f:
 
-msgid "[Eric_03]Всем? Это кому же? Сёстрам? Ну да, поверят они тебе... Расскажешь матери? Попытайся. Заодно, узнаешь на что способны мои, так сказать, \"чары\"...[nointeract]"
-msgstr "[Eric_03]a tutti? Chi è? Sorelle? Beh, sì, ti crederanno... Dillo a tua madre? Provare. Allo stesso tempo, scoprirai di cosa sono capaci i miei \"charms\", per così dire...[nointeract]"
+msgid "[Eric_03]Всем? Это кому же? Сёстрам? Ну да, поверят они тебе... Расскажешь матери? Попытайся. Заодно, узнаешь на что способны мои, так сказать, \"чары\"..." nointeract
+msgstr "[Eric_03]a tutti? Chi è? Sorelle? Beh, sì, ti crederanno... Dillo a tua madre? Provare. Allo stesso tempo, scoprirai di cosa sono capaci i miei \"charms\", per così dire..." nointeract
 
 # game/events/eric.rpy:227
 translate crowdin Eric_talk_afterdinner_tell_e73b4f64:
 
-msgid "[Eric_09]Не ожидал я от тебя такого... Ну ладно, дело твоё... Но учти, на этой войне у тебя нет ни единого шанса![nointeract]"
-msgstr "[Eric_09]non me lo aspettavo da te... Ok, sono affari tuoi... Ma tieni presente che in questa guerra non hai una sola possibilità![nointeract]"
+msgid "[Eric_09]Не ожидал я от тебя такого... Ну ладно, дело твоё... Но учти, на этой войне у тебя нет ни единого шанса!" nointeract
+msgstr "[Eric_09]non me lo aspettavo da te... Ok, sono affari tuoi... Ma tieni presente che in questa guerra non hai una sola possibilità!" nointeract
 
 # game/events/eric.rpy:235
 translate crowdin Eric_talk_afterdinner_tell_6653b55b:
@@ -291,26 +291,26 @@ msgstr "[Max_08]vorrei anche qualcuno..."
 # game/events/eric.rpy:247
 translate crowdin Eric_talk_afterdinner_get_9720f70e:
 
-msgid "[Eric_02]Если ты про свою семью, то хотя я тебя и понимаю, но торговаться на этот счёт не намерен. Я тебе буду платить за твоё невмешательство. Более того, даже разрешу подглядывать без последствий, а вот все женщины в семье - мои.[nointeract]"
-msgstr "[Eric_02]Se stai parlando della tua famiglia, allora anche se ti capisco, non intendo contrattare su questo argomento. Ti pagherò per la tua non interferenza. Inoltre, permetterò anche di sbirciare senza conseguenze, ma tutte le donne della famiglia sono mie.[nointeract]"
+msgid "[Eric_02]Если ты про свою семью, то хотя я тебя и понимаю, но торговаться на этот счёт не намерен. Я тебе буду платить за твоё невмешательство. Более того, даже разрешу подглядывать без последствий, а вот все женщины в семье - мои." nointeract
+msgstr "[Eric_02]Se stai parlando della tua famiglia, allora anche se ti capisco, non intendo contrattare su questo argomento. Ti pagherò per la tua non interferenza. Inoltre, permetterò anche di sbirciare senza conseguenze, ma tutte le donne della famiglia sono mie." nointeract
 
 # game/events/eric.rpy:252
 translate crowdin Eric_talk_afterdinner_get_9af01c97:
 
-msgid "[Eric_09]Ну, тогда мы с тобой перед диллемой. Ты знаешь слишком много о моих планах, я знаю, что ты тот ещё извращенец... Как быть?[nointeract]"
-msgstr "[Eric_09]Bene, allora tu ed io siamo in un dillema. Sai troppo dei miei piani, so che sei ancora un pervertito... Cosa fare?[nointeract]"
+msgid "[Eric_09]Ну, тогда мы с тобой перед диллемой. Ты знаешь слишком много о моих планах, я знаю, что ты тот ещё извращенец... Как быть?" nointeract
+msgstr "[Eric_09]Bene, allora tu ed io siamo in un dillema. Sai troppo dei miei piani, so che sei ancora un pervertito... Cosa fare?" nointeract
 
 # game/events/eric.rpy:255
 translate crowdin Eric_talk_afterdinner_get_5024cd98:
 
-msgid "[Eric_03]Ну, это как посмотреть. Ты хотел потребовать \"доступа\" к женщинам в своей семье... Если бы твоя мать узнала, сомневаюсь, что это бы хорошо для тебя закончилось, правда?[nointeract]"
-msgstr "[Eric_03]Beh, è come guardare. Volevi chiedere \"l'accesso\" alle donne della tua famiglia... Se tua madre lo avesse saputo, dubito che sarebbe finita bene per te, giusto?[nointeract]"
+msgid "[Eric_03]Ну, это как посмотреть. Ты хотел потребовать \"доступа\" к женщинам в своей семье... Если бы твоя мать узнала, сомневаюсь, что это бы хорошо для тебя закончилось, правда?" nointeract
+msgstr "[Eric_03]Beh, è come guardare. Volevi chiedere \"l'accesso\" alle donne della tua famiglia... Se tua madre lo avesse saputo, dubito che sarebbe finita bene per te, giusto?" nointeract
 
 # game/events/eric.rpy:265
 translate crowdin Eric_talk_afterdinner_get_91cf9d80:
 
-msgid "[Eric_02]Боюсь, что да. Либо ты со мной, либо против меня. Напомню - я тебе буду платить, ты сможешь смотреть, но нельзя трогать... Ну или война и ты точно проиграешь. Очень быстро...[nointeract]"
-msgstr "[Eric_02]temo di sì. O sei con me o contro di me. Lascia che ti ricordi - ti pagherò, sarai in grado di guardare, ma non puoi toccare... Bene, o la guerra e perderai sicuramente. Molto rapidamente...[nointeract]"
+msgid "[Eric_02]Боюсь, что да. Либо ты со мной, либо против меня. Напомню - я тебе буду платить, ты сможешь смотреть, но нельзя трогать... Ну или война и ты точно проиграешь. Очень быстро..." nointeract
+msgstr "[Eric_02]temo di sì. O sei con me o contro di me. Lascia che ti ricordi - ti pagherò, sarai in grado di guardare, ma non puoi toccare... Bene, o la guerra e perderai sicuramente. Molto rapidamente..." nointeract
 
 # game/events/eric.rpy:271
 translate crowdin Eric_talk_afterdinner_get_b74ade66:
@@ -357,44 +357,44 @@ msgstr "[Eric_01]Bene, Max. Sono contento che abbiamo risolto e diviso il territ
 # game/events/eric.rpy:324
 translate crowdin eric_ann_tv_b2e859ec:
 
-msgid "[Max_07][txt!t][nointeract]"
-msgstr "[Max_07][txt!t][nointeract]"
+msgid "[Max_07][txt!t]" nointeract
+msgstr "[Max_07][txt!t]" nointeract
 
 # game/events/eric.rpy:331
 translate crowdin eric_ann_tv_45b2fa85:
 
-msgid "[Ann_12][txt2!t][nointeract]"
-msgstr "[Ann_12][txt2!t][nointeract]"
+msgid "[Ann_12][txt2!t]" nointeract
+msgstr "[Ann_12][txt2!t]" nointeract
 
 # game/events/eric.rpy:357
 translate crowdin eric_ann_tv_819bbc20:
 
-msgid "[Max_08][txt!t][nointeract]"
-msgstr "[Max_08][txt!t][nointeract]"
+msgid "[Max_08][txt!t]" nointeract
+msgstr "[Max_08][txt!t]" nointeract
 
 # game/events/eric.rpy:366
 translate crowdin eric_ann_tv_9b0d1773:
 
-msgid "[Max_07][txt2!t][nointeract]"
-msgstr "[Max_07][txt2!t][nointeract]"
+msgid "[Max_07][txt2!t]" nointeract
+msgstr "[Max_07][txt2!t]" nointeract
 
 # game/events/eric.rpy:391
 translate crowdin eric_ann_tv_819bbc20_1:
 
-msgid "[Max_08][txt!t][nointeract]"
-msgstr "[Max_08][txt!t][nointeract]"
+msgid "[Max_08][txt!t]" nointeract
+msgstr "[Max_08][txt!t]" nointeract
 
 # game/events/eric.rpy:400
 translate crowdin eric_ann_tv_9b0d1773_1:
 
-msgid "[Max_07][txt2!t][nointeract]"
-msgstr "[Max_07][txt2!t][nointeract]"
+msgid "[Max_07][txt2!t]" nointeract
+msgstr "[Max_07][txt2!t]" nointeract
 
 # game/events/eric.rpy:421
 translate crowdin eric_ann_tv_42ac5694:
 
-msgid "[Max_10]Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут[nointeract]"
-msgstr "[Max_10]Se mi faccio notare mentre guardo sul grande schermo e spio quello che sta succedendo qui, in realtà, sarò sicuramente punito[nointeract]"
+msgid "[Max_10]Если меня заметят, пока я смотрю порно на большом экране и подглядываю за тем, что происходит здесь же, наяву, меня точно накажут" nointeract
+msgstr "[Max_10]Se mi faccio notare mentre guardo sul grande schermo e spio quello che sta succedendo qui, in realtà, sarò sicuramente punito" nointeract
 
 # game/events/eric.rpy:425
 translate crowdin eric_ann_tv_c1692c11:
@@ -405,20 +405,20 @@ msgstr "[Max_09]Sembra che stia volgendo al termine, ma Eric non sta sborrando! 
 # game/events/eric.rpy:431
 translate crowdin eric_ann_tv_f9ebeced:
 
-msgid "[Max_10]Ого! Если меня заметят, пока я подглядываю за ТАКИМ, меня точно накажут. Нужно срочно уходить![nointeract]"
-msgstr "[Max_10]'s ow! Se vengo notato mentre spio YI, sarò sicuramente punito. Dobbiamo partire con urgenza![nointeract]"
+msgid "[Max_10]Ого! Если меня заметят, пока я подглядываю за ТАКИМ, меня точно накажут. Нужно срочно уходить!" nointeract
+msgstr "[Max_10]'s ow! Se vengo notato mentre spio YI, sarò sicuramente punito. Dobbiamo partire con urgenza!" nointeract
 
 # game/events/eric.rpy:454
 translate crowdin eric_ann_tv_closer1_39475977:
 
-msgid "[Max_15]Она что, дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?[nointeract]"
-msgstr "[Max_15]Lei lo sta tremando?! Proprio qui... Dobbiamo fermarlo con urgenza! Solo, come farlo al meglio?[nointeract]"
+msgid "[Max_15]Она что, дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?" nointeract
+msgstr "[Max_15]Lei lo sta tremando?! Proprio qui... Dobbiamo fermarlo con urgenza! Solo, come farlo al meglio?" nointeract
 
 # game/events/eric.rpy:456
 translate crowdin eric_ann_tv_closer1_717fa033:
 
-msgid "[Max_16]Она что, совершенно голая дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?[nointeract]"
-msgstr "[Max_16]È completamente nuda che trema contro di lui?! Proprio qui... Dobbiamo fermarlo con urgenza! Solo, come farlo al meglio?[nointeract]"
+msgid "[Max_16]Она что, совершенно голая дрочит ему?! Прямо здесь... Нужно это срочно прекратить! Только, как это лучше сделать?" nointeract
+msgstr "[Max_16]È completamente nuda che trema contro di lui?! Proprio qui... Dobbiamo fermarlo con urgenza! Solo, come farlo al meglio?" nointeract
 
 # game/events/eric.rpy:464
 translate crowdin eric_ann_tv_closer1_849abea4:
@@ -435,38 +435,38 @@ msgstr "[Max_12]cazzo!"
 # game/events/eric.rpy:475
 translate crowdin eric_ann_tv_closer1_d646f6b6:
 
-msgid "[Max_11]Да, она ему дрочит! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-msgstr "[Max_11]sì, lei gli sta tremando! Proprio qui... Sono così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo...[nointeract]"
+msgid "[Max_11]Да, она ему дрочит! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+msgstr "[Max_11]sì, lei gli sta tremando! Proprio qui... Sono così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo..." nointeract
 
 # game/events/eric.rpy:477
 translate crowdin eric_ann_tv_closer1_224a6ad6:
 
-msgid "[Max_07]Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-msgstr "[Max_07]Oh... la mamma è così nuda e bagnata... Ha un corpo così seducente, e che culo! Mmm... È bello che siano così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo...[nointeract]"
+msgid "[Max_07]Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+msgstr "[Max_07]Oh... la mamma è così nuda e bagnata... Ha un corpo così seducente, e che culo! Mmm... È bello che siano così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo..." nointeract
 
 # game/events/eric.rpy:480
 translate crowdin eric_ann_tv_closer1_bdf10685:
 
-msgid "[Max_11]Да, она отсасывает ему! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-msgstr "[Max_11]sì, lei lo succhia! Proprio qui... Sono così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo...[nointeract]"
+msgid "[Max_11]Да, она отсасывает ему! Прямо здесь... Они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+msgstr "[Max_11]sì, lei lo succhia! Proprio qui... Sono così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo..." nointeract
 
 # game/events/eric.rpy:482
 translate crowdin eric_ann_tv_closer1_224a6ad6_1:
 
-msgid "[Max_07]Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит...[nointeract]"
-msgstr "[Max_07]Oh... la mamma è così nuda e bagnata... Ha un corpo così seducente, e che culo! Mmm... È bello che siano così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo...[nointeract]"
+msgid "[Max_07]Ох... мама такая голая и мокрая... У неё такое соблазнительное тело, а какая попка! Ммм... Хорошо, что они настолько увлечены друг другом, что ничего вокруг не замечают! Ну, кроме того, что на экране происходит..." nointeract
+msgstr "[Max_07]Oh... la mamma è così nuda e bagnata... Ha un corpo così seducente, e che culo! Mmm... È bello che siano così appassionati l'uno dell'altro che non si accorgono di nulla in giro! Beh, a parte quello che sta succedendo sullo schermo..." nointeract
 
 # game/events/eric.rpy:484
 translate crowdin eric_ann_tv_closer1_dd256959:
 
-msgid "[Max_15]Она что, отсасывает ему?! Прямо здесь... Вот же развратница, а если кто-то зайдёт и увидит![nointeract]"
-msgstr "[Max_15]lo sta succhiando?! Proprio qui... Ecco un insulto, e se qualcuno entra e vede![nointeract]"
+msgid "[Max_15]Она что, отсасывает ему?! Прямо здесь... Вот же развратница, а если кто-то зайдёт и увидит!" nointeract
+msgstr "[Max_15]lo sta succhiando?! Proprio qui... Ecco un insulto, e se qualcuno entra e vede!" nointeract
 
 # game/events/eric.rpy:493
 translate crowdin eric_ann_tv_closer1_1cc34756:
 
-msgid "[Ann_13]Что? Кто здесь? Макс?! Выйди немедленно, не видишь...[nointeract]"
-msgstr "[Ann_13]Cosa? Chi c'è qui? Max?! Esci subito, non vedi...[nointeract]"
+msgid "[Ann_13]Что? Кто здесь? Макс?! Выйди немедленно, не видишь..." nointeract
+msgstr "[Ann_13]Cosa? Chi c'è qui? Max?! Esci subito, non vedi..." nointeract
 
 # game/events/eric.rpy:500
 translate crowdin eric_ann_tv_closer1_282eb1bf:
@@ -495,8 +495,8 @@ msgstr "[Max_08]Va bene."
 # game/events/eric.rpy:509
 translate crowdin eric_ann_tv_closer1_74c87652:
 
-msgid "[Ann_12]Послушай, сынок... Понимаешь, взрослым иногда нужно уединяться. Мы думали, что все наверху и что мы тут, всем и так понятно... В общем...[nointeract]"
-msgstr "[Ann_12]Ascolta, figliolo... Vedete, gli adulti a volte hanno bisogno di andare in pensione. Pensavamo che tutto fosse al top e che fossimo qui, tutti già capivano... In generale...[nointeract]"
+msgid "[Ann_12]Послушай, сынок... Понимаешь, взрослым иногда нужно уединяться. Мы думали, что все наверху и что мы тут, всем и так понятно... В общем..." nointeract
+msgstr "[Ann_12]Ascolta, figliolo... Vedete, gli adulti a volte hanno bisogno di andare in pensione. Pensavamo che tutto fosse al top e che fossimo qui, tutti già capivano... In generale..." nointeract
 
 # game/events/eric.rpy:512
 translate crowdin eric_ann_tv_closer1_e22f3a8c:
@@ -537,8 +537,8 @@ msgstr "[Max_10]Ok, me ne vado..."
 # game/events/eric.rpy:539
 translate crowdin eric_ann_fucking_60cad7ba:
 
-msgid "[Max_00]Судя по звукам, мама с Эриком чем-то занимаются. Открывать дверь точно не стоит, влетит...[nointeract]"
-msgstr "[Max_00]A giudicare dai suoni, mia madre ed Eric stanno facendo qualcosa. Aprire la porta non ne vale sicuramente la pena, volerà in...[nointeract]"
+msgid "[Max_00]Судя по звукам, мама с Эриком чем-то занимаются. Открывать дверь точно не стоит, влетит..." nointeract
+msgstr "[Max_00]A giudicare dai suoni, mia madre ed Eric stanno facendo qualcosa. Aprire la porta non ne vale sicuramente la pena, volerà in..." nointeract
 
 # game/events/eric.rpy:578
 translate crowdin eric_ann_fucking_voyeur_c6b7e289:
@@ -579,14 +579,14 @@ msgstr "[Max_07]me ne vado, mamma... Continua ad andare avanti!"
 # game/events/eric.rpy:590
 translate crowdin eric_ann_fucking_voyeur_1a6dca32:
 
-msgid "[Ann_18]Макс? Опять подглядываешь?! Ну-ка бегом отсюда![nointeract]"
-msgstr "[Ann_18]Max? Sbirciare di nuovo?! Bene, corri da qui![nointeract]"
+msgid "[Ann_18]Макс? Опять подглядываешь?! Ну-ка бегом отсюда!" nointeract
+msgstr "[Ann_18]Max? Sbirciare di nuovo?! Bene, corri da qui!" nointeract
 
 # game/events/eric.rpy:593
 translate crowdin eric_ann_fucking_voyeur_afca94eb:
 
-msgid "[Eric_02]Ань, пусть лучше смотрит на нас, чем на непойми какие извращения в интернете, верно? Так, Макс, зайди сюда, поговорим...[nointeract]"
-msgstr "[Eric_02]An, che ci guardi meglio delle perversioni su Internet, giusto? Quindi, Max, vieni qui, parliamone...[nointeract]"
+msgid "[Eric_02]Ань, пусть лучше смотрит на нас, чем на непойми какие извращения в интернете, верно? Так, Макс, зайди сюда, поговорим..." nointeract
+msgstr "[Eric_02]An, che ci guardi meglio delle perversioni su Internet, giusto? Quindi, Max, vieni qui, parliamone..." nointeract
 
 # game/events/eric.rpy:600
 translate crowdin eric_ann_fucking_voyeur_9e12ffd3:
@@ -621,32 +621,32 @@ msgstr "[Max_00]Va bene..."
 # game/events/eric.rpy:620
 translate crowdin eric_ann_fucking_voyeur_02303e2f:
 
-msgid "[Max_10][undetect!t]Боже мой, что моя мама творит?! Неужели ей действительно нравится отсасывать этому придурку?![nointeract]"
-msgstr "[Max_10][non esperto!t] Oh mio Dio, cosa sta facendo mia madre?! Le piace davvero succhiare quello stronzo?![nointeract]"
+msgid "[Max_10][undetect!t]Боже мой, что моя мама творит?! Неужели ей действительно нравится отсасывать этому придурку?!" nointeract
+msgstr "[Max_10][non esperto!t] Oh mio Dio, cosa sta facendo mia madre?! Le piace davvero succhiare quello stronzo?!" nointeract
 
 # game/events/eric.rpy:622
 translate crowdin eric_ann_fucking_voyeur_6f277737:
 
-msgid "[Max_07][undetect!t]Вот это да! Прямо как в крутом порнофильме! Я даже представить себе не мог, что моя строгая мама способна на такое. Да и Эрик от неё не отстаёт... Кажется, ей это очень нравится![nointeract]"
-msgstr "[Max_07][undetect!t] Wow! Proprio come in un bel film! Non potevo nemmeno immaginare che la mia severa madre fosse capace di una cosa del genere. Ed Eric non è molto indietro rispetto a lei... Sembra che lo ami![nointeract]"
+msgid "[Max_07][undetect!t]Вот это да! Прямо как в крутом порнофильме! Я даже представить себе не мог, что моя строгая мама способна на такое. Да и Эрик от неё не отстаёт... Кажется, ей это очень нравится!" nointeract
+msgstr "[Max_07][undetect!t] Wow! Proprio come in un bel film! Non potevo nemmeno immaginare che la mia severa madre fosse capace di una cosa del genere. Ed Eric non è molto indietro rispetto a lei... Sembra che lo ami!" nointeract
 
 # game/events/eric.rpy:624
 translate crowdin eric_ann_fucking_voyeur_fd07b201:
 
-msgid "[Max_10][undetect!t]Что?! Моя мама сосёт этому уроду? Эрик, гад, он же... трахает её в рот, как какую-то дешёвую уличную шлюху! Почему она ему это позволяет?![nointeract]"
-msgstr "[Max_10][undetect!t]Cosa?! Mia madre sta succhiando questo maniaco? Eric,, è... la scopa in bocca come una puttana di strada a buon mercato! Perché glielo lascia fare?![nointeract]"
+msgid "[Max_10][undetect!t]Что?! Моя мама сосёт этому уроду? Эрик, гад, он же... трахает её в рот, как какую-то дешёвую уличную шлюху! Почему она ему это позволяет?!" nointeract
+msgstr "[Max_10][undetect!t]Cosa?! Mia madre sta succhiando questo maniaco? Eric,, è... la scopa in bocca come una puttana di strada a buon mercato! Perché glielo lascia fare?!" nointeract
 
 # game/events/eric.rpy:626
 translate crowdin eric_ann_fucking_voyeur_2223829f:
 
-msgid "[Max_08][undetect!t]Ну вот, Эрик трахает маму сзади, да так активно... Кажется, у неё просто нет сил противиться этому, хотя, может быть, ей это даже нравится![nointeract]"
-msgstr "[Max_08][undetect!t] Beh, Eric scopa la mamma da dietro, così attivamente... Semplicemente non sembra avere la forza di resistere, anche se forse le piace anche![nointeract]"
+msgid "[Max_08][undetect!t]Ну вот, Эрик трахает маму сзади, да так активно... Кажется, у неё просто нет сил противиться этому, хотя, может быть, ей это даже нравится!" nointeract
+msgstr "[Max_08][undetect!t] Beh, Eric scopa la mamma da dietro, così attivamente... Semplicemente non sembra avere la forza di resistere, anche se forse le piace anche!" nointeract
 
 # game/events/eric.rpy:628
 translate crowdin eric_ann_fucking_voyeur_769f0bc5:
 
-msgid "[Max_07][undetect!t]Ничего себе! Вот это страсть! Моя мама скачет на Эрике как сумасшедшая! Я даже представить себе не мог, что она способна на такое! Кажется, они так увлечены друг другом, что не заметят, если я выйду из-за угла...[nointeract]"
-msgstr "[Max_07][undetect!t] Wow! Questa è passione! Mia madre cavalca Eric come un matto! Non potevo nemmeno immaginare che fosse capace di una cosa del genere! Sembrano essere così appassionati l'uno dell'altro che non se ne accorgeranno se eso da dietro l'angolo...[nointeract]"
+msgid "[Max_07][undetect!t]Ничего себе! Вот это страсть! Моя мама скачет на Эрике как сумасшедшая! Я даже представить себе не мог, что она способна на такое! Кажется, они так увлечены друг другом, что не заметят, если я выйду из-за угла..." nointeract
+msgstr "[Max_07][undetect!t] Wow! Questa è passione! Mia madre cavalca Eric come un matto! Non potevo nemmeno immaginare che fosse capace di una cosa del genere! Sembrano essere così appassionati l'uno dell'altro che non se ne accorgeranno se eso da dietro l'angolo..." nointeract
 
 # game/events/eric.rpy:638
 translate crowdin eric_ann_fucking_voyeur_c6b7e289_1:
@@ -687,92 +687,92 @@ msgstr "[Max_10]Accidenti... non riusciva a trattenersi e aveva già... Anche se
 # game/events/eric.rpy:683
 translate crowdin eric_ann_sleep_eb3bfa8c:
 
-msgid "[Max_00]Кажется, все спят...[nointeract]"
-msgstr "[Max_00]Tutti sembrano addormentati...[nointeract]"
+msgid "[Max_00]Кажется, все спят..." nointeract
+msgstr "[Max_00]Tutti sembrano addormentati..." nointeract
 
 # game/events/eric.rpy:698
 translate crowdin eric_ann_sleep_7df403de:
 
-msgid "[Max_09]О! Мама спит одна... Как она прекрасна, особенно голая... А Эрик где? Уж не у Алисы ли в комнате?![nointeract]"
-msgstr "[Max_09]Oh! La mamma dorme da sola... Com'è bella, soprattutto nuda... E dov'è Eric? Alice non è nella stanza?![nointeract]"
+msgid "[Max_09]О! Мама спит одна... Как она прекрасна, особенно голая... А Эрик где? Уж не у Алисы ли в комнате?!" nointeract
+msgstr "[Max_09]Oh! La mamma dorme da sola... Com'è bella, soprattutto nuda... E dov'è Eric? Alice non è nella stanza?!" nointeract
 
 # game/events/eric.rpy:720
 translate crowdin eric_ann_sleep_b52c6465:
 
-msgid "[Max_01]Похоже, они крепко спят... Совершенно голые! Чёрт, жаль только мама лежит за Эриком и её почти не видно... Почему он такой здоровый?[nointeract]"
-msgstr "[Max_01]Sembra che si addormentino velocemente... Completamente nudo! Diavolo, è un peccato che solo la mamma si trovi dietro Eric ed è quasi invisibile... Perché è così sano?[nointeract]"
+msgid "[Max_01]Похоже, они крепко спят... Совершенно голые! Чёрт, жаль только мама лежит за Эриком и её почти не видно... Почему он такой здоровый?" nointeract
+msgstr "[Max_01]Sembra che si addormentino velocemente... Completamente nudo! Diavolo, è un peccato che solo la mamma si trovi dietro Eric ed è quasi invisibile... Perché è così sano?" nointeract
 
 # game/events/eric.rpy:722
 translate crowdin eric_ann_sleep_3032e3eb:
 
-msgid "[Max_07]О, да! Этой ночью мама предстала во всей красе... Полностью голенькая... такая соблазнительная. Только вот обезьяна здесь лишняя повисла![nointeract]"
-msgstr "[Max_07]Oh sì! Quella notte mia madre apparve in tutto il suo splendore... Completamente nudo... così seducente. Solo qui la scimmia qui è appesa superflua![nointeract]"
+msgid "[Max_07]О, да! Этой ночью мама предстала во всей красе... Полностью голенькая... такая соблазнительная. Только вот обезьяна здесь лишняя повисла!" nointeract
+msgstr "[Max_07]Oh sì! Quella notte mia madre apparve in tutto il suo splendore... Completamente nudo... così seducente. Solo qui la scimmia qui è appesa superflua!" nointeract
 
 # game/events/eric.rpy:724
 translate crowdin eric_ann_sleep_bf16469a:
 
-msgid "[Max_04]Класс! У моей мамы лучшая попка в мире... а голая она просто сводит с ума! Ещё бы эта гора мышц около неё не лежала...[nointeract]"
-msgstr "[Max_04]classe! Mia mamma ha il più grande del mondo... e nuda ti fa impazzire! Anche se questa montagna di muscoli vicino ad essa non giaceva...[nointeract]"
+msgid "[Max_04]Класс! У моей мамы лучшая попка в мире... а голая она просто сводит с ума! Ещё бы эта гора мышц около неё не лежала..." nointeract
+msgstr "[Max_04]classe! Mia mamma ha il più grande del mondo... e nuda ti fa impazzire! Anche se questa montagna di muscoli vicino ad essa non giaceva..." nointeract
 
 # game/events/eric.rpy:733
 translate crowdin eric_ann_sleep_5dbd568a:
 
-msgid "[Max_03]Они действительно крепко спят... Может самого интересного и не видно, но мама так элегантно, по-женски, закинула на него свою ножку... Хорошо, что такая жара и дома нет кондиционеров... Так, пора уходить.[nointeract]"
-msgstr "[Max_03]Sono davvero addormentati velocemente... Forse il più interessante e non visibile, ma mia madre così elegantemente, in modo femminile, gli ha gettato la gamba addosso... È bene che un tale calore e non ci siano condizionatori d'aria a casa... Quindi, è ora di partire.[nointeract]"
+msgid "[Max_03]Они действительно крепко спят... Может самого интересного и не видно, но мама так элегантно, по-женски, закинула на него свою ножку... Хорошо, что такая жара и дома нет кондиционеров... Так, пора уходить." nointeract
+msgstr "[Max_03]Sono davvero addormentati velocemente... Forse il più interessante e non visibile, ma mia madre così elegantemente, in modo femminile, gli ha gettato la gamba addosso... È bene che un tale calore e non ci siano condizionatori d'aria a casa... Quindi, è ora di partire." nointeract
 
 # game/events/eric.rpy:735
 translate crowdin eric_ann_sleep_1a7abd7b:
 
-msgid "[Max_02]Просто с ума сойти можно! Она лежит всего в метре от меня... совсем голая... и мне видно её киску... такая красивая! А этот ублюдок, Эрик, так по-хозяйски облапал её... Врезать бы ему, гаду... Ладно, пора бы мне уже уходить, а то они ещё проснутся.[nointeract]"
-msgstr "[Max_02]Puoi semplicemente impazzire! È a solo un metro da me... completamente nudo... e la vedo... È bellissimo! E questo bastardo, Eric, la magistralmente... Lo tagliavo dentro, cantavo... Ok, è ora che me ne vada, o si sveglieranno.[nointeract]"
+msgid "[Max_02]Просто с ума сойти можно! Она лежит всего в метре от меня... совсем голая... и мне видно её киску... такая красивая! А этот ублюдок, Эрик, так по-хозяйски облапал её... Врезать бы ему, гаду... Ладно, пора бы мне уже уходить, а то они ещё проснутся." nointeract
+msgstr "[Max_02]Puoi semplicemente impazzire! È a solo un metro da me... completamente nudo... e la vedo... È bellissimo! E questo bastardo, Eric, la magistralmente... Lo tagliavo dentro, cantavo... Ok, è ora che me ne vada, o si sveglieranno." nointeract
 
 # game/events/eric.rpy:737
 translate crowdin eric_ann_sleep_9771290e:
 
-msgid "[Max_05]Мама такая красивая... а её кругленькая оттопыренная попка просто чудо! Так завораживает! Как бы мне хотелось потрогать её... Ох, мечты... Только бы они сейчас не проснулись...[nointeract]"
-msgstr "[Max_05]mamma è così bella... e il suo rotondo sporgente è un miracolo! Così affascinante! Quanto mi piacerebbe toccarla... Oh, sogni... Se solo non si svegliassero ora...[nointeract]"
+msgid "[Max_05]Мама такая красивая... а её кругленькая оттопыренная попка просто чудо! Так завораживает! Как бы мне хотелось потрогать её... Ох, мечты... Только бы они сейчас не проснулись..." nointeract
+msgstr "[Max_05]mamma è così bella... e il suo rotondo sporgente è un miracolo! Così affascinante! Quanto mi piacerebbe toccarla... Oh, sogni... Se solo non si svegliassero ora..." nointeract
 
 # game/events/eric.rpy:747
 translate crowdin eric_ann_sleep_not_eric_a05237c8:
 
-msgid "[Max_01]Класс! Мама спит голая... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил![nointeract]"
-msgstr "[Max_01]classe! La mamma dorme nuda... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita![nointeract]"
+msgid "[Max_01]Класс! Мама спит голая... Даже не верится, что у этой конфетки трое детей... В жизни бы в такое не поверил!" nointeract
+msgstr "[Max_01]classe! La mamma dorme nuda... Non posso credere che questa caramella abbia tre figli... Non ci crederei nella mia vita!" nointeract
 
 # game/events/eric.rpy:749
 translate crowdin eric_ann_sleep_not_eric_f8c5f5ec:
 
-msgid "[Max_07]О, да! Какая у мамы голая попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер![nointeract]"
-msgstr "[Max_07]Oh sì! Che nudo di una mamma è! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Semplicemente fantastico![nointeract]"
+msgid "[Max_07]О, да! Какая у мамы голая попка! Всё-таки хорошо, что здесь так жарко и все спят не укрываясь... Просто супер!" nointeract
+msgstr "[Max_07]Oh sì! Che nudo di una mamma è! Tuttavia, è bello che qui fa così caldo e tutti dormono senza nascondersi... Semplicemente fantastico!" nointeract
 
 # game/events/eric.rpy:751
 translate crowdin eric_ann_sleep_not_eric_ca37ba4b:
 
-msgid "[Max_04]Обалденно! Как же повезло, что у меня такая горячая мама... Голой она выглядит потрясающе, аж глаза отрывать не хочется![nointeract]"
-msgstr "[Max_04]fantastico! Quanto sono fortunata ad avere una mamma così calda... Nuda sembra incredibile, già gli occhi non vogliono strapparsi![nointeract]"
+msgid "[Max_04]Обалденно! Как же повезло, что у меня такая горячая мама... Голой она выглядит потрясающе, аж глаза отрывать не хочется!" nointeract
+msgstr "[Max_04]fantastico! Quanto sono fortunata ad avere una mamma così calda... Nuda sembra incredibile, già gli occhi non vogliono strapparsi!" nointeract
 
 # game/events/eric.rpy:765
 translate crowdin eric_ann_sleep_not_eric_closer_0982aff1:
 
-msgid "[Max_03]Чёрт, у меня самая аппетитная мама на свете! Я бы с огромным удовольствием пораспускал с ней руки... Но лучше потихоньку уходить, пока она не проснулась.[nointeract]"
-msgstr "[Max_03]accidenti, ho la mamma più appetitosa del mondo! Mi piacerebbe alzare le mani con lei... Ma è meglio andarsene lentamente prima che si svegli.[nointeract]"
+msgid "[Max_03]Чёрт, у меня самая аппетитная мама на свете! Я бы с огромным удовольствием пораспускал с ней руки... Но лучше потихоньку уходить, пока она не проснулась." nointeract
+msgstr "[Max_03]accidenti, ho la mamma più appetitosa del mondo! Mi piacerebbe alzare le mani con lei... Ma è meglio andarsene lentamente prima che si svegli." nointeract
 
 # game/events/eric.rpy:767
 translate crowdin eric_ann_sleep_not_eric_closer_5aa8a3a4:
 
-msgid "[Max_02]Ухх! Так и хочется прижаться к этой обворожительной голой попке и шалить всю ночь... Но пора уходить, а то она может проснуться.[nointeract]"
-msgstr "[Max_02]Uhhh Quindi voglio accoccolarmi fino a questo affascinante nudo e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi.[nointeract]"
+msgid "[Max_02]Ухх! Так и хочется прижаться к этой обворожительной голой попке и шалить всю ночь... Но пора уходить, а то она может проснуться." nointeract
+msgstr "[Max_02]Uhhh Quindi voglio accoccolarmi fino a questo affascinante nudo e fare scherzi tutta la notte... Ma è ora di andarsene, o potrebbe svegliarsi." nointeract
 
 # game/events/eric.rpy:769
 translate crowdin eric_ann_sleep_not_eric_closer_947120a8:
 
-msgid "[Max_05]Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительная у неё киска! Только бы она сейчас не проснулась...[nointeract]"
-msgstr "[Max_05]Wow! La vista di quelle gambe allargate fa sì che sia mia madre... troppo seducente! Se solo non si svegliasse ora...[nointeract]"
+msgid "[Max_05]Вот это да! От вида этих раздвинутых ножек становится всё равно, что она моя мама... Слишком соблазнительная у неё киска! Только бы она сейчас не проснулась..." nointeract
+msgstr "[Max_05]Wow! La vista di quelle gambe allargate fa sì che sia mia madre... troppo seducente! Se solo non si svegliasse ora..." nointeract
 
 # game/events/eric.rpy:786
 translate crowdin eric_ann_shower_2822b9e1:
 
-msgid "[Max_00]Похоже, мама вместе с Эриком принимают душ... Или что они там ещё могут делать?[nointeract]"
-msgstr "[Max_00]Sembra che mamma ed Eric stiano facendo la doccia... O cos'altro possono fare lì?[nointeract]"
+msgid "[Max_00]Похоже, мама вместе с Эриком принимают душ... Или что они там ещё могут делать?" nointeract
+msgstr "[Max_00]Sembra che mamma ed Eric stiano facendo la doccia... O cos'altro possono fare lì?" nointeract
 
 # game/events/eric.rpy:801
 translate crowdin eric_ann_shower_ladder_2b325faf:
@@ -855,98 +855,98 @@ msgstr "[Max_09]A proposito, sono qui in pieno intrattenimento e non cadono sott
 # game/events/eric.rpy:874
 translate crowdin eric_ann_shower_start_peeping_1cdffa73:
 
-msgid "[Max_07]Вот это да... Похоже намечается что-то большее, чем просто принять душ! Боюсь даже представить, что будет, если меня поймают, пока я подглядываю... за этим...[nointeract]"
-msgstr "[Max_07]Wow... Sembra che ci sia molto di più che fare la doccia! Ho paura persino di immaginare cosa succederebbe se fossi prelevato mentre sbircio... per questo...[nointeract]"
+msgid "[Max_07]Вот это да... Похоже намечается что-то большее, чем просто принять душ! Боюсь даже представить, что будет, если меня поймают, пока я подглядываю... за этим..." nointeract
+msgstr "[Max_07]Wow... Sembra che ci sia molto di più che fare la doccia! Ho paura persino di immaginare cosa succederebbe se fossi prelevato mentre sbircio... per questo..." nointeract
 
 # game/events/eric.rpy:899
 translate crowdin eric_ann_shower_alt_peepeng_d769a708:
 
-msgid "[Max_10][undetect!t]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется...[nointeract]"
-msgstr "[Max_10][undetect!t] Mia madre lo risucchia di nuovo... Eric! Sì, con tanta passione! Le piace davvero farlo così tanto o lo ama così tanto? Anche se non voglio nemmeno pensare al secondo...[nointeract]"
+msgid "[Max_10][undetect!t]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит? Хотя о втором мне даже думать не хочется..." nointeract
+msgstr "[Max_10][undetect!t] Mia madre lo risucchia di nuovo... Eric! Sì, con tanta passione! Le piace davvero farlo così tanto o lo ama così tanto? Anche se non voglio nemmeno pensare al secondo..." nointeract
 
 # game/events/eric.rpy:901
 translate crowdin eric_ann_shower_alt_peepeng_42177608:
 
-msgid "[Max_09][undetect!t]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?![nointeract]"
-msgstr "[Max_09][undetect!t] sì, Eric ha fatto un buon lavoro... La mamma lo succhia con tale piacere, già non può strapparsi via! Le piace davvero succhiare quella sua scheggia?![nointeract]"
+msgid "[Max_09][undetect!t]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может! Неужели ей действительно нравится сосать этот его огрызок?!" nointeract
+msgstr "[Max_09][undetect!t] sì, Eric ha fatto un buon lavoro... La mamma lo succhia con tale piacere, già non può strapparsi via! Le piace davvero succhiare quella sua scheggia?!" nointeract
 
 # game/events/eric.rpy:903
 translate crowdin eric_ann_shower_alt_peepeng_5b560f45:
 
-msgid "[Max_04][undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...[nointeract]"
-msgstr "[Max_04][undetect!t] Oh... Eric è stato fortunato... Dopotutto, mia madre ha mani così gentili e affettuose! Solo un tipo del suo corpo completamente nudo e bagnato può...[nointeract]"
+msgid "[Max_04][undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить..." nointeract
+msgstr "[Max_04][undetect!t] Oh... Eric è stato fortunato... Dopotutto, mia madre ha mani così gentili e affettuose! Solo un tipo del suo corpo completamente nudo e bagnato può..." nointeract
 
 # game/events/eric.rpy:905
 translate crowdin eric_ann_shower_alt_peepeng_065723ba:
 
-msgid "[Max_06][undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится![nointeract]"
-msgstr "[Max_06][undetect!t] Cazzo! Questa è passione! Sembrano essere così appassionati l'uno dell'altro che non gli importa se qualcuno li vede o no... E sembra che mia madre lo adomi![nointeract]"
+msgid "[Max_06][undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!" nointeract
+msgstr "[Max_06][undetect!t] Cazzo! Questa è passione! Sembrano essere così appassionati l'uno dell'altro che non gli importa se qualcuno li vede o no... E sembra che mia madre lo adomi!" nointeract
 
 # game/events/eric.rpy:907
 translate crowdin eric_ann_shower_alt_peepeng_cedd144b:
 
-msgid "[Max_05][undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти![nointeract]"
-msgstr "[Max_05][undetect!t]Ow! Eric scopa la mamma da dietro, così attivamente... E... sembra che le piaccia molto, si muove addirittura verso di lui... ed esausto di passione![nointeract]"
+msgid "[Max_05][undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!" nointeract
+msgstr "[Max_05][undetect!t]Ow! Eric scopa la mamma da dietro, così attivamente... E... sembra che le piaccia molto, si muove addirittura verso di lui... ed esausto di passione!" nointeract
 
 # game/events/eric.rpy:916
 translate crowdin eric_ann_shower_alt_peepeng_c849c0ca:
 
-msgid "[Max_09]Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?![nointeract]"
-msgstr "[Max_09]accidenti! Eric sborra proprio sul viso di sua madre come un porno! E le piace così tanto che sorride e lo prende con la bocca! È così depravata?![nointeract]"
+msgid "[Max_09]Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом! Неужели она настолько развратна?!" nointeract
+msgstr "[Max_09]accidenti! Eric sborra proprio sul viso di sua madre come un porno! E le piace così tanto che sorride e lo prende con la bocca! È così depravata?!" nointeract
 
 # game/events/eric.rpy:918
 translate crowdin eric_ann_shower_alt_peepeng_925cd30e:
 
-msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили![nointeract]"
-msgstr "[Max_01]sì! Chi dubiterebbe che Eric non durerebbe troppo a lungo. La mamma conosce le sue cose! Ok, devo rivalutare fino a quando non si accorgono di me![nointeract]"
+msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!" nointeract
+msgstr "[Max_01]sì! Chi dubiterebbe che Eric non durerebbe troppo a lungo. La mamma conosce le sue cose! Ok, devo rivalutare fino a quando non si accorgono di me!" nointeract
 
 # game/events/eric.rpy:920
 translate crowdin eric_ann_shower_alt_peepeng_b85f5146:
 
-msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...[nointeract]"
-msgstr "[Max_07]Oh, dannazione... Eric ha già... È un bene che non in mia madre... Felice figlio di puttana... E lei sorride ancora?! È ora che me ne vada, altrimenti se ne accorgeranno...[nointeract]"
+msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят..." nointeract
+msgstr "[Max_07]Oh, dannazione... Eric ha già... È un bene che non in mia madre... Felice figlio di puttana... E lei sorride ancora?! È ora che me ne vada, altrimenti se ne accorgeranno..." nointeract
 
 # game/events/eric.rpy:922
 translate crowdin eric_ann_shower_alt_peepeng_cc0c1868:
 
-msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...[nointeract]"
-msgstr "[Max_08]Accidenti... è già... Felice bastardo... Mamma splatted su tutta la schiena con la sua sborra! Devo andarmene, o stanno per accorgermi...[nointeract]"
+msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят..." nointeract
+msgstr "[Max_08]Accidenti... è già... Felice bastardo... Mamma splatted su tutta la schiena con la sua sborra! Devo andarmene, o stanno per accorgermi..." nointeract
 
 # game/events/eric.rpy:944
 translate crowdin eric_ann_shower_closer_peepeng_5b560f45:
 
-msgid "[Max_04][undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить...[nointeract]"
-msgstr "[Max_04][undetect!t] Oh... Eric è stato fortunato... Dopotutto, mia madre ha mani così gentili e affettuose! Solo un tipo del suo corpo completamente nudo e bagnato può...[nointeract]"
+msgid "[Max_04][undetect!t]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки! Уже только от одного вида её совершенно голого и мокрого тела можно кончить..." nointeract
+msgstr "[Max_04][undetect!t] Oh... Eric è stato fortunato... Dopotutto, mia madre ha mani così gentili e affettuose! Solo un tipo del suo corpo completamente nudo e bagnato può..." nointeract
 
 # game/events/eric.rpy:946
 translate crowdin eric_ann_shower_closer_peepeng_065723ba:
 
-msgid "[Max_06][undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится![nointeract]"
-msgstr "[Max_06][undetect!t] Cazzo! Questa è passione! Sembrano essere così appassionati l'uno dell'altro che non gli importa se qualcuno li vede o no... E sembra che mia madre lo adomi![nointeract]"
+msgid "[Max_06][undetect!t]Охренеть! Вот это страсть! Кажется, они так увлечены друг другом, что им всё равно, увидит их кто-то или нет... И похоже, маме это очень нравится!" nointeract
+msgstr "[Max_06][undetect!t] Cazzo! Questa è passione! Sembrano essere così appassionati l'uno dell'altro che non gli importa se qualcuno li vede o no... E sembra che mia madre lo adomi!" nointeract
 
 # game/events/eric.rpy:948
 translate crowdin eric_ann_shower_closer_peepeng_cedd144b:
 
-msgid "[Max_05][undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти![nointeract]"
-msgstr "[Max_05][undetect!t]Ow! Eric scopa la mamma da dietro, così attivamente... E... sembra che le piaccia molto, si muove addirittura verso di lui... ed esausto di passione![nointeract]"
+msgid "[Max_05][undetect!t]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!" nointeract
+msgstr "[Max_05][undetect!t]Ow! Eric scopa la mamma da dietro, così attivamente... E... sembra che le piaccia molto, si muove addirittura verso di lui... ed esausto di passione!" nointeract
 
 # game/events/eric.rpy:957
 translate crowdin eric_ann_shower_closer_peepeng_925cd30e:
 
-msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили![nointeract]"
-msgstr "[Max_01]sì! Chi dubiterebbe che Eric non durerebbe troppo a lungo. La mamma conosce le sue cose! Ok, devo rivalutare fino a quando non si accorgono di me![nointeract]"
+msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает! Ладно, надо сматываться, пока они меня не заметили!" nointeract
+msgstr "[Max_01]sì! Chi dubiterebbe che Eric non durerebbe troppo a lungo. La mamma conosce le sue cose! Ok, devo rivalutare fino a quando non si accorgono di me!" nointeract
 
 # game/events/eric.rpy:959
 translate crowdin eric_ann_shower_closer_peepeng_b85f5146:
 
-msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят...[nointeract]"
-msgstr "[Max_07]Oh, dannazione... Eric ha già... È un bene che non in mia madre... Felice figlio di puttana... E lei sorride ancora?! È ora che me ne vada, altrimenti se ne accorgeranno...[nointeract]"
+msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?! Пора бы мне уходить, а то ещё заметят..." nointeract
+msgstr "[Max_07]Oh, dannazione... Eric ha già... È un bene che non in mia madre... Felice figlio di puttana... E lei sorride ancora?! È ora che me ne vada, altrimenti se ne accorgeranno..." nointeract
 
 # game/events/eric.rpy:961
 translate crowdin eric_ann_shower_closer_peepeng_cc0c1868:
 
-msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят...[nointeract]"
-msgstr "[Max_08]Accidenti... è già... Felice bastardo... Mamma splatted su tutta la schiena con la sua sborra! Devo andarmene, o stanno per accorgermi...[nointeract]"
+msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой! Нужно уходить, а то они вот-вот меня заметят..." nointeract
+msgstr "[Max_08]Accidenti... è già... Felice bastardo... Mamma splatted su tutta la schiena con la sua sborra! Devo andarmene, o stanno per accorgermi..." nointeract
 
 # game/events/eric.rpy:974
 translate crowdin eric_ann_shower_not_luck_cdfa03c1:
@@ -957,32 +957,32 @@ msgstr "[Ann_15][spotted!t]Max?! Qual è la cosa sbagliata che stai facendo qui?
 # game/events/eric.rpy:989
 translate crowdin sexed_lisa_c6d17e9e:
 
-msgid "[Max_09]{i}( Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит? ){/i}[nointeract]"
-msgstr "[Max_09]{i}(Mi chiedo perché mia madre abbia chiamato Lisa nella stanza? E c'è anche Eric. Può almeno vedere attraverso la telecamera cosa sta succedendo lì?) {/i}[nointeract]"
+msgid "[Max_09]{i}( Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё и Эрик. Может хоть через камеру посмотреть, что там происходит? ){/i}" nointeract
+msgstr "[Max_09]{i}(Mi chiedo perché mia madre abbia chiamato Lisa nella stanza? E c'è anche Eric. Può almeno vedere attraverso la telecamera cosa sta succedendo lì?) {/i}" nointeract
 
 # game/events/eric.rpy:1004
 translate crowdin sexed_lisa_3bf94e65:
 
-msgid "[Max_09]{i}( Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё Эрик. Если бы я установил камеру в этой комнате, то сейчас смог бы всё увидеть, а так придётся ждать, пока Лиза вернётся, чтобы всё узнать. ){/i}[nointeract]"
-msgstr "[Max_09]{i}(Mi chiedo perché mia madre ha chiamato Lisa nella stanza? E c'è eric. Se avessi installato una telecamera in questa stanza, sarei stato in grado di vedere tutto ora, e quindi dovrò aspettare che Lisa ritorni per scoprire tutto.) {/i}[nointeract]"
+msgid "[Max_09]{i}( Интересно, зачем мама позвала Лизу в комнату? А там ведь ещё Эрик. Если бы я установил камеру в этой комнате, то сейчас смог бы всё увидеть, а так придётся ждать, пока Лиза вернётся, чтобы всё узнать. ){/i}" nointeract
+msgstr "[Max_09]{i}(Mi chiedo perché mia madre ha chiamato Lisa nella stanza? E c'è eric. Se avessi installato una telecamera in questa stanza, sarei stato in grado di vedere tutto ora, e quindi dovrò aspettare che Lisa ritorni per scoprire tutto.) {/i}" nointeract
 
 # game/events/eric.rpy:1012
 translate crowdin sexed_lisa_27707318:
 
-msgid "[Max_07]{i}( Эрик сказал, что всё устроит так, чтобы меня не заметили, когда я буду подглядывать. Сейчас посмотрим... ){/i}[nointeract]"
-msgstr "[Max_07]{i}(Eric ha detto che tutto sarebbe stato organizzato in modo che non sarei stato notato quando ho sbirciato. Ora vedremo...) {/i}[nointeract]"
+msgid "[Max_07]{i}( Эрик сказал, что всё устроит так, чтобы меня не заметили, когда я буду подглядывать. Сейчас посмотрим... ){/i}" nointeract
+msgstr "[Max_07]{i}(Eric ha detto che tutto sarebbe stato organizzato in modo che non sarei stato notato quando ho sbirciato. Ora vedremo...) {/i}" nointeract
 
 # game/events/eric.rpy:1026
 translate crowdin sexed_lisa_b37af91c:
 
-msgid "[Max_09]{i}( Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Лучше посмотреть через камеру... ){/i}[nointeract]"
-msgstr "[Max_09]{i}(mi chiedo cosa ci facciano lì con Lisa?! Potresti provare a sbirciare attraverso la finestra, ma non dare a Eric la possibilità di umiliarmi o peggio. Meglio guardare attraverso la macchina fotografica ... ) {/i}[nointeract]"
+msgid "[Max_09]{i}( Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Лучше посмотреть через камеру... ){/i}" nointeract
+msgstr "[Max_09]{i}(mi chiedo cosa ci facciano lì con Lisa?! Potresti provare a sbirciare attraverso la finestra, ma non dare a Eric la possibilità di umiliarmi o peggio. Meglio guardare attraverso la macchina fotografica ... ) {/i}" nointeract
 
 # game/events/eric.rpy:1042
 translate crowdin sexed_lisa_5dfb44a6:
 
-msgid "[Max_09]{i}( Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить. ){/i}[nointeract]"
-msgstr "[Max_09]{i}(mi chiedo cosa ci facciano lì con Lisa?! Potresti provare a sbirciare attraverso la finestra, ma non dare a Eric la possibilità di umiliarmi o peggio. Dovrai aspettare che Lisa torni e lo dica a se stessa, anche se non è superfluo mettere la macchina fotografica nella stanza di mia madre.) {/i}[nointeract]"
+msgid "[Max_09]{i}( Интересно, чем они там с Лизой занимаются?! Можно бы было попробовать подглядеть через окно, но не стоит давать Эрику шанс меня унизить или ещё чего хуже. Придётся ждать, пока Лиза вернётся и расскажет сама, хотя не лишним и будет камеру в мамину комнату поставить. ){/i}" nointeract
+msgstr "[Max_09]{i}(mi chiedo cosa ci facciano lì con Lisa?! Potresti provare a sbirciare attraverso la finestra, ma non dare a Eric la possibilità di umiliarmi o peggio. Dovrai aspettare che Lisa torni e lo dica a se stessa, anche se non è superfluo mettere la macchina fotografica nella stanza di mia madre.) {/i}" nointeract
 
 # game/events/eric.rpy:1054
 translate crowdin sexed_lisa_lesson_0_3242e036:
@@ -1539,14 +1539,14 @@ msgstr "[Max_09]Opa, Eric! Che cosa sta facendo lì, sta scuotendo cosa? Sì... 
 # game/events/eric.rpy:1301
 translate crowdin first_jerk_balkon_028c8f53:
 
-msgid "[Max_03]Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...[nointeract]"
-msgstr "[Max_03]Forse dovrei scattare una foto tranquillamente la prossima volta?! Quindi, per ogni evenienza...[nointeract]"
+msgid "[Max_03]Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай..." nointeract
+msgstr "[Max_03]Forse dovrei scattare una foto tranquillamente la prossima volta?! Quindi, per ogni evenienza..." nointeract
 
 # game/events/eric.rpy:1314
 translate crowdin first_jerk_yard_b743b57a:
 
-msgid "[Max_07]Опа, Эрик! Что это он делает среди ночи у окна Алисы?![nointeract]"
-msgstr "[Max_07]Opa, Eric! Cosa ci fa nel cuore della notte alla finestra di Alice?![nointeract]"
+msgid "[Max_07]Опа, Эрик! Что это он делает среди ночи у окна Алисы?!" nointeract
+msgstr "[Max_07]Opa, Eric! Cosa ci fa nel cuore della notte alla finestra di Alice?!" nointeract
 
 # game/events/eric.rpy:1320
 translate crowdin first_jerk_yard_36a13914:
@@ -1557,32 +1557,32 @@ msgstr "[Max_09]Eccolo qui! Che cosa sta facendo lì, sta scuotendo cosa? Sì...
 # game/events/eric.rpy:1321
 translate crowdin first_jerk_yard_028c8f53:
 
-msgid "[Max_03]Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай...[nointeract]"
-msgstr "[Max_03]Forse dovrei scattare una foto tranquillamente la prossima volta?! Quindi, per ogni evenienza...[nointeract]"
+msgid "[Max_03]Может, мне стоит сфотографировать его по-тихому в следующий раз?! Так, на всякий случай..." nointeract
+msgstr "[Max_03]Forse dovrei scattare una foto tranquillamente la prossima volta?! Quindi, per ogni evenienza..." nointeract
 
 # game/events/eric.rpy:1342
 translate crowdin jerk_balkon_f235bbdd:
 
-msgid "[Max_07]Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?![nointeract]"
-msgstr "[Max_07]Eric è tutto tremante ad Alice! E non essere pigro per alzarsi nel cuore della notte per questo?![nointeract]"
+msgid "[Max_07]Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!" nointeract
+msgstr "[Max_07]Eric è tutto tremante ad Alice! E non essere pigro per alzarsi nel cuore della notte per questo?!" nointeract
 
 # game/events/eric.rpy:1354
 translate crowdin jerk_balkon_63126f2e:
 
-msgid "[Max_03]Ага, Эрик здесь! Не устоял перед голой Алисой и дрочит прямо посреди её комнаты... Вот же грязное животное![nointeract]"
-msgstr "[Max_03]sì, Eric è qui! Non potevo resistere all'Alice nuda e tremante proprio nel mezzo della sua stanza... Ecco un animale sporco![nointeract]"
+msgid "[Max_03]Ага, Эрик здесь! Не устоял перед голой Алисой и дрочит прямо посреди её комнаты... Вот же грязное животное!" nointeract
+msgstr "[Max_03]sì, Eric è qui! Non potevo resistere all'Alice nuda e tremante proprio nel mezzo della sua stanza... Ecco un animale sporco!" nointeract
 
 # game/events/eric.rpy:1387
 translate crowdin jerk_yard_f235bbdd:
 
-msgid "[Max_07]Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?![nointeract]"
-msgstr "[Max_07]Eric è tutto tremante ad Alice! E non essere pigro per alzarsi nel cuore della notte per questo?![nointeract]"
+msgid "[Max_07]Эрик всё дрочит на Алису! И не лень ему вставать среди ночи для этого?!" nointeract
+msgstr "[Max_07]Eric è tutto tremante ad Alice! E non essere pigro per alzarsi nel cuore della notte per questo?!" nointeract
 
 # game/events/eric.rpy:1402
 translate crowdin jerk_photohant1_0f4523b2:
 
-msgid "[Max_09]Вот и он! Всё ещё дрочит... Да так жёско! Смотри, шышку не сотри... Хотя нет, лучше стирай![nointeract]"
-msgstr "[Max_09]Eccolo qui! Ancora tremante... Sì, così difficile! Guarda, non ce la faccio... Anche se no, meglio lavare![nointeract]"
+msgid "[Max_09]Вот и он! Всё ещё дрочит... Да так жёско! Смотри, шышку не сотри... Хотя нет, лучше стирай!" nointeract
+msgstr "[Max_09]Eccolo qui! Ancora tremante... Sì, così difficile! Guarda, non ce la faccio... Anche se no, meglio lavare!" nointeract
 
 # game/events/eric.rpy:1409
 translate crowdin jerk_photohant1_9aed2e73:
@@ -1593,26 +1593,26 @@ msgstr "[Max_02]Oh sì! Un'immagine così disgustosa può ovviamente essermi uti
 # game/events/eric.rpy:1411
 translate crowdin jerk_photohant1_9fa70f41:
 
-msgid "[Max_09]А если попробовать загнать Эрика в комнату Алисы?! Тогда бы у меня появился шанс сделать уже более определённый снимок, где видно на кого дрочит Эрик. Только вот как...[nointeract]"
-msgstr "[Max_09]Cosa succede se provi a portare Eric nella stanza di Alice?! Poi avrei la possibilità di scattare una foto più precisa, dove puoi vedere chi Eric sta scuotendo. Ma ecco come...[nointeract]"
+msgid "[Max_09]А если попробовать загнать Эрика в комнату Алисы?! Тогда бы у меня появился шанс сделать уже более определённый снимок, где видно на кого дрочит Эрик. Только вот как..." nointeract
+msgstr "[Max_09]Cosa succede se provi a portare Eric nella stanza di Alice?! Poi avrei la possibilità di scattare una foto più precisa, dove puoi vedere chi Eric sta scuotendo. Ma ecco come..." nointeract
 
 # game/events/eric.rpy:1424
 translate crowdin jerk_photohant1_5893f935:
 
-msgid "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
-msgstr "[Max_10]Accidenti, mentre correvo, Eric se n'era già andato... Beh, niente, lo troverò la prossima volta...[nointeract]"
+msgid "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз..." nointeract
+msgstr "[Max_10]Accidenti, mentre correvo, Eric se n'era già andato... Beh, niente, lo troverò la prossima volta..." nointeract
 
 # game/events/eric.rpy:1443
 translate crowdin jerk_photohant2_52df7afd:
 
-msgid "[Max_05]Вот ты и попался! С таким \"грязным\" снимком, в случае чего, уже всем всё будет понятно... Главное сейчас не попасться![nointeract]"
-msgstr "[Max_05]Eccovi qui! Con un'immagine così \"sporca\", nel qual caso, tutto sarà chiaro a tutti... La cosa principale ora è non farsi catturare![nointeract]"
+msgid "[Max_05]Вот ты и попался! С таким \"грязным\" снимком, в случае чего, уже всем всё будет понятно... Главное сейчас не попасться!" nointeract
+msgstr "[Max_05]Eccovi qui! Con un'immagine così \"sporca\", nel qual caso, tutto sarà chiaro a tutti... La cosa principale ora è non farsi catturare!" nointeract
 
 # game/events/eric.rpy:1454
 translate crowdin jerk_photohant2_5893f935:
 
-msgid "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
-msgstr "[Max_10]Accidenti, mentre correvo, Eric se n'era già andato... Beh, niente, lo troverò la prossima volta...[nointeract]"
+msgid "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз..." nointeract
+msgstr "[Max_10]Accidenti, mentre correvo, Eric se n'era già andato... Beh, niente, lo troverò la prossima volta..." nointeract
 
 translate crowdin strings:
 

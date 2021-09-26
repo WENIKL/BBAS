@@ -69,14 +69,14 @@ msgstr "[Max_09]non vedrò nulla di interessante qui, mia madre è completamente
 # game/events/ann_cam.rpy:131
 translate crowdin cam0_ann_dressed_work_2a4aa6ca:
 
-msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на работу...[nointeract]"
-msgstr "[Max_07]Così mia mamma si veste per andare al lavoro...[nointeract]"
+msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на работу..." nointeract
+msgstr "[Max_07]Così mia mamma si veste per andare al lavoro..." nointeract
 
 # game/events/ann_cam.rpy:142
 translate crowdin cam0_ann_dressed_work_ecd759fc:
 
-msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-msgstr "[Max_02]Oh! La mamma nuda è uno spettacolo delizioso...[nointeract]"
+msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище..." nointeract
+msgstr "[Max_02]Oh! La mamma nuda è uno spettacolo delizioso..." nointeract
 
 # game/events/ann_cam.rpy:155
 translate crowdin cam0_ann_dressed_work_8e5f0391:
@@ -93,14 +93,14 @@ msgstr "[Max_09]non vedrò nulla di interessante qui, mia madre è completamente
 # game/events/ann_cam.rpy:178
 translate crowdin cam0_ann_dressed_shop_5b93ed0b:
 
-msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на шопинг...[nointeract]"
-msgstr "[Max_07]Così mia madre si veste per andare a fare shopping...[nointeract]"
+msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на шопинг..." nointeract
+msgstr "[Max_07]Così mia madre si veste per andare a fare shopping..." nointeract
 
 # game/events/ann_cam.rpy:189
 translate crowdin cam0_ann_dressed_shop_ecd759fc:
 
-msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-msgstr "[Max_02]Oh! La mamma nuda è uno spettacolo delizioso...[nointeract]"
+msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище..." nointeract
+msgstr "[Max_02]Oh! La mamma nuda è uno spettacolo delizioso..." nointeract
 
 # game/events/ann_cam.rpy:202
 translate crowdin cam0_ann_dressed_shop_8e5f0391:

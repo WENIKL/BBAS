@@ -1,8 +1,8 @@
 # TODO: Translation updated at 2021-06-19 20:09
 
 # game/script.rpy:37## # translate crowdin intro_8dea4dcf:
-msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
-msgstr "[Max_00]Mi chiamo Max. Sono un ragazzo normale di una famiglia normale. Beh, come al solito... Normale. Anche se, chi sto scherzando. Normale nella mia famiglia non è abbastanza. Ma prima le cose prima.[nointeract]"
+msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку." nointeract
+msgstr "[Max_00]Mi chiamo Max. Sono un ragazzo normale di una famiglia normale. Beh, come al solito... Normale. Anche se, chi sto scherzando. Normale nella mia famiglia non è abbastanza. Ma prima le cose prima." nointeract
 
 # game/script.rpy:41## # translate crowdin intro_0f762891:
 msgid "[Max_01]Недавно меня выперли из школы. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
@@ -105,8 +105,8 @@ msgid "[Ann_14]С этим не поспоришь. У меня есть вре�
 msgstr "[Ann_14]Non puoi discuterne. Ho tempo per pensare a tutto?"
 
 # game/script.rpy:81## # translate crowdin intro_8e21e5ab:
-msgid "[Maya_03]Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания.[nointeract]"
-msgstr "[Maya_03]Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronto a prendere una decisione. Lascerò anche copie di tutti i documenti. Arrivederci.[nointeract]"
+msgid "[Maya_03]Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания." nointeract
+msgstr "[Maya_03]Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronto a prendere una decisione. Lascerò anche copie di tutti i documenti. Arrivederci." nointeract
 
 # game/script.rpy:86## # translate crowdin intro_eaf717b9:
 msgid "[Max_04]К счастью, мама приняла верное решение. Когда мы увидели дом, не поверили своим глазам! Вживую он оказался гораздо больше и красивее, чем на фотографиях. Но самым приятным сюрпризом оказался бассейн!"
@@ -137,16 +137,16 @@ msgid "[Lisa_02]Конечно! Мам, мы нормально с Максом 
 msgstr "[Lisa_02]Certo! Mamma, Max ed io stiamo bene. E se falcia, lo butto fuori in questo stesso salotto! E hai sicuramente meritato la tua stanza. E non discutere. Lo pensiamo tutti."
 
 # game/script.rpy:97## # translate crowdin intro_07cd4260:
-msgid "[Ann_07]Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем![nointeract]"
-msgstr "[Ann_07]Va bene. La compagnia di trasporti ha riferito che i nostri effetti personali sono stati ritardati. Qualcosa di cui mi pento già di averli contattati... Comunque, tra una settimana ci spostiamo![nointeract]"
+msgid "[Ann_07]Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем!" nointeract
+msgstr "[Ann_07]Va bene. La compagnia di trasporti ha riferito che i nostri effetti personali sono stati ritardati. Qualcosa di cui mi pento già di averli contattati... Comunque, tra una settimana ci spostiamo!" nointeract
 
 # game/script.rpy:102## # translate crowdin intro_dbd412b7:
 msgid "[Max_00]Спустя неделю часть наших вещей из старой квартиры доставили. Но только часть. Как я понял, кое-что потерялось в пути. Надеюсь, компенсируют это как-то..."
 msgstr "[Max_00]Una settimana dopo, alcuni dei nostri effetti personali sono stati consegnati dal vecchio appartamento. Ma solo una parte. Come ho capito, qualcosa si è perso lungo la strada. Speriamo che lo possano compensare in qualche modo..."
 
 # game/script.rpy:103## # translate crowdin intro_356cd733:
-msgid "[Max_04]Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное![nointeract]"
-msgstr "[Max_04]mamma ha ottenuto un nuovo lavoro. Lisa andò in una scuola locale. Alice si siede nella sua nota, e io... È qui che finisce la mia storia e inizia qualcosa di nuovo e interessante![nointeract]"
+msgid "[Max_04]Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное!" nointeract
+msgstr "[Max_04]mamma ha ottenuto un nuovo lavoro. Lisa andò in una scuola locale. Alice si siede nella sua nota, e io... È qui che finisce la mia storia e inizia qualcosa di nuovo e interessante!" nointeract
 
 # game/script.rpy:117## # translate crowdin about_poss_0cd5a085:
 msgid "[Max_00]\"Возможности\" - это особые пути, по которым можно пройти, чтобы достичь какого-то результата. Обычно они скрыты и не очень очевидны."
@@ -161,8 +161,8 @@ msgid "[Max_00]Некоторые \"возможности\" временные.
 msgstr "[Max_00]Alcune \"opportunità\" sono temporanee. Alcuni possono portare a un risultato indesiderato. Non afferrare il primo che ottieni e segui ciecamente le istruzioni!"
 
 # game/script.rpy:120## # translate crowdin about_poss_95f72849:
-msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
-msgstr "[Max_04]Ma non dovresti aver paura di loro. È grazie alle \"opportunità\" che puoi realizzare qualcosa che alcuni non sognano nemmeno![nointeract]"
+msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают!" nointeract
+msgstr "[Max_04]Ma non dovresti aver paura di loro. È grazie alle \"opportunità\" che puoi realizzare qualcosa che alcuni non sognano nemmeno!" nointeract
 
 translate crowdin strings:
 

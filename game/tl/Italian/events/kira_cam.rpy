@@ -185,8 +185,8 @@ msgid "[Max_09]Ничего не разглядеть... Нужно устано
 msgstr "[Max_09]Niente da vedere... È necessario installare una telecamera che copra la piscina..."
 
 # game/events/kira_cam.rpy:425## # translate crowdin cam1_return_from_club_4f374152:
-msgid "[Max_01]{i}( Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их... ){/i}[nointeract]"
-msgstr "[Max_01]{i}( Qui e le ragazze sono tornate dal club! Se prima di andare a letto vuoi cercare l'avventura, allora devi correre velocemente e incontrarle ... ) {/i}[nointeract]"
+msgid "[Max_01]{i}( Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их... ){/i}" nointeract
+msgstr "[Max_01]{i}( Qui e le ragazze sono tornate dal club! Se prima di andare a letto vuoi cercare l'avventura, allora devi correre velocemente e incontrarle ... ) {/i}" nointeract
 
 # game/events/kira_cam.rpy:432## # translate crowdin cam1_return_from_club_984a3aa6:
 msgid "[Max_00]Поздно уже, пойду лучше спать..."

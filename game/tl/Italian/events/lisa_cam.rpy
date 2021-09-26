@@ -57,14 +57,14 @@ msgstr "[Max_09]non vedrò nulla di interessante qui, Lisa è completamente vest
 # game/events/lisa_cam.rpy:108
 translate crowdin cam0_lisa_dressed_school_e79b2255:
 
-msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
-msgstr "[Max_07]Eccellente! Lisa si veste per andare a scuola...[nointeract]"
+msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться в школу..." nointeract
+msgstr "[Max_07]Eccellente! Lisa si veste per andare a scuola..." nointeract
 
 # game/events/lisa_cam.rpy:119
 translate crowdin cam0_lisa_dressed_school_e61ca9e9:
 
-msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-msgstr "[Max_02]Uhhh Ora è così nuda e carina...[nointeract]"
+msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая..." nointeract
+msgstr "[Max_02]Uhhh Ora è così nuda e carina..." nointeract
 
 # game/events/lisa_cam.rpy:133
 translate crowdin cam0_lisa_dressed_school_e16161a7:
@@ -81,14 +81,14 @@ msgstr "[Max_09]non vedrò nulla di interessante qui, Lisa è completamente vest
 # game/events/lisa_cam.rpy:155
 translate crowdin cam0_lisa_dressed_shop_2978876d:
 
-msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
-msgstr "[Max_07]Eccellente! Lisa si veste per fare shopping...[nointeract]"
+msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться на шопинг..." nointeract
+msgstr "[Max_07]Eccellente! Lisa si veste per fare shopping..." nointeract
 
 # game/events/lisa_cam.rpy:166
 translate crowdin cam0_lisa_dressed_shop_e61ca9e9:
 
-msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-msgstr "[Max_02]Uhhh Ora è così nuda e carina...[nointeract]"
+msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая..." nointeract
+msgstr "[Max_02]Uhhh Ora è così nuda e carina..." nointeract
 
 # game/events/lisa_cam.rpy:180
 translate crowdin cam0_lisa_dressed_shop_639be09f:

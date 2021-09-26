@@ -9,14 +9,14 @@ msgstr "[Max_01]non ti dispiace se prendo il sole anche io?"
 # game/dialogues/oliviatalk.rpy:18
 translate crowdin OliviaTalkStart_07bb4878:
 
-msgid "[Olivia_01]Конечно, Макс... Мы не против! Такая классная погода стоит...[nointeract]"
-msgstr "[Olivia_01]Certo, Max... Non ci dispiace! Un clima così fresco vale la pena...[nointeract]"
+msgid "[Olivia_01]Конечно, Макс... Мы не против! Такая классная погода стоит..." nointeract
+msgstr "[Olivia_01]Certo, Max... Non ci dispiace! Un clima così fresco vale la pena..." nointeract
 
 # game/dialogues/oliviatalk.rpy:20
 translate crowdin OliviaTalkStart_7f46e30d:
 
-msgid "[Olivia_00]А, Макс. Хотел поговорить?[nointeract]"
-msgstr "[Olivia_00]A, Max. Volevi parlare?[nointeract]"
+msgid "[Olivia_00]А, Макс. Хотел поговорить?" nointeract
+msgstr "[Olivia_00]A, Max. Volevi parlare?" nointeract
 
 # game/dialogues/oliviatalk.rpy:40
 translate crowdin olivia_talk1_660e872c:
@@ -705,14 +705,14 @@ msgstr "[Max_09]sì, sì, sì... Quindi cosa decidiamo al riguardo?"
 # game/dialogues/oliviatalk.rpy:253
 translate crowdin olivia_about_film_punish_43b45ee9:
 
-msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник...[nointeract]"
-msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi...[nointeract]"
+msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
+msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi..." nointeract
 
 # game/dialogues/oliviatalk.rpy:256
 translate crowdin olivia_about_film_punish_50a787b4:
 
-msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже...[nointeract]"
-msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già...[nointeract]"
+msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже..." nointeract
+msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già..." nointeract
 
 # game/dialogues/oliviatalk.rpy:264
 translate crowdin olivia_about_film_punish_74bdb244_1:
@@ -723,14 +723,14 @@ msgstr "[Max_09]Lisa... E la punizione di oggi?"
 # game/dialogues/oliviatalk.rpy:268
 translate crowdin olivia_about_film_punish_43b45ee9_1:
 
-msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник...[nointeract]"
-msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi...[nointeract]"
+msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
+msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi..." nointeract
 
 # game/dialogues/oliviatalk.rpy:271
 translate crowdin olivia_about_film_punish_50a787b4_1:
 
-msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже...[nointeract]"
-msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già...[nointeract]"
+msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже..." nointeract
+msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già..." nointeract
 
 # game/dialogues/oliviatalk.rpy:280
 translate crowdin olivia_about_film_punish_postpone_d232056e:
