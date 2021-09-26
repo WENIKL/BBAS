@@ -1880,7 +1880,7 @@ translate italian dinner_lace_lingerie_e0b844ce:
 
 translate italian strings:
 
-# game/dialogues/dinner.rpy:56
+    # game/dialogues/dinner.rpy:56
     old "Как скажешь, мам..."
     new "Come dici tu, mamma..."
 

@@ -8816,7 +8816,7 @@ translate italian Lisa_wear_Tshirt_7a250a36:
 
 translate italian strings:
 
-# game/dialogues/lisatalk.rpy:62
+    # game/dialogues/lisatalk.rpy:62
     old "Кажется, я передумал..."
     new "Penso di aver cambiato idea..."
 

@@ -800,7 +800,7 @@ translate italian ann_bath_ladder_36138fd2:
 
 translate italian strings:
 
-# game/events/ann.rpy:185
+    # game/events/ann.rpy:185
     old "{i}Отвернуться{/i}"
     new "{i}voltare le chiavi in giavolte{/i}"
 

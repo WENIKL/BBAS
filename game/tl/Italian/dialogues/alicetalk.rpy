@@ -8396,7 +8396,7 @@ translate italian alice_private_punish_r_pun_e5a94fd2:
 
 translate italian strings:
 
-# game/dialogues/alicetalk.rpy:11
+    # game/dialogues/alicetalk.rpy:11
     old "{i}уйти{/i}"
     new "{i}leave{/i}"
 

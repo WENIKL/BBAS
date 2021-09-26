@@ -1676,7 +1676,7 @@ translate italian erofilm2_2_end_film_acd22c78:
 
 translate italian strings:
 
-# game/dialogues/anntalk.rpy:61
+    # game/dialogues/anntalk.rpy:61
     old "В другой раз..."
     new "Un'altra volta..."
 

@@ -1802,7 +1802,7 @@ translate italian breakfast_35_79b424d8:
 
 translate italian strings:
 
-# game/dialogues/breakfast.rpy:12
+    # game/dialogues/breakfast.rpy:12
     old "Конечно, мам..."
     new "Certo, mamma..."
 

@@ -182,7 +182,7 @@ translate italian christina_first_talk_204a6521_1:
 
 translate italian strings:
 
-# game/dialogues/christina.rpy:25
+    # game/dialogues/christina.rpy:25
     old "Хорошего тебе дня!"
     new "Buona Giornata!"
 

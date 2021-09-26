@@ -1574,7 +1574,7 @@ translate italian Eric_talk_about_Kira_1_b1d48d26:
 
 translate italian strings:
 
-# game/dialogues/erictalk.rpy:11
+    # game/dialogues/erictalk.rpy:11
     old "{i}В другой раз...{/i}"
     new "{i}Un'altra volta... {/i}"
 

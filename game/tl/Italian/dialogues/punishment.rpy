@@ -824,7 +824,7 @@ translate italian punishment_alice_3006a77e:
 
 translate italian strings:
 
-# game/dialogues/punishment.rpy:169
+    # game/dialogues/punishment.rpy:169
     old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
     new "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
 

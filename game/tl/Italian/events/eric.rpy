@@ -1616,7 +1616,7 @@ translate italian jerk_photohant2_5893f935:
 
 translate italian strings:
 
-# game/events/eric.rpy:16
+    # game/events/eric.rpy:16
     old "Понимаю, хорошо..."
     new "Capisco, va bene..."
 

@@ -554,7 +554,7 @@ translate italian cam0_blog_with_Eric_340b426d:
 
 translate italian strings:
 
-# game/events/alice_cam.rpy:56
+    # game/events/alice_cam.rpy:56
     old "{i}Конечно{/i}"
     new "{i}Certo{/i}"
 

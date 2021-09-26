@@ -716,7 +716,7 @@ translate italian Kira_arrival_end_yard_438c6fcd:
 
 translate italian strings:
 
-# game/events/other.rpy:9
+    # game/events/other.rpy:9
     old "Удачи"
     new "Buona Fortuna"
 

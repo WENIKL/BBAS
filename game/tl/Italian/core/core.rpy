@@ -80,7 +80,7 @@ translate italian after_load_e53fbeb7:
 
 translate italian strings:
 
-# game/core/core.rpy:353
+    # game/core/core.rpy:353
     old "В интернет-магазине доступен новый товар."
     new "Un nuovo prodotto è disponibile nel negozio online."
 

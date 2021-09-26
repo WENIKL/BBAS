@@ -3494,7 +3494,7 @@ translate italian blog_with_Eric_e1deaab1:
 
 translate italian strings:
 
-# game/events/alice.rpy:12
+    # game/events/alice.rpy:12
     old "{i}постучаться{/i}"
     new "{i}knock{/i}"
 

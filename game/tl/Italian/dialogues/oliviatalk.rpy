@@ -758,7 +758,7 @@ translate italian olivia_about_film_punish_nice_view_3e444279:
 
 translate italian strings:
 
-# game/dialogues/oliviatalk.rpy:11
+    # game/dialogues/oliviatalk.rpy:11
     old "Хотя, нет... У меня вообще-то дела есть..."
     new "Anche se, no... In realtà ho cose da fare..."
 

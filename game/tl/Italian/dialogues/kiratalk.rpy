@@ -2210,7 +2210,7 @@ translate italian story_from_childhood_ann_e3cb39dd:
 
 translate italian strings:
 
-# game/dialogues/kiratalk.rpy:11
+    # game/dialogues/kiratalk.rpy:11
     old "{i}Ой, в другой раз...{/i}"
     new "{i}Oh, un'altra volta... {/i}"
 
