@@ -1200,6 +1200,7 @@ msgstr "[Alice_07]Non la vediamo da così tanto tempo. Sarebbe bello se si ferma
 msgid "[Ann_02]Да, Кира. Мы будем рады её увидеть. Думаю, завтрак мы на этом закончим. Спасибо вам всем!"
 msgstr "[Ann_02]Sì, Kira. Ci piacerebbe vederla. Penso che finiremo la colazione con quello. Grazie a tutti!"
 
+## # translate crowdin strings:#    # game/dialogues/breakfast.rpy:12
 msgid "Конечно, мам..."
 msgstr "Certo, mamma..."
 
