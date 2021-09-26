@@ -21,8 +21,8 @@ msgstr "[Olivia_00]A, Max. Volevi parlare?" nointeract
 # game/dialogues/oliviatalk.rpy:40
 translate crowdin olivia_talk1_660e872c:
 
-msgid "[Lisa_01]Настроения?!"
-msgstr "[Lisa_01]Mood?!"
+    # Lisa_01 "Настроения?!"
+    Lisa_01 "Mood?!"
 
 # game/dialogues/oliviatalk.rpy:41
 translate crowdin olivia_talk1_8a8cff5a:
@@ -45,8 +45,8 @@ msgstr "[Olivia_05]Guarda... Se fa male o è stretto, allora non esiti, togliti 
 # game/dialogues/oliviatalk.rpy:44
 translate crowdin olivia_talk1_999f47e3:
 
-msgid "[Lisa_02]Эй! Хватит моего брата тут раздевать!"
-msgstr "[Lisa_02]Ehi! Ferma mio fratello che si spoglia qui!"
+    # Lisa_02 "Эй! Хватит моего брата тут раздевать!"
+    Lisa_02 "Ehi! Ferma mio fratello che si spoglia qui!"
 
 # game/dialogues/oliviatalk.rpy:45
 translate crowdin olivia_talk1_45fe207a:
@@ -63,8 +63,8 @@ msgstr "[Olivia_03]Oh, sono tutto per questo! Mi sento molto più a mio agio a r
 # game/dialogues/oliviatalk.rpy:47
 translate crowdin olivia_talk1_f4bdee0e:
 
-msgid "[Lisa_10]Так, во-первых, я не стану раздеваться, а во-вторых, своим голым видом вы меня только смутите... Я к такому не готова!"
-msgstr "[Lisa_10]Quindi, in primo luogo, non mi spoglierò e, in secondo luogo, con il tuo aspetto nudo mi metterai solo in imbarazzo... Non sono pronto per questo!"
+    # Lisa_10 "Так, во-первых, я не стану раздеваться, а во-вторых, своим голым видом вы меня только смутите... Я к такому не готова!"
+    Lisa_10 "Quindi, in primo luogo, non mi spoglierò e, in secondo luogo, con il tuo aspetto nudo mi metterai solo in imbarazzo... Non sono pronto per questo!"
 
 # game/dialogues/oliviatalk.rpy:48
 translate crowdin olivia_talk1_6bc43540:
@@ -81,8 +81,8 @@ msgstr "[Olivia_05]Sì, Lisa... Nessuno sarà fuori ora, non ti preoccupare. Ho 
 # game/dialogues/oliviatalk.rpy:50
 translate crowdin olivia_talk1_419dbab8:
 
-msgid "[Lisa_03]О да... Я его особенность почти каждое утро наблюдаю..."
-msgstr "[Lisa_03]Oh sì... Vedo la sua particolarità quasi ogni mattina..."
+    # Lisa_03 "О да... Я его особенность почти каждое утро наблюдаю..."
+    Lisa_03 "Oh sì... Vedo la sua particolarità quasi ogni mattina..."
 
 # game/dialogues/oliviatalk.rpy:51
 translate crowdin olivia_talk1_7b546c9d:
@@ -93,8 +93,8 @@ translate crowdin olivia_talk1_7b546c9d:
 # game/dialogues/oliviatalk.rpy:52
 translate crowdin olivia_talk1_5def69be:
 
-msgid "[Lisa_01]Мне просто любопытно было..."
-msgstr "[Lisa_01]ero solo curioso..."
+    # Lisa_01 "Мне просто любопытно было..."
+    Lisa_01 "ero solo curioso..."
 
 # game/dialogues/oliviatalk.rpy:53
 translate crowdin olivia_talk1_046c78a9:
@@ -105,8 +105,8 @@ translate crowdin olivia_talk1_046c78a9:
 # game/dialogues/oliviatalk.rpy:54
 translate crowdin olivia_talk1_beb70033:
 
-msgid "[Lisa_11]Макс! Это неправда!"
-msgstr "[Lisa_11]Max! Non è vero!"
+    # Lisa_11 "Макс! Это неправда!"
+    Lisa_11 "Max! Non è vero!"
 
 # game/dialogues/oliviatalk.rpy:55
 translate crowdin olivia_talk1_d8405804:
@@ -117,8 +117,8 @@ msgstr "[Olivia_03]Quindi Lisa abbiamo una shalonya! E dall'esterno, un tale mod
 # game/dialogues/oliviatalk.rpy:56
 translate crowdin olivia_talk1_128964a2:
 
-msgid "[Lisa_13]Ну всё! А Макс тут за всеми нами подглядывает, когда мы голые! За мной, за моей старшей сестрой, даже за мамой..."
-msgstr "[Lisa_13]Beh, questo è tutto! E Max è qui a sbirciare tutti noi quando siamo nudi! Dietro di me, per mia sorella maggiore, anche per mia madre..."
+    # Lisa_13 "Ну всё! А Макс тут за всеми нами подглядывает, когда мы голые! За мной, за моей старшей сестрой, даже за мамой..."
+    Lisa_13 "Beh, questo è tutto! E Max è qui a sbirciare tutti noi quando siamo nudi! Dietro di me, per mia sorella maggiore, anche per mia madre..."
 
 # game/dialogues/oliviatalk.rpy:57
 translate crowdin olivia_talk1_2aacddb7:
@@ -201,8 +201,8 @@ translate crowdin olivia_talk1_09c2a45d:
 # game/dialogues/oliviatalk.rpy:80
 translate crowdin olivia_talk1_19cf1422:
 
-msgid "[Lisa_09]Я вообще-то всё слышу! Хватит уже на меня наговаривать!"
-msgstr "[Lisa_09]in realtà sento tutto! Smettila di parlare con me!"
+    # Lisa_09 "Я вообще-то всё слышу! Хватит уже на меня наговаривать!"
+    Lisa_09 "in realtà sento tutto! Smettila di parlare con me!"
 
 # game/dialogues/oliviatalk.rpy:81
 translate crowdin olivia_talk1_910f629f:
@@ -405,8 +405,8 @@ msgstr "[Olivia_05]penso... Hai uno schermo così grande in salotto, usciamo sul
 # game/dialogues/oliviatalk.rpy:153
 translate crowdin olivia_talk3_4353c164:
 
-msgid "[Lisa_01]Слушайте, а можно... Правда раньше полуночи я не освобожусь..."
-msgstr "[Lisa_01]Ascolta, puoi... Tuttavia, non sarò rilasciato prima di mezzanotte..."
+    # Lisa_01 "Слушайте, а можно... Правда раньше полуночи я не освобожусь..."
+    Lisa_01 "Ascolta, puoi... Tuttavia, non sarò rilasciato prima di mezzanotte..."
 
 # game/dialogues/oliviatalk.rpy:154
 translate crowdin olivia_talk3_8e5b6309:
@@ -429,8 +429,8 @@ translate crowdin olivia_talk3_9e9fdd8c:
 # game/dialogues/oliviatalk.rpy:157
 translate crowdin olivia_talk3_720aafa5:
 
-msgid "[Lisa_02]Может и Алекса с собой приведёшь?"
-msgstr "[Lisa_02]Forse puoi portare Alex con te?"
+    # Lisa_02 "Может и Алекса с собой приведёшь?"
+    Lisa_02 "Forse puoi portare Alex con te?"
 
 # game/dialogues/oliviatalk.rpy:158
 translate crowdin olivia_talk3_f7f4adb9:
@@ -591,8 +591,8 @@ translate crowdin olivia_talk4_82b0e52d:
 # game/dialogues/oliviatalk.rpy:210
 translate crowdin olivia_talk4_3c03a230:
 
-msgid "[Lisa_09]Эй, ребята, вы там чего расшушукались?! Со мной не хотите поделиться?"
-msgstr "[Lisa_09]Ehi ragazzi, cosa avete intenzione di fare lì?! Non vuoi condividere con me?"
+    # Lisa_09 "Эй, ребята, вы там чего расшушукались?! Со мной не хотите поделиться?"
+    Lisa_09 "Ehi ragazzi, cosa avete intenzione di fare lì?! Non vuoi condividere con me?"
 
 # game/dialogues/oliviatalk.rpy:211
 translate crowdin olivia_talk4_decec462:
@@ -603,8 +603,8 @@ msgstr "[Olivia_02]Sì, tutti i tipi di storie scolastiche sono avvelenate. Andi
 # game/dialogues/oliviatalk.rpy:212
 translate crowdin olivia_talk4_977f9a1f:
 
-msgid "[Lisa_01]Я ещё хочу позагорать немного..."
-msgstr "[Lisa_01]voglio ancora prendere il sole un po '..."
+    # Lisa_01 "Я ещё хочу позагорать немного..."
+    Lisa_01 "voglio ancora prendere il sole un po '..."
 
 # game/dialogues/oliviatalk.rpy:213
 translate crowdin olivia_talk4_634019e5:
@@ -669,8 +669,8 @@ translate crowdin olivia_about_film_punish_74bdb244:
 # game/dialogues/oliviatalk.rpy:244
 translate crowdin olivia_about_film_punish_7e19b1ff:
 
-msgid "[Lisa_11]Ой! А я и забыла уже..."
-msgstr "[Lisa_11]Oh! E ho già dimenticato..."
+    # Lisa_11 "Ой! А я и забыла уже..."
+    Lisa_11 "Oh! E ho già dimenticato..."
 
 # game/dialogues/oliviatalk.rpy:245
 translate crowdin olivia_about_film_punish_f81ae488:
@@ -681,8 +681,8 @@ msgstr "[Olivia_04]Quali sono le tue punizioni lì?"
 # game/dialogues/oliviatalk.rpy:246
 translate crowdin olivia_about_film_punish_5b79668b:
 
-msgid "[Lisa_09]Я заметила, как Макс за мной подглядывал в душе..."
-msgstr "[Lisa_09]ho notato Max che mi sbircia sotto la doccia..."
+    # Lisa_09 "Я заметила, как Макс за мной подглядывал в душе..."
+    Lisa_09 "ho notato Max che mi sbircia sotto la doccia..."
 
 # game/dialogues/oliviatalk.rpy:247
 translate crowdin olivia_about_film_punish_e360883c:
@@ -693,8 +693,8 @@ translate crowdin olivia_about_film_punish_e360883c:
 # game/dialogues/oliviatalk.rpy:248
 translate crowdin olivia_about_film_punish_6b8a04d8:
 
-msgid "[Lisa_02]Да, как всегда. И чтобы мама об этом ничего не узнала, я мучаю Макса просмотром фильмов, которые ему не нравятся. Если он заснул или не досмотрел, то не прощён!"
-msgstr "[Lisa_02]sì, come sempre. E così che mia madre non ne sa nulla, tormento Max guardando film che non gli piacciono. Se si è addormentato o non ha guardato, non è perdonato!"
+    # Lisa_02 "Да, как всегда. И чтобы мама об этом ничего не узнала, я мучаю Макса просмотром фильмов, которые ему не нравятся. Если он заснул или не досмотрел, то не прощён!"
+    Lisa_02 "sì, come sempre. E così che mia madre non ne sa nulla, tormento Max guardando film che non gli piacciono. Se si è addormentato o non ha guardato, non è perdonato!"
 
 # game/dialogues/oliviatalk.rpy:249
 translate crowdin olivia_about_film_punish_26756e1b:
@@ -705,14 +705,14 @@ translate crowdin olivia_about_film_punish_26756e1b:
 # game/dialogues/oliviatalk.rpy:253
 translate crowdin olivia_about_film_punish_43b45ee9:
 
-msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
-msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi..." nointeract
+    # Lisa_01 "Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
+    Lisa_01 "Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi..." nointeract
 
 # game/dialogues/oliviatalk.rpy:256
 translate crowdin olivia_about_film_punish_50a787b4:
 
-msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже..." nointeract
-msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già..." nointeract
+    # Lisa_02 "Вот и разобрались. Пойдёмте уже..." nointeract
+    Lisa_02 "Qui l'abbiamo capito. Andiamo già..." nointeract
 
 # game/dialogues/oliviatalk.rpy:264
 translate crowdin olivia_about_film_punish_74bdb244_1:
@@ -723,20 +723,20 @@ translate crowdin olivia_about_film_punish_74bdb244_1:
 # game/dialogues/oliviatalk.rpy:268
 translate crowdin olivia_about_film_punish_43b45ee9_1:
 
-msgid "[Lisa_01]Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
-msgstr "[Lisa_01]Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi..." nointeract
+    # Lisa_01 "Сам выбирай, Макс! Можем либо перенести наказание на следующую ночь, либо у нас сегодня девичник..." nointeract
+    Lisa_01 "Scegli te stesso, Max! Possiamo posticipare la punizione alla notte successiva, o abbiamo un addio al nubilato oggi..." nointeract
 
 # game/dialogues/oliviatalk.rpy:271
 translate crowdin olivia_about_film_punish_50a787b4_1:
 
-msgid "[Lisa_02]Вот и разобрались. Пойдёмте уже..." nointeract
-msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già..." nointeract
+    # Lisa_02 "Вот и разобрались. Пойдёмте уже..." nointeract
+    Lisa_02 "Qui l'abbiamo capito. Andiamo già..." nointeract
 
 # game/dialogues/oliviatalk.rpy:280
 translate crowdin olivia_about_film_punish_postpone_d232056e:
 
-msgid "[Lisa_01]Просто перенесём на следующую ночь, вот и всё."
-msgstr "[Lisa_01]Basta spostarlo alla notte successiva, questo è tutto."
+    # Lisa_01 "Просто перенесём на следующую ночь, вот и всё."
+    Lisa_01 "Basta spostarlo alla notte successiva, questo è tutto."
 
 # game/dialogues/oliviatalk.rpy:281
 translate crowdin olivia_about_film_punish_postpone_c7691ca7:

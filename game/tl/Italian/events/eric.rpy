@@ -1005,8 +1005,8 @@ translate crowdin sexed_lisa_lesson_0_956d3217:
 # game/events/eric.rpy:1062
 translate crowdin sexed_lisa_lesson_0_ce12a8a8:
 
-msgid "[Lisa_01]Конечно, мам, на какие же ещё отношения я могу быть настроена... Итак, что и как надо делать руками?"
-msgstr "[Lisa_01]Certo, mamma, a quali altre relazioni posso essere in sintonia... Quindi, cosa e come fare con le tue mani?"
+    # Lisa_01 "Конечно, мам, на какие же ещё отношения я могу быть настроена... Итак, что и как надо делать руками?"
+    Lisa_01 "Certo, mamma, a quali altre relazioni posso essere in sintonia... Quindi, cosa e come fare con le tue mani?"
 
 # game/events/eric.rpy:1063
 translate crowdin sexed_lisa_lesson_0_664bad85:
@@ -1023,8 +1023,8 @@ translate crowdin sexed_lisa_lesson_0_8ba12771:
 # game/events/eric.rpy:1071
 translate crowdin sexed_lisa_lesson_0_3962b7ac:
 
-msgid "[Lisa_02]Мам, а как понять, что всё происходит как надо?"
-msgstr "[Lisa_02]mamma, ma come capire che tutto sta accadendo come dovrebbe?"
+    # Lisa_02 "Мам, а как понять, что всё происходит как надо?"
+    Lisa_02 "mamma, ma come capire che tutto sta accadendo come dovrebbe?"
 
 # game/events/eric.rpy:1072
 translate crowdin sexed_lisa_lesson_0_71db625e:
@@ -1041,8 +1041,8 @@ translate crowdin sexed_lisa_lesson_0_c156074c:
 # game/events/eric.rpy:1079
 translate crowdin sexed_lisa_lesson_0_84fe0924:
 
-msgid "[Lisa_03]Со стороны всё выглядит довольно просто или это не так?"
-msgstr "[Lisa_03]Dall'esterno, sembra piuttosto semplice o no?"
+    # Lisa_03 "Со стороны всё выглядит довольно просто или это не так?"
+    Lisa_03 "Dall'esterno, sembra piuttosto semplice o no?"
 
 # game/events/eric.rpy:1080
 translate crowdin sexed_lisa_lesson_0_4d9014eb:
@@ -1053,8 +1053,8 @@ translate crowdin sexed_lisa_lesson_0_4d9014eb:
 # game/events/eric.rpy:1081
 translate crowdin sexed_lisa_lesson_0_d87650b1:
 
-msgid "[Lisa_09]Надеюсь, я при этом ничего не испорчу..."
-msgstr "[Lisa_09]spero di non rovinare nulla..."
+    # Lisa_09 "Надеюсь, я при этом ничего не испорчу..."
+    Lisa_09 "spero di non rovinare nulla..."
 
 # game/events/eric.rpy:1082
 translate crowdin sexed_lisa_lesson_0_58dfe180:
@@ -1065,8 +1065,8 @@ msgstr "[Eric_03]Oh, Lisa, è improbabile! Solo un leggero tocco della mano di u
 # game/events/eric.rpy:1083
 translate crowdin sexed_lisa_lesson_0_57ac6b09:
 
-msgid "[Lisa_10]Ой, так я делать не буду!"
-msgstr "[Lisa_10]Oh, non ho intenzione di farlo!"
+    # Lisa_10 "Ой, так я делать не буду!"
+    Lisa_10 "Oh, non ho intenzione di farlo!"
 
 # game/events/eric.rpy:1084
 translate crowdin sexed_lisa_lesson_0_863e16ef:
@@ -1083,8 +1083,8 @@ translate crowdin sexed_lisa_lesson_0_adc1e3a9:
 # game/events/eric.rpy:1092
 translate crowdin sexed_lisa_lesson_0_d2166188:
 
-msgid "[Lisa_02]Мам, а что будет в следующий раз?"
-msgstr "[Lisa_02]mamma, cosa succede la prossima volta?"
+    # Lisa_02 "Мам, а что будет в следующий раз?"
+    Lisa_02 "mamma, cosa succede la prossima volta?"
 
 # game/events/eric.rpy:1093
 translate crowdin sexed_lisa_lesson_0_f98bd6db:
@@ -1113,8 +1113,8 @@ translate crowdin sexed_lisa_lesson_1_87d80caa:
 # game/events/eric.rpy:1107
 translate crowdin sexed_lisa_lesson_1_85c0a015:
 
-msgid "[Lisa_01]Это будет какая-то хитрая техника?"
-msgstr "[Lisa_01]Sarà una tecnica complicata?"
+    # Lisa_01 "Это будет какая-то хитрая техника?"
+    Lisa_01 "Sarà una tecnica complicata?"
 
 # game/events/eric.rpy:1113
 translate crowdin sexed_lisa_lesson_1_d1acd262:
@@ -1143,8 +1143,8 @@ translate crowdin sexed_lisa_lesson_1_ac7ee8df:
 # game/events/eric.rpy:1128
 translate crowdin sexed_lisa_lesson_1_1d6ac237:
 
-msgid "[Lisa_02]А, ну это я делать умею..."
-msgstr "[Lisa_02]Ah, beh, so come fare..."
+    # Lisa_02 "А, ну это я делать умею..."
+    Lisa_02 "Ah, beh, so come fare..."
 
 # game/events/eric.rpy:1129
 translate crowdin sexed_lisa_lesson_1_3eb6eb73:
@@ -1155,8 +1155,8 @@ translate crowdin sexed_lisa_lesson_1_3eb6eb73:
 # game/events/eric.rpy:1130
 translate crowdin sexed_lisa_lesson_1_2ba6a77d:
 
-msgid "[Lisa_10]Ой, нет, я имела ввиду, что одеваться-раздеваться я умею, каждый день это делаю."
-msgstr "[Lisa_10]Oh, no, intendevo dire che so come vestirmi e spogliarmi, lo faccio ogni giorno."
+    # Lisa_10 "Ой, нет, я имела ввиду, что одеваться-раздеваться я умею, каждый день это делаю."
+    Lisa_10 "Oh, no, intendevo dire che so come vestirmi e spogliarmi, lo faccio ogni giorno."
 
 # game/events/eric.rpy:1137
 translate crowdin sexed_lisa_lesson_1_03d6e80a:
@@ -1167,8 +1167,8 @@ translate crowdin sexed_lisa_lesson_1_03d6e80a:
 # game/events/eric.rpy:1138
 translate crowdin sexed_lisa_lesson_1_d1ae2239:
 
-msgid "[Lisa_09]Мам, твоя грудь - уж точно не мелочь! У меня поменьше будет..."
-msgstr "[Lisa_09]mamma, il tuo seno non è certo una sciocchezza! Ne avrò meno..."
+    # Lisa_09 "Мам, твоя грудь - уж точно не мелочь! У меня поменьше будет..."
+    Lisa_09 "mamma, il tuo seno non è certo una sciocchezza! Ne avrò meno..."
 
 # game/events/eric.rpy:1139
 translate crowdin sexed_lisa_lesson_1_0f719766:
@@ -1185,8 +1185,8 @@ translate crowdin sexed_lisa_lesson_1_28fff240:
 # game/events/eric.rpy:1146
 translate crowdin sexed_lisa_lesson_1_6e3c2656:
 
-msgid "[Lisa_02]Значит, достаточно просто обнажить грудь и всё?"
-msgstr "[Lisa_02]Quindi, basta mettere a nudo il petto e basta?"
+    # Lisa_02 "Значит, достаточно просто обнажить грудь и всё?"
+    Lisa_02 "Quindi, basta mettere a nudo il petto e basta?"
 
 # game/events/eric.rpy:1147
 translate crowdin sexed_lisa_lesson_1_77b2fd6c:
@@ -1209,8 +1209,8 @@ translate crowdin sexed_lisa_lesson_1_9299f861:
 # game/events/eric.rpy:1156
 translate crowdin sexed_lisa_lesson_1_933c3a52:
 
-msgid "[Lisa_01]Конечно, мам. С интересом буду ждать следующего урока..."
-msgstr "[Lisa_01]Certo, mamma. Aspetterò con interesse la prossima lezione..."
+    # Lisa_01 "Конечно, мам. С интересом буду ждать следующего урока..."
+    Lisa_01 "Certo, mamma. Aspetterò con interesse la prossima lezione..."
 
 # game/events/eric.rpy:1157
 translate crowdin sexed_lisa_lesson_1_e2699e4d:
@@ -1245,8 +1245,8 @@ translate crowdin sexed_lisa_lesson_2_24352377:
 # game/events/eric.rpy:1178
 translate crowdin sexed_lisa_lesson_2_48f4e3fa:
 
-msgid "[Lisa_10]Как много всяких нюансов..."
-msgstr "[Lisa_10]Quante sfumature..."
+    # Lisa_10 "Как много всяких нюансов..."
+    Lisa_10 "Quante sfumature..."
 
 # game/events/eric.rpy:1179
 translate crowdin sexed_lisa_lesson_2_2fff7579:
@@ -1257,8 +1257,8 @@ translate crowdin sexed_lisa_lesson_2_2fff7579:
 # game/events/eric.rpy:1186
 translate crowdin sexed_lisa_lesson_2_e3d29cb3:
 
-msgid "[Lisa_02]Значит, всё делать так же как и с членом?"
-msgstr "[Lisa_02]Quindi, tutto dovrebbe essere fatto come con un pene?"
+    # Lisa_02 "Значит, всё делать так же как и с членом?"
+    Lisa_02 "Quindi, tutto dovrebbe essere fatto come con un pene?"
 
 # game/events/eric.rpy:1187
 translate crowdin sexed_lisa_lesson_2_078b2cba:
@@ -1281,8 +1281,8 @@ translate crowdin sexed_lisa_lesson_2_8670f664:
 # game/events/eric.rpy:1195
 translate crowdin sexed_lisa_lesson_2_f4970fe1:
 
-msgid "[Lisa_03]Круто! А как долго это всё надо делать?"
-msgstr "[Lisa_03]Fantastico! E per quanto tempo tutto questo dovrebbe essere fatto?"
+    # Lisa_03 "Круто! А как долго это всё надо делать?"
+    Lisa_03 "Fantastico! E per quanto tempo tutto questo dovrebbe essere fatto?"
 
 # game/events/eric.rpy:1196
 translate crowdin sexed_lisa_lesson_2_d332b109:
@@ -1293,8 +1293,8 @@ translate crowdin sexed_lisa_lesson_2_d332b109:
 # game/events/eric.rpy:1197
 translate crowdin sexed_lisa_lesson_2_d3b4b1de:
 
-msgid "[Lisa_10]Ну хорошо. А я надеялась, что хоть здесь экзаменов не будет."
-msgstr "[Lisa_10]Va bene. E speravo che almeno non ci sarebbero stati esami qui."
+    # Lisa_10 "Ну хорошо. А я надеялась, что хоть здесь экзаменов не будет."
+    Lisa_10 "Va bene. E speravo che almeno non ci sarebbero stati esami qui."
 
 # game/events/eric.rpy:1198
 translate crowdin sexed_lisa_lesson_2_f429540b:
@@ -1323,8 +1323,8 @@ translate crowdin sexed_lisa_lesson_3_b8ee0608:
 # game/events/eric.rpy:1212
 translate crowdin sexed_lisa_lesson_3_19a9a059:
 
-msgid "[Lisa_10]Ой, мам, сейчас... Так... Нужно взять его член крепко, но нежно и ласкать, да?"
-msgstr "[Lisa_10]Oh, mamma, ora... Così... Devi prenderlo strettamente ma delicatamente e accarezzarlo, giusto?"
+    # Lisa_10 "Ой, мам, сейчас... Так... Нужно взять его член крепко, но нежно и ласкать, да?"
+    Lisa_10 "Oh, mamma, ora... Così... Devi prenderlo strettamente ma delicatamente e accarezzarlo, giusto?"
 
 # game/events/eric.rpy:1216
 translate crowdin sexed_lisa_lesson_3_cf0e7b09:
@@ -1335,8 +1335,8 @@ translate crowdin sexed_lisa_lesson_3_cf0e7b09:
 # game/events/eric.rpy:1217
 translate crowdin sexed_lisa_lesson_3_957e747c:
 
-msgid "[Lisa_11]А будет что-то ещё?! Ещё уроки?"
-msgstr "[Lisa_11]Ci sarà qualcos'altro?! Altre lezioni?"
+    # Lisa_11 "А будет что-то ещё?! Ещё уроки?"
+    Lisa_11 "Ci sarà qualcos'altro?! Altre lezioni?"
 
 # game/events/eric.rpy:1218
 translate crowdin sexed_lisa_lesson_3_0db729e3:
@@ -1347,8 +1347,8 @@ translate crowdin sexed_lisa_lesson_3_0db729e3:
 # game/events/eric.rpy:1219
 translate crowdin sexed_lisa_lesson_3_18663d6a:
 
-msgid "[Lisa_02]А как ещё?"
-msgstr "[Lisa_02]Cos'altro?"
+    # Lisa_02 "А как ещё?"
+    Lisa_02 "Cos'altro?"
 
 # game/events/eric.rpy:1223
 translate crowdin sexed_lisa_lesson_3_786cee35:
@@ -1365,8 +1365,8 @@ translate crowdin sexed_lisa_lesson_3_9361d9ee:
 # game/events/eric.rpy:1225
 translate crowdin sexed_lisa_lesson_3_675c30b2:
 
-msgid "[Lisa_09]Да, я поняла, закрепление пройденного материала."
-msgstr "[Lisa_09]sì, ho capito, consolidamento del materiale coperto."
+    # Lisa_09 "Да, я поняла, закрепление пройденного материала."
+    Lisa_09 "sì, ho capito, consolidamento del materiale coperto."
 
 # game/events/eric.rpy:1231
 translate crowdin sexed_lisa_lesson_3_d212c0f3:
@@ -1377,8 +1377,8 @@ translate crowdin sexed_lisa_lesson_3_d212c0f3:
 # game/events/eric.rpy:1232
 translate crowdin sexed_lisa_lesson_3_bda10a5f:
 
-msgid "[Lisa_01]Можно обнажить грудь! Я это помню..."
-msgstr "[Lisa_01]Puoi mettere a nudo il petto! Ricordo che..."
+    # Lisa_01 "Можно обнажить грудь! Я это помню..."
+    Lisa_01 "Puoi mettere a nudo il petto! Ricordo che..."
 
 # game/events/eric.rpy:1239
 translate crowdin sexed_lisa_lesson_3_a38562a0:
@@ -1389,8 +1389,8 @@ translate crowdin sexed_lisa_lesson_3_a38562a0:
 # game/events/eric.rpy:1240
 translate crowdin sexed_lisa_lesson_3_5816beef:
 
-msgid "[Lisa_10]Ой, забыла. Точно, ты говорила о том, чтобы немного подразнить этим мужчину."
-msgstr "[Lisa_10]Oh, dimenticavo. Esattamente, stavi parlando di prendere in giro un po' quest'uomo."
+    # Lisa_10 "Ой, забыла. Точно, ты говорила о том, чтобы немного подразнить этим мужчину."
+    Lisa_10 "Oh, dimenticavo. Esattamente, stavi parlando di prendere in giro un po' quest'uomo."
 
 # game/events/eric.rpy:1246
 translate crowdin sexed_lisa_lesson_3_9fd70478:
@@ -1401,8 +1401,8 @@ translate crowdin sexed_lisa_lesson_3_9fd70478:
 # game/events/eric.rpy:1247
 translate crowdin sexed_lisa_lesson_3_00b63f32:
 
-msgid "[Lisa_02]Сейчас... Ах да, ласкать яички!"
-msgstr "[Lisa_02]Ora... Oh sì, accarezza i testicoli!"
+    # Lisa_02 "Сейчас... Ах да, ласкать яички!"
+    Lisa_02 "Ora... Oh sì, accarezza i testicoli!"
 
 # game/events/eric.rpy:1254
 translate crowdin sexed_lisa_lesson_3_59d1a715:
@@ -1413,8 +1413,8 @@ translate crowdin sexed_lisa_lesson_3_59d1a715:
 # game/events/eric.rpy:1255
 translate crowdin sexed_lisa_lesson_3_cfad66eb:
 
-msgid "[Lisa_10]Эээ... Нежно и аккуратно. Легонько массировать... Верно, мам?"
-msgstr "[Lisa_10]Uh...... Gentile e pulito. Massaggio leggero... Giusto, mamma?"
+    # Lisa_10 "Эээ... Нежно и аккуратно. Легонько массировать... Верно, мам?"
+    Lisa_10 "Uh...... Gentile e pulito. Massaggio leggero... Giusto, mamma?"
 
 # game/events/eric.rpy:1261
 translate crowdin sexed_lisa_lesson_3_49a44ec8:
@@ -1425,8 +1425,8 @@ translate crowdin sexed_lisa_lesson_3_49a44ec8:
 # game/events/eric.rpy:1262
 translate crowdin sexed_lisa_lesson_3_dd130e24:
 
-msgid "[Lisa_03]О, это как?!"
-msgstr "[Lisa_03]Oh, com'è?!"
+    # Lisa_03 "О, это как?!"
+    Lisa_03 "Oh, com'è?!"
 
 # game/events/eric.rpy:1263
 translate crowdin sexed_lisa_lesson_3_02816cbb:
@@ -1455,8 +1455,8 @@ translate crowdin sexed_lisa_lesson_3_d99c9cbc:
 # game/events/eric.rpy:1270
 translate crowdin sexed_lisa_lesson_3_0bb761d3:
 
-msgid "[Lisa_13]Да уж, а никак нельзя избежать этого... беспорядка?"
-msgstr "[Lisa_13]Oh, e non puoi evitarlo... Confusione?"
+    # Lisa_13 "Да уж, а никак нельзя избежать этого... беспорядка?"
+    Lisa_13 "Oh, e non puoi evitarlo... Confusione?"
 
 # game/events/eric.rpy:1271
 translate crowdin sexed_lisa_lesson_3_bb73c8db:
@@ -1473,8 +1473,8 @@ msgstr "[Eric_06]che puoi prendere tutto lo sperma in bocca e inghiottirlo? Cosa
 # game/events/eric.rpy:1278
 translate crowdin sexed_lisa_lesson_3_60ac646f:
 
-msgid "[Lisa_11]В рот?! И проглотить! Ой, фу-фу-фу! Нет, уж лучше салфетки, потому что это даже звучит противно..."
-msgstr "[Lisa_11]In bocca?! E ingoiare! Oh, foo-foo-foo! No, è meglio dei tovaglioli, perché suona persino disgustoso..."
+    # Lisa_11 "В рот?! И проглотить! Ой, фу-фу-фу! Нет, уж лучше салфетки, потому что это даже звучит противно..."
+    Lisa_11 "In bocca?! E ingoiare! Oh, foo-foo-foo! No, è meglio dei tovaglioli, perché suona persino disgustoso..."
 
 # game/events/eric.rpy:1279
 translate crowdin sexed_lisa_lesson_3_13aa06a4:
@@ -1485,8 +1485,8 @@ translate crowdin sexed_lisa_lesson_3_13aa06a4:
 # game/events/eric.rpy:1280
 translate crowdin sexed_lisa_lesson_3_a14ce656:
 
-msgid "[Lisa_13]Всё равно, выглядит и звучит это всё ну так себе, если не сказать похуже!"
-msgstr "[Lisa_13]Comunque, sembra e suona come tutto così, così, per non dire altro!"
+    # Lisa_13 "Всё равно, выглядит и звучит это всё ну так себе, если не сказать похуже!"
+    Lisa_13 "Comunque, sembra e suona come tutto così, così, per non dire altro!"
 
 # game/events/eric.rpy:1281
 translate crowdin sexed_lisa_lesson_3_be7bf484:
@@ -1503,8 +1503,8 @@ translate crowdin sexed_lisa_lesson_3_b6d6c533:
 # game/events/eric.rpy:1283
 translate crowdin sexed_lisa_lesson_3_24f6a637:
 
-msgid "[Lisa_02]А о чём таком вы говорите?"
-msgstr "[Lisa_02]Di cosa stai parlando?"
+    # Lisa_02 "А о чём таком вы говорите?"
+    Lisa_02 "Di cosa stai parlando?"
 
 # game/events/eric.rpy:1284
 translate crowdin sexed_lisa_lesson_3_8da9317f:
@@ -1515,8 +1515,8 @@ translate crowdin sexed_lisa_lesson_3_8da9317f:
 # game/events/eric.rpy:1285
 translate crowdin sexed_lisa_lesson_3_93463eeb:
 
-msgid "[Lisa_09]Мам, ты сказала, что мальчикам сложнее сделать нам приятно там внизу, да? А почему?"
-msgstr "[Lisa_09]mamma, hai detto che è più difficile per i ragazzi farci sentire bene laggiù, giusto? Perché?"
+    # Lisa_09 "Мам, ты сказала, что мальчикам сложнее сделать нам приятно там внизу, да? А почему?"
+    Lisa_09 "mamma, hai detto che è più difficile per i ragazzi farci sentire bene laggiù, giusto? Perché?"
 
 # game/events/eric.rpy:1286
 translate crowdin sexed_lisa_lesson_3_a0af2116:
@@ -1527,8 +1527,8 @@ msgstr "[Eric_09]Basta domande per oggi. Corriamo a te stessa, Lisa. Gli adulti 
 # game/events/eric.rpy:1287
 translate crowdin sexed_lisa_lesson_3_762fcd5f:
 
-msgid "[Lisa_01]Хорошо. Ну, я побежала..."
-msgstr "[Lisa_01]Va bene. Beh, ho corso..."
+    # Lisa_01 "Хорошо. Ну, я побежала..."
+    Lisa_01 "Va bene. Beh, ho corso..."
 
 # game/events/eric.rpy:1300
 translate crowdin first_jerk_balkon_22b77a79:

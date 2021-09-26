@@ -81,8 +81,8 @@ translate crowdin first_new_punishment_de217f08:
 # game/dialogues/punishment.rpy:120
 translate crowdin first_new_punishment_916b3b51:
 
-msgid "[Lisa_09]Мам, и что, нам с Алисой придётся раздеваться догола прямо перед Максом? А если он разденется, нам смотреть на этот... его... ну..."
-msgstr "[Lisa_09]mamma, e io e Alice dovremo spogliarci nudi proprio di fronte a Max? E se si annulla, vedremo questo... suo... bene..."
+    # Lisa_09 "Мам, и что, нам с Алисой придётся раздеваться догола прямо перед Максом? А если он разденется, нам смотреть на этот... его... ну..."
+    Lisa_09 "mamma, e io e Alice dovremo spogliarci nudi proprio di fronte a Max? E se si annulla, vedremo questo... suo... bene..."
 
 # game/dialogues/punishment.rpy:121
 translate crowdin first_new_punishment_51f3891b:
@@ -141,8 +141,8 @@ translate crowdin first_naked_punishment_3f2e2a3f:
 # game/dialogues/punishment.rpy:137
 translate crowdin first_naked_punishment_c1e4e97a:
 
-msgid "[Lisa_11]Ой, нет! Не надо, мам!"
-msgstr "[Lisa_11]Oh, no! Non farlo, mamma!"
+    # Lisa_11 "Ой, нет! Не надо, мам!"
+    Lisa_11 "Oh, no! Non farlo, mamma!"
 
 # game/dialogues/punishment.rpy:138
 translate crowdin first_naked_punishment_4a37ae29:
@@ -189,8 +189,8 @@ translate crowdin punishment_max_3cc1d6e0:
 # game/dialogues/punishment.rpy:182
 translate crowdin punishment_max_pun_reson_2be684f3:
 
-msgid "[Lisa_12]Он видел меня голой, мам! Накажи его! Почему он отделывается только предупреждением? Пусть получит, что заслужил!"
-msgstr "[Lisa_12]Mi vide nudo, mamma! Punirlo! Perché se la passa con un solo avvertimento? Lascia che ottenga ciò che merita!"
+    # Lisa_12 "Он видел меня голой, мам! Накажи его! Почему он отделывается только предупреждением? Пусть получит, что заслужил!"
+    Lisa_12 "Mi vide nudo, mamma! Punirlo! Perché se la passa con un solo avvertimento? Lascia che ottenga ciò che merita!"
 
 # game/dialogues/punishment.rpy:185
 translate crowdin punishment_max_pun_reson_bd61ea84:
@@ -433,8 +433,8 @@ translate crowdin punishment_lisa_9739ac77:
 # game/dialogues/punishment.rpy:416
 translate crowdin punishment_lisa_6d672e8d:
 
-msgid "[Lisa_02]Спасибо тебе, Макс!"
-msgstr "[Lisa_02]Grazie, Max!"
+    # Lisa_02 "Спасибо тебе, Макс!"
+    Lisa_02 "Grazie, Max!"
 
 # game/dialogues/punishment.rpy:423
 translate crowdin punishment_lisa_929c11ac:
@@ -445,8 +445,8 @@ translate crowdin punishment_lisa_929c11ac:
 # game/dialogues/punishment.rpy:427
 translate crowdin punishment_lisa_8b6bc93a:
 
-msgid "[Lisa_10]Мам... Я не специально... Просто, задание было сложное..."
-msgstr "[Lisa_10]Mamma... Non sono di proposito... Semplicemente, il compito era difficile..."
+    # Lisa_10 "Мам... Я не специально... Просто, задание было сложное..."
+    Lisa_10 "Mamma... Non sono di proposito... Semplicemente, il compito era difficile..."
 
 # game/dialogues/punishment.rpy:432
 translate crowdin punishment_lisa_68fc5c88:
@@ -511,8 +511,8 @@ translate crowdin punishment_lisa_85987843:
 # game/dialogues/punishment.rpy:468
 translate crowdin punishment_lisa_6d672e8d_1:
 
-msgid "[Lisa_02]Спасибо тебе, Макс!"
-msgstr "[Lisa_02]Grazie, Max!"
+    # Lisa_02 "Спасибо тебе, Макс!"
+    Lisa_02 "Grazie, Max!"
 
 # game/dialogues/punishment.rpy:474
 translate crowdin punishment_lisa_dd201a37:
@@ -541,8 +541,8 @@ translate crowdin punishment_lisa_e4caf4e0:
 # game/dialogues/punishment.rpy:502
 translate crowdin punishment_lisa_81192a03:
 
-msgid "[Lisa_09]Ма-ам, я больше не буду... Ай... В смысле, буду лучше учиться. Извини..."
-msgstr "[Lisa_09]Signora, non lo sarò più... Io... Voglio dire, imparerò meglio. Scusa..."
+    # Lisa_09 "Ма-ам, я больше не буду... Ай... В смысле, буду лучше учиться. Извини..."
+    Lisa_09 "Signora, non lo sarò più... Io... Voglio dire, imparerò meglio. Scusa..."
 
 # game/dialogues/punishment.rpy:515
 translate crowdin punishment_lisa_3b824b98:
@@ -553,8 +553,8 @@ translate crowdin punishment_lisa_3b824b98:
 # game/dialogues/punishment.rpy:517
 translate crowdin punishment_lisa_1be74016:
 
-msgid "[Lisa_10]Ой... Мам! Больно!"
-msgstr "[Lisa_10]Oh... Mamma! Fa male!"
+    # Lisa_10 "Ой... Мам! Больно!"
+    Lisa_10 "Oh... Mamma! Fa male!"
 
 # game/dialogues/punishment.rpy:519
 translate crowdin punishment_lisa_303b7136:

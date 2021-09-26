@@ -9,8 +9,8 @@ translate crowdin shoping_034007bc:
 # game/events/other.rpy:27
 translate crowdin back_shoping_bd2b389d:
 
-msgid "[Lisa_02]Привет, Макс! Мы вернулись..."
-msgstr "[Lisa_02]Ciao, Max! Siamo tornati..."
+    # Lisa_02 "Привет, Макс! Мы вернулись..."
+    Lisa_02 "Ciao, Max! Siamo tornati..."
 
 # game/events/other.rpy:28
 translate crowdin back_shoping_cd0b2b2b:
@@ -63,8 +63,8 @@ translate crowdin back_shoping_e23a2e06:
 # game/events/other.rpy:41
 translate crowdin back_shoping_dbb7dd3e:
 
-msgid "[Lisa_09]Нет. Мама сказала, что тот который я хотела, слишком дорогой, а остальные слишком открытые..." nointeract
-msgstr "[Lisa_09]No. La mamma ha detto che quello che volevo era troppo costoso e gli altri troppo aperti..." nointeract
+    # Lisa_09 "Нет. Мама сказала, что тот который я хотела, слишком дорогой, а остальные слишком открытые..." nointeract
+    Lisa_09 "No. La mamma ha detto che quello che volevo era troppo costoso e gli altri troppo aperti..." nointeract
 
 # game/events/other.rpy:44
 translate crowdin back_shoping_4ac118f9:
@@ -159,8 +159,8 @@ translate crowdin back_shoping_a28c1031:
 # game/events/other.rpy:78
 translate crowdin back_shoping_dc000c03:
 
-msgid "[Lisa_03]А мне Эрик подарил купальник! Именно такой, как я и хотела! Красный, представляешь?!"
-msgstr "[Lisa_03]Ed Eric mi ha dato un costume da bagno! Esattamente quello che volevo! Rosso, puoi immaginare?!"
+    # Lisa_03 "А мне Эрик подарил купальник! Именно такой, как я и хотела! Красный, представляешь?!"
+    Lisa_03 "Ed Eric mi ha dato un costume da bagno! Esattamente quello che volevo! Rosso, puoi immaginare?!"
 
 # game/events/other.rpy:79
 translate crowdin back_shoping_f936ff3c:
@@ -171,8 +171,8 @@ translate crowdin back_shoping_f936ff3c:
 # game/events/other.rpy:80
 translate crowdin back_shoping_45a6e528:
 
-msgid "[Lisa_02]Что? Ты за меня не рад? Я же теперь смогу загорать в нормальном виде!"
-msgstr "[Lisa_02]Cosa? Non sei felice per me? Ora potrò prendere il sole in modo normale!"
+    # Lisa_02 "Что? Ты за меня не рад? Я же теперь смогу загорать в нормальном виде!"
+    Lisa_02 "Cosa? Non sei felice per me? Ora potrò prendere il sole in modo normale!"
 
 # game/events/other.rpy:81
 translate crowdin back_shoping_c856577b:
@@ -183,8 +183,8 @@ translate crowdin back_shoping_c856577b:
 # game/events/other.rpy:83
 translate crowdin back_shoping_920128b5:
 
-msgid "[Lisa_02]Да так, вскую ерунду... Для нас, девочек. Тебе это не интересно..."
-msgstr "[Lisa_02]sì, sciocchezze... Per noi ragazze. Non ti interessa..."
+    # Lisa_02 "Да так, вскую ерунду... Для нас, девочек. Тебе это не интересно..."
+    Lisa_02 "sì, sciocchezze... Per noi ragazze. Non ti interessa..."
 
 # game/events/other.rpy:84
 translate crowdin back_shoping_f47e0d84:
@@ -447,8 +447,8 @@ msgstr "[Kira_07]Lisa? Alice? Sei tu? Tutti sono così grandi, con me alto!"
 # game/events/other.rpy:247
 translate crowdin Kira_arrival_41dea78a:
 
-msgid "[Lisa_03]Тётя Кира! Ура! Я так соскучилась!"
-msgstr "[Lisa_03]zia Kira! Evviva! Mi è mancato così tanto!"
+    # Lisa_03 "Тётя Кира! Ура! Я так соскучилась!"
+    Lisa_03 "zia Kira! Evviva! Mi è mancato così tanto!"
 
 # game/events/other.rpy:248
 translate crowdin Kira_arrival_34dba009:
@@ -477,8 +477,8 @@ translate crowdin Kira_arrival_9a868553:
 # game/events/other.rpy:254
 translate crowdin Kira_arrival_837dc5ce:
 
-msgid "[Lisa_05]Нет! Она моя! Никому не отдам!"
-msgstr "[Lisa_05]No! Lei è mia! Non lo darò a nessuno!"
+    # Lisa_05 "Нет! Она моя! Никому не отдам!"
+    Lisa_05 "No! Lei è mia! Non lo darò a nessuno!"
 
 # game/events/other.rpy:255
 translate crowdin Kira_arrival_7dd083c1:
@@ -549,8 +549,8 @@ msgstr "[Kira_07]sono già a conoscenza della tua storia con le cose perdute. Pe
 # game/events/other.rpy:287
 translate crowdin Kira_arrival_end_yard_37f87db2:
 
-msgid "[Lisa_02]Ой! Я обожаю новые вещички. А что ты мне привезла, тётя Кира, а?"
-msgstr "[Lisa_02]Oh! Amo le cose nuove. E cosa mi hai portato, zia Kira, y?"
+    # Lisa_02 "Ой! Я обожаю новые вещички. А что ты мне привезла, тётя Кира, а?"
+    Lisa_02 "Oh! Amo le cose nuove. E cosa mi hai portato, zia Kira, y?"
 
 # game/events/other.rpy:288
 translate crowdin Kira_arrival_end_yard_b3e5b52d:
@@ -561,8 +561,8 @@ translate crowdin Kira_arrival_end_yard_b3e5b52d:
 # game/events/other.rpy:289
 translate crowdin Kira_arrival_end_yard_e217d4e7:
 
-msgid "[Lisa_01]Макс, какой ты глупый, кошмар! Шмотки любят все девушки! Ну так что там?"
-msgstr "[Lisa_01]Max, che stupido incubo sei! Tutte le ragazze adorano lo shmotki! Quindi cosa c'è?"
+    # Lisa_01 "Макс, какой ты глупый, кошмар! Шмотки любят все девушки! Ну так что там?"
+    Lisa_01 "Max, che stupido incubo sei! Tutte le ragazze adorano lo shmotki! Quindi cosa c'è?"
 
 # game/events/other.rpy:290
 translate crowdin Kira_arrival_end_yard_d90987d8:
@@ -579,8 +579,8 @@ translate crowdin Kira_arrival_end_yard_370fc726:
 # game/events/other.rpy:304
 translate crowdin Kira_arrival_end_yard_e9e6d4fa:
 
-msgid "[Lisa_02]Ну как вам? Такой классный топ и юбочка и мой любимый цвет, представляете!" nointeract
-msgstr "[Lisa_02]Che ne dici di te? Un top così bello e un tubo e il mio colore preferito, immagina!" nointeract
+    # Lisa_02 "Ну как вам? Такой классный топ и юбочка и мой любимый цвет, представляете!" nointeract
+    Lisa_02 "Che ne dici di te? Un top così bello e un tubo e il mio colore preferito, immagina!" nointeract
 
 # game/events/other.rpy:307
 translate crowdin Kira_arrival_end_yard_f609e252:
@@ -591,8 +591,8 @@ translate crowdin Kira_arrival_end_yard_f609e252:
 # game/events/other.rpy:311
 translate crowdin Kira_arrival_end_yard_cd5b2e68:
 
-msgid "[Lisa_03]Мне кажется, что не слишком коротко. В самый раз! И теперь так свободно и легко... Спасибо тебе, тётя Кира!"
-msgstr "[Lisa_03]non penso che sia troppo breve. Giusto! E ora è così facile e gratuito... Grazie, zia Kira!"
+    # Lisa_03 "Мне кажется, что не слишком коротко. В самый раз! И теперь так свободно и легко... Спасибо тебе, тётя Кира!"
+    Lisa_03 "non penso che sia troppo breve. Giusto! E ora è così facile e gratuito... Grazie, zia Kira!"
 
 # game/events/other.rpy:312
 translate crowdin Kira_arrival_end_yard_21c31287:

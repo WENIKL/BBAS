@@ -133,8 +133,8 @@ msgstr "[Maya_03]Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei
     Max_01 "mamma, vivevamo tutti come aringhe in un barile, non siamo estranei. E poi ci sono stanze così enormi. Lisa e io abbiamo abbastanza spazio. Davvero, sorella?"
 
 # game/script.rpy:96## # translate crowdin intro_fbedb073:
-msgid "[Lisa_02]Конечно! Мам, мы нормально с Максом уживаемся. А если будет косячить, выгоню его в эту самую гостиную! А ты свою комнату точно заслужила. И не спорь. Мы все так думаем."
-msgstr "[Lisa_02]Certo! Mamma, Max ed io stiamo bene. E se falcia, lo butto fuori in questo stesso salotto! E hai sicuramente meritato la tua stanza. E non discutere. Lo pensiamo tutti."
+    # Lisa_02 "Конечно! Мам, мы нормально с Максом уживаемся. А если будет косячить, выгоню его в эту самую гостиную! А ты свою комнату точно заслужила. И не спорь. Мы все так думаем."
+    Lisa_02 "Certo! Mamma, Max ed io stiamo bene. E se falcia, lo butto fuori in questo stesso salotto! E hai sicuramente meritato la tua stanza. E non discutere. Lo pensiamo tutti."
 
 # game/script.rpy:97## # translate crowdin intro_07cd4260:
     # Ann_07 "Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем!" nointeract

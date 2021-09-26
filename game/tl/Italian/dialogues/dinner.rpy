@@ -111,14 +111,14 @@ translate crowdin dinner_first_boss_2c2bc8d5:
 # game/dialogues/dinner.rpy:110
 translate crowdin dinner_first_boss_4a925465:
 
-msgid "[Lisa_02]Макс! Мама давно ни с кем не общалась и если нашла себе босса начальника, то какой от этого может быть вред?" nointeract
-msgstr "[Lisa_02]Max! La mamma non ha comunicato con nessuno per molto tempo e se ha trovato un capo capo, allora che male può fare?" nointeract
+    # Lisa_02 "Макс! Мама давно ни с кем не общалась и если нашла себе босса начальника, то какой от этого может быть вред?" nointeract
+    Lisa_02 "Max! La mamma non ha comunicato con nessuno per molto tempo e se ha trovato un capo capo, allora che male può fare?" nointeract
 
 # game/dialogues/dinner.rpy:113
 translate crowdin dinner_first_boss_8583dda0:
 
-msgid "[Lisa_01]Мне кажется, что если ссориться со своим боссом, то так и так могут уволить..."
-msgstr "[Lisa_01]Mi sembra che se litighi con il tuo capo, puoi essere licenziato..."
+    # Lisa_01 "Мне кажется, что если ссориться со своим боссом, то так и так могут уволить..."
+    Lisa_01 "Mi sembra che se litighi con il tuo capo, puoi essere licenziato..."
 
 # game/dialogues/dinner.rpy:114
 translate crowdin dinner_first_boss_0d7d3940:
@@ -129,8 +129,8 @@ translate crowdin dinner_first_boss_0d7d3940:
 # game/dialogues/dinner.rpy:117
 translate crowdin dinner_first_boss_0d49c0dd:
 
-msgid "[Lisa_03]Мам, похоже и он тебе нравится, да?"
-msgstr "[Lisa_03]mamma, sembra che anche a te piaccia, giusto?"
+    # Lisa_03 "Мам, похоже и он тебе нравится, да?"
+    Lisa_03 "mamma, sembra che anche a te piaccia, giusto?"
 
 # game/dialogues/dinner.rpy:121
 translate crowdin dinner_first_boss_name_f3659920:
@@ -159,8 +159,8 @@ translate crowdin dinner_first_yeah_775e169f:
 # game/dialogues/dinner.rpy:127
 translate crowdin dinner_first_yeah_c3619227:
 
-msgid "[Lisa_01]Ну, школа находится тут совсем рядом, почти за углом. Уроки короткие, занятий мало. Но преподают интересно, гораздо лучше, чем в старой школе. Думаю, здесь даже Максу понравилось бы учиться!"
-msgstr "[Lisa_01]Beh, la scuola è proprio lì, quasi dietro l'angolo. Le lezioni sono brevi, le lezioni sono poche. Ma insegnano in modo interessante, molto meglio che nella vecchia scuola. Penso che anche Max vorrebbe studiare qui!"
+    # Lisa_01 "Ну, школа находится тут совсем рядом, почти за углом. Уроки короткие, занятий мало. Но преподают интересно, гораздо лучше, чем в старой школе. Думаю, здесь даже Максу понравилось бы учиться!"
+    Lisa_01 "Beh, la scuola è proprio lì, quasi dietro l'angolo. Le lezioni sono brevi, le lezioni sono poche. Ma insegnano in modo interessante, molto meglio che nella vecchia scuola. Penso che anche Max vorrebbe studiare qui!"
 
 # game/dialogues/dinner.rpy:128
 translate crowdin dinner_first_yeah_09a444ef:
@@ -171,20 +171,20 @@ translate crowdin dinner_first_yeah_09a444ef:
 # game/dialogues/dinner.rpy:129
 translate crowdin dinner_first_yeah_21c00c7f:
 
-msgid "[Lisa_02]Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!" nointeract
-msgstr "[Lisa_02]sì, ho incontrato... con una ragazza. Super classe, tutto bene, mamma!" nointeract
+    # Lisa_02 "Да, познакомилась... с одной подружкой. Класс супер, всё хорошо, мам!" nointeract
+    Lisa_02 "sì, ho incontrato... con una ragazza. Super classe, tutto bene, mamma!" nointeract
 
 # game/dialogues/dinner.rpy:133
 translate crowdin dinner_first_yeah_4eb66e9d:
 
-msgid "[Lisa_12]Макс! Я же тебе по секрету рассказала..." nointeract
-msgstr "[Lisa_12]Max! Te l'ho detto in segreto..." nointeract
+    # Lisa_12 "Макс! Я же тебе по секрету рассказала..." nointeract
+    Lisa_12 "Max! Te l'ho detto in segreto..." nointeract
 
 # game/dialogues/dinner.rpy:139
 translate crowdin dinner_first_yeah_6649cfb2:
 
-msgid "[Lisa_00]Не удивляйся потом, если твои секреты тоже окажутся... не секретами."
-msgstr "[Lisa_00]Non sorprenderti più tardi se anche i tuoi segreti si rivelano essere... non segreti."
+    # Lisa_00 "Не удивляйся потом, если твои секреты тоже окажутся... не секретами."
+    Lisa_00 "Non sorprenderti più tardi se anche i tuoi segreti si rivelano essere... non segreti."
 
 # game/dialogues/dinner.rpy:140
 translate crowdin dinner_first_yeah_555ab37a:
@@ -195,8 +195,8 @@ translate crowdin dinner_first_yeah_555ab37a:
 # game/dialogues/dinner.rpy:146
 translate crowdin dinner_first_yeah_1cfd61ef:
 
-msgid "[Lisa_00]Ой, да обычная подружка..."
-msgstr "[Lisa_00]Oh, sì, ragazza ordinaria..."
+    # Lisa_00 "Ой, да обычная подружка..."
+    Lisa_00 "Oh, sì, ragazza ordinaria..."
 
 # game/dialogues/dinner.rpy:147
 translate crowdin dinner_first_yeah_fbe7c8e0:
@@ -207,8 +207,8 @@ translate crowdin dinner_first_yeah_fbe7c8e0:
 # game/dialogues/dinner.rpy:151
 translate crowdin dinner_first_secret_b98451b5:
 
-msgid "[Lisa_09]Ну что вы, в самом деле. Ну да, с парнем познакомилась. Зовут Алекс. Учимся вместе, сидим рядом!"
-msgstr "[Lisa_09]Beh, cosa sei, davvero. Beh, sì, ho incontrato un ragazzo. Il suo nome è Alex. Imparare insieme, seduti uno accanto all'altro!"
+    # Lisa_09 "Ну что вы, в самом деле. Ну да, с парнем познакомилась. Зовут Алекс. Учимся вместе, сидим рядом!"
+    Lisa_09 "Beh, cosa sei, davvero. Beh, sì, ho incontrato un ragazzo. Il suo nome è Alex. Imparare insieme, seduti uno accanto all'altro!"
 
 # game/dialogues/dinner.rpy:152
 translate crowdin dinner_first_secret_9535ad14:
@@ -219,8 +219,8 @@ translate crowdin dinner_first_secret_9535ad14:
 # game/dialogues/dinner.rpy:153
 translate crowdin dinner_first_secret_4933527a:
 
-msgid "[Lisa_09]А я так и сказала! Всё. Больше ничего не спрашивайте!"
-msgstr "[Lisa_09]E l'ho detto! Tutto. Non chiedere nient'altro!"
+    # Lisa_09 "А я так и сказала! Всё. Больше ничего не спрашивайте!"
+    Lisa_09 "E l'ho detto! Tutto. Non chiedere nient'altro!"
 
 # game/dialogues/dinner.rpy:154
 translate crowdin dinner_first_secret_2e5f62ef:
@@ -231,8 +231,8 @@ translate crowdin dinner_first_secret_2e5f62ef:
 # game/dialogues/dinner.rpy:155
 translate crowdin dinner_first_secret_399f1d43:
 
-msgid "[Lisa_02]Да всё в порядке, мам. Просто, мы только познакомились, поболтали и улыбнулись друг другу, а всё выглядит так, как будто у меня уже есть парень..."
-msgstr "[Lisa_02]sì, va bene, mamma. È solo che ci siamo appena incontrati, chiacchierati e sorrisi l'un l'altro, e sembra che io abbia già un fidanzato..."
+    # Lisa_02 "Да всё в порядке, мам. Просто, мы только познакомились, поболтали и улыбнулись друг другу, а всё выглядит так, как будто у меня уже есть парень..."
+    Lisa_02 "sì, va bene, mamma. È solo che ci siamo appena incontrati, chiacchierati e sorrisi l'un l'altro, e sembra che io abbia già un fidanzato..."
 
 # game/dialogues/dinner.rpy:156
 translate crowdin dinner_first_secret_c95cf852:
@@ -243,8 +243,8 @@ translate crowdin dinner_first_secret_c95cf852:
 # game/dialogues/dinner.rpy:157
 translate crowdin dinner_first_secret_31c152af:
 
-msgid "[Lisa_01]Да, мам. Но если мне кто-то поможет... Например, Макс, то я не откажусь..."
-msgstr "[Lisa_01]sì, mamma. Ma se qualcuno mi aiuta... Ad esempio, Max, non mi arrenderò..."
+    # Lisa_01 "Да, мам. Но если мне кто-то поможет... Например, Макс, то я не откажусь..."
+    Lisa_01 "sì, mamma. Ma se qualcuno mi aiuta... Ad esempio, Max, non mi arrenderò..."
 
 # game/dialogues/dinner.rpy:158
 translate crowdin dinner_first_secret_05ec93c4:
@@ -291,8 +291,8 @@ translate crowdin dinner_2_cf58258e:
 # game/dialogues/dinner.rpy:179
 translate crowdin dinner_2_c9d4df9f:
 
-msgid "[Lisa_01]Возможность? А что такое?"
-msgstr "[Lisa_01]opportunità? E che cos'è?"
+    # Lisa_01 "Возможность? А что такое?"
+    Lisa_01 "opportunità? E che cos'è?"
 
 # game/dialogues/dinner.rpy:180
 translate crowdin dinner_2_fb8d43bf:
@@ -303,8 +303,8 @@ translate crowdin dinner_2_fb8d43bf:
 # game/dialogues/dinner.rpy:181
 translate crowdin dinner_2_dfe71170:
 
-msgid "[Lisa_09]Ой, точно. Извини, я совсем забыла про это. Да, сочувствую..."
-msgstr "[Lisa_09]Oh, esattamente. Mi dispiace, me ne sono completamente dimenticato. Sì, simpatizzo..."
+    # Lisa_09 "Ой, точно. Извини, я совсем забыла про это. Да, сочувствую..."
+    Lisa_09 "Oh, esattamente. Mi dispiace, me ne sono completamente dimenticato. Sì, simpatizzo..."
 
 # game/dialogues/dinner.rpy:182
 translate crowdin dinner_2_925d99c6:
@@ -423,8 +423,8 @@ translate crowdin dinner_2_next_fea6ae5e:
 # game/dialogues/dinner.rpy:277
 translate crowdin dinner_2_next_a3736476:
 
-msgid "[Lisa_02]Макс, ты что, забыл? В прошлом году маленький паучок летом на Алису заполз, так она орала два часа! Бегала и кричала..."
-msgstr "[Lisa_02]Max, l'hai dimenticato? L'anno scorso, un piccolo ragno ha strisciato su Alice in estate, quindi ha urlato per due ore! Sono corso e ho urlato..."
+    # Lisa_02 "Макс, ты что, забыл? В прошлом году маленький паучок летом на Алису заполз, так она орала два часа! Бегала и кричала..."
+    Lisa_02 "Max, l'hai dimenticato? L'anno scorso, un piccolo ragno ha strisciato su Alice in estate, quindi ha urlato per due ore! Sono corso e ho urlato..."
 
 # game/dialogues/dinner.rpy:278
 translate crowdin dinner_2_next_fb43d7a4:
@@ -537,20 +537,20 @@ translate crowdin dinner_3_20792312:
 # game/dialogues/dinner.rpy:314
 translate crowdin dinner_3_f3630b15:
 
-msgid "[Lisa_00]Он не мой. А вообще, всё хорошо. Спасибо, что спросили, но рассказывать нечего..." nointeract
-msgstr "[Lisa_00]Non è mio. E in generale, tutto va bene. Grazie per avermelo chiesto, ma non c'è niente da dire..." nointeract
+    # Lisa_00 "Он не мой. А вообще, всё хорошо. Спасибо, что спросили, но рассказывать нечего..." nointeract
+    Lisa_00 "Non è mio. E in generale, tutto va bene. Grazie per avermelo chiesto, ma non c'è niente da dire..." nointeract
 
 # game/dialogues/dinner.rpy:318
 translate crowdin dinner_3_099d7225:
 
-msgid "[Lisa_12]Макс! Завязывай. Давайте сменим тему. Значит, завтра шоппинг... Мам! Я вспомнила. Мне нужен купальник. В этом просто невозможно загорать, а других у меня нет!"
-msgstr "[Lisa_12]Max! Fermarsi. Cambiamo argomento. Quindi, domani shopping... Mamma! Mi sono ricordato. Ho bisogno di un costume da bagno. È semplicemente impossibile prendere il sole in questo, e non ne ho altri!"
+    # Lisa_12 "Макс! Завязывай. Давайте сменим тему. Значит, завтра шоппинг... Мам! Я вспомнила. Мне нужен купальник. В этом просто невозможно загорать, а других у меня нет!"
+    Lisa_12 "Max! Fermarsi. Cambiamo argomento. Quindi, domani shopping... Mamma! Mi sono ricordato. Ho bisogno di un costume da bagno. È semplicemente impossibile prendere il sole in questo, e non ne ho altri!"
 
 # game/dialogues/dinner.rpy:321
 translate crowdin dinner_3_c1829598:
 
-msgid "[Lisa_02]Спасибо, Макс. Давайте сменим тему. Значит, завтра шоппинг... Мам! Я вспомнила. Мне нужен купальник. В этом просто невозможно загорать, а других у меня нет!"
-msgstr "[Lisa_02]Grazie, Max. Cambiamo argomento. Quindi, domani shopping... Mamma! Mi sono ricordato. Ho bisogno di un costume da bagno. È semplicemente impossibile prendere il sole in questo, e non ne ho altri!"
+    # Lisa_02 "Спасибо, Макс. Давайте сменим тему. Значит, завтра шоппинг... Мам! Я вспомнила. Мне нужен купальник. В этом просто невозможно загорать, а других у меня нет!"
+    Lisa_02 "Grazie, Max. Cambiamo argomento. Quindi, domani shopping... Mamma! Mi sono ricordato. Ho bisogno di un costume da bagno. È semplicemente impossibile prendere il sole in questo, e non ne ho altri!"
 
 # game/dialogues/dinner.rpy:322
 translate crowdin dinner_3_9f799f74:
@@ -609,8 +609,8 @@ translate crowdin dinner_4_19ed47e5:
 # game/dialogues/dinner.rpy:345
 translate crowdin dinner_4_f786a14a:
 
-msgid "[Lisa_03]Да, Эрик классный! Кстати, это он мне и посоветовал тот купальник... Вот только мама не дала его купить..."
-msgstr "[Lisa_03]sì, Eric è figo! A proposito, è stato lui a consigliarmi che il costume da bagno... Questo è solo che mia madre non gli ha permesso di comprare..."
+    # Lisa_03 "Да, Эрик классный! Кстати, это он мне и посоветовал тот купальник... Вот только мама не дала его купить..."
+    Lisa_03 "sì, Eric è figo! A proposito, è stato lui a consigliarmi che il costume da bagno... Questo è solo che mia madre non gli ha permesso di comprare..."
 
 # game/dialogues/dinner.rpy:346
 translate crowdin dinner_4_6d0031c1:
@@ -621,8 +621,8 @@ translate crowdin dinner_4_6d0031c1:
 # game/dialogues/dinner.rpy:347
 translate crowdin dinner_4_70506d70:
 
-msgid "[Lisa_02]Ну тот, дизайнерский какой-то. Он так хорошо на мне сидел. Эрик сказал, что идеально!"
-msgstr "[Lisa_02]Beh, una specie di designer. Si è seduto così bene su di me. Eric ha detto perfetto!"
+    # Lisa_02 "Ну тот, дизайнерский какой-то. Он так хорошо на мне сидел. Эрик сказал, что идеально!"
+    Lisa_02 "Beh, una specie di designer. Si è seduto così bene su di me. Eric ha detto perfetto!"
 
 # game/dialogues/dinner.rpy:348
 translate crowdin dinner_4_f7058ec9:
@@ -651,14 +651,14 @@ translate crowdin dinner_4_af37ddf8:
 # game/dialogues/dinner.rpy:356
 translate crowdin dinner_4_2572e6bf:
 
-msgid "[Lisa_09]Тем не менее, купальник мне всё ещё нужен. В закрытом я не могу загорать, а очень хочется..." nointeract
-msgstr "[Lisa_09]Tuttavia, ho ancora bisogno di un costume da bagno. Nel chiuso non posso prendere il sole, ma voglio davvero..." nointeract
+    # Lisa_09 "Тем не менее, купальник мне всё ещё нужен. В закрытом я не могу загорать, а очень хочется..." nointeract
+    Lisa_09 "Tuttavia, ho ancora bisogno di un costume da bagno. Nel chiuso non posso prendere il sole, ma voglio davvero..." nointeract
 
 # game/dialogues/dinner.rpy:361
 translate crowdin dinner_4_d0a6b048:
 
-msgid "[Lisa_13]Очень смешно, Макс. Загорай сам как хочешь, а мне нужен купальник!"
-msgstr "[Lisa_13]Molto divertente, Max. Prendi il sole come vuoi e ho bisogno di un costume da bagno!"
+    # Lisa_13 "Очень смешно, Макс. Загорай сам как хочешь, а мне нужен купальник!"
+    Lisa_13 "Molto divertente, Max. Prendi il sole come vuoi e ho bisogno di un costume da bagno!"
 
 # game/dialogues/dinner.rpy:362
 translate crowdin dinner_4_ff02b2d1:
@@ -789,8 +789,8 @@ translate crowdin dinner_5_05214a4e:
 # game/dialogues/dinner.rpy:427
 translate crowdin dinner_5_84162138:
 
-msgid "[Lisa_01]А что, Эрик сегодня не у нас ночует? Ты вроде говорила, что вы часто будете видеться?"
-msgstr "[Lisa_01]E cosa, Eric non passa la notte con noi oggi? Hai detto che ti saresti visto spesso?"
+    # Lisa_01 "А что, Эрик сегодня не у нас ночует? Ты вроде говорила, что вы часто будете видеться?"
+    Lisa_01 "E cosa, Eric non passa la notte con noi oggi? Hai detto che ti saresti visto spesso?"
 
 # game/dialogues/dinner.rpy:428
 translate crowdin dinner_5_7608d1b0:
@@ -867,8 +867,8 @@ translate crowdin dinner_5_e38b8880:
 # game/dialogues/dinner.rpy:452
 translate crowdin dinner_5_9563c56b:
 
-msgid "[Lisa_01]Ну, ещё нужно сделать кое-что и да, буду готова. Не переживай, мам..."
-msgstr "[Lisa_01]Beh, c'è ancora qualcosa da fare e sì, sarò pronto. Non ti preoccupare, mamma..."
+    # Lisa_01 "Ну, ещё нужно сделать кое-что и да, буду готова. Не переживай, мам..."
+    Lisa_01 "Beh, c'è ancora qualcosa da fare e sì, sarò pronto. Non ti preoccupare, mamma..."
 
 # game/dialogues/dinner.rpy:453
 translate crowdin dinner_5_2372da91:
@@ -879,8 +879,8 @@ translate crowdin dinner_5_2372da91:
 # game/dialogues/dinner.rpy:454
 translate crowdin dinner_5_3c52e97f:
 
-msgid "[Lisa_00]Да, мам... Я постараюсь. Сделаю всё, что смогу..."
-msgstr "[Lisa_00]sì, mamma... Ci proverò. Farò il massimo che posso..."
+    # Lisa_00 "Да, мам... Я постараюсь. Сделаю всё, что смогу..."
+    Lisa_00 "sì, mamma... Ci proverò. Farò il massimo che posso..."
 
 # game/dialogues/dinner.rpy:455
 translate crowdin dinner_5_5d21372d:
@@ -1191,8 +1191,8 @@ translate crowdin dinner_11_1909639d:
 # game/dialogues/dinner.rpy:534
 translate crowdin dinner_11_372762d1:
 
-msgid "[Lisa_02]А ты сразу в клуб, да?"
-msgstr "[Lisa_02]E vai direttamente al club, giusto?"
+    # Lisa_02 "А ты сразу в клуб, да?"
+    Lisa_02 "E vai direttamente al club, giusto?"
 
 # game/dialogues/dinner.rpy:535
 translate crowdin dinner_11_81723923:
@@ -1233,8 +1233,8 @@ translate crowdin dinner_11_7b7d27fd:
 # game/dialogues/dinner.rpy:541
 translate crowdin dinner_11_8943ad56:
 
-msgid "[Lisa_01]А у тебя, Эрик, есть высшее образование?"
-msgstr "[Lisa_01]Tu, Eric, hai una laurea?"
+    # Lisa_01 "А у тебя, Эрик, есть высшее образование?"
+    Lisa_01 "Tu, Eric, hai una laurea?"
 
 # game/dialogues/dinner.rpy:542
 translate crowdin dinner_11_e2de9231:
@@ -1365,8 +1365,8 @@ translate crowdin dinner_12_3ce393a3:
 # game/dialogues/dinner.rpy:591
 translate crowdin dinner_12_dba3788a:
 
-msgid "[Lisa_03]Да ладно?! А на долго? Просто в гости или по делам? Мам, ну расскажи!"
-msgstr "[Lisa_03]Dai?! E per molto tempo? Solo per visitare o per lavoro? Mamma, dimmi!"
+    # Lisa_03 "Да ладно?! А на долго? Просто в гости или по делам? Мам, ну расскажи!"
+    Lisa_03 "Dai?! E per molto tempo? Solo per visitare o per lavoro? Mamma, dimmi!"
 
 # game/dialogues/dinner.rpy:592
 translate crowdin dinner_12_588b4955:
@@ -1425,8 +1425,8 @@ translate crowdin dinner_12_e4627083:
 # game/dialogues/dinner.rpy:611
 translate crowdin dinner_12_797024eb:
 
-msgid "[Lisa_01]Тётя Кира же рассказывала, Макс! Она любит эту историю, правда, каждый раз рассказывает её по-новому. Вот спросишь у неё и узнаешь новую версию!"
-msgstr "[Lisa_01]zia Kira ha detto: \"Max! Ama questa storia, però, ogni volta che la racconta in un modo nuovo. Qui le chiedi e scopri la nuova versione!"
+    # Lisa_01 "Тётя Кира же рассказывала, Макс! Она любит эту историю, правда, каждый раз рассказывает её по-новому. Вот спросишь у неё и узнаешь новую версию!"
+    Lisa_01 "zia Kira ha detto: \"Max! Ama questa storia, però, ogni volta che la racconta in un modo nuovo. Qui le chiedi e scopri la nuova versione!"
 
 # game/dialogues/dinner.rpy:612
 translate crowdin dinner_12_9c03c99d:
@@ -1593,8 +1593,8 @@ translate crowdin dinner_ab_lisa_ed_dc1cdcf5:
 # game/dialogues/dinner.rpy:671
 translate crowdin dinner_ab_lisa_ed_ccd44083:
 
-msgid "[Lisa_00]Для меня?! Какая?"
-msgstr "[Lisa_00]Per me?! Che?"
+    # Lisa_00 "Для меня?! Какая?"
+    Lisa_00 "Per me?! Che?"
 
 # game/dialogues/dinner.rpy:675
 translate crowdin dinner_ab_lisa_ed_f6502d96:
@@ -1605,8 +1605,8 @@ msgstr "[Eric_01]ho deciso che devo prestare più attenzione alla tua educazione
 # game/dialogues/dinner.rpy:676
 translate crowdin dinner_ab_lisa_ed_f32204fd:
 
-msgid "[Lisa_11]Ой! А когда мне нужно к нему ездить?"
-msgstr "[Lisa_11]Oh! E quando devo andare da lui?"
+    # Lisa_11 "Ой! А когда мне нужно к нему ездить?"
+    Lisa_11 "Oh! E quando devo andare da lui?"
 
 # game/dialogues/dinner.rpy:677
 translate crowdin dinner_ab_lisa_ed_8bc69cc7:
@@ -1617,8 +1617,8 @@ msgstr "[Eric_02]La domenica. Studierai per 3 o 4 ore, questo è più che suffic
 # game/dialogues/dinner.rpy:678
 translate crowdin dinner_ab_lisa_ed_986bb662:
 
-msgid "[Lisa_02]Здорово! Спасибо огромное! Слышал, Макс, у меня теперь есть репетитор!"
-msgstr "[Lisa_02]Ottimo! Mille Grazie! Sentito, Max, ora ho un tutor!"
+    # Lisa_02 "Здорово! Спасибо огромное! Слышал, Макс, у меня теперь есть репетитор!"
+    Lisa_02 "Ottimo! Mille Grazie! Sentito, Max, ora ho un tutor!"
 
 # game/dialogues/dinner.rpy:679
 translate crowdin dinner_ab_lisa_ed_3a5ee2d6:
@@ -1635,8 +1635,8 @@ translate crowdin dinner_ab_lisa_ed_348300b3:
 # game/dialogues/dinner.rpy:683
 translate crowdin dinner_ab_lisa_ed_ed572311:
 
-msgid "[Lisa_01]Хорошо, мам."
-msgstr "[Lisa_01]Va bene, mamma."
+    # Lisa_01 "Хорошо, мам."
+    Lisa_01 "Va bene, mamma."
 
 # game/dialogues/dinner.rpy:689
 translate crowdin dinner_ab_lisa_ed_45306d35:
@@ -1647,8 +1647,8 @@ msgstr "[Eric_01]ho deciso che devo prestare più attenzione alla tua educazione
 # game/dialogues/dinner.rpy:690
 translate crowdin dinner_ab_lisa_ed_daffd3b9:
 
-msgid "[Lisa_11]Ого! А когда они проходят?"
-msgstr "[Lisa_11]'s ow! E quando passano?"
+    # Lisa_11 "Ого! А когда они проходят?"
+    Lisa_11 "'s ow! E quando passano?"
 
 # game/dialogues/dinner.rpy:691
 translate crowdin dinner_ab_lisa_ed_35bb1e1e:
@@ -1659,8 +1659,8 @@ msgstr "[Eric_02]Subito dopo le lezioni. Rimarrai dopo la scuola per un'ora per 
 # game/dialogues/dinner.rpy:692
 translate crowdin dinner_ab_lisa_ed_ab303f17:
 
-msgid "[Lisa_02]Здорово! Спасибо огромное! Я теперь буду ходить на дополнительные курсы!"
-msgstr "[Lisa_02]Ottimo! Mille Grazie! Ora andrò a corsi aggiuntivi!"
+    # Lisa_02 "Здорово! Спасибо огромное! Я теперь буду ходить на дополнительные курсы!"
+    Lisa_02 "Ottimo! Mille Grazie! Ora andrò a corsi aggiuntivi!"
 
 # game/dialogues/dinner.rpy:693
 translate crowdin dinner_ab_lisa_ed_2ec88256:
@@ -1701,8 +1701,8 @@ translate crowdin dinner_ab_lisa_ed_32fd24a7:
 # game/dialogues/dinner.rpy:699
 translate crowdin dinner_ab_lisa_ed_ed572311_1:
 
-msgid "[Lisa_01]Хорошо, мам."
-msgstr "[Lisa_01]Va bene, mamma."
+    # Lisa_01 "Хорошо, мам."
+    Lisa_01 "Va bene, mamma."
 
 # game/dialogues/dinner.rpy:704
 translate crowdin dinner_ab_lisa_ed_fceb1fc3:
@@ -1737,8 +1737,8 @@ translate crowdin dinner_ab_earn_a58a530c:
 # game/dialogues/dinner.rpy:720
 translate crowdin dinner_ab_earn_2b69403a:
 
-msgid "[Lisa_01]У меня всё как всегда, мам."
-msgstr "[Lisa_01]ho tutto come sempre, mamma."
+    # Lisa_01 "У меня всё как всегда, мам."
+    Lisa_01 "ho tutto come sempre, mamma."
 
 # game/dialogues/dinner.rpy:721
 translate crowdin dinner_ab_earn_db72f28f:
@@ -1785,8 +1785,8 @@ translate crowdin dinner_ab_earn_0a352aff:
 # game/dialogues/dinner.rpy:730
 translate crowdin dinner_ab_earn_da0eb2ec:
 
-msgid "[Lisa_09]Ой, все деловые такие! Только одна я ещё маленькая для этого."
-msgstr "[Lisa_09]Oh, tutti sono affari del genere! Sono solo uno che è piccolo per questo."
+    # Lisa_09 "Ой, все деловые такие! Только одна я ещё маленькая для этого."
+    Lisa_09 "Oh, tutti sono affari del genere! Sono solo uno che è piccolo per questo."
 
 # game/dialogues/dinner.rpy:731
 translate crowdin dinner_ab_earn_90e77c73:
@@ -1797,8 +1797,8 @@ translate crowdin dinner_ab_earn_90e77c73:
 # game/dialogues/dinner.rpy:732
 translate crowdin dinner_ab_earn_9767eb8d:
 
-msgid "[Lisa_01]Хорошо, мам. А зачем?"
-msgstr "[Lisa_01]Va bene, mamma. Perché?"
+    # Lisa_01 "Хорошо, мам. А зачем?"
+    Lisa_01 "Va bene, mamma. Perché?"
 
 # game/dialogues/dinner.rpy:733
 translate crowdin dinner_ab_earn_ae199efc:
@@ -1839,8 +1839,8 @@ translate crowdin dinner_lace_lingerie_88f276ad:
 # game/dialogues/dinner.rpy:749
 translate crowdin dinner_lace_lingerie_c568c91c:
 
-msgid "[Lisa_01]Да ничего необычного, мам. Всё то же самое, что во все остальные дни. Так ведь, Макс?"
-msgstr "[Lisa_01]Niente degli anni 2000, mamma. È lo stesso di tutti gli altri giorni. Giusto, Max?"
+    # Lisa_01 "Да ничего необычного, мам. Всё то же самое, что во все остальные дни. Так ведь, Макс?"
+    Lisa_01 "Niente degli anni 2000, mamma. È lo stesso di tutti gli altri giorni. Giusto, Max?"
 
 # game/dialogues/dinner.rpy:750
 translate crowdin dinner_lace_lingerie_319ac67e:
@@ -1857,8 +1857,8 @@ translate crowdin dinner_lace_lingerie_e70fcdf2:
 # game/dialogues/dinner.rpy:752
 translate crowdin dinner_lace_lingerie_c85be202:
 
-msgid "[Lisa_02]Не переживай за нас, мам. Мы уже большие, можем о себе позаботиться."
-msgstr "[Lisa_02]Non preoccuparti per noi mamme. Siamo già grandi, possiamo prenderci cura di noi stessi."
+    # Lisa_02 "Не переживай за нас, мам. Мы уже большие, можем о себе позаботиться."
+    Lisa_02 "Non preoccuparti per noi mamme. Siamo già grandi, possiamo prenderci cura di noi stessi."
 
 # game/dialogues/dinner.rpy:753
 translate crowdin dinner_lace_lingerie_df977086:
