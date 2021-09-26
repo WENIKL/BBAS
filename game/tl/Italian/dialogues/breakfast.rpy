@@ -15,8 +15,8 @@ translate crowdin typical_breakfast_1211a2f4:
 # game/dialogues/breakfast.rpy:16
 translate crowdin typical_breakfast_4a7da202:
 
-msgid "[Max_00]Приятного аппетита!"
-msgstr "[Max_00]Buon appetito!"
+    # Max_00 "Приятного аппетита!"
+    Max_00 "Buon appetito!"
 
 # game/dialogues/breakfast.rpy:18
 translate crowdin typical_breakfast_19bf574f:
@@ -27,8 +27,8 @@ translate crowdin typical_breakfast_19bf574f:
 # game/dialogues/breakfast.rpy:19
 translate crowdin typical_breakfast_63f629c8:
 
-msgid "[Max_00]Понятно. Приятного аппетита!"
-msgstr "[Max_00]comprensibile. Buon appetito!"
+    # Max_00 "Понятно. Приятного аппетита!"
+    Max_00 "comprensibile. Buon appetito!"
 
 # game/dialogues/breakfast.rpy:25
 translate crowdin breakfast_first_4fdf0844:
@@ -399,8 +399,8 @@ translate crowdin breakfast_2_696eb569:
 # game/dialogues/breakfast.rpy:377
 translate crowdin breakfast_2_c34f0d6f:
 
-msgid "[Max_00]Приятного аппетита"
-msgstr "[Max_00]buon appetito"
+    # Max_00 "Приятного аппетита"
+    Max_00 "buon appetito"
 
 # game/dialogues/breakfast.rpy:380
 translate crowdin breakfast_2_78e051ad:
@@ -411,8 +411,8 @@ translate crowdin breakfast_2_78e051ad:
 # game/dialogues/breakfast.rpy:381
 translate crowdin breakfast_2_baa92b8a:
 
-msgid "[Max_01]Да не стоит..."
-msgstr "[Max_01]Sì, non è necessario..."
+    # Max_01 "Да не стоит..."
+    Max_01 "Sì, non è necessario..."
 
 # game/dialogues/breakfast.rpy:384
 translate crowdin breakfast_2_9096c069:
@@ -429,8 +429,8 @@ translate crowdin breakfast_2_57992ee0:
 # game/dialogues/breakfast.rpy:391
 translate crowdin breakfast_2_c34f0d6f_1:
 
-msgid "[Max_00]Приятного аппетита"
-msgstr "[Max_00]buon appetito"
+    # Max_00 "Приятного аппетита"
+    Max_00 "buon appetito"
 
 # game/dialogues/breakfast.rpy:392
 translate crowdin breakfast_2_2501d22e:
@@ -453,8 +453,8 @@ msgstr "[Alice_07]sì. Dove altro vedere tali immagini, dal momento che il provi
 # game/dialogues/breakfast.rpy:399
 translate crowdin breakfast_2_57d9acaf:
 
-msgid "[Max_03]А вот и нет! Но картины красивые..."
-msgstr "[Max_03]Ed eccolo qui! Ma i dipinti sono bellissimi..."
+    # Max_03 "А вот и нет! Но картины красивые..."
+    Max_03 "Ed eccolo qui! Ma i dipinti sono bellissimi..."
 
 # game/dialogues/breakfast.rpy:401
 translate crowdin breakfast_2_f4ded1d4:
@@ -513,8 +513,8 @@ translate crowdin breakfast_2_c5e2637b:
 # game/dialogues/breakfast.rpy:427
 translate crowdin breakfast_2_2df9f97d:
 
-msgid "[Max_00]Давай, удачи..."
-msgstr "[Max_00]Dai, buona fortuna..."
+    # Max_00 "Давай, удачи..."
+    Max_00 "Dai, buona fortuna..."
 
 # game/dialogues/breakfast.rpy:432
 translate crowdin breakfast_2_ok_1c0e32db:
@@ -525,8 +525,8 @@ translate crowdin breakfast_2_ok_1c0e32db:
 # game/dialogues/breakfast.rpy:433
 translate crowdin breakfast_2_ok_e0b844ce:
 
-msgid "[Max_01]Пока, мам..."
-msgstr "[Max_01]Bye, Mamma..."
+    # Max_01 "Пока, мам..."
+    Max_01 "Bye, Mamma..."
 
 # game/dialogues/breakfast.rpy:442
 translate crowdin breakfast_3_cb642594:
@@ -543,8 +543,8 @@ msgstr "[Alice_02]non sono proprio una novità, ma piuttosto una domanda. Presto
 # game/dialogues/breakfast.rpy:444
 translate crowdin breakfast_3_bf4775a2:
 
-msgid "[Max_01]А тебе какая разница?"
-msgstr "[Max_01]Che differenza ti fa?"
+    # Max_01 "А тебе какая разница?"
+    Max_01 "Che differenza ti fa?"
 
 # game/dialogues/breakfast.rpy:445
 translate crowdin breakfast_3_b60d309c:
@@ -579,8 +579,8 @@ translate crowdin breakfast_3_7411d85a:
 # game/dialogues/breakfast.rpy:457
 translate crowdin breakfast_3_8902731d:
 
-msgid "[Max_00]Ну да, погорячился..."
-msgstr "[Max_00]sì, mi sono scaldato..."
+    # Max_00 "Ну да, погорячился..."
+    Max_00 "sì, mi sono scaldato..."
 
 # game/dialogues/breakfast.rpy:460
 translate crowdin breakfast_3_e76df351:
@@ -627,8 +627,8 @@ translate crowdin breakfast_3_nomany_eff4ca88:
 # game/dialogues/breakfast.rpy:481
 translate crowdin breakfast_3_nomany_5bb7a231:
 
-msgid "[Max_07]Ясно. И кто вас повезёт?"
-msgstr "[Max_07]Cancella. E chi sarà fortunato?"
+    # Max_07 "Ясно. И кто вас повезёт?"
+    Max_07 "Cancella. E chi sarà fortunato?"
 
 # game/dialogues/breakfast.rpy:483
 translate crowdin breakfast_3_driver_636e2df7:
@@ -645,8 +645,8 @@ translate crowdin breakfast_3_driver_fb54e463:
 # game/dialogues/breakfast.rpy:487
 translate crowdin breakfast_3_driver_0a7edcf8:
 
-msgid "[Max_09]Надеюсь, я то его увижу, когда вернётесь?"
-msgstr "[Max_09]spero di vederlo quando tornerai?"
+    # Max_09 "Надеюсь, я то его увижу, когда вернётесь?"
+    Max_09 "spero di vederlo quando tornerai?"
 
 # game/dialogues/breakfast.rpy:490
 translate crowdin breakfast_3_driver_1f37d395:
@@ -675,8 +675,8 @@ translate crowdin breakfast_3_driver_42f8bb2c:
 # game/dialogues/breakfast.rpy:496
 translate crowdin breakfast_3_driver_83e6707d:
 
-msgid "[Max_08]Ты не слишком торопишься с выводами?"
-msgstr "[Max_08]Non hai fretta di giure a conclusioni?"
+    # Max_08 "Ты не слишком торопишься с выводами?"
+    Max_08 "Non hai fretta di giure a conclusioni?"
 
 # game/dialogues/breakfast.rpy:497
 translate crowdin breakfast_3_driver_12442c75:
@@ -711,8 +711,8 @@ translate crowdin breakfast_3_conf_57f2673b:
 # game/dialogues/breakfast.rpy:529
 translate crowdin breakfast_3_conf_6e7aee99:
 
-msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]Va bene..."
+    # Max_00 "Хорошо..."
+    Max_00 "Va bene..."
 
 # game/dialogues/breakfast.rpy:533
 translate crowdin breakfast_3_wedd_d62947f2:
@@ -723,8 +723,8 @@ translate crowdin breakfast_3_wedd_d62947f2:
 # game/dialogues/breakfast.rpy:534
 translate crowdin breakfast_3_wedd_6e7aee99:
 
-msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]Va bene..."
+    # Max_00 "Хорошо..."
+    Max_00 "Va bene..."
 
 # game/dialogues/breakfast.rpy:538
 translate crowdin breakfast_3_hurry_21b57076:
@@ -735,8 +735,8 @@ msgstr "[Alice_13]Max! Bene, quanto puoi fare? La mamma lo capirà da sola. Pers
 # game/dialogues/breakfast.rpy:539
 translate crowdin breakfast_3_hurry_9a1f1014:
 
-msgid "[Max_09]И ничего я не докапываюсь..."
-msgstr "[Max_09]E non sto scavando nulla..."
+    # Max_09 "И ничего я не докапываюсь..."
+    Max_09 "E non sto scavando nulla..."
 
 # game/dialogues/breakfast.rpy:541
 translate crowdin breakfast_3_end_280db0e0:
@@ -753,8 +753,8 @@ translate crowdin breakfast_4_a0ebdb73:
 # game/dialogues/breakfast.rpy:554
 translate crowdin breakfast_4_39806b21:
 
-msgid "[Max_11]Если ты о шоппинге, то меня вы всё равно не берёте..."
-msgstr "[Max_11]Se stai facendo shopping, ancora non mi prendi..."
+    # Max_11 "Если ты о шоппинге, то меня вы всё равно не берёте..."
+    Max_11 "Se stai facendo shopping, ancora non mi prendi..."
 
 # game/dialogues/breakfast.rpy:555
 translate crowdin breakfast_4_23b38825:
@@ -765,8 +765,8 @@ translate crowdin breakfast_4_23b38825:
 # game/dialogues/breakfast.rpy:556
 translate crowdin breakfast_4_80f63239:
 
-msgid "[Max_00]Как скажешь, мам..."
-msgstr "[Max_00]Come dici tu, mamma..."
+    # Max_00 "Как скажешь, мам..."
+    Max_00 "Come dici tu, mamma..."
 
 # game/dialogues/breakfast.rpy:557
 translate crowdin breakfast_4_c34f4557:
@@ -783,8 +783,8 @@ translate crowdin breakfast_4_111a77d9:
 # game/dialogues/breakfast.rpy:561
 translate crowdin breakfast_4_d65d04da:
 
-msgid "[Max_00]Ну, хорошо..."
-msgstr "[Max_00]Bene, va bene..."
+    # Max_00 "Ну, хорошо..."
+    Max_00 "Bene, va bene..."
 
 # game/dialogues/breakfast.rpy:564
 translate crowdin breakfast_4_3320b1d4:
@@ -801,8 +801,8 @@ translate crowdin breakfast_4_a7ed0c3d:
 # game/dialogues/breakfast.rpy:568
 translate crowdin breakfast_4_55d3a406:
 
-msgid "[Max_00]Хорошо. Извини, мам..."
-msgstr "[Max_00]Va bene. Mi dispiace, mamma..."
+    # Max_00 "Хорошо. Извини, мам..."
+    Max_00 "Va bene. Mi dispiace, mamma..."
 
 # game/dialogues/breakfast.rpy:570
 translate crowdin breakfast_4_af900431:
@@ -813,8 +813,8 @@ translate crowdin breakfast_4_af900431:
 # game/dialogues/breakfast.rpy:571
 translate crowdin breakfast_4_d65d04da_1:
 
-msgid "[Max_00]Ну, хорошо..."
-msgstr "[Max_00]Bene, va bene..."
+    # Max_00 "Ну, хорошо..."
+    Max_00 "Bene, va bene..."
 
 # game/dialogues/breakfast.rpy:573
 translate crowdin breakfast_4_6e76d4ab:
@@ -825,8 +825,8 @@ msgstr "[Alice_06]Oh, chi direbbe! Prossimo... La mamma è stata promossa nella 
 # game/dialogues/breakfast.rpy:574
 translate crowdin breakfast_4_38b7f8b4:
 
-msgid "[Max_09]Ладно, посмотрим на вашего Эрика..."
-msgstr "[Max_09]Ok, diamo un'occhiata al tuo Eric..."
+    # Max_09 "Ладно, посмотрим на вашего Эрика..."
+    Max_09 "Ok, diamo un'occhiata al tuo Eric..."
 
 # game/dialogues/breakfast.rpy:576
 translate crowdin breakfast_4_05cc408b:
@@ -855,8 +855,8 @@ msgstr "[Lisa_03]lo so! Ho bisogno di un costume da bagno! Tale che puoi prender
 # game/dialogues/breakfast.rpy:588
 translate crowdin breakfast_4_aed9c202:
 
-msgid "[Max_03]Конечно, как тут не понять..."
-msgstr "[Max_03]Certo, come puoi non capire..."
+    # Max_03 "Конечно, как тут не понять..."
+    Max_03 "Certo, come puoi non capire..."
 
 # game/dialogues/breakfast.rpy:589
 translate crowdin breakfast_4_e4ed6353:
@@ -867,8 +867,8 @@ msgstr "[Alice_01]Lisa! Stop tarator. Hai già un costume da bagno, ma io non ho
 # game/dialogues/breakfast.rpy:590
 translate crowdin breakfast_4_68b06732:
 
-msgid "[Max_05]Не подеритесь!"
-msgstr "[Max_05]Non combattere!"
+    # Max_05 "Не подеритесь!"
+    Max_05 "Non combattere!"
 
 # game/dialogues/breakfast.rpy:591
 translate crowdin breakfast_4_ba073505:
@@ -879,8 +879,8 @@ msgstr "[Lisa_12]ho un costume da bagno chiuso e non riesco a prendere il sole. 
 # game/dialogues/breakfast.rpy:592
 translate crowdin breakfast_4_eb10555f:
 
-msgid "[Max_07]Что особенно? Подробнее, пожалуйста..."
-msgstr "[Max_07]Cosa c'è di speciale? Leggi di più per favore..."
+    # Max_07 "Что особенно? Подробнее, пожалуйста..."
+    Max_07 "Cosa c'è di speciale? Leggi di più per favore..."
 
 # game/dialogues/breakfast.rpy:593
 translate crowdin breakfast_4_f28b7a83:
@@ -891,8 +891,8 @@ msgstr "[Alice_09]Lisa! Stai zitto, per favore. Basta con questo. Ok, prima tu f
 # game/dialogues/breakfast.rpy:594
 translate crowdin breakfast_4_0c7faf0a:
 
-msgid "[Max_08]Я не понял. Что это было? О чём Лиза ты хотела рассказать?"
-msgstr "[Max_08]non capivo. Cos'è stato? Di cosa voleva parlare lisa?"
+    # Max_08 "Я не понял. Что это было? О чём Лиза ты хотела рассказать?"
+    Max_08 "non capivo. Cos'è stato? Di cosa voleva parlare lisa?"
 
 # game/dialogues/breakfast.rpy:595
 translate crowdin breakfast_4_d7175ecb:
@@ -903,8 +903,8 @@ msgstr "[Lisa_10]non credo che Alice voglia che io dica qualcosa... Quindi affro
 # game/dialogues/breakfast.rpy:596
 translate crowdin breakfast_4_2afa1e0c:
 
-msgid "[Max_02]Обязательно разберёмся. Мне же интересно!"
-msgstr "[Max_02]Lo capiremo. Sono curioso!"
+    # Max_02 "Обязательно разберёмся. Мне же интересно!"
+    Max_02 "Lo capiremo. Sono curioso!"
 
 # game/dialogues/breakfast.rpy:597
 translate crowdin breakfast_4_fabe9f19:
@@ -915,8 +915,8 @@ translate crowdin breakfast_4_fabe9f19:
 # game/dialogues/breakfast.rpy:598
 translate crowdin breakfast_4_81d2ad52:
 
-msgid "[Max_01]Да, спасибо..."
-msgstr "[Max_01]sì, grazie..."
+    # Max_01 "Да, спасибо..."
+    Max_01 "sì, grazie..."
 
 # game/dialogues/breakfast.rpy:605
 translate crowdin breakfast_5_c534ecf6:
@@ -927,8 +927,8 @@ translate crowdin breakfast_5_c534ecf6:
 # game/dialogues/breakfast.rpy:606
 translate crowdin breakfast_5_8cd1cf54:
 
-msgid "[Max_07]Ну что, как всё прошло?"
-msgstr "[Max_07]Bene, come è andata?"
+    # Max_07 "Ну что, как всё прошло?"
+    Max_07 "Bene, come è andata?"
 
 # game/dialogues/breakfast.rpy:607
 translate crowdin breakfast_5_717457d5:
@@ -945,8 +945,8 @@ translate crowdin breakfast_5_c980ce82:
 # game/dialogues/breakfast.rpy:614
 translate crowdin breakfast_5_80f63239:
 
-msgid "[Max_00]Как скажешь, мам..."
-msgstr "[Max_00]Come dici tu, mamma..."
+    # Max_00 "Как скажешь, мам..."
+    Max_00 "Come dici tu, mamma..."
 
 # game/dialogues/breakfast.rpy:615
 translate crowdin breakfast_5_750a3c2d:
@@ -957,8 +957,8 @@ msgstr "[Lisa_02]E spesso andrai da lui in questo modo... Per la notte?"
 # game/dialogues/breakfast.rpy:616
 translate crowdin breakfast_5_38fbc66e:
 
-msgid "[Max_09]Хороший вопрос..."
-msgstr "[Max_09]Bella domanda..."
+    # Max_09 "Хороший вопрос..."
+    Max_09 "Bella domanda..."
 
 # game/dialogues/breakfast.rpy:617
 translate crowdin breakfast_5_def57d9e:
@@ -981,8 +981,8 @@ translate crowdin breakfast_5_fb058679:
 # game/dialogues/breakfast.rpy:625
 translate crowdin breakfast_5_5c0dc787:
 
-msgid "[Max_07]Значит, Эрик будет и к нам приходить на ночь?"
-msgstr "[Max_07]Quindi Eric verrà da noi per la notte?"
+    # Max_07 "Значит, Эрик будет и к нам приходить на ночь?"
+    Max_07 "Quindi Eric verrà da noi per la notte?"
 
 # game/dialogues/breakfast.rpy:626
 translate crowdin breakfast_5_6cc34a64:
@@ -993,8 +993,8 @@ msgstr "[Alice_01]Max! Bene, di nuovo. Abbiamo detto che non avremmo interferito
 # game/dialogues/breakfast.rpy:627
 translate crowdin breakfast_5_2db47011:
 
-msgid "[Max_08]Да я просто спросил..."
-msgstr "[Max_08]sì, ho appena chiesto..."
+    # Max_08 "Да я просто спросил..."
+    Max_08 "sì, ho appena chiesto..."
 
 # game/dialogues/breakfast.rpy:628
 translate crowdin breakfast_5_2e9a76d0:
@@ -1023,8 +1023,8 @@ translate crowdin breakfast_5_e1ca2730:
 # game/dialogues/breakfast.rpy:639
 translate crowdin breakfast_5_37c01b98:
 
-msgid "[Max_00]Спасибо..."
-msgstr "[Max_00]Grazie..."
+    # Max_00 "Спасибо..."
+    Max_00 "Grazie..."
 
 # game/dialogues/breakfast.rpy:642
 translate crowdin breakfast_5_654c0ab6:
@@ -1035,8 +1035,8 @@ translate crowdin breakfast_5_654c0ab6:
 # game/dialogues/breakfast.rpy:643
 translate crowdin breakfast_5_5d531f6c:
 
-msgid "[Max_08]Ого!"
-msgstr "[Max_08]'s ow!"
+    # Max_08 "Ого!"
+    Max_08 "'s ow!"
 
 # game/dialogues/breakfast.rpy:644
 translate crowdin breakfast_5_0c66c488:
@@ -1047,8 +1047,8 @@ translate crowdin breakfast_5_0c66c488:
 # game/dialogues/breakfast.rpy:645
 translate crowdin breakfast_5_37c01b98_1:
 
-msgid "[Max_00]Спасибо..."
-msgstr "[Max_00]Grazie..."
+    # Max_00 "Спасибо..."
+    Max_00 "Grazie..."
 
 # game/dialogues/breakfast.rpy:648
 translate crowdin breakfast_5_7b8f5a70:
@@ -1059,8 +1059,8 @@ translate crowdin breakfast_5_7b8f5a70:
 # game/dialogues/breakfast.rpy:649
 translate crowdin breakfast_5_2c426155:
 
-msgid "[Max_04]Это хорошо..."
-msgstr "[Max_04]Va bene..."
+    # Max_04 "Это хорошо..."
+    Max_04 "Va bene..."
 
 # game/dialogues/breakfast.rpy:651
 translate crowdin breakfast_5_b0c67912:
@@ -1077,8 +1077,8 @@ translate crowdin breakfast_5_3ebe962a:
 # game/dialogues/breakfast.rpy:657
 translate crowdin breakfast_5_37c01b98_2:
 
-msgid "[Max_00]Спасибо..."
-msgstr "[Max_00]Grazie..."
+    # Max_00 "Спасибо..."
+    Max_00 "Grazie..."
 
 # game/dialogues/breakfast.rpy:659
 translate crowdin breakfast_5_ecb96749:
@@ -1089,8 +1089,8 @@ translate crowdin breakfast_5_ecb96749:
 # game/dialogues/breakfast.rpy:660
 translate crowdin breakfast_5_37c01b98_3:
 
-msgid "[Max_00]Спасибо..."
-msgstr "[Max_00]Grazie..."
+    # Max_00 "Спасибо..."
+    Max_00 "Grazie..."
 
 # game/dialogues/breakfast.rpy:668
 translate crowdin breakfast_7_ca36c610:
@@ -1101,8 +1101,8 @@ translate crowdin breakfast_7_ca36c610:
 # game/dialogues/breakfast.rpy:669
 translate crowdin breakfast_7_b6e4f095:
 
-msgid "[Max_01]Приятного аппетита..."
-msgstr "[Max_01]Buon appetito..."
+    # Max_01 "Приятного аппетита..."
+    Max_01 "Buon appetito..."
 
 # game/dialogues/breakfast.rpy:670
 translate crowdin breakfast_7_43c4fcc1:
@@ -1113,8 +1113,8 @@ msgstr "[Lisa_01]Dov'è Eric? Aspettiamo prima di iniziare?"
 # game/dialogues/breakfast.rpy:671
 translate crowdin breakfast_7_10956b89:
 
-msgid "[Max_00]Никогда не ждали и вот опять..."
-msgstr "[Max_00]Non ho mai aspettato ed eccoci di nuovo qui..."
+    # Max_00 "Никогда не ждали и вот опять..."
+    Max_00 "Non ho mai aspettato ed eccoci di nuovo qui..."
 
 # game/dialogues/breakfast.rpy:672
 translate crowdin breakfast_7_3c8ac77b:
@@ -1125,8 +1125,8 @@ translate crowdin breakfast_7_3c8ac77b:
 # game/dialogues/breakfast.rpy:673
 translate crowdin breakfast_7_c6610d95:
 
-msgid "[Max_04]Отлично..."
-msgstr "[Max_04]Eccellente..."
+    # Max_04 "Отлично..."
+    Max_04 "Eccellente..."
 
 # game/dialogues/breakfast.rpy:674
 translate crowdin breakfast_7_cfbd90f2:
@@ -1137,8 +1137,8 @@ msgstr "[Alice_02]mamma, che dire di questi... Tu ed Eric avete discusso delle p
 # game/dialogues/breakfast.rpy:675
 translate crowdin breakfast_7_c014efc6:
 
-msgid "[Max_08]Зачем напомнила..."
-msgstr "[Max_08]Perché ricordato..."
+    # Max_08 "Зачем напомнила..."
+    Max_08 "Perché ricordato..."
 
 # game/dialogues/breakfast.rpy:676
 translate crowdin breakfast_7_1ae19837:
@@ -1149,8 +1149,8 @@ translate crowdin breakfast_7_1ae19837:
 # game/dialogues/breakfast.rpy:677
 translate crowdin breakfast_7_9b97c9c4:
 
-msgid "[Max_00]Мам, ты о чём, вообще?"
-msgstr "[Max_00]mamma, di cosa stai parlando, comunque?"
+    # Max_00 "Мам, ты о чём, вообще?"
+    Max_00 "mamma, di cosa stai parlando, comunque?"
 
 # game/dialogues/breakfast.rpy:678
 translate crowdin breakfast_7_df7add7c:
@@ -1161,8 +1161,8 @@ translate crowdin breakfast_7_df7add7c:
 # game/dialogues/breakfast.rpy:679
 translate crowdin breakfast_7_93e5d926:
 
-msgid "[Max_09]Мам, ну что за бред?!"
-msgstr "[Max_09]mamma, che tipo di sciocchezze?!"
+    # Max_09 "Мам, ну что за бред?!"
+    Max_09 "mamma, che tipo di sciocchezze?!"
 
 # game/dialogues/breakfast.rpy:680
 translate crowdin breakfast_7_2d52c1dc:
@@ -1173,8 +1173,8 @@ translate crowdin breakfast_7_2d52c1dc:
 # game/dialogues/breakfast.rpy:681
 translate crowdin breakfast_7_677739a3:
 
-msgid "[Max_07]Новую методику?"
-msgstr "[Max_07]una nuova metodologia?"
+    # Max_07 "Новую методику?"
+    Max_07 "una nuova metodologia?"
 
 # game/dialogues/breakfast.rpy:682
 translate crowdin breakfast_7_161dce96:
@@ -1191,8 +1191,8 @@ translate crowdin breakfast_7_a34321c8:
 # game/dialogues/breakfast.rpy:684
 translate crowdin breakfast_7_9d10ae8c:
 
-msgid "[Max_01]Я бы сказал, на что именно это действует..."
-msgstr "[Max_01]direi cosa sta facendo esattamente questo..."
+    # Max_01 "Я бы сказал, на что именно это действует..."
+    Max_01 "direi cosa sta facendo esattamente questo..."
 
 # game/dialogues/breakfast.rpy:685
 translate crowdin breakfast_7_29ce6767:
@@ -1203,8 +1203,8 @@ translate crowdin breakfast_7_29ce6767:
 # game/dialogues/breakfast.rpy:686
 translate crowdin breakfast_7_b66fc958:
 
-msgid "[Max_07]Что, Алиса, всё ещё в восторге от своего Эрика?"
-msgstr "[Max_07]Cosa, Alice, è ancora entusiasta del suo Eric?"
+    # Max_07 "Что, Алиса, всё ещё в восторге от своего Эрика?"
+    Max_07 "Cosa, Alice, è ancora entusiasta del suo Eric?"
 
 # game/dialogues/breakfast.rpy:687
 translate crowdin breakfast_7_9cdee9c9:
@@ -1215,8 +1215,8 @@ msgstr "[Alice_05]Tu lo sai, e io non farò nulla di male e non sarò punito. Se
 # game/dialogues/breakfast.rpy:688
 translate crowdin breakfast_7_bff4d1fa:
 
-msgid "[Max_00]Посмотрим..."
-msgstr "[Max_00]vedremo..."
+    # Max_00 "Посмотрим..."
+    Max_00 "vedremo..."
 
 # game/dialogues/breakfast.rpy:689
 translate crowdin breakfast_7_f574e6e4:
@@ -1227,8 +1227,8 @@ translate crowdin breakfast_7_f574e6e4:
 # game/dialogues/breakfast.rpy:690
 translate crowdin breakfast_7_315443a7:
 
-msgid "[Max_00]Ага, спасибо за завтрак..."
-msgstr "[Max_00]sì, grazie per la colazione..."
+    # Max_00 "Ага, спасибо за завтрак..."
+    Max_00 "sì, grazie per la colazione..."
 
 # game/dialogues/breakfast.rpy:700
 translate crowdin breakfast_12_9aa18fca:
@@ -1239,8 +1239,8 @@ translate crowdin breakfast_12_9aa18fca:
 # game/dialogues/breakfast.rpy:701
 translate crowdin breakfast_12_2aeac290:
 
-msgid "[Max_01]По секрету от кого?"
-msgstr "[Max_01]segreto da chi?"
+    # Max_01 "По секрету от кого?"
+    Max_01 "segreto da chi?"
 
 # game/dialogues/breakfast.rpy:702
 translate crowdin breakfast_12_e27f5c8d:
@@ -1293,8 +1293,8 @@ translate crowdin breakfast_12_bce741aa:
 # game/dialogues/breakfast.rpy:719
 translate crowdin breakfast_12_0cb9f76f:
 
-msgid "[Max_12]Так он уже и предложение сделал?!"
-msgstr "[Max_12]Quindi ha già proposto?!"
+    # Max_12 "Так он уже и предложение сделал?!"
+    Max_12 "Quindi ha già proposto?!"
 
 # game/dialogues/breakfast.rpy:720
 translate crowdin breakfast_12_9fd03531:
@@ -1305,8 +1305,8 @@ msgstr "[Alice_07]Beh, se è così, mamma, sono molto felice per te. Sì, che da
 # game/dialogues/breakfast.rpy:721
 translate crowdin breakfast_12_4caf4771:
 
-msgid "[Max_10]Э..."
-msgstr "[Max_10]E..."
+    # Max_10 "Э..."
+    Max_10 "E..."
 
 # game/dialogues/breakfast.rpy:722
 translate crowdin breakfast_12_31b83b44:
@@ -1323,8 +1323,8 @@ translate crowdin breakfast_12_1ea858b3:
 # game/dialogues/breakfast.rpy:724
 translate crowdin breakfast_12_a23921e9:
 
-msgid "[Max_08]И когда свадьба?"
-msgstr "[Max_08]E quando è il matrimonio?"
+    # Max_08 "И когда свадьба?"
+    Max_08 "E quando è il matrimonio?"
 
 # game/dialogues/breakfast.rpy:725
 translate crowdin breakfast_12_29325d9b:
@@ -1335,8 +1335,8 @@ translate crowdin breakfast_12_29325d9b:
 # game/dialogues/breakfast.rpy:726
 translate crowdin breakfast_12_f47e0d84:
 
-msgid "[Max_00]Понятно..."
-msgstr "[Max_00]Va bene..."
+    # Max_00 "Понятно..."
+    Max_00 "Va bene..."
 
 # game/dialogues/breakfast.rpy:727
 translate crowdin breakfast_12_8d255351:
@@ -1347,8 +1347,8 @@ translate crowdin breakfast_12_8d255351:
 # game/dialogues/breakfast.rpy:728
 translate crowdin breakfast_12_d956a42b:
 
-msgid "[Max_00]Ага, спасибо..."
-msgstr "[Max_00]sì, grazie..."
+    # Max_00 "Ага, спасибо..."
+    Max_00 "sì, grazie..."
 
 # game/dialogues/breakfast.rpy:736
 translate crowdin breakfast_18_21172a5c:
@@ -1359,8 +1359,8 @@ translate crowdin breakfast_18_21172a5c:
 # game/dialogues/breakfast.rpy:737
 translate crowdin breakfast_18_6d7508e2:
 
-msgid "[Max_01]Ага. Давно надо было..."
-msgstr "[Max_01]sì. Era necessario per molto tempo..."
+    # Max_01 "Ага. Давно надо было..."
+    Max_01 "sì. Era necessario per molto tempo..."
 
 # game/dialogues/breakfast.rpy:738
 translate crowdin breakfast_18_9fb4f2cb:
@@ -1371,8 +1371,8 @@ msgstr "[Lisa_02]sì, sono d'accordo con Max. Molto più comodo e più facile. Q
 # game/dialogues/breakfast.rpy:739
 translate crowdin breakfast_18_ca7093e6:
 
-msgid "[Max_07]Кстати, мне показалось или стало ещё более жарко?"
-msgstr "[Max_07]A proposito, ho pensato o è fatto ancora più caldo?"
+    # Max_07 "Кстати, мне показалось или стало ещё более жарко?"
+    Max_07 "A proposito, ho pensato o è fatto ancora più caldo?"
 
 # game/dialogues/breakfast.rpy:740
 translate crowdin breakfast_18_fe79a7f5:
@@ -1383,8 +1383,8 @@ msgstr "[Kira_01]certo. Inizia la stagione più calda e non hai nemmeno l'aria c
 # game/dialogues/breakfast.rpy:741
 translate crowdin breakfast_18_33a7119d:
 
-msgid "[Max_02]Ну, тут есть бассейн..."
-msgstr "[Max_02]Beh, c'è una piscina..."
+    # Max_02 "Ну, тут есть бассейн..."
+    Max_02 "Beh, c'è una piscina..."
 
 # game/dialogues/breakfast.rpy:742
 translate crowdin breakfast_18_c1792d62:
@@ -1401,8 +1401,8 @@ translate crowdin breakfast_18_59e2e29b:
 # game/dialogues/breakfast.rpy:744
 translate crowdin breakfast_18_e2cfae36:
 
-msgid "[Max_04]Ага, нам всем интересно..."
-msgstr "[Max_04]sì, siamo tutti interessati..."
+    # Max_04 "Ага, нам всем интересно..."
+    Max_04 "sì, siamo tutti interessati..."
 
 # game/dialogues/breakfast.rpy:745
 translate crowdin breakfast_18_9aadeb5e:
@@ -1413,8 +1413,8 @@ msgstr "[Kira_02]Sì, non c'è nulla di cui parlare. Ho lavorato qua e là... No
 # game/dialogues/breakfast.rpy:746
 translate crowdin breakfast_18_6935bae9:
 
-msgid "[Max_03]А кем ты хочешь устроиться?"
-msgstr "[Max_03]E chi vuoi trovare un lavoro?"
+    # Max_03 "А кем ты хочешь устроиться?"
+    Max_03 "E chi vuoi trovare un lavoro?"
 
 # game/dialogues/breakfast.rpy:747
 translate crowdin breakfast_18_86c53803:
@@ -1425,8 +1425,8 @@ msgstr "[Kira_14]Beh... Non so come parlarne..."
 # game/dialogues/breakfast.rpy:748
 translate crowdin breakfast_18_3bbc12a6:
 
-msgid "[Max_07]О чём?"
-msgstr "[Max_07]A proposito di cosa?"
+    # Max_07 "О чём?"
+    Max_07 "A proposito di cosa?"
 
 # game/dialogues/breakfast.rpy:749
 translate crowdin breakfast_18_112c970e:
@@ -1437,8 +1437,8 @@ translate crowdin breakfast_18_112c970e:
 # game/dialogues/breakfast.rpy:750
 translate crowdin breakfast_18_81016e2b:
 
-msgid "[Max_04]Горничной?"
-msgstr "[Max_04]la cameriera?"
+    # Max_04 "Горничной?"
+    Max_04 "la cameriera?"
 
 # game/dialogues/breakfast.rpy:751
 translate crowdin breakfast_18_c316b223:
@@ -1473,8 +1473,8 @@ translate crowdin breakfast_18_7701c024:
 # game/dialogues/breakfast.rpy:775
 translate crowdin breakfast_18_84309eb3:
 
-msgid "[Max_00]Ладно, ладно..."
-msgstr "[Max_00]Va bene, va bene..."
+    # Max_00 "Ладно, ладно..."
+    Max_00 "Va bene, va bene..."
 
 # game/dialogues/breakfast.rpy:776
 translate crowdin breakfast_18_next_f5423a85:
@@ -1503,8 +1503,8 @@ translate crowdin breakfast_18_next_dc28dbf2:
 # game/dialogues/breakfast.rpy:785
 translate crowdin breakfast_18_next_6e7aee99:
 
-msgid "[Max_00]Хорошо..."
-msgstr "[Max_00]Va bene..."
+    # Max_00 "Хорошо..."
+    Max_00 "Va bene..."
 
 # game/dialogues/breakfast.rpy:786
 translate crowdin breakfast_18_next_38a95e47:
@@ -1521,8 +1521,8 @@ msgstr "[Kira_04]Dai, rilassati Max, sto scherzando. Hai dimenticato che sono in
 # game/dialogues/breakfast.rpy:790
 translate crowdin breakfast_18_next_455cade9:
 
-msgid "[Max_01]Да помню, помню..."
-msgstr "[Max_01]Sì, mi ricordo..."
+    # Max_01 "Да помню, помню..."
+    Max_01 "Sì, mi ricordo..."
 
 # game/dialogues/breakfast.rpy:792
 translate crowdin breakfast_18_next_7fc3d25b:
@@ -1533,8 +1533,8 @@ msgstr "[Kira_14]sì. A volte, si ottiene un deuce e si pensa. Vai a casa o no. 
 # game/dialogues/breakfast.rpy:793
 translate crowdin breakfast_18_next_57c98dc0:
 
-msgid "[Max_08]Хорошего мало..."
-msgstr "[Max_08]Buono non basta..."
+    # Max_08 "Хорошего мало..."
+    Max_08 "Buono non basta..."
 
 # game/dialogues/breakfast.rpy:795
 translate crowdin breakfast_18_next_df2f93f7:
@@ -1575,8 +1575,8 @@ translate crowdin breakfast_18_next_856aad49:
 # game/dialogues/breakfast.rpy:809
 translate crowdin breakfast_18_next_c706d294:
 
-msgid "[Max_08]А может быть, я хочу с тётей пообщаться..."
-msgstr "[Max_08]Forse voglio parlare con mia zia..."
+    # Max_08 "А может быть, я хочу с тётей пообщаться..."
+    Max_08 "Forse voglio parlare con mia zia..."
 
 # game/dialogues/breakfast.rpy:810
 translate crowdin breakfast_18_next_266789ea:
@@ -1593,8 +1593,8 @@ translate crowdin breakfast_18_next_7f1e65f0:
 # game/dialogues/breakfast.rpy:812
 translate crowdin breakfast_18_next_6bc24e91:
 
-msgid "[Max_09]Я уже взрослый!"
-msgstr "[Max_09]sono un adulto!"
+    # Max_09 "Я уже взрослый!"
+    Max_09 "sono un adulto!"
 
 # game/dialogues/breakfast.rpy:813
 translate crowdin breakfast_18_next_d00b8c9b:
@@ -1605,8 +1605,8 @@ msgstr "[Kira_07]Solo a causa dei tuoi figli e ho comprato questo costume da bag
 # game/dialogues/breakfast.rpy:814
 translate crowdin breakfast_18_next_ac565b62:
 
-msgid "[Max_07]Какие верёвочки?"
-msgstr "[Max_07]Quali corde?"
+    # Max_07 "Какие верёвочки?"
+    Max_07 "Quali corde?"
 
 # game/dialogues/breakfast.rpy:815
 translate crowdin breakfast_18_next_accdd7e1:
@@ -1617,8 +1617,8 @@ translate crowdin breakfast_18_next_accdd7e1:
 # game/dialogues/breakfast.rpy:816
 translate crowdin breakfast_18_next_81d2ad52:
 
-msgid "[Max_01]Да, спасибо..."
-msgstr "[Max_01]sì, grazie..."
+    # Max_01 "Да, спасибо..."
+    Max_01 "sì, grazie..."
 
 # game/dialogues/breakfast.rpy:817
 translate crowdin breakfast_18_next_782a5fef:
@@ -1629,8 +1629,8 @@ msgstr "[Kira_04]Completamente dimenticato di dire che oggi tornerò a casa tard
 # game/dialogues/breakfast.rpy:818
 translate crowdin breakfast_18_next_098c64a8:
 
-msgid "[Max_03]Вернёшься? Откуда?"
-msgstr "[Max_03]tornerai? Da dove?"
+    # Max_03 "Вернёшься? Откуда?"
+    Max_03 "tornerai? Da dove?"
 
 # game/dialogues/breakfast.rpy:819
 translate crowdin breakfast_18_next_0e8e13c0:
@@ -1641,8 +1641,8 @@ translate crowdin breakfast_18_next_0e8e13c0:
 # game/dialogues/breakfast.rpy:820
 translate crowdin breakfast_18_next_0a2cd2b6:
 
-msgid "[Max_04]Мне без разницы, если что..."
-msgstr "[Max_04]non mi interessa semmai..."
+    # Max_04 "Мне без разницы, если что..."
+    Max_04 "non mi interessa semmai..."
 
 # game/dialogues/breakfast.rpy:821
 translate crowdin breakfast_18_next_0f7bf573:
@@ -1659,8 +1659,8 @@ translate crowdin breakfast_18_next_e1c445f6:
 # game/dialogues/breakfast.rpy:823
 translate crowdin breakfast_18_next_bec83eb5:
 
-msgid "[Max_01]Давайте, удачи..."
-msgstr "[Max_01]Dai, buona fortuna..."
+    # Max_01 "Давайте, удачи..."
+    Max_01 "Dai, buona fortuna..."
 
 # game/dialogues/breakfast.rpy:832
 translate crowdin breakfast_35_ca36c610:
@@ -1671,8 +1671,8 @@ translate crowdin breakfast_35_ca36c610:
 # game/dialogues/breakfast.rpy:833
 translate crowdin breakfast_35_b6e4f095:
 
-msgid "[Max_01]Приятного аппетита..."
-msgstr "[Max_01]Buon appetito..."
+    # Max_01 "Приятного аппетита..."
+    Max_01 "Buon appetito..."
 
 # game/dialogues/breakfast.rpy:834
 translate crowdin breakfast_35_ee7bd26a:
@@ -1695,8 +1695,8 @@ msgstr "[Kira_07]Penso, An, sei troppo preoccupato per questo."
 # game/dialogues/breakfast.rpy:837
 translate crowdin breakfast_35_9e534fbb:
 
-msgid "[Max_09]А что с сорочкой не так?"
-msgstr "[Max_09]Cosa c'è di sbagliato nella camicia?"
+    # Max_09 "А что с сорочкой не так?"
+    Max_09 "Cosa c'è di sbagliato nella camicia?"
 
 # game/dialogues/breakfast.rpy:838
 translate crowdin breakfast_35_361a3b97:
@@ -1737,8 +1737,8 @@ msgstr "[Alice_02]Max, cosa stai su!? A quanto pare non hai capito che qui stiam
 # game/dialogues/breakfast.rpy:844
 translate crowdin breakfast_35_4f031040:
 
-msgid "[Max_02]Всё равно никто ничего мне не покажет такого..."
-msgstr "[Max_02]Ancora, nessuno mi mostrerà nulla di simile..."
+    # Max_02 "Всё равно никто ничего мне не покажет такого..."
+    Max_02 "Ancora, nessuno mi mostrerà nulla di simile..."
 
 # game/dialogues/breakfast.rpy:845
 translate crowdin breakfast_35_1a4b2891:
@@ -1749,8 +1749,8 @@ msgstr "[Alice_01]E penso che tu l'abbia già visto! Ammettere!"
 # game/dialogues/breakfast.rpy:846
 translate crowdin breakfast_35_34472028:
 
-msgid "[Max_07]Я тихий, потому что всё не решаюсь спросить кое о чём... Как там Александра, тётя Кира!?"
-msgstr "[Max_07]sto zitto perché sono qui a chiedere qualcosa... Com'è Alexandra, zia Kira!?"
+    # Max_07 "Я тихий, потому что всё не решаюсь спросить кое о чём... Как там Александра, тётя Кира!?"
+    Max_07 "sto zitto perché sono qui a chiedere qualcosa... Com'è Alexandra, zia Kira!?"
 
 # game/dialogues/breakfast.rpy:847
 translate crowdin breakfast_35_0fa00af2:
@@ -1779,8 +1779,8 @@ msgstr "[Kira_14]Non parliamone... Cerco di dimenticarlo!"
 # game/dialogues/breakfast.rpy:851
 translate crowdin breakfast_35_4a19b78c:
 
-msgid "[Max_08]Хорошо... Она так и называет меня Макси?"
-msgstr "[Max_08]Va bene... Mi chiama Maxi?"
+    # Max_08 "Хорошо... Она так и называет меня Макси?"
+    Max_08 "Va bene... Mi chiama Maxi?"
 
 # game/dialogues/breakfast.rpy:852
 translate crowdin breakfast_35_2a3d1c38:

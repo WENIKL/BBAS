@@ -3,8 +3,8 @@
 # game/dialogues/oliviatalk.rpy:17
 translate crowdin OliviaTalkStart_26661b27:
 
-msgid "[Max_01]Вы не против, если я тоже позагораю?"
-msgstr "[Max_01]non ti dispiace se prendo il sole anche io?"
+    # Max_01 "Вы не против, если я тоже позагораю?"
+    Max_01 "non ti dispiace se prendo il sole anche io?"
 
 # game/dialogues/oliviatalk.rpy:18
 translate crowdin OliviaTalkStart_07bb4878:
@@ -33,8 +33,8 @@ msgstr "[Olivia_02]sì... E anche l'umore... Io, Max, sono assolutamente calmo s
 # game/dialogues/oliviatalk.rpy:42
 translate crowdin olivia_talk1_440afe9c:
 
-msgid "[Max_07]Нормально. Не особо мешает."
-msgstr "[Max_07]Va bene. Non si preoccupa davvero."
+    # Max_07 "Нормально. Не особо мешает."
+    Max_07 "Va bene. Non si preoccupa davvero."
 
 # game/dialogues/oliviatalk.rpy:43
 translate crowdin olivia_talk1_2a28db28:
@@ -51,8 +51,8 @@ msgstr "[Lisa_02]Ehi! Ferma mio fratello che si spoglia qui!"
 # game/dialogues/oliviatalk.rpy:45
 translate crowdin olivia_talk1_45fe207a:
 
-msgid "[Max_02]Я сниму, если вы снимите!"
-msgstr "[Max_02]Sparerò se spari!"
+    # Max_02 "Я сниму, если вы снимите!"
+    Max_02 "Sparerò se spari!"
 
 # game/dialogues/oliviatalk.rpy:46
 translate crowdin olivia_talk1_bdc93c90:
@@ -69,8 +69,8 @@ msgstr "[Lisa_10]Quindi, in primo luogo, non mi spoglierò e, in secondo luogo, 
 # game/dialogues/oliviatalk.rpy:48
 translate crowdin olivia_talk1_6bc43540:
 
-msgid "[Max_11]Какой облом!"
-msgstr "[Max_11]Che relitto!"
+    # Max_11 "Какой облом!"
+    Max_11 "Che relitto!"
 
 # game/dialogues/oliviatalk.rpy:49
 translate crowdin olivia_talk1_a7702116:
@@ -87,8 +87,8 @@ msgstr "[Lisa_03]Oh sì... Vedo la sua particolarità quasi ogni mattina..."
 # game/dialogues/oliviatalk.rpy:51
 translate crowdin olivia_talk1_7b546c9d:
 
-msgid "[Max_03]Я как просыпаюсь, успеваю увидеть, как она мой член разглядывает!"
-msgstr "[Max_03]mi sveglio e la vedo guardare il mio cazzo!"
+    # Max_03 "Я как просыпаюсь, успеваю увидеть, как она мой член разглядывает!"
+    Max_03 "mi sveglio e la vedo guardare il mio cazzo!"
 
 # game/dialogues/oliviatalk.rpy:52
 translate crowdin olivia_talk1_5def69be:
@@ -99,8 +99,8 @@ msgstr "[Lisa_01]ero solo curioso..."
 # game/dialogues/oliviatalk.rpy:53
 translate crowdin olivia_talk1_046c78a9:
 
-msgid "[Max_04]Честное слово, один раз даже видел, как она потрогать его собиралась!"
-msgstr "[Max_04]Onestamente, una volta ho visto come lo avrebbe toccato!"
+    # Max_04 "Честное слово, один раз даже видел, как она потрогать его собиралась!"
+    Max_04 "Onestamente, una volta ho visto come lo avrebbe toccato!"
 
 # game/dialogues/oliviatalk.rpy:54
 translate crowdin olivia_talk1_beb70033:
@@ -123,8 +123,8 @@ msgstr "[Lisa_13]Beh, questo è tutto! E Max è qui a sbirciare tutti noi quando
 # game/dialogues/oliviatalk.rpy:57
 translate crowdin olivia_talk1_2aacddb7:
 
-msgid "[Max_09]И прошу заметить, это всё происходит в доме, где окна размерами со стену! Здесь просто не реально куда-то пойти, чтобы не застать кого-нибудь за интересными делами..."
-msgstr "[Max_09]E per favore nota, tutto questo accade in una casa dove le finestre hanno le dimensioni di un muro! Non è realistico andare da qualche parte qui, per non catturare qualcuno che fa cose interessanti..."
+    # Max_09 "И прошу заметить, это всё происходит в доме, где окна размерами со стену! Здесь просто не реально куда-то пойти, чтобы не застать кого-нибудь за интересными делами..."
+    Max_09 "E per favore nota, tutto questo accade in una casa dove le finestre hanno le dimensioni di un muro! Non è realistico andare da qualche parte qui, per non catturare qualcuno che fa cose interessanti..."
 
 # game/dialogues/oliviatalk.rpy:63
 translate crowdin olivia_talk1_92d9eb6f:
@@ -135,8 +135,8 @@ msgstr "[Olivia_02]divertimento qui! Hai una ragazza, Max? O ami le donne anzian
 # game/dialogues/oliviatalk.rpy:64
 translate crowdin olivia_talk1_512bcc47:
 
-msgid "[Max_10]Э-э-э... В смысле?!"
-msgstr "[Max_10]uh... Voglio dire?!"
+    # Max_10 "Э-э-э... В смысле?!"
+    Max_10 "uh... Voglio dire?!"
 
 # game/dialogues/oliviatalk.rpy:65
 translate crowdin olivia_talk1_4e1acd88:
@@ -147,8 +147,8 @@ msgstr "[Olivia_03]Beh... Lisa mi ha detto perché sei stata cacciata da scuola.
 # game/dialogues/oliviatalk.rpy:66
 translate crowdin olivia_talk1_dc5cb0c1:
 
-msgid "[Max_07]Ах, ты про это..."
-msgstr "[Max_07]Oh, stai parlando di questo..."
+    # Max_07 "Ах, ты про это..."
+    Max_07 "Oh, stai parlando di questo..."
 
 # game/dialogues/oliviatalk.rpy:67
 translate crowdin olivia_talk1_c3b00cec:
@@ -159,8 +159,8 @@ msgstr "[Olivia_04]Hmm... Mi sto già chiedendo cosa stai pensando..."
 # game/dialogues/oliviatalk.rpy:68
 translate crowdin olivia_talk1_21897d88:
 
-msgid "[Max_00]Нет, девушки у меня нет. Пока что..."
-msgstr "[Max_00]No, non ho una ragazza. Finora..."
+    # Max_00 "Нет, девушки у меня нет. Пока что..."
+    Max_00 "No, non ho una ragazza. Finora..."
 
 # game/dialogues/oliviatalk.rpy:69
 translate crowdin olivia_talk1_9652be42:
@@ -171,8 +171,8 @@ msgstr "[Olivia_06]Oh, si perde così tanto potenziale..."
 # game/dialogues/oliviatalk.rpy:70
 translate crowdin olivia_talk1_6360eddc:
 
-msgid "[Max_02]То, что у меня нет девушки не значит, что потенциал пропадает! Активен и ещё как..."
-msgstr "[Max_02]Solo perché non ho una ragazza non significa che il potenziale sia sparito! Attivo e più come..."
+    # Max_02 "То, что у меня нет девушки не значит, что потенциал пропадает! Активен и ещё как..."
+    Max_02 "Solo perché non ho una ragazza non significa che il potenziale sia sparito! Attivo e più come..."
 
 # game/dialogues/oliviatalk.rpy:71
 translate crowdin olivia_talk1_c13117d0:
@@ -183,8 +183,8 @@ msgstr "[Olivia_05]Oh, Max, è fantastico! Sono felice per te! Ottimo lavoro."
 # game/dialogues/oliviatalk.rpy:77
 translate crowdin olivia_talk1_fd016d90:
 
-msgid "[Max_04]Ну а у тебя как дела на личном фронте? Лиза говорила, у тебя есть парень."
-msgstr "[Max_04]Beh, come stai sul fronte personale? Lisa ha detto che hai un fidanzato."
+    # Max_04 "Ну а у тебя как дела на личном фронте? Лиза говорила, у тебя есть парень."
+    Max_04 "Beh, come stai sul fronte personale? Lisa ha detto che hai un fidanzato."
 
 # game/dialogues/oliviatalk.rpy:78
 translate crowdin olivia_talk1_41081363:
@@ -195,8 +195,8 @@ msgstr "[Olivia_01]sì, sì. Abbiamo qualcosa a che fare con lui. A volte litigh
 # game/dialogues/oliviatalk.rpy:79
 translate crowdin olivia_talk1_09c2a45d:
 
-msgid "[Max_07]Ты уж приглядывай за ним! Сестрёнка у меня симпатичная, может спокойно у тебя парня увести. Не расхваливай его сильно при ней."
-msgstr "[Max_07]Lo stai davvero cercando! Mia sorella è carina, può tranquillamente portare via il tuo ragazzo. Non lodatelo troppo in sua presenza."
+    # Max_07 "Ты уж приглядывай за ним! Сестрёнка у меня симпатичная, может спокойно у тебя парня увести. Не расхваливай его сильно при ней."
+    Max_07 "Lo stai davvero cercando! Mia sorella è carina, può tranquillamente portare via il tuo ragazzo. Non lodatelo troppo in sua presenza."
 
 # game/dialogues/oliviatalk.rpy:80
 translate crowdin olivia_talk1_19cf1422:
@@ -213,8 +213,8 @@ msgstr "[Olivia_03]Sì, non c'è nulla per cui lodarlo. E' bellissimo, sportivo.
 # game/dialogues/oliviatalk.rpy:82
 translate crowdin olivia_talk1_6840095c:
 
-msgid "[Max_09]Раз так, тогда почему ты с ним встречаешься?"
-msgstr "[Max_09]Se è così, allora perché lo stai frequentando?"
+    # Max_09 "Раз так, тогда почему ты с ним встречаешься?"
+    Max_09 "Se è così, allora perché lo stai frequentando?"
 
 # game/dialogues/oliviatalk.rpy:83
 translate crowdin olivia_talk1_ce414624:
@@ -225,8 +225,8 @@ msgstr "[Olivia_02]E invidiare tutti a scuola! Non che io sia completamente inse
 # game/dialogues/oliviatalk.rpy:84
 translate crowdin olivia_talk1_fd7809a4:
 
-msgid "[Max_03]Н-да... Внешность не главное..."
-msgstr "[Max_03]N-sì... L'aspetto non è la cosa principale..."
+    # Max_03 "Н-да... Внешность не главное..."
+    Max_03 "N-sì... L'aspetto non è la cosa principale..."
 
 # game/dialogues/oliviatalk.rpy:85
 translate crowdin olivia_talk1_a8dd338e:
@@ -237,8 +237,8 @@ msgstr "[Olivia_03]Tu, Max, guarda... Se ti attieni al mio petto in quel modo, s
 # game/dialogues/oliviatalk.rpy:86
 translate crowdin olivia_talk1_f42d68e0:
 
-msgid "[Max_04]Ага. Что-то я залежался тут с вами. Пора и делами заниматься. А вы - развлекайтесь..."
-msgstr "[Max_04]sì. Qualcosa che ho giaito qui con te. È tempo di fare le cose. E tu - divertiti..."
+    # Max_04 "Ага. Что-то я залежался тут с вами. Пора и делами заниматься. А вы - развлекайтесь..."
+    Max_04 "sì. Qualcosa che ho giaito qui con te. È tempo di fare le cose. E tu - divertiti..."
 
 # game/dialogues/oliviatalk.rpy:87
 translate crowdin olivia_talk1_3935ff2e:
@@ -249,8 +249,8 @@ msgstr "[Olivia_02]felice di parlare... Penso che ti darò il check-out mercoled
 # game/dialogues/oliviatalk.rpy:88
 translate crowdin olivia_talk1_8c268e09:
 
-msgid "[Max_01]Конечно, Оливия. Мы будем только рады."
-msgstr "[Max_01]Certo, Olivia. Saremo felici."
+    # Max_01 "Конечно, Оливия. Мы будем только рады."
+    Max_01 "Certo, Olivia. Saremo felici."
 
 # game/dialogues/oliviatalk.rpy:105
 translate crowdin olivia_talk2_030c42a2:
@@ -261,8 +261,8 @@ msgstr "[Olivia_03]Cosa, Max? Qualche cosa brutta che vuoi raccontare su Lisa?"
 # game/dialogues/oliviatalk.rpy:106
 translate crowdin olivia_talk2_945ee6bc:
 
-msgid "[Max_04]Нет. Она славная девчонка. Такая вся добрая, умная..."
-msgstr "[Max_04]No. È una bella ragazza. Così gentile, intelligente..."
+    # Max_04 "Нет. Она славная девчонка. Такая вся добрая, умная..."
+    Max_04 "No. È una bella ragazza. Così gentile, intelligente..."
 
 # game/dialogues/oliviatalk.rpy:107
 translate crowdin olivia_talk2_d2199944:
@@ -273,8 +273,8 @@ msgstr "[Olivia_02]È tutta così innocente... Ma è molto carino. Mi piace. Di 
 # game/dialogues/oliviatalk.rpy:108
 translate crowdin olivia_talk2_26120607:
 
-msgid "[Max_05]Правда?"
-msgstr "[Max_05]Davvero?"
+    # Max_05 "Правда?"
+    Max_05 "Davvero?"
 
 # game/dialogues/oliviatalk.rpy:109
 translate crowdin olivia_talk2_f4eed805:
@@ -285,8 +285,8 @@ msgstr "[Olivia_01]Lisa non ha ancora esperienza in termini di sessualità, ma p
 # game/dialogues/oliviatalk.rpy:110
 translate crowdin olivia_talk2_f127b8bd:
 
-msgid "[Max_02]Ну, ты же как её подружка, поможешь ей так сказать, раскрепоститься?"
-msgstr "[Max_02]Beh, tu, come la sua ragazza, la aiuterai a liberarsi, per così dire?"
+    # Max_02 "Ну, ты же как её подружка, поможешь ей так сказать, раскрепоститься?"
+    Max_02 "Beh, tu, come la sua ragazza, la aiuterai a liberarsi, per così dire?"
 
 # game/dialogues/oliviatalk.rpy:115
 translate crowdin olivia_talk2_4e9ba903:
@@ -297,8 +297,8 @@ msgstr "[Olivia_03]E tu già, probabilmente, in piena idea, come ci sdraiamo nud
 # game/dialogues/oliviatalk.rpy:116
 translate crowdin olivia_talk2_3f69da2f:
 
-msgid "[Max_03]Мечтать не вредно!"
-msgstr "[Max_03]Sognare non è dannoso!"
+    # Max_03 "Мечтать не вредно!"
+    Max_03 "Sognare non è dannoso!"
 
 # game/dialogues/oliviatalk.rpy:117
 translate crowdin olivia_talk2_a63b59f8:
@@ -309,8 +309,8 @@ msgstr "[Olivia_05]Tu, Max, sei molto malizioso, mi piace... Anche se, non sorpr
 # game/dialogues/oliviatalk.rpy:118
 translate crowdin olivia_talk2_3e2fbdf1:
 
-msgid "[Max_07]Ага. Ты даже не представляешь, как сложно построить тёплые и доверительные отношения со всеми ними. Лиза так до сих пор настораживается, когда я в \"приподнятом настроении\", как сейчас..."
-msgstr "[Max_07]sì. Non hai idea di quanto sia difficile costruire un rapporto caldo e fiducioso con tutti loro. Lisa è ancora così eccitata quando sono di \"buon umore\" come lo sono ora..."
+    # Max_07 "Ага. Ты даже не представляешь, как сложно построить тёплые и доверительные отношения со всеми ними. Лиза так до сих пор настораживается, когда я в \"приподнятом настроении\", как сейчас..."
+    Max_07 "sì. Non hai idea di quanto sia difficile costruire un rapporto caldo e fiducioso con tutti loro. Lisa è ancora così eccitata quando sono di \"buon umore\" come lo sono ora..."
 
 # game/dialogues/oliviatalk.rpy:119
 translate crowdin olivia_talk2_c5281c88:
@@ -321,8 +321,8 @@ msgstr "[Olivia_06]non posso aiutare molto qui... Una cosa è se si sente a suo 
 # game/dialogues/oliviatalk.rpy:120
 translate crowdin olivia_talk2_eddb4519:
 
-msgid "[Max_09]Может тогда что-нибудь посоветуешь?"
-msgstr "[Max_09]Puoi consigliarmi allora?"
+    # Max_09 "Может тогда что-нибудь посоветуешь?"
+    Max_09 "Puoi consigliarmi allora?"
 
 # game/dialogues/oliviatalk.rpy:125
 translate crowdin olivia_talk2_583e7b64:
@@ -333,8 +333,8 @@ msgstr "[Olivia_02]Beh... Devi passare più tempo insieme. E sarà bello se qual
 # game/dialogues/oliviatalk.rpy:126
 translate crowdin olivia_talk2_ffa97984:
 
-msgid "[Max_07]Моя тётя такая, только вот она мало времени проводит у нас дома... работает допоздна. Так что вся надежда только на тебя!"
-msgstr "[Max_07]Mia zia è così, ma passa poco tempo a casa nostra... lavora fino a tardi. Quindi tutta la speranza è su di te!"
+    # Max_07 "Моя тётя такая, только вот она мало времени проводит у нас дома... работает допоздна. Так что вся надежда только на тебя!"
+    Max_07 "Mia zia è così, ma passa poco tempo a casa nostra... lavora fino a tardi. Quindi tutta la speranza è su di te!"
 
 # game/dialogues/oliviatalk.rpy:127
 translate crowdin olivia_talk2_fffccb6a:
@@ -345,8 +345,8 @@ msgstr "[Olivia_03]Vediamo come posso aiutarti. Dobbiamo pensare..."
 # game/dialogues/oliviatalk.rpy:128
 translate crowdin olivia_talk2_7b8db032:
 
-msgid "[Max_02]Спасибо. Ох, как же с вами жарко загорать! И это я не только про солнце..."
-msgstr "[Max_02]Grazie. Oh, quanto fa caldo prendere il sole con te! E non sto parlando solo del sole..."
+    # Max_02 "Спасибо. Ох, как же с вами жарко загорать! И это я не только про солнце..."
+    Max_02 "Grazie. Oh, quanto fa caldo prendere il sole con te! E non sto parlando solo del sole..."
 
 # game/dialogues/oliviatalk.rpy:129
 translate crowdin olivia_talk2_64b9361f:
@@ -357,8 +357,8 @@ msgstr "[Olivia_02]sì, lo siamo!"
 # game/dialogues/oliviatalk.rpy:130
 translate crowdin olivia_talk2_2f48a738:
 
-msgid "[Max_04]Пойду я... Рад был повидаться! Когда снова к нам заглянешь?"
-msgstr "[Max_04]andrò... Felice di vederti! Quando ci visiterai di nuovo?"
+    # Max_04 "Пойду я... Рад был повидаться! Когда снова к нам заглянешь?"
+    Max_04 "andrò... Felice di vederti! Quando ci visiterai di nuovo?"
 
 # game/dialogues/oliviatalk.rpy:131
 translate crowdin olivia_talk2_6aebd4ea:
@@ -369,8 +369,8 @@ msgstr "[Olivia_05]Reciprocamente, Max... Probabilmente, ora verrò più spesso,
 # game/dialogues/oliviatalk.rpy:132
 translate crowdin olivia_talk2_c7df1a40:
 
-msgid "[Max_01]Нисколько. Обязательно приходи..."
-msgstr "[Max_01]Niente affatto. Assicurati di venire..."
+    # Max_01 "Нисколько. Обязательно приходи..."
+    Max_01 "Niente affatto. Assicurati di venire..."
 
 # game/dialogues/oliviatalk.rpy:148
 translate crowdin olivia_talk3_b01deb4d:
@@ -381,8 +381,8 @@ msgstr "[Olivia_06]Sì come sempre, Max. Studiamo, ma poi ci riposiamo... E poi 
 # game/dialogues/oliviatalk.rpy:149
 translate crowdin olivia_talk3_c2131d34:
 
-msgid "[Max_08]Да-а-а... Как вспомню, так страшно становится!"
-msgstr "[Max_08]sì... Come ricordo, diventa così spaventoso!"
+    # Max_08 "Да-а-а... Как вспомню, так страшно становится!"
+    Max_08 "sì... Come ricordo, diventa così spaventoso!"
 
 # game/dialogues/oliviatalk.rpy:150
 translate crowdin olivia_talk3_9c13756e:
@@ -393,8 +393,8 @@ msgstr "[Olivia_03]A proposito, ho imparato da Lisa che hai tutti qui il venerd�
 # game/dialogues/oliviatalk.rpy:151
 translate crowdin olivia_talk3_8bced51d:
 
-msgid "[Max_07]Да, старшая сестра с тётей возвращаются не раньше трёх часов ночи, а мама и вовсе только утром."
-msgstr "[Max_07]Sì, la sorella maggiore e la zia non tornano fino alle tre del mattino, e mia madre non torna affatto solo al mattino."
+    # Max_07 "Да, старшая сестра с тётей возвращаются не раньше трёх часов ночи, а мама и вовсе только утром."
+    Max_07 "Sì, la sorella maggiore e la zia non tornano fino alle tre del mattino, e mia madre non torna affatto solo al mattino."
 
 # game/dialogues/oliviatalk.rpy:152
 translate crowdin olivia_talk3_41254256:
@@ -411,8 +411,8 @@ msgstr "[Lisa_01]Ascolta, puoi... Tuttavia, non sarò rilasciato prima di mezzan
 # game/dialogues/oliviatalk.rpy:154
 translate crowdin olivia_talk3_8e5b6309:
 
-msgid "[Max_03]Ну и ладно, у нас ещё будет несколько часов, прежде чем кто-нибудь вернётся."
-msgstr "[Max_03]Ok, avremo ancora qualche ora prima che qualcuno torni."
+    # Max_03 "Ну и ладно, у нас ещё будет несколько часов, прежде чем кто-нибудь вернётся."
+    Max_03 "Ok, avremo ancora qualche ora prima che qualcuno torni."
 
 # game/dialogues/oliviatalk.rpy:155
 translate crowdin olivia_talk3_df27b545:
@@ -423,8 +423,8 @@ msgstr "[Olivia_04]classe! Uscirò di nascosto da casa verso mezzanotte di vener
 # game/dialogues/oliviatalk.rpy:156
 translate crowdin olivia_talk3_9e9fdd8c:
 
-msgid "[Max_04]Обязательно!"
-msgstr "[Max_04]Assolutamente!"
+    # Max_04 "Обязательно!"
+    Max_04 "Assolutamente!"
 
 # game/dialogues/oliviatalk.rpy:157
 translate crowdin olivia_talk3_720aafa5:
@@ -441,8 +441,8 @@ msgstr "[Olivia_03]Ecco di più! Solo una notte alla settimana in cui puoi tranq
 # game/dialogues/oliviatalk.rpy:159
 translate crowdin olivia_talk3_f303719b:
 
-msgid "[Max_07]Какая ты суровая!"
-msgstr "[Max_07]Quanto sei duro!"
+    # Max_07 "Какая ты суровая!"
+    Max_07 "Quanto sei duro!"
 
 # game/dialogues/oliviatalk.rpy:160
 translate crowdin olivia_talk3_16f8fe4b:
@@ -453,8 +453,8 @@ msgstr "[Olivia_02]Niente, gli piace passarmi nei miei videogiochi preferiti o s
 # game/dialogues/oliviatalk.rpy:161
 translate crowdin olivia_talk3_15825c06:
 
-msgid "[Max_02]А мы с тобой!"
-msgstr "[Max_02]E noi siamo con voi!"
+    # Max_02 "А мы с тобой!"
+    Max_02 "E noi siamo con voi!"
 
 # game/dialogues/oliviatalk.rpy:162
 translate crowdin olivia_talk3_2f21535c:
@@ -465,8 +465,8 @@ msgstr "[Olivia_03]non ho dubitato di te, Max... Sei fuori, pieno di entusiasmo 
 # game/dialogues/oliviatalk.rpy:163
 translate crowdin olivia_talk3_60e28b81:
 
-msgid "[Max_01]Да, я пожалуй пойду, развеюсь немного..."
-msgstr "[Max_01]sì, probabilmente andrò a rilassarmi un po '..."
+    # Max_01 "Да, я пожалуй пойду, развеюсь немного..."
+    Max_01 "sì, probabilmente andrò a rilassarmi un po '..."
 
 # game/dialogues/oliviatalk.rpy:180
 translate crowdin olivia_talk4_4c92b665:
@@ -477,8 +477,8 @@ msgstr "[Olivia_02]sono contento anche io... A proposito, sei il primo ragazzo c
 # game/dialogues/oliviatalk.rpy:181
 translate crowdin olivia_talk4_50ff0476:
 
-msgid "[Max_07]Это хорошо или плохо?"
-msgstr "[Max_07]Questo è buono o cattivo?"
+    # Max_07 "Это хорошо или плохо?"
+    Max_07 "Questo è buono o cattivo?"
 
 # game/dialogues/oliviatalk.rpy:182
 translate crowdin olivia_talk4_56b6de78:
@@ -489,8 +489,8 @@ msgstr "[Olivia_03]Questo è molto buono, Max. Onestamente, nel nostro primo inc
 # game/dialogues/oliviatalk.rpy:183
 translate crowdin olivia_talk4_e2a0e0cc:
 
-msgid "[Max_02]Рассказала своему парню, как у нас ночь провела?"
-msgstr "[Max_02]Detto al suo ragazzo come abbiamo passato la notte?"
+    # Max_02 "Рассказала своему парню, как у нас ночь провела?"
+    Max_02 "Detto al suo ragazzo come abbiamo passato la notte?"
 
 # game/dialogues/oliviatalk.rpy:189
 translate crowdin olivia_talk4_e775517a:
@@ -501,8 +501,8 @@ msgstr "[Olivia_06]Detto... Ma, ts-s-s-s! Sembra che Alex abbia iniziato ad inte
 # game/dialogues/oliviatalk.rpy:190
 translate crowdin olivia_talk4_83e306cf:
 
-msgid "[Max_09]Тебя это беспокоит?"
-msgstr "[Max_09]ti dà fastidio?"
+    # Max_09 "Тебя это беспокоит?"
+    Max_09 "ti dà fastidio?"
 
 # game/dialogues/oliviatalk.rpy:191
 translate crowdin olivia_talk4_623da3f3:
@@ -513,8 +513,8 @@ msgstr "[Olivia_00]Non proprio. Piuttosto, è solo deludente. Si è scoperto che
 # game/dialogues/oliviatalk.rpy:192
 translate crowdin olivia_talk4_ecc433e0:
 
-msgid "[Max_07]Ты о чём?"
-msgstr "[Max_07]parli di cosa?"
+    # Max_07 "Ты о чём?"
+    Max_07 "parli di cosa?"
 
 # game/dialogues/oliviatalk.rpy:193
 translate crowdin olivia_talk4_8651a6c8:
@@ -525,8 +525,8 @@ msgstr "[Olivia_06]Beh, la nostra famiglia, se lo sai, è nei guai in questo mom
 # game/dialogues/oliviatalk.rpy:194
 translate crowdin olivia_talk4_2d3abcc4:
 
-msgid "[Max_09]А ты ей об этом рассказала?"
-msgstr "[Max_09]Glielo hai detto?"
+    # Max_09 "А ты ей об этом рассказала?"
+    Max_09 "Glielo hai detto?"
 
 # game/dialogues/oliviatalk.rpy:195
 translate crowdin olivia_talk4_763ad1fd:
@@ -537,8 +537,8 @@ msgstr "[Olivia_03]sì, te l'ho detto oggi. Oggi ha camminato tranquillamente a 
 # game/dialogues/oliviatalk.rpy:196
 translate crowdin olivia_talk4_5c268ef1:
 
-msgid "[Max_08]Ты уж не вини её за это. Видимо, в этого вашего красавчика Алекса все влюбляются."
-msgstr "[Max_08]Non la biasimi per questo. Apparentemente, in questo tuo bel Alex tutti si innamora."
+    # Max_08 "Ты уж не вини её за это. Видимо, в этого вашего красавчика Алекса все влюбляются."
+    Max_08 "Non la biasimi per questo. Apparentemente, in questo tuo bel Alex tutti si innamora."
 
 # game/dialogues/oliviatalk.rpy:197
 translate crowdin olivia_talk4_4d6fb032:
@@ -549,8 +549,8 @@ msgstr "[Olivia_02]Se non avessi conosciuto Lisa, avrei pensato che cercare di f
 # game/dialogues/oliviatalk.rpy:198
 translate crowdin olivia_talk4_d684e49e:
 
-msgid "[Max_07]Но?"
-msgstr "[Max_07]Ma?"
+    # Max_07 "Но?"
+    Max_07 "Ma?"
 
 # game/dialogues/oliviatalk.rpy:199
 translate crowdin olivia_talk4_79355eda:
@@ -561,8 +561,8 @@ msgstr "[Olivia_04]Ma lei non sa come costruire combinazioni così complesse. È
 # game/dialogues/oliviatalk.rpy:200
 translate crowdin olivia_talk4_6e6cb6e3:
 
-msgid "[Max_00]Хорошо, что теперь выяснилось, как твой парень падок на всякое красивое и дорогое."
-msgstr "[Max_00]È bello che ora si scopra come il tuo ragazzo sia una jenk di ogni sorta di cose belle e costose."
+    # Max_00 "Хорошо, что теперь выяснилось, как твой парень падок на всякое красивое и дорогое."
+    Max_00 "È bello che ora si scopra come il tuo ragazzo sia una jenk di ogni sorta di cose belle e costose."
 
 # game/dialogues/oliviatalk.rpy:201
 translate crowdin olivia_talk4_cff62136:
@@ -573,8 +573,8 @@ msgstr "[Olivia_03]Come se non fosse un ex fidanzato... Ma dobbiamo vedere cosa 
 # game/dialogues/oliviatalk.rpy:207
 translate crowdin olivia_talk4_552108bb:
 
-msgid "[Max_14]Постарайся надеяться на лучшее, но приготовься к худшему."
-msgstr "[Max_14]Cerca di sperare per il meglio, ma preparati al peggio."
+    # Max_14 "Постарайся надеяться на лучшее, но приготовься к худшему."
+    Max_14 "Cerca di sperare per il meglio, ma preparati al peggio."
 
 # game/dialogues/oliviatalk.rpy:208
 translate crowdin olivia_talk4_f750647c:
@@ -585,8 +585,8 @@ msgstr "[Olivia_05]Grazie. Anche se, in questa situazione - la peggiore, potrebb
 # game/dialogues/oliviatalk.rpy:209
 translate crowdin olivia_talk4_82b0e52d:
 
-msgid "[Max_03]Ага, может..."
-msgstr "[Max_03]sì, forse..."
+    # Max_03 "Ага, может..."
+    Max_03 "sì, forse..."
 
 # game/dialogues/oliviatalk.rpy:210
 translate crowdin olivia_talk4_3c03a230:
@@ -609,8 +609,8 @@ msgstr "[Lisa_01]voglio ancora prendere il sole un po '..."
 # game/dialogues/oliviatalk.rpy:213
 translate crowdin olivia_talk4_634019e5:
 
-msgid "[Max_04]Ну а я пойду по своим делам."
-msgstr "[Max_04]Beh, farò i miei affari."
+    # Max_04 "Ну а я пойду по своим делам."
+    Max_04 "Beh, farò i miei affari."
 
 # game/dialogues/oliviatalk.rpy:219
 translate crowdin olivia_talk4_d0b77921:
@@ -621,8 +621,8 @@ msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avrò solo il tempo di
 # game/dialogues/oliviatalk.rpy:220
 translate crowdin olivia_talk4_f70ba235:
 
-msgid "[Max_01]Не вопрос. Будем только рады..."
-msgstr "[Max_01]Non è una domanda. Saremo lieti..."
+    # Max_01 "Не вопрос. Будем только рады..."
+    Max_01 "Non è una domanda. Saremo lieti..."
 
 # game/dialogues/oliviatalk.rpy:223
 translate crowdin olivia_talk4_491731c9:
@@ -633,8 +633,8 @@ msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avremo un raduno seral
 # game/dialogues/oliviatalk.rpy:224
 translate crowdin olivia_talk4_454626af:
 
-msgid "[Max_01]Конечно. Будем только рады..."
-msgstr "[Max_01]Certo. Saremo lieti..."
+    # Max_01 "Конечно. Будем только рады..."
+    Max_01 "Certo. Saremo lieti..."
 
 # game/dialogues/oliviatalk.rpy:227
 translate crowdin olivia_talk4_8772ba6c:
@@ -645,8 +645,8 @@ msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avremo una serata fuor
 # game/dialogues/oliviatalk.rpy:228
 translate crowdin olivia_talk4_89d34761:
 
-msgid "[Max_01]Конечно. Будем тебя ждать..."
-msgstr "[Max_01]Certo. Ti aspettiamo..."
+    # Max_01 "Конечно. Будем тебя ждать..."
+    Max_01 "Certo. Ti aspettiamo..."
 
 # game/dialogues/oliviatalk.rpy:231
 translate crowdin olivia_talk4_8772ba6c_1:
@@ -657,14 +657,14 @@ msgstr "[Olivia_01]Ho fatto una bella chiacchierata, Max. Avremo una serata fuor
 # game/dialogues/oliviatalk.rpy:232
 translate crowdin olivia_talk4_89d34761_1:
 
-msgid "[Max_01]Конечно. Будем тебя ждать..."
-msgstr "[Max_01]Certo. Ti aspettiamo..."
+    # Max_01 "Конечно. Будем тебя ждать..."
+    Max_01 "Certo. Ti aspettiamo..."
 
 # game/dialogues/oliviatalk.rpy:243
 translate crowdin olivia_about_film_punish_74bdb244:
 
-msgid "[Max_09]Лиза... А что насчёт сегодняшнего наказания?"
-msgstr "[Max_09]Lisa... E la punizione di oggi?"
+    # Max_09 "Лиза... А что насчёт сегодняшнего наказания?"
+    Max_09 "Lisa... E la punizione di oggi?"
 
 # game/dialogues/oliviatalk.rpy:244
 translate crowdin olivia_about_film_punish_7e19b1ff:
@@ -687,8 +687,8 @@ msgstr "[Lisa_09]ho notato Max che mi sbircia sotto la doccia..."
 # game/dialogues/oliviatalk.rpy:247
 translate crowdin olivia_about_film_punish_e360883c:
 
-msgid "[Max_07]Естественно, случайно!"
-msgstr "[Max_07]Certo, per caso!"
+    # Max_07 "Естественно, случайно!"
+    Max_07 "Certo, per caso!"
 
 # game/dialogues/oliviatalk.rpy:248
 translate crowdin olivia_about_film_punish_6b8a04d8:
@@ -699,8 +699,8 @@ msgstr "[Lisa_02]sì, come sempre. E così che mia madre non ne sa nulla, tormen
 # game/dialogues/oliviatalk.rpy:249
 translate crowdin olivia_about_film_punish_26756e1b:
 
-msgid "[Max_09]Да, да, да... Так что с этим решим?"
-msgstr "[Max_09]sì, sì, sì... Quindi cosa decidiamo al riguardo?"
+    # Max_09 "Да, да, да... Так что с этим решим?"
+    Max_09 "sì, sì, sì... Quindi cosa decidiamo al riguardo?"
 
 # game/dialogues/oliviatalk.rpy:253
 translate crowdin olivia_about_film_punish_43b45ee9:
@@ -717,8 +717,8 @@ msgstr "[Lisa_02]Qui l'abbiamo capito. Andiamo già..." nointeract
 # game/dialogues/oliviatalk.rpy:264
 translate crowdin olivia_about_film_punish_74bdb244_1:
 
-msgid "[Max_09]Лиза... А что насчёт сегодняшнего наказания?"
-msgstr "[Max_09]Lisa... E la punizione di oggi?"
+    # Max_09 "Лиза... А что насчёт сегодняшнего наказания?"
+    Max_09 "Lisa... E la punizione di oggi?"
 
 # game/dialogues/oliviatalk.rpy:268
 translate crowdin olivia_about_film_punish_43b45ee9_1:
@@ -741,8 +741,8 @@ msgstr "[Lisa_01]Basta spostarlo alla notte successiva, questo è tutto."
 # game/dialogues/oliviatalk.rpy:281
 translate crowdin olivia_about_film_punish_postpone_c7691ca7:
 
-msgid "[Max_01]Хорошо. Тогда приятного вам просмотра..."
-msgstr "[Max_01]Va bene. Allora goditi la tua visione..."
+    # Max_01 "Хорошо. Тогда приятного вам просмотра..."
+    Max_01 "Va bene. Allora goditi la tua visione..."
 
 # game/dialogues/oliviatalk.rpy:289
 translate crowdin olivia_about_film_punish_nice_view_c6feaf9a:
@@ -753,8 +753,8 @@ msgstr "[Olivia_06]Come?! Non rimarrai con noi? Miseramente..."
 # game/dialogues/oliviatalk.rpy:290
 translate crowdin olivia_about_film_punish_nice_view_3e444279:
 
-msgid "[Max_01]Мне тоже. Не скучайте."
-msgstr "[Max_01]anche a me. Non annoiarti."
+    # Max_01 "Мне тоже. Не скучайте."
+    Max_01 "anche a me. Non annoiarti."
 
 translate crowdin strings:
 
