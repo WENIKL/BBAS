@@ -71,10 +71,8 @@ translate crowdin strings:
     new "{color=[lime]}aumentato{/colore}"
 
     # game/core/04function.rpy:357
-    old "Настроение %s %s \n"
-"Её отношение к Максу %s"
-    new "Il suo umore %s %s \n"
-"il suo atteggiamento nei confronti di Max %s"
+    old "Настроение %s %s \nЕё отношение к Максу %s"
+    new "Il suo umore %s %s \nil suo atteggiamento nei confronti di Max %s"
 
     # game/core/04function.rpy:359
     old "Отношение %s к Максу %s"
