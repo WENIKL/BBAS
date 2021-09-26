@@ -1082,6 +1082,7 @@ msgstr "[Max_04]accompagnarti a letto?"
 msgid "[Lisa_13]Сама справлюсь! Ой ой ой!"
 msgstr "[Lisa_13]posso farlo da solo! Oh oh!"
 
+## # translate crowdin strings:#    # game/events/lisa.rpy:43
 msgid "Это я, Макс!"
 msgstr "Sono io, Max!"
 

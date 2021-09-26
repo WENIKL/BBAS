@@ -536,6 +536,7 @@ msgstr "[Max_05]Wow, è affascinante! Le procedure dell'acqua della madre posson
 msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
 msgstr "[Max_07]Eh! Sembra che il divertimento sia finito... Anche se, guardare la mamma asciugare il suo corpo bagnato e seducente non è meno piacevole! Oh, che ha...[nointeract]"
 
+## # translate crowdin strings:#    # game/events/ann.rpy:185
 msgid "{i}Отвернуться{/i}"
 msgstr "{i}voltare le chiavi in giavolte{/i}"
 

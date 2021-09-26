@@ -516,6 +516,7 @@ msgstr "[Max_00]Quanto devo prendere in prestito ora?[nointeract]"
 msgid "[Max_00]Сколько я верну сейчас?[nointeract]"
 msgstr "[Max_00]Quanto restituirò ora?[nointeract]"
 
+## # translate crowdin strings:#    # game/events/max.rpy:70
 msgid "{i}вздремнуть{/i}"
 msgstr "{i}fare un pisolino{/i}"
 

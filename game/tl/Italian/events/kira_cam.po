@@ -220,6 +220,7 @@ msgstr "[Max_02]Questo è tutto! Non puoi durare a lungo con Kira... Soprattutto
 msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
 msgstr "[Max_09]Nessuno può essere visto attraverso questa fotocamera... Posso guardare attraverso un altro?"
 
+## # translate crowdin strings:#    # game/events/kira_cam.rpy:425
 msgid "{i}встретить их{/i}"
 msgstr "{i}li incontriamo{/i}"
 

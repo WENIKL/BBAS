@@ -2632,6 +2632,7 @@ msgstr "[Max_09]Ecco il bastardo! Ho abbassato tutto fino all'ultima goccia di K
 msgid "[Max_02]Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа![nointeract]"
 msgstr "[Max_02]Kira non ha perso una sola goccia passata! Ed è come se nessuno l'avessi appena risucchiata... Lavoro pulito![nointeract]"
 
+## # translate crowdin strings:#    # game/events/kira.rpy:23
 msgid "{i}войти{/i}"
 msgstr "{i}accedi{/i}"
 

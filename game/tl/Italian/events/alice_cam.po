@@ -368,6 +368,7 @@ msgstr "[Max_09]{i}(Tutto è chiaro con te, Alice si è seduta sul collo di Eric
 msgid "[Max_08]{i}( Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю... ){/i}"
 msgstr "[Max_08]{i}(Eric è nella stanza di Alice oggi. Sembra che stia cercando di aiutare con il blog ... Ma in realtà, a fissare Alice in lingerie, lo so per me stesso... ) {/i}"
 
+## # translate crowdin strings:#    # game/events/alice_cam.rpy:56
 msgid "{i}Конечно{/i}"
 msgstr "{i}Certo{/i}"
 

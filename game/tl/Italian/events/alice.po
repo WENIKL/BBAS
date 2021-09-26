@@ -2334,6 +2334,7 @@ msgstr "[Max_09]{i}(Aspetta, stanno parlando di comprare lingerie ... E senza di
 msgid "[Max_07]{i}( Эрик решил поумничать перед Алисой знаниями в потребительстве и рекламе... Ну да, а тем временем глазеет на её прелести, еле прикрытые бельём. Делать мне здесь пока нечего... ){/i}[nointeract]"
 msgstr "[Max_07]{i}(Eric ha deciso di essere intelligente di fronte alla conoscenza di Alice nel consumismo e nella pubblicità ... Beh, sì, e nel frattempo fissa il suo fascino, a malapena coperto di biancheria intima. Non ho ancora niente da fare qui...) {/i}[nointeract]"
 
+## # translate crowdin strings:#    # game/events/alice.rpy:12
 msgid "{i}постучаться{/i}"
 msgstr "{i}knock{/i}"
 
