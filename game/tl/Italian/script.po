@@ -164,6 +164,7 @@ msgstr "[Max_00]Alcune \"opportunità\" sono temporanee. Alcuni possono portare 
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
 msgstr "[Max_04]Ma non dovresti aver paura di loro. È grazie alle \"opportunità\" che puoi realizzare qualcosa che alcuni non sognano nemmeno![nointeract]"
 
+## # translate crowdin strings:#    # game/script.rpy:37
 msgid "{i}далее{/i}"
 msgstr "{i}successivo{/i}"
 
