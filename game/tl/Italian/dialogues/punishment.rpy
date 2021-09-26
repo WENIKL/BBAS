@@ -147,8 +147,8 @@ msgstr "[Lisa_11]Oh, no! Non farlo, mamma!"
 # game/dialogues/punishment.rpy:138
 translate crowdin first_naked_punishment_4a37ae29:
 
-msgid "[Alice_16]Это беспредел какой-то!"
-msgstr "[Alice_16]Questa è una sorta di illegalità!"
+    # Alice_16 "Это беспредел какой-то!"
+    Alice_16 "Questa è una sorta di illegalità!"
 
 # game/dialogues/punishment.rpy:139
 translate crowdin first_naked_punishment_2c928228:
@@ -201,8 +201,8 @@ translate crowdin punishment_max_pun_reson_bd61ea84:
 # game/dialogues/punishment.rpy:187
 translate crowdin punishment_max_pun_reson_f80ba00d:
 
-msgid "[Alice_16]Случайно? Врёт он всё, мам! Он стоял и пялился на меня!"
-msgstr "[Alice_16]per caso? Sta mentendo, mamma! Si alzò e mi fissò!"
+    # Alice_16 "Случайно? Врёт он всё, мам! Он стоял и пялился на меня!"
+    Alice_16 "per caso? Sta mentendo, mamma! Si alzò e mi fissò!"
 
 # game/dialogues/punishment.rpy:190
 translate crowdin punishment_max_pun_reson_638d9e56:
@@ -249,8 +249,8 @@ translate crowdin punishment_max_pun_reson_2f8845d8:
 # game/dialogues/punishment.rpy:205
 translate crowdin punishment_max_pun_reson_021885f4:
 
-msgid "[Alice_16]Случайно? Мам! Он всё врёт! Он подглядывал и, может быть, даже паука подбросил! А ты знаешь, как я боюсь пауков..."
-msgstr "[Alice_16]per caso? Mamma! Sta mentendo! Ha sbirciato e forse ha anche lanciato un ragno! E sapete quanto ho paura dei ragni..."
+    # Alice_16 "Случайно? Мам! Он всё врёт! Он подглядывал и, может быть, даже паука подбросил! А ты знаешь, как я боюсь пауков..."
+    Alice_16 "per caso? Mamma! Sta mentendo! Ha sbirciato e forse ha anche lanciato un ragno! E sapete quanto ho paura dei ragni..."
 
 # game/dialogues/punishment.rpy:208
 translate crowdin punishment_max_pun_reson_a3ff079a:
@@ -595,8 +595,8 @@ translate crowdin punishment_alice_d608324e:
 # game/dialogues/punishment.rpy:564
 translate crowdin punishment_alice_8e33c890:
 
-msgid "[Alice_12]Мам, за что? Что я такого сделала?"
-msgstr "[Alice_12]mamma, per cosa? Cosa ho fatto?"
+    # Alice_12 "Мам, за что? Что я такого сделала?"
+    Alice_12 "mamma, per cosa? Cosa ho fatto?"
 
 # game/dialogues/punishment.rpy:570
 translate crowdin punishment_alice_a4b257c5:
@@ -631,8 +631,8 @@ translate crowdin punishment_alice_48884e9e:
 # game/dialogues/punishment.rpy:582
 translate crowdin punishment_alice_2a128a29:
 
-msgid "[Alice_13]Хорошо, мам. Спасибо, Макс, я этого не забуду."
-msgstr "[Alice_13]Va bene, mamma. Grazie, Max, non lo dimenticherò."
+    # Alice_13 "Хорошо, мам. Спасибо, Макс, я этого не забуду."
+    Alice_13 "Va bene, mamma. Grazie, Max, non lo dimenticherò."
 
 # game/dialogues/punishment.rpy:588
 translate crowdin punishment_alice_c8f8e3ea:
@@ -643,8 +643,8 @@ translate crowdin punishment_alice_c8f8e3ea:
 # game/dialogues/punishment.rpy:593
 translate crowdin punishment_alice_055a6121:
 
-msgid "[Alice_13]Мам... Это не мои сигареты... Я не курю, честно..."
-msgstr "[Alice_13]Mamma... Non sono le mie sigarette... Non fumo, onestamente..."
+    # Alice_13 "Мам... Это не мои сигареты... Я не курю, честно..."
+    Alice_13 "Mamma... Non sono le mie sigarette... Non fumo, onestamente..."
 
 # game/dialogues/punishment.rpy:595
 translate crowdin punishment_alice_3761a8bd:
@@ -655,8 +655,8 @@ translate crowdin punishment_alice_3761a8bd:
 # game/dialogues/punishment.rpy:597
 translate crowdin punishment_alice_194e9daf:
 
-msgid "[Alice_06]Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
-msgstr "[Alice_06]mamma, ma oggi sono senza mutandine... Lascia che Max se ne vada o si allontani, almeno..."
+    # Alice_06 "Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    Alice_06 "mamma, ma oggi sono senza mutandine... Lascia che Max se ne vada o si allontani, almeno..."
 
 # game/dialogues/punishment.rpy:598
 translate crowdin punishment_alice_8ad85845:
@@ -679,8 +679,8 @@ translate crowdin punishment_alice_90ee680b:
 # game/dialogues/punishment.rpy:608
 translate crowdin punishment_alice_cd360a25:
 
-msgid "[Alice_06]Мам, но под ними нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
-msgstr "[Alice_06]mamma, ma non ci sono mutandine sotto... Lascia che Max se ne vada o si allontani, almeno..."
+    # Alice_06 "Мам, но под ними нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    Alice_06 "mamma, ma non ci sono mutandine sotto... Lascia che Max se ne vada o si allontani, almeno..."
 
 # game/dialogues/punishment.rpy:609
 translate crowdin punishment_alice_011ed976:
@@ -697,14 +697,14 @@ translate crowdin punishment_alice_05b9287b:
 # game/dialogues/punishment.rpy:614
 translate crowdin punishment_alice_194e9daf_1:
 
-msgid "[Alice_06]Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
-msgstr "[Alice_06]mamma, ma oggi sono senza mutandine... Lascia che Max se ne vada o si allontani, almeno..."
+    # Alice_06 "Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    Alice_06 "mamma, ma oggi sono senza mutandine... Lascia che Max se ne vada o si allontani, almeno..."
 
 # game/dialogues/punishment.rpy:616
 translate crowdin punishment_alice_74c9db0c:
 
-msgid "[Alice_06]Мам, но под шортами нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
-msgstr "[Alice_06]mamma, ma non ci sono mutandine sotto i pantaloncini... Lascia che Max se ne vada o si allontani, almeno..."
+    # Alice_06 "Мам, но под шортами нет трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
+    Alice_06 "mamma, ma non ci sono mutandine sotto i pantaloncini... Lascia che Max se ne vada o si allontani, almeno..."
 
 # game/dialogues/punishment.rpy:618
 translate crowdin punishment_alice_f85f1017:
@@ -757,8 +757,8 @@ translate crowdin punishment_alice_a3fb885d:
 # game/dialogues/punishment.rpy:656
 translate crowdin punishment_alice_2a128a29_1:
 
-msgid "[Alice_13]Хорошо, мам. Спасибо, Макс, я этого не забуду."
-msgstr "[Alice_13]Va bene, mamma. Grazie, Max, non lo dimenticherò."
+    # Alice_13 "Хорошо, мам. Спасибо, Макс, я этого не забуду."
+    Alice_13 "Va bene, mamma. Grazie, Max, non lo dimenticherò."
 
 # game/dialogues/punishment.rpy:662
 translate crowdin punishment_alice_9e76b62f:
@@ -775,8 +775,8 @@ translate crowdin punishment_alice_c8f8e3ea_1:
 # game/dialogues/punishment.rpy:696
 translate crowdin punishment_alice_6bf98fd4:
 
-msgid "[Alice_15]Ай, больно же! Мам, я больше не буду!!!"
-msgstr "[Alice_15]Ehi, fa male! Mamma, non lo sarò più!!!"
+    # Alice_15 "Ай, больно же! Мам, я больше не буду!!!"
+    Alice_15 "Ehi, fa male! Mamma, non lo sarò più!!!"
 
 # game/dialogues/punishment.rpy:700
 translate crowdin punishment_alice_6424b699:
@@ -799,8 +799,8 @@ translate crowdin punishment_alice_9e2ea44b:
 # game/dialogues/punishment.rpy:708
 translate crowdin punishment_alice_be504ff7:
 
-msgid "[Alice_15]Ай! Ма-ам! Больно же! Мам, я больше не буду!!!"
-msgstr "[Alice_15]Ehi! Signora! Fa male! Mamma, non lo sarò più!!!"
+    # Alice_15 "Ай! Ма-ам! Больно же! Мам, я больше не буду!!!"
+    Alice_15 "Ehi! Signora! Fa male! Mamma, non lo sarò più!!!"
 
 # game/dialogues/punishment.rpy:709
 translate crowdin punishment_alice_02510b3b:

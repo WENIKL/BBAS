@@ -2273,16 +2273,16 @@ msgstr "[Kira_05]È invano... Devi dormire... Anche io e Alice andremo a dormire
     Max_07 "Sembra che qualcuno sia ubriaco..."
 
 # game/events/kira.rpy:2665## # translate crowdin return_from_club_b5fd31fe:
-msgid "[Alice_02]Ага, еле дотащила её. А ведь она сильная. Ещё и сопротивляется! Хотела в какой-то другой ночной клуб пойти, продолжить тусить... Еле отговорила!"
-msgstr "[Alice_02]sì, l'ho trascinato a malapena. Ma lei è forte. Resiste anche! Volevo andare in qualche altra discoteca, continuare a uscire... Se ne parla a malapena!"
+    # Alice_02 "Ага, еле дотащила её. А ведь она сильная. Ещё и сопротивляется! Хотела в какой-то другой ночной клуб пойти, продолжить тусить... Еле отговорила!"
+    Alice_02 "sì, l'ho trascinato a malapena. Ma lei è forte. Resiste anche! Volevo andare in qualche altra discoteca, continuare a uscire... Se ne parla a malapena!"
 
 # game/events/kira.rpy:2666## # translate crowdin return_from_club_8fb778db:
     # Max_08 "А ты трезва?"
     Max_08 "Sei sobrio?"
 
 # game/events/kira.rpy:2667## # translate crowdin return_from_club_3539a73a:
-msgid "[Alice_05]Конечно, Макс! Ты же знаешь, что я не пью. Да и нужно было кому-то приглядывать за тётей Кирой. Она очень любит развлекаться, да так, что стыдно рассказать..."
-msgstr "[Alice_05]Certo, Max! Sai che non bevo. E qualcuno doveva prendersi cura di zia Kira. Ama divertirsi, tanto che è un peccato raccontarlo..."
+    # Alice_05 "Конечно, Макс! Ты же знаешь, что я не пью. Да и нужно было кому-то приглядывать за тётей Кирой. Она очень любит развлекаться, да так, что стыдно рассказать..."
+    Alice_05 "Certo, Max! Sai che non bevo. E qualcuno doveva prendersi cura di zia Kira. Ama divertirsi, tanto che è un peccato raccontarlo..."
 
 # game/events/kira.rpy:2668## # translate crowdin return_from_club_8ed21348:
     # Max_07 "И что было?"
@@ -2297,8 +2297,8 @@ msgstr "[Kira_07]Oh, Max... Cosa non era... E spogliarelliste, e spogliarello...
     Max_08 "Cosa?"
 
 # game/events/kira.rpy:2671## # translate crowdin return_from_club_02edae7e:
-msgid "[Alice_06]А вот это уже не обязательно рассказывать. Я как вспомню, краснеть от стыда начинаю. Скажу лишь, что стриптиз танцевала тётя Кира, а остальное совсем не для твоих ушей..."
-msgstr "[Alice_06]Ma questo non è necessario dirlo. Mentre ricordo, comincio ad arrossire di vergogna. Dirò solo che lo spogliarello è stato ballato da zia Kira, e il resto non è affatto per le tue orecchie..."
+    # Alice_06 "А вот это уже не обязательно рассказывать. Я как вспомню, краснеть от стыда начинаю. Скажу лишь, что стриптиз танцевала тётя Кира, а остальное совсем не для твоих ушей..."
+    Alice_06 "Ma questo non è necessario dirlo. Mentre ricordo, comincio ad arrossire di vergogna. Dirò solo che lo spogliarello è stato ballato da zia Kira, e il resto non è affatto per le tue orecchie..."
 
 # game/events/kira.rpy:2672## # translate crowdin return_from_club_9bbffc91:
     # Max_03 "Ого... Я всё пропустил!"
@@ -2313,12 +2313,12 @@ msgstr "[Kira_06]Esattamente! Dovrai portare Max con te la prossima volta!"
     Max_04 "sono tutto per questo!"
 
 # game/events/kira.rpy:2675## # translate crowdin return_from_club_c0085d94:
-msgid "[Alice_03]Не сомневаюсь, Макс. Но всё, хватит разговоров. Я пойду переодену и уложу тётю Киру в гостиной, а ты иди в свою комнату и ложись спать. Пока!" nointeract
-msgstr "[Alice_03]non ho dubbi, Max. Ma questo è tutto, basta chiacchiere. Andrò a cambiarmi i vestiti e metterò zia Kira in salotto e tu andrai nella tua stanza e andrai a letto. Finalmente!" nointeract
+    # Alice_03 "Не сомневаюсь, Макс. Но всё, хватит разговоров. Я пойду переодену и уложу тётю Киру в гостиной, а ты иди в свою комнату и ложись спать. Пока!" nointeract
+    Alice_03 "non ho dubbi, Max. Ma questo è tutto, basta chiacchiere. Andrò a cambiarmi i vestiti e metterò zia Kira in salotto e tu andrai nella tua stanza e andrai a letto. Finalmente!" nointeract
 
 # game/events/kira.rpy:2678## # translate crowdin return_from_club_fb094ae4:
-msgid "[Alice_05]Наверняка из-за момента, что её нужно переодеть, да? Какой же ты испорченный мальчишка, Макс!"
-msgstr "[Alice_05]Sicuramente a causa del momento in cui ha bisogno di essere cambiata, giusto? Che ragazzo viziato sei, Max!"
+    # Alice_05 "Наверняка из-за момента, что её нужно переодеть, да? Какой же ты испорченный мальчишка, Макс!"
+    Alice_05 "Sicuramente a causa del momento in cui ha bisogno di essere cambiata, giusto? Che ragazzo viziato sei, Max!"
 
 # game/events/kira.rpy:2679## # translate crowdin return_from_club_65dce436:
     # Max_09 "Мне теперь и тёте любимой нельзя помочь без упрёков?! Может, это вы тут все испорченные, а я один адекватный. Тётя Кира, ты ведь не против, если я тебе помогу?"
@@ -2329,8 +2329,8 @@ msgid "[Kira_05]Ой, Макс... Я просто не могу отказать
 msgstr "[Kira_05]Oh, Max... Non posso negare un'attenzione così galante. Alice, puoi camminare... Max si prenderà cura di me."
 
 # game/events/kira.rpy:2681## # translate crowdin return_from_club_051ee7df:
-msgid "[Alice_12]Ну как знаете! Мне и без этого есть чем заняться. Доброй ночи."
-msgstr "[Alice_12]Beh, sai! Ho molto da fare senza. Buona notte."
+    # Alice_12 "Ну как знаете! Мне и без этого есть чем заняться. Доброй ночи."
+    Alice_12 "Beh, sai! Ho molto da fare senza. Buona notte."
 
 # game/events/kira.rpy:2682## # translate crowdin return_from_club_7b99fe1e:
     # Max_01 "Ага, доброй. Пойдём, тётя Кира, я тебя провожу..." nointeract
@@ -2373,8 +2373,8 @@ msgid "[Kira_07]Скажу по секрету... Это касается тру
 msgstr "[Kira_07]ti svelo un segreto... Questo vale per le mutandine di Alice! Ma questo è un segreto, giusto?"
 
 # game/events/kira.rpy:2715## # translate crowdin return_from_club_1d4756e8:
-msgid "[Alice_05]Именно! И Макса мы в это посвящать не будем... К тому же даже сама тётя Кира сейчас без трусиков!"
-msgstr "[Alice_05]Esattamente! E non dedicheremo Max a questo... Inoltre, anche la stessa zia Kira è ora senza mutandine!"
+    # Alice_05 "Именно! И Макса мы в это посвящать не будем... К тому же даже сама тётя Кира сейчас без трусиков!"
+    Alice_05 "Esattamente! E non dedicheremo Max a questo... Inoltre, anche la stessa zia Kira è ora senza mutandine!"
 
 # game/events/kira.rpy:2716## # translate crowdin return_from_club_29fbae93:
     # Max_04 "Какие пикантные секреты!"
@@ -2385,24 +2385,24 @@ msgid "[Kira_02]Так, Макс, я отправляюсь спать. Пров
 msgstr "[Kira_02]Allora, Max, vado a letto. Mi stai accompagnando sul divano?"
 
 # game/events/kira.rpy:2718## # translate crowdin return_from_club_1215df56:
-msgid "[Alice_06]Эй, а как же я?! Я хочу принять ванну перед сном, а у меня полотенце наверху! Вдруг я упаду, пока буду подниматься..."
-msgstr "[Alice_06]Ehi, che dire di me?! Voglio fare il bagno prima di andare a letto e ho un asciugamano al piano di sopra! Improvvisamente, cadrò mentre sto salendo..."
+    # Alice_06 "Эй, а как же я?! Я хочу принять ванну перед сном, а у меня полотенце наверху! Вдруг я упаду, пока буду подниматься..."
+    Alice_06 "Ehi, che dire di me?! Voglio fare il bagno prima di andare a letto e ho un asciugamano al piano di sopra! Improvvisamente, cadrò mentre sto salendo..."
 
 # game/events/kira.rpy:2719## # translate crowdin return_from_club_ba66703f:
     # Max_07 "Я принесу тебе полотенце, как только уложу тётю Киру спать. Идёт?"
     Max_07 "ti porterò un asciugamano non appena avrò messo a letto zia Kira. Va?"
 
 # game/events/kira.rpy:2720## # translate crowdin return_from_club_fde1b591:
-msgid "[Alice_12]Только давай быстрее!" nointeract
-msgstr "[Alice_12]Andiamo più veloci!" nointeract
+    # Alice_12 "Только давай быстрее!" nointeract
+    Alice_12 "Andiamo più veloci!" nointeract
 
 # game/events/kira.rpy:2725## # translate crowdin return_from_club_f9df4462:
     # Max_01 "Вот, держи конфетку, чтобы не скучать, пока я с тётей..."
     Max_01 "Qui, tieni le caramelle in modo da non annoiarti mentre sono con mia zia..."
 
 # game/events/kira.rpy:2726## # translate crowdin return_from_club_babe3fd1:
-msgid "[Alice_02]Ой, спасибо, это я люблю, Макс. На ночь лучше, конечно, сладости не есть, но разок можно. Ничего плохого не случится. Всё, жду полотенце..."
-msgstr "[Alice_02]Oh, grazie, è quello che amo, Max. Di notte è meglio, ovviamente, non mangiare dolci, ma una volta che puoi. Non accadrà nulla di male. Questo è tutto, sto aspettando un asciugamano..."
+    # Alice_02 "Ой, спасибо, это я люблю, Макс. На ночь лучше, конечно, сладости не есть, но разок можно. Ничего плохого не случится. Всё, жду полотенце..."
+    Alice_02 "Oh, grazie, è quello che amo, Max. Di notte è meglio, ovviamente, non mangiare dolci, ma una volta che puoi. Non accadrà nulla di male. Questo è tutto, sto aspettando un asciugamano..."
 
 # game/events/kira.rpy:2732## # translate crowdin return_from_club_ece3a784_1:
 msgid "[Kira_02]Должна сказать, Макс, я довольно неплохо иду... если учесть, сколько я выпила..."

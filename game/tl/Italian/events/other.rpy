@@ -21,8 +21,8 @@ translate crowdin back_shoping_cd0b2b2b:
 # game/events/other.rpy:29
 translate crowdin back_shoping_3945eada:
 
-msgid "[Alice_13]Ну, так... Платье мне, конечно, не купили. Даже то очень длинное, которое чуть выше колен..."
-msgstr "[Alice_13]Beh, quindi... Certo, non mi hanno comprato un vestito. Anche quello lunghissimo, che è appena sopra le ginocchia..."
+    # Alice_13 "Ну, так... Платье мне, конечно, не купили. Даже то очень длинное, которое чуть выше колен..."
+    Alice_13 "Beh, quindi... Certo, non mi hanno comprato un vestito. Anche quello lunghissimo, che è appena sopra le ginocchia..."
 
 # game/events/other.rpy:30
 translate crowdin back_shoping_d40343f5:
@@ -33,8 +33,8 @@ translate crowdin back_shoping_d40343f5:
 # game/events/other.rpy:31
 translate crowdin back_shoping_8ac1e4ec:
 
-msgid "[Alice_01]А вот у мамы спроси..."
-msgstr "[Alice_01]Ma chiedi a tua madre..."
+    # Alice_01 "А вот у мамы спроси..."
+    Alice_01 "Ma chiedi a tua madre..."
 
 # game/events/other.rpy:32
 translate crowdin back_shoping_838f5698:
@@ -51,8 +51,8 @@ translate crowdin back_shoping_ff699a77:
 # game/events/other.rpy:39
 translate crowdin back_shoping_ec104f51:
 
-msgid "[Alice_02]Ну, теперь остаётся только мечтать. Спасибо тебе мама за чудесный шоппинг... Лизе тоже понравилось, видимо..."
-msgstr "[Alice_02]Bene, ora possiamo solo sognare. Grazie mamma per lo shopping meraviglioso... Anche a Lisa è piaciuto, a quanto pare..."
+    # Alice_02 "Ну, теперь остаётся только мечтать. Спасибо тебе мама за чудесный шоппинг... Лизе тоже понравилось, видимо..."
+    Alice_02 "Bene, ora possiamo solo sognare. Grazie mamma per lo shopping meraviglioso... Anche a Lisa è piaciuto, a quanto pare..."
 
 # game/events/other.rpy:40
 translate crowdin back_shoping_e23a2e06:
@@ -93,8 +93,8 @@ translate crowdin back_shoping_542cfe6c:
 # game/events/other.rpy:50
 translate crowdin back_shoping_88944574:
 
-msgid "[Alice_13]В общем, бесполезно потратили время. Но Эрик обещал, что на следующий шоппинг купит нам всё, что мы захотим, да, мам?"
-msgstr "[Alice_13]In generale, tempo sprecato. Ma Eric ha promesso che il prossimo shopping ci avrebbe comprato quello che volevamo, giusto, mamma?"
+    # Alice_13 "В общем, бесполезно потратили время. Но Эрик обещал, что на следующий шоппинг купит нам всё, что мы захотим, да, мам?"
+    Alice_13 "In generale, tempo sprecato. Ma Eric ha promesso che il prossimo shopping ci avrebbe comprato quello che volevamo, giusto, mamma?"
 
 # game/events/other.rpy:51
 translate crowdin back_shoping_3081eefb:
@@ -195,8 +195,8 @@ translate crowdin back_shoping_f47e0d84:
 # game/events/other.rpy:86
 translate crowdin back_shoping_7a400341:
 
-msgid "[Alice_07]Ты забыла про самое главное, Лиза. Мне Эрик купил платье! Представляешь?!"
-msgstr "[Alice_07]Ti sei dimenticata della cosa più importante, Lisa. Eric mi ha comprato un vestito! Idea?!"
+    # Alice_07 "Ты забыла про самое главное, Лиза. Мне Эрик купил платье! Представляешь?!"
+    Alice_07 "Ti sei dimenticata della cosa più importante, Lisa. Eric mi ha comprato un vestito! Idea?!"
 
 # game/events/other.rpy:87
 translate crowdin back_shoping_31015994:
@@ -207,8 +207,8 @@ translate crowdin back_shoping_31015994:
 # game/events/other.rpy:88
 translate crowdin back_shoping_295e6d4e:
 
-msgid "[Alice_04]Вот именно! Теперь я смогу ходить по клубам, а не сидеть дома вечерами! Эрик такой молодец. Я в восторге!"
-msgstr "[Alice_04]Esattamente! Ora sarò in grado di andare nei club a non sedermi a casa la sera! Eric è così bravo. Sono entusiasta!"
+    # Alice_04 "Вот именно! Теперь я смогу ходить по клубам, а не сидеть дома вечерами! Эрик такой молодец. Я в восторге!"
+    Alice_04 "Esattamente! Ora sarò in grado di andare nei club a non sedermi a casa la sera! Eric è così bravo. Sono entusiasta!"
 
 # game/events/other.rpy:89
 translate crowdin back_shoping_52ba99cd:
@@ -231,8 +231,8 @@ translate crowdin back_shoping_4d9d39c8:
 # game/events/other.rpy:98
 translate crowdin back_shoping_60b98ba6:
 
-msgid "[Alice_02]Не переживай. Ты всегда можешь заработать и купить себе сам всё, что хочешь..."
-msgstr "[Alice_02]Non preoccuparti. Puoi sempre guadagnare e comprarti quello che vuoi..."
+    # Alice_02 "Не переживай. Ты всегда можешь заработать и купить себе сам всё, что хочешь..."
+    Alice_02 "Non preoccuparti. Puoi sempre guadagnare e comprarti quello che vuoi..."
 
 # game/events/other.rpy:99
 translate crowdin back_shoping_53937e67:
@@ -459,8 +459,8 @@ translate crowdin Kira_arrival_34dba009:
 # game/events/other.rpy:249
 translate crowdin Kira_arrival_c8bed868:
 
-msgid "[Alice_07]Я так рада, что ты приехала! Ты же надолго, да?"
-msgstr "[Alice_07]sono così felice che tu sia venuto! Sei da molto tempo, giusto?"
+    # Alice_07 "Я так рада, что ты приехала! Ты же надолго, да?"
+    Alice_07 "sono così felice che tu sia venuto! Sei da molto tempo, giusto?"
 
 # game/events/other.rpy:250
 translate crowdin Kira_arrival_94209dce:
@@ -603,8 +603,8 @@ translate crowdin Kira_arrival_end_yard_21c31287:
 # game/events/other.rpy:315
 translate crowdin Kira_arrival_end_yard_a5573412:
 
-msgid "[Alice_02]Ну всё, теперь моя очередь! Как вам? Лично мне очень нравится! Давно надо было раздеться."
-msgstr "[Alice_02]Bene, ora è il mio turno! Che ne pensi? Personalmente, lo adoro! Avrei dovuto spogliarmi molto tempo fa."
+    # Alice_02 "Ну всё, теперь моя очередь! Как вам? Лично мне очень нравится! Давно надо было раздеться."
+    Alice_02 "Bene, ora è il mio turno! Che ne pensi? Personalmente, lo adoro! Avrei dovuto spogliarmi molto tempo fa."
 
 # game/events/other.rpy:316
 translate crowdin Kira_arrival_end_yard_f057f5be:
@@ -621,8 +621,8 @@ translate crowdin Kira_arrival_end_yard_d2a8a875:
 # game/events/other.rpy:320
 translate crowdin Kira_arrival_end_yard_c8223c08:
 
-msgid "[Alice_03]Спасибо, Макс! Мам, а что такого? Ты не представляешь как жарко было в джинсах, а теперь хоть тело дышит. Да и жара такая на улице и дома..."
-msgstr "[Alice_03]Grazie, Max! Mamma, che cos'è? Non hai idea di quanto fosse caldo nei jeans, e ora almeno il corpo respira. E il caldo è così per strada e a casa..."
+    # Alice_03 "Спасибо, Макс! Мам, а что такого? Ты не представляешь как жарко было в джинсах, а теперь хоть тело дышит. Да и жара такая на улице и дома..."
+    Alice_03 "Grazie, Max! Mamma, che cos'è? Non hai idea di quanto fosse caldo nei jeans, e ora almeno il corpo respira. E il caldo è così per strada e a casa..."
 
 # game/events/other.rpy:321
 translate crowdin Kira_arrival_end_yard_12a4e2fa:
@@ -633,8 +633,8 @@ translate crowdin Kira_arrival_end_yard_12a4e2fa:
 # game/events/other.rpy:323
 translate crowdin Kira_arrival_end_yard_4357e252:
 
-msgid "[Alice_05]Мам, да всё в порядке. На мне шорты, ничего не видно. Вот, смотри..."
-msgstr "[Alice_05]mamma, va bene. Sto cantindo sui miei pantaloncini, non si vede nulla. Guardare..."
+    # Alice_05 "Мам, да всё в порядке. На мне шорты, ничего не видно. Вот, смотри..."
+    Alice_05 "mamma, va bene. Sto cantindo sui miei pantaloncini, non si vede nulla. Guardare..."
 
 # game/events/other.rpy:325
 translate crowdin Kira_arrival_end_yard_4fd7558f:
@@ -651,8 +651,8 @@ translate crowdin Kira_arrival_end_yard_f70abaf0:
 # game/events/other.rpy:327
 translate crowdin Kira_arrival_end_yard_761bc9e3:
 
-msgid "[Alice_02]Мам, я дома могу одеваться так, как мне нравится. Ну и что, что Макс. Я из-за него не буду целыми днями ходить в парандже! Мне удобно, выглядит отлично! Ну а если и увидит что-то, пусть радуется, мне всё равно..."
-msgstr "[Alice_02]mamma, posso vestirmi come mi piace a casa. E allora, quel Max. Non indosserò il burqa tutto il giorno a causa sua! Sono a mio agio, sembra fantastico! Beh, se vede qualcosa, lasciatelo gioire, non mi interessa..."
+    # Alice_02 "Мам, я дома могу одеваться так, как мне нравится. Ну и что, что Макс. Я из-за него не буду целыми днями ходить в парандже! Мне удобно, выглядит отлично! Ну а если и увидит что-то, пусть радуется, мне всё равно..."
+    Alice_02 "mamma, posso vestirmi come mi piace a casa. E allora, quel Max. Non indosserò il burqa tutto il giorno a causa sua! Sono a mio agio, sembra fantastico! Beh, se vede qualcosa, lasciatelo gioire, non mi interessa..."
 
 # game/events/other.rpy:328
 translate crowdin Kira_arrival_end_yard_82a7c555:

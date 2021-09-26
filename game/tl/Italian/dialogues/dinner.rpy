@@ -57,8 +57,8 @@ translate crowdin dinner_first_650c2c5d:
 # game/dialogues/dinner.rpy:69
 translate crowdin dinner_first_ed236883:
 
-msgid "[Alice_00]Мам, да у нас всё как обычно. Это ты рассказывай, как первый рабочий день?"
-msgstr "[Alice_00]mamma, sì, abbiamo tutto come al solito. Ci stai raccontando com'è il primo giorno lavorativo?"
+    # Alice_00 "Мам, да у нас всё как обычно. Это ты рассказывай, как первый рабочий день?"
+    Alice_00 "mamma, sì, abbiamo tutto come al solito. Ci stai raccontando com'è il primo giorno lavorativo?"
 
 # game/dialogues/dinner.rpy:70
 translate crowdin dinner_first_54cbe6e6:
@@ -87,8 +87,8 @@ translate crowdin dinner_first_great_f75fe005:
 # game/dialogues/dinner.rpy:89
 translate crowdin dinner_first_great_0ed07e47:
 
-msgid "[Alice_07]Не за что. Ты же сама меня научила всему, вот и пожинай плоды! Слушай, ну а кто у тебя начальник на работе?"
-msgstr "[Alice_07]Non per niente. Mi hai insegnato tutto, quindi raccogli i benefici! Ascolta, chi è il tuo capo al lavoro?"
+    # Alice_07 "Не за что. Ты же сама меня научила всему, вот и пожинай плоды! Слушай, ну а кто у тебя начальник на работе?"
+    Alice_07 "Non per niente. Mi hai insegnato tutto, quindi raccogli i benefici! Ascolta, chi è il tuo capo al lavoro?"
 
 # game/dialogues/dinner.rpy:92
 translate crowdin dinner_first_boss_9e062c0f:
@@ -201,8 +201,8 @@ msgstr "[Lisa_00]Oh, sì, ragazza ordinaria..."
 # game/dialogues/dinner.rpy:147
 translate crowdin dinner_first_yeah_fbe7c8e0:
 
-msgid "[Alice_06]Кажется, у кого-то секреты..."
-msgstr "[Alice_06]Sembra che qualcuno abbia dei segreti..."
+    # Alice_06 "Кажется, у кого-то секреты..."
+    Alice_06 "Sembra che qualcuno abbia dei segreti..."
 
 # game/dialogues/dinner.rpy:151
 translate crowdin dinner_first_secret_b98451b5:
@@ -273,14 +273,14 @@ translate crowdin dinner_2_4fe6c45d:
 # game/dialogues/dinner.rpy:171
 translate crowdin dinner_2_a1846146:
 
-msgid "[Alice_04]Ещё бы. Ты же дома всё время сидишь..." nointeract
-msgstr "[Alice_04]Ancora. Sei sempre a casa..." nointeract
+    # Alice_04 "Ещё бы. Ты же дома всё время сидишь..." nointeract
+    Alice_04 "Ancora. Sei sempre a casa..." nointeract
 
 # game/dialogues/dinner.rpy:177
 translate crowdin dinner_2_bcecad73:
 
-msgid "[Alice_01]А я своим блогом занимаюсь. Вечерами. Иногда. Когда есть возможность..."
-msgstr "[Alice_01]E sto facendo il mio blog. Serate. A volte. Quando c'è un'opportunità..."
+    # Alice_01 "А я своим блогом занимаюсь. Вечерами. Иногда. Когда есть возможность..."
+    Alice_01 "E sto facendo il mio blog. Serate. A volte. Quando c'è un'opportunità..."
 
 # game/dialogues/dinner.rpy:178
 translate crowdin dinner_2_cf58258e:
@@ -297,8 +297,8 @@ msgstr "[Lisa_01]opportunità? E che cos'è?"
 # game/dialogues/dinner.rpy:180
 translate crowdin dinner_2_fb8d43bf:
 
-msgid "[Alice_13]Лиза, я же тебе говорила, что в тех вещах, что пропали, были все мои кремы, лаки, про которые я и вела свой бьюти-блог..."
-msgstr "[Alice_13]Lisa, ti ho detto che in quelle cose che mancavano, c'erano tutte le mie creme, vernici, di cui tenevo il mio blog di bellezza..."
+    # Alice_13 "Лиза, я же тебе говорила, что в тех вещах, что пропали, были все мои кремы, лаки, про которые я и вела свой бьюти-блог..."
+    Alice_13 "Lisa, ti ho detto che in quelle cose che mancavano, c'erano tutte le mie creme, vernici, di cui tenevo il mio blog di bellezza..."
 
 # game/dialogues/dinner.rpy:181
 translate crowdin dinner_2_dfe71170:
@@ -321,8 +321,8 @@ translate crowdin dinner_2_da5e0a4f:
 # game/dialogues/dinner.rpy:194
 translate crowdin dinner_2_0720556d:
 
-msgid "[Alice_01]И ничего мне не лень. Просто, у нас денег нет для того, чтобы поступать..."
-msgstr "[Alice_01]E non sono pigro. È solo che non abbiamo i soldi per farlo..."
+    # Alice_01 "И ничего мне не лень. Просто, у нас денег нет для того, чтобы поступать..."
+    Alice_01 "E non sono pigro. È solo che non abbiamo i soldi per farlo..."
 
 # game/dialogues/dinner.rpy:195
 translate crowdin dinner_2_7c524f0c:
@@ -333,38 +333,38 @@ translate crowdin dinner_2_7c524f0c:
 # game/dialogues/dinner.rpy:204
 translate crowdin dinner_2_who_89ba014f:
 
-msgid "[Alice_01]Да уж одарённее некоторых... У меня хотя бы блог есть. Кстати, на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
-msgstr "[Alice_01]Oh, più dotato di alcuni... Almeno ho un blog. A proposito, puoi guadagnare di più sui blog che al lavoro dopo diversi anni di studio!" nointeract
+    # Alice_01 "Да уж одарённее некоторых... У меня хотя бы блог есть. Кстати, на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
+    Alice_01 "Oh, più dotato di alcuni... Almeno ho un blog. A proposito, puoi guadagnare di più sui blog che al lavoro dopo diversi anni di studio!" nointeract
 
 # game/dialogues/dinner.rpy:210
 translate crowdin dinner_2_star_4fa372d6:
 
-msgid "[Alice_04]Да, звезда. И я бы не отказалась от лишних денег. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
-msgstr "[Alice_04]Sì, una stella. E non rorei i soldi extra. E seriamente, puoi guadagnare di più sui blog che sul lavoro dopo diversi anni di studio!" nointeract
+    # Alice_04 "Да, звезда. И я бы не отказалась от лишних денег. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
+    Alice_04 "Sì, una stella. E non rorei i soldi extra. E seriamente, puoi guadagnare di più sui blog che sul lavoro dopo diversi anni di studio!" nointeract
 
 # game/dialogues/dinner.rpy:216
 translate crowdin dinner_2_wtf_5ae1e087:
 
-msgid "[Alice_01]Очень смешно, Макс. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
-msgstr "[Alice_01]Molto divertente, Max. E seriamente, puoi guadagnare di più sui blog che sul lavoro dopo diversi anni di studio!" nointeract
+    # Alice_01 "Очень смешно, Макс. А если серьёзно, то на блогах можно заработать больше, чем на работе после нескольких лет учёбы!" nointeract
+    Alice_01 "Molto divertente, Max. E seriamente, puoi guadagnare di più sui blog che sul lavoro dopo diversi anni di studio!" nointeract
 
 # game/dialogues/dinner.rpy:223
 translate crowdin dinner_2_poor_afe4f7a3:
 
-msgid "[Alice_13]Для тупых повторяю - у меня всё украли! Так что меня не трогать, я думаю и строю план!" nointeract
-msgstr "[Alice_13]Per gli stupidi ripeto - tutto mi è stato rubato! Quindi non toccarmi, penso e costruisci un piano!" nointeract
+    # Alice_13 "Для тупых повторяю - у меня всё украли! Так что меня не трогать, я думаю и строю план!" nointeract
+    Alice_13 "Per gli stupidi ripeto - tutto mi è stato rubato! Quindi non toccarmi, penso e costruisci un piano!" nointeract
 
 # game/dialogues/dinner.rpy:234
 translate crowdin dinner_2_plan_2c02a509:
 
-msgid "[Alice_13]Когда придумаю, тогда и поделюсь. Пока я только строю план." nointeract
-msgstr "[Alice_13]Quando me ne verrà in mente, allora lo condividerò. Finora, sto solo costruendo un piano." nointeract
+    # Alice_13 "Когда придумаю, тогда и поделюсь. Пока я только строю план." nointeract
+    Alice_13 "Quando me ne verrà in mente, allora lo condividerò. Finora, sto solo costruendo un piano." nointeract
 
 # game/dialogues/dinner.rpy:245
 translate crowdin dinner_2_blog2_3f0ae547:
 
-msgid "[Alice_00]Кстати, ты уже предлагал свою помощь, если я не ошибаюсь... Или это было так, не серьёзно всё?"
-msgstr "[Alice_00]A proposito, hai già offerto il tuo aiuto, se non sbaglio... O lo era, non seriamente?"
+    # Alice_00 "Кстати, ты уже предлагал свою помощь, если я не ошибаюсь... Или это было так, не серьёзно всё?"
+    Alice_00 "A proposito, hai già offerto il tuo aiuto, se non sbaglio... O lo era, non seriamente?"
 
 # game/dialogues/dinner.rpy:246
 translate crowdin dinner_2_blog2_a87ae875:
@@ -375,8 +375,8 @@ translate crowdin dinner_2_blog2_a87ae875:
 # game/dialogues/dinner.rpy:247
 translate crowdin dinner_2_blog2_b4bc6482:
 
-msgid "[Alice_13]Макс, я готова на любую помощь. У самой уже нет идей, если честно. Так что, да. Прислушаюсь..."
-msgstr "[Alice_13]Max, sono pronto per qualsiasi aiuto. Non ha più idee, ad essere onesti. Quindi, sì. Ti ascolto..."
+    # Alice_13 "Макс, я готова на любую помощь. У самой уже нет идей, если честно. Так что, да. Прислушаюсь..."
+    Alice_13 "Max, sono pronto per qualsiasi aiuto. Non ha più idee, ad essere onesti. Quindi, sì. Ti ascolto..."
 
 # game/dialogues/dinner.rpy:249
 translate crowdin dinner_2_blog2_4a32ec09:
@@ -387,14 +387,14 @@ translate crowdin dinner_2_blog2_4a32ec09:
 # game/dialogues/dinner.rpy:253
 translate crowdin dinner_2_blog2_f3ceaf63:
 
-msgid "[Alice_07]Зачем? Чтобы ты в очередной раз посмеялся? И, вообще, если ты такой умный, то вот ты и придумай что-нибудь. Я даже спасибо скажу. Честно говоря, я в депрессии..." nointeract
-msgstr "[Alice_07]Perché? Per farti ridere di nuovo? E, in generale, se sei così intelligente, allora ti viene in mente qualcosa. Dirò anche grazie. Onestamente, sono depresso..." nointeract
+    # Alice_07 "Зачем? Чтобы ты в очередной раз посмеялся? И, вообще, если ты такой умный, то вот ты и придумай что-нибудь. Я даже спасибо скажу. Честно говоря, я в депрессии..." nointeract
+    Alice_07 "Perché? Per farti ridere di nuovo? E, in generale, se sei così intelligente, allora ti viene in mente qualcosa. Dirò anche grazie. Onestamente, sono depresso..." nointeract
 
 # game/dialogues/dinner.rpy:260
 translate crowdin dinner_2_help_b7725454:
 
-msgid "[Alice_07]Ну если честно, то да. Я думаю, что у меня даже депрессия развивается. Если появятся какие-то мысли, буду рада их услышать. Даже от тебя. А если что-то дельное предложишь, то и спасибо скажу..." nointeract
-msgstr "[Alice_07]Beh, ad essere onesti, sì. Penso di sviluppare anche la depressione. Se ci sono dei pensieri, mi piacerebbe ascoltarli. Anche da te. E se offri qualcosa di sensato, allora ti dirò grazie..." nointeract
+    # Alice_07 "Ну если честно, то да. Я думаю, что у меня даже депрессия развивается. Если появятся какие-то мысли, буду рада их услышать. Даже от тебя. А если что-то дельное предложишь, то и спасибо скажу..." nointeract
+    Alice_07 "Beh, ad essere onesti, sì. Penso di sviluppare anche la depressione. Se ci sono dei pensieri, mi piacerebbe ascoltarli. Anche da te. E se offri qualcosa di sensato, allora ti dirò grazie..." nointeract
 
 # game/dialogues/dinner.rpy:268
 translate crowdin dinner_2_next_c6a3dc98:
@@ -417,8 +417,8 @@ translate crowdin dinner_2_next_2dcffe8e:
 # game/dialogues/dinner.rpy:271
 translate crowdin dinner_2_next_fea6ae5e:
 
-msgid "[Alice_14]Что?! Здесь есть пауки?! Мама... я поехала обратно..." nointeract
-msgstr "[Alice_14]Cosa?! Ci sono ragni qui?! Mummia... Sono tornato indietro..." nointeract
+    # Alice_14 "Что?! Здесь есть пауки?! Мама... я поехала обратно..." nointeract
+    Alice_14 "Cosa?! Ci sono ragni qui?! Mummia... Sono tornato indietro..." nointeract
 
 # game/dialogues/dinner.rpy:277
 translate crowdin dinner_2_next_a3736476:
@@ -435,8 +435,8 @@ translate crowdin dinner_2_next_fb43d7a4:
 # game/dialogues/dinner.rpy:279
 translate crowdin dinner_2_next_269e5145:
 
-msgid "[Alice_02]Ага, маленький... Да он был с тебя размером! Ненавижу пауков. Кто их, вообще, выдумал. Хоть на северный полюс уезжай. Надеюсь, хоть там их нет..."
-msgstr "[Alice_02]sì, poco... Sì, era la dimensione di te! Odio i ragni. Chi li ha inventati. Almeno vai al polo nord. Spero che non ci siano..."
+    # Alice_02 "Ага, маленький... Да он был с тебя размером! Ненавижу пауков. Кто их, вообще, выдумал. Хоть на северный полюс уезжай. Надеюсь, хоть там их нет..."
+    Alice_02 "sì, poco... Sì, era la dimensione di te! Odio i ragni. Chi li ha inventati. Almeno vai al polo nord. Spero che non ci siano..."
 
 # game/dialogues/dinner.rpy:281
 translate crowdin dinner_2_next_4f7263d2:
@@ -447,8 +447,8 @@ translate crowdin dinner_2_next_4f7263d2:
 # game/dialogues/dinner.rpy:282
 translate crowdin dinner_2_next_d40b4857:
 
-msgid "[Alice_01]А вот знаешь что, Макс, не дождёшься! Я не видела ещё ни одного паука и, может быть, это маме только показалось. Буду думать так. Так спокойнее..."
-msgstr "[Alice_01]Ma sai cosa, Max, non puoi aspettare! Non ho ancora visto un ragno, e forse sembrava solo a mia madre. Penserò di sì. È molto più calmo..."
+    # Alice_01 "А вот знаешь что, Макс, не дождёшься! Я не видела ещё ни одного паука и, может быть, это маме только показалось. Буду думать так. Так спокойнее..."
+    Alice_01 "Ma sai cosa, Max, non puoi aspettare! Non ho ancora visto un ragno, e forse sembrava solo a mia madre. Penserò di sì. È molto più calmo..."
 
 # game/dialogues/dinner.rpy:283
 translate crowdin dinner_2_next_7b1f3728:
@@ -489,14 +489,14 @@ translate crowdin dinner_3_1f4a6464:
 # game/dialogues/dinner.rpy:299
 translate crowdin dinner_3_42737a5d:
 
-msgid "[Alice_13]Макс, ну вот опять ты в своём репертуаре! Порадуйся за маму. Кроме того, наверняка, это ещё и прибавка к зарплате! Да, мам?"
-msgstr "[Alice_13]Max, beh, eccoti di nuovo nel tuo repertorio! Rallegratevi per vostra madre. Inoltre, di sicuro, questo è anche un aumento di stipendio! Sì, mamma?"
+    # Alice_13 "Макс, ну вот опять ты в своём репертуаре! Порадуйся за маму. Кроме того, наверняка, это ещё и прибавка к зарплате! Да, мам?"
+    Alice_13 "Max, beh, eccoti di nuovo nel tuo repertorio! Rallegratevi per vostra madre. Inoltre, di sicuro, questo è anche un aumento di stipendio! Sì, mamma?"
 
 # game/dialogues/dinner.rpy:302
 translate crowdin dinner_3_c6838fa0:
 
-msgid "[Alice_07]Ух-ты! Это же здорово! Наверняка, тебе и зарплату повысят и теперь не придётся беспокоиться о доме. Да, мам?"
-msgstr "[Alice_07]Wow! Fantastico! Sicuramente, tu e lo stipendio aumenterete e ora non dovete preoccuparvi della casa. Sì, mamma?"
+    # Alice_07 "Ух-ты! Это же здорово! Наверняка, тебе и зарплату повысят и теперь не придётся беспокоиться о доме. Да, мам?"
+    Alice_07 "Wow! Fantastico! Sicuramente, tu e lo stipendio aumenterete e ora non dovete preoccuparvi della casa. Sì, mamma?"
 
 # game/dialogues/dinner.rpy:303
 translate crowdin dinner_3_7dfd9a93:
@@ -561,8 +561,8 @@ translate crowdin dinner_3_9f799f74:
 # game/dialogues/dinner.rpy:323
 translate crowdin dinner_3_d9390707:
 
-msgid "[Alice_13]Ага, Лизе купальник посмотрим, а мне платье для клуба, значит, нет? Я бы сегодня уже пошла, а так придётся ждать следующей пятницы... И то если купим..."
-msgstr "[Alice_13]sì, lisa costume da bagno vedremo, e io sono un vestito per il club, quindi no? Ci andrei oggi, e dovrò aspettare fino a venerdì prossimo... E poi se compriamo..."
+    # Alice_13 "Ага, Лизе купальник посмотрим, а мне платье для клуба, значит, нет? Я бы сегодня уже пошла, а так придётся ждать следующей пятницы... И то если купим..."
+    Alice_13 "sì, lisa costume da bagno vedremo, e io sono un vestito per il club, quindi no? Ci andrei oggi, e dovrò aspettare fino a venerdì prossimo... E poi se compriamo..."
 
 # game/dialogues/dinner.rpy:324
 translate crowdin dinner_3_80ab1f2a:
@@ -573,14 +573,14 @@ translate crowdin dinner_3_80ab1f2a:
 # game/dialogues/dinner.rpy:325
 translate crowdin dinner_3_04366ce1:
 
-msgid "[Alice_00]Хорошо, мам. Но я на тебя надеюсь. Я просто сойду с ума, если никуда не буду выбираться, даже из такого... дома. Мне нужны друзья и подруги, а они любят клубы..." nointeract
-msgstr "[Alice_00]Va bene, mamma. Ma spero per te. Sto solo per impazzire se non ne esco, anche da questo... A casa. Ho bisogno di amici e fidanzate, e loro amano i club..." nointeract
+    # Alice_00 "Хорошо, мам. Но я на тебя надеюсь. Я просто сойду с ума, если никуда не буду выбираться, даже из такого... дома. Мне нужны друзья и подруги, а они любят клубы..." nointeract
+    Alice_00 "Va bene, mamma. Ma spero per te. Sto solo per impazzire se non ne esco, anche da questo... A casa. Ho bisogno di amici e fidanzate, e loro amano i club..." nointeract
 
 # game/dialogues/dinner.rpy:331
 translate crowdin dinner_3_0088d1fd:
 
-msgid "[Alice_02]Очень смешно, Макс! Во-первых, тебя не пустят. Ростом не вышел. А во-вторых, с тобой я не пойду. Просто потому, что в клубы с братьями не ходят!"
-msgstr "[Alice_02]Molto divertente, Max! Innanzitutto, non ti sarà permesso. La crescita non è venuta fuori. E in secondo luogo, non andrò con te. Semplicemente perché non vanno nei club con i loro fratelli!"
+    # Alice_02 "Очень смешно, Макс! Во-первых, тебя не пустят. Ростом не вышел. А во-вторых, с тобой я не пойду. Просто потому, что в клубы с братьями не ходят!"
+    Alice_02 "Molto divertente, Max! Innanzitutto, non ti sarà permesso. La crescita non è venuta fuori. E in secondo luogo, non andrò con te. Semplicemente perché non vanno nei club con i loro fratelli!"
 
 # game/dialogues/dinner.rpy:332
 translate crowdin dinner_3_fd25125a:
@@ -681,8 +681,8 @@ translate crowdin dinner_4_74949cf6:
 # game/dialogues/dinner.rpy:369
 translate crowdin dinner_4_c6597fba:
 
-msgid "[Alice_02]Если что, то мне тоже ничего не купили..." nointeract
-msgstr "[Alice_02]Semmai, non mi hanno comprato nulla..." nointeract
+    # Alice_02 "Если что, то мне тоже ничего не купили..." nointeract
+    Alice_02 "Semmai, non mi hanno comprato nulla..." nointeract
 
 # game/dialogues/dinner.rpy:375
 translate crowdin dinner_4_dab367c7:
@@ -711,8 +711,8 @@ translate crowdin dinner_4_ceb18512:
 # game/dialogues/dinner.rpy:390
 translate crowdin dinner_4_259ec354:
 
-msgid "[Alice_07]Эрик! Я тебя обожаю! Тебе удалось переубедить маму! Это невероятно. Спасибо, тебе!!!"
-msgstr "[Alice_07]Eric! Ti adoro! Sei riuscito a convincere tua madre! È incredibile. Grazie!!!"
+    # Alice_07 "Эрик! Я тебя обожаю! Тебе удалось переубедить маму! Это невероятно. Спасибо, тебе!!!"
+    Alice_07 "Eric! Ti adoro! Sei riuscito a convincere tua madre! È incredibile. Grazie!!!"
 
 # game/dialogues/dinner.rpy:391
 translate crowdin dinner_4_805d016f:
@@ -729,8 +729,8 @@ translate crowdin dinner_4_10f0359a:
 # game/dialogues/dinner.rpy:404
 translate crowdin dinner_4_dfd14d5b:
 
-msgid "[Alice_02]Спасибо, Эрик! Ты и правда лучший! Буду ждать следующей субботы!"
-msgstr "[Alice_02]Grazie, Eric! Sei davvero il migliore! Aspetterò sabato prossimo!"
+    # Alice_02 "Спасибо, Эрик! Ты и правда лучший! Буду ждать следующей субботы!"
+    Alice_02 "Grazie, Eric! Sei davvero il migliore! Aspetterò sabato prossimo!"
 
 # game/dialogues/dinner.rpy:405
 translate crowdin dinner_4_440f8c26:
@@ -819,8 +819,8 @@ translate crowdin dinner_5_204cb890:
 # game/dialogues/dinner.rpy:434
 translate crowdin dinner_5_1c2236fd:
 
-msgid "[Alice_02]Да уж, Макс. Шуточки у тебя просто \"отличные\"! А мне вот Эрик понравился. Солидный, умный, ответственный мужчина. Маме именно такой и нужен, мне кажется..."
-msgstr "[Alice_02]Sì, Max. Le tue battute sono semplicemente \"fantastiche\"! E mi piaceva Eric. Uomo solido, intelligente, responsabile. La mamma ha bisogno proprio di questo, penso..."
+    # Alice_02 "Да уж, Макс. Шуточки у тебя просто \"отличные\"! А мне вот Эрик понравился. Солидный, умный, ответственный мужчина. Маме именно такой и нужен, мне кажется..."
+    Alice_02 "Sì, Max. Le tue battute sono semplicemente \"fantastiche\"! E mi piaceva Eric. Uomo solido, intelligente, responsabile. La mamma ha bisogno proprio di questo, penso..."
 
 # game/dialogues/dinner.rpy:436
 translate crowdin dinner_5_f4084d8b:
@@ -831,14 +831,14 @@ translate crowdin dinner_5_f4084d8b:
 # game/dialogues/dinner.rpy:440
 translate crowdin dinner_5_3f0f329e:
 
-msgid "[Alice_07]Ну вот, мы же тебе говорили, что он нормальный, а ты всё ворчал. Вот увидишь, маме именно он и нужен был всё это время!"
-msgstr "[Alice_07]Beh, ti abbiamo detto che era normale, e tu eri brontolato. Vedrai, la mamma aveva bisogno di lui per tutto questo tempo!"
+    # Alice_07 "Ну вот, мы же тебе говорили, что он нормальный, а ты всё ворчал. Вот увидишь, маме именно он и нужен был всё это время!"
+    Alice_07 "Beh, ti abbiamo detto che era normale, e tu eri brontolato. Vedrai, la mamma aveva bisogno di lui per tutto questo tempo!"
 
 # game/dialogues/dinner.rpy:442
 translate crowdin dinner_5_44e3063b:
 
-msgid "[Alice_05]Макс, а ты всё ещё придурок... Эрик отлично подходит маме! Он сильный, умный, ответственный, солидный такой и при деньгах. Маме именно такой и нужен!"
-msgstr "[Alice_05]Max, e sei ancora un... Eric è perfetto per la mamma! È forte, intelligente, responsabile, solido e con i soldi. La mamma ha bisogno proprio di questo!"
+    # Alice_05 "Макс, а ты всё ещё придурок... Эрик отлично подходит маме! Он сильный, умный, ответственный, солидный такой и при деньгах. Маме именно такой и нужен!"
+    Alice_05 "Max, e sei ancora un... Eric è perfetto per la mamma! È forte, intelligente, responsabile, solido e con i soldi. La mamma ha bisogno proprio di questo!"
 
 # game/dialogues/dinner.rpy:444
 translate crowdin dinner_5_ab07bd04:
@@ -849,14 +849,14 @@ translate crowdin dinner_5_ab07bd04:
 # game/dialogues/dinner.rpy:447
 translate crowdin dinner_5_a64dcce6:
 
-msgid "[Alice_06]А тебя за что любить? За то что ты такой... Макс? Я даже не знаю... Этой семье нужен мужчина. А Эрик - он сильный, красивый, умный... Как раз то, что нужно маме!"
-msgstr "[Alice_06]E per cosa amarti? Per essere così... Max? Non lo so nemmeno... Questa famiglia ha bisogno di un uomo. Ed Eric - è forte, bello, intelligente... Proprio quello di cui la mamma ha bisogno!"
+    # Alice_06 "А тебя за что любить? За то что ты такой... Макс? Я даже не знаю... Этой семье нужен мужчина. А Эрик - он сильный, красивый, умный... Как раз то, что нужно маме!"
+    Alice_06 "E per cosa amarti? Per essere così... Max? Non lo so nemmeno... Questa famiglia ha bisogno di un uomo. Ed Eric - è forte, bello, intelligente... Proprio quello di cui la mamma ha bisogno!"
 
 # game/dialogues/dinner.rpy:449
 translate crowdin dinner_5_c03b73a5:
 
-msgid "[Alice_05]Ого! Макс выразил своё авторитетное мнение? Абалдеть! Как был придурком, так и остался. Этой семье нужен сильный мужчина. Эрик именно такой. А ещё он умный и симпатичный. Думаю, маме давно именно его и не хватало..."
-msgstr "[Alice_05]'s ow! Max ha espresso la sua autorevole opinione? Abaldet! Dato che era un, è rimasto. Questa famiglia ha bisogno di un uomo forte. Eric è proprio questo. Ed è intelligente e carino. Penso che a mia madre mancò per molto tempo..."
+    # Alice_05 "Ого! Макс выразил своё авторитетное мнение? Абалдеть! Как был придурком, так и остался. Этой семье нужен сильный мужчина. Эрик именно такой. А ещё он умный и симпатичный. Думаю, маме давно именно его и не хватало..."
+    Alice_05 "'s ow! Max ha espresso la sua autorevole opinione? Abaldet! Dato che era un, è rimasto. Questa famiglia ha bisogno di un uomo forte. Eric è proprio questo. Ed è intelligente e carino. Penso che a mia madre mancò per molto tempo..."
 
 # game/dialogues/dinner.rpy:451
 translate crowdin dinner_5_e38b8880:
@@ -1173,8 +1173,8 @@ translate crowdin dinner_11_a6873134:
 # game/dialogues/dinner.rpy:531
 translate crowdin dinner_11_9cdae0bd:
 
-msgid "[Alice_03]Конечно, езжайте, развеятесь хоть..."
-msgstr "[Alice_03]Certo, vai, rilassati almeno..."
+    # Alice_03 "Конечно, езжайте, развеятесь хоть..."
+    Alice_03 "Certo, vai, rilassati almeno..."
 
 # game/dialogues/dinner.rpy:532
 translate crowdin dinner_11_a39875b3:
@@ -1185,8 +1185,8 @@ translate crowdin dinner_11_a39875b3:
 # game/dialogues/dinner.rpy:533
 translate crowdin dinner_11_1909639d:
 
-msgid "[Alice_02]Макс! Из-за платья я в восторге! Да и за маму рада, что отдохнут от работы..."
-msgstr "[Alice_02]Max! A causa del vestito, sono entusiasta! E per mia madre sono contento che si prenderanno una pausa dal lavoro..."
+    # Alice_02 "Макс! Из-за платья я в восторге! Да и за маму рада, что отдохнут от работы..."
+    Alice_02 "Max! A causa del vestito, sono entusiasta! E per mia madre sono contento che si prenderanno una pausa dal lavoro..."
 
 # game/dialogues/dinner.rpy:534
 translate crowdin dinner_11_372762d1:
@@ -1209,8 +1209,8 @@ translate crowdin dinner_11_fa9cb9e8:
 # game/dialogues/dinner.rpy:537
 translate crowdin dinner_11_ba0efa34:
 
-msgid "[Alice_02]Мам, нет конечно. Я в пятницу вечером с подругой пойду. Могла бы и сегодня, раз есть теперь в чём идти, но..."
-msgstr "[Alice_02]mamma, certo che no. Andrò con un amico venerdì sera. Potrebbe essere oggi, dato che ora c'è qualcosa da fare, ma..."
+    # Alice_02 "Мам, нет конечно. Я в пятницу вечером с подругой пойду. Могла бы и сегодня, раз есть теперь в чём идти, но..."
+    Alice_02 "mamma, certo che no. Andrò con un amico venerdì sera. Potrebbe essere oggi, dato che ora c'è qualcosa da fare, ma..."
 
 # game/dialogues/dinner.rpy:538
 translate crowdin dinner_11_e2d2f91c:
@@ -1383,8 +1383,8 @@ translate crowdin dinner_12_314c5e7a:
 # game/dialogues/dinner.rpy:599
 translate crowdin dinner_12_6d5f9b82:
 
-msgid "[Alice_07]Да, это здорово. Я так соскучилась по тёте Кире... Кстати, она говорила, что сменила работу, но мне не сказала на какую. Ты не в курсе, мам?"
-msgstr "[Alice_07]sì, è fantastico. Mi manca così tanto zia Kira... A proposito, ha detto che ha cambiato lavoro, ma non mi ha detto quale. Non lo sai, mamma?"
+    # Alice_07 "Да, это здорово. Я так соскучилась по тёте Кире... Кстати, она говорила, что сменила работу, но мне не сказала на какую. Ты не в курсе, мам?"
+    Alice_07 "sì, è fantastico. Mi manca così tanto zia Kira... A proposito, ha detto che ha cambiato lavoro, ma non mi ha detto quale. Non lo sai, mamma?"
 
 # game/dialogues/dinner.rpy:600
 translate crowdin dinner_12_8af8c3ae:
@@ -1401,8 +1401,8 @@ translate crowdin dinner_12_2ab6504b:
 # game/dialogues/dinner.rpy:606
 translate crowdin dinner_12_d8703e43:
 
-msgid "[Alice_07]В каком, в каком... В голом, конечно! Если бы наш провайдер не блокировал всё подряд, я бы показала то видео..."
-msgstr "[Alice_07]In cosa, in cosa... Nudo, ovviamente! Se il nostro Isp non avesse bloccato tutto, avrei mostrato quel video..."
+    # Alice_07 "В каком, в каком... В голом, конечно! Если бы наш провайдер не блокировал всё подряд, я бы показала то видео..."
+    Alice_07 "In cosa, in cosa... Nudo, ovviamente! Se il nostro Isp non avesse bloccato tutto, avrei mostrato quel video..."
 
 # game/dialogues/dinner.rpy:607
 translate crowdin dinner_12_ae3ea8ad:
@@ -1527,8 +1527,8 @@ translate crowdin dinner_17_3bb2de77:
 # game/dialogues/dinner.rpy:649
 translate crowdin dinner_17_shop_cfc1b2c4:
 
-msgid "[Alice_01]Макс! Да сдался тебе этот шоппинг. Это же наша тётя Кира!"
-msgstr "[Alice_01]Max! Possa questo shopping rinunciarvi. Questa è nostra zia Kira!"
+    # Alice_01 "Макс! Да сдался тебе этот шоппинг. Это же наша тётя Кира!"
+    Alice_01 "Max! Possa questo shopping rinunciarvi. Questa è nostra zia Kira!"
 
 # game/dialogues/dinner.rpy:650
 translate crowdin dinner_17_shop_e07eca73:
@@ -1749,8 +1749,8 @@ translate crowdin dinner_ab_earn_db72f28f:
 # game/dialogues/dinner.rpy:722
 translate crowdin dinner_ab_earn_724af15c:
 
-msgid "[Alice_03]Да, понемногу развиваюсь. Пробую то одно, то другое... Не без помощи Макса, кстати! И за что ты ему деньги до сих пор даёшь, не понимаю."
-msgstr "[Alice_03]Sì, sto sviluppando un po'. Provo una cosa o l'altra... Non senza l'aiuto di Max, a proposito! E per quello che gli dai ancora soldi, non capisco."
+    # Alice_03 "Да, понемногу развиваюсь. Пробую то одно, то другое... Не без помощи Макса, кстати! И за что ты ему деньги до сих пор даёшь, не понимаю."
+    Alice_03 "Sì, sto sviluppando un po'. Provo una cosa o l'altra... Non senza l'aiuto di Max, a proposito! E per quello che gli dai ancora soldi, non capisco."
 
 # game/dialogues/dinner.rpy:723
 translate crowdin dinner_ab_earn_01336d6c:
@@ -1761,8 +1761,8 @@ translate crowdin dinner_ab_earn_01336d6c:
 # game/dialogues/dinner.rpy:724
 translate crowdin dinner_ab_earn_a59462c6:
 
-msgid "[Alice_05]Тогда, похоже, наш Макс имеет с чего-то какой-то доход..."
-msgstr "[Alice_05]Allora sembra che il nostro Max abbia qualche reddito da qualcosa..."
+    # Alice_05 "Тогда, похоже, наш Макс имеет с чего-то какой-то доход..."
+    Alice_05 "Allora sembra che il nostro Max abbia qualche reddito da qualcosa..."
 
 # game/dialogues/dinner.rpy:725
 translate crowdin dinner_ab_earn_f93110f7:
@@ -1863,8 +1863,8 @@ msgstr "[Lisa_02]Non preoccuparti per noi mamme. Siamo già grandi, possiamo pre
 # game/dialogues/dinner.rpy:753
 translate crowdin dinner_lace_lingerie_df977086:
 
-msgid "[Alice_03]Сегодня за меня тоже можешь не волноваться, мам. Я не иду в клуб. У тёти Киры этой ночью \"корпоративная\" вечеринка, а я лучше над своим блогом дополнительный вечерок поработаю."
-msgstr "[Alice_03]Oggi non puoi nemmeno preoccuparti di me, mamma. Non vado al club. Zia Kira ha una festa \"aziendale\" questa sera, e preferirei lavorare sul mio blog per una serata in più."
+    # Alice_03 "Сегодня за меня тоже можешь не волноваться, мам. Я не иду в клуб. У тёти Киры этой ночью \"корпоративная\" вечеринка, а я лучше над своим блогом дополнительный вечерок поработаю."
+    Alice_03 "Oggi non puoi nemmeno preoccuparti di me, mamma. Non vado al club. Zia Kira ha una festa \"aziendale\" questa sera, e preferirei lavorare sul mio blog per una serata in più."
 
 # game/dialogues/dinner.rpy:754
 translate crowdin dinner_lace_lingerie_fcb50d1a:

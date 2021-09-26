@@ -429,14 +429,14 @@ translate crowdin talk_about_smoking_b75bee26:
 # game/dialogues/anntalk.rpy:349
 translate crowdin talk_about_smoking_bc384657:
 
-msgid "[Alice_03]Спасибо, Макс, что не сдал меня... Я это ценю." nointeract
-msgstr "[Alice_03]Grazie, Max, per non avermi strozzato in... Lo apprezzo." nointeract
+    # Alice_03 "Спасибо, Макс, что не сдал меня... Я это ценю." nointeract
+    Alice_03 "Grazie, Max, per non avermi strozzato in... Lo apprezzo." nointeract
 
 # game/dialogues/anntalk.rpy:353
 translate crowdin talk_about_smoking_582d9cb8:
 
-msgid "[Alice_05]Вот можешь же быть не полным придурком... иногда..."
-msgstr "[Alice_05]Potresti non essere un cretino completo... A volte..."
+    # Alice_05 "Вот можешь же быть не полным придурком... иногда..."
+    Alice_05 "Potresti non essere un cretino completo... A volte..."
 
 # game/dialogues/anntalk.rpy:354
 translate crowdin talk_about_smoking_d217c75e:
@@ -447,20 +447,20 @@ translate crowdin talk_about_smoking_d217c75e:
 # game/dialogues/anntalk.rpy:360
 translate crowdin talk_about_smoking_ae9788a4:
 
-msgid "[Alice_16]Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты..." nointeract
-msgstr "[Alice_16]Max! Sei insopportabile. Pensavo già che tu fossi un fratello normale, e tu..." nointeract
+    # Alice_16 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты..." nointeract
+    Alice_16 "Max! Sei insopportabile. Pensavo già che tu fossi un fratello normale, e tu..." nointeract
 
 # game/dialogues/anntalk.rpy:371
 translate crowdin talk_about_smoking_82373ff8:
 
-msgid "[Alice_13]Макс! Опять ты за своё? Не будь придурком!" nointeract
-msgstr "[Alice_13]Max! Sei di nuovo per te? Non essere un coglione!" nointeract
+    # Alice_13 "Макс! Опять ты за своё? Не будь придурком!" nointeract
+    Alice_13 "Max! Sei di nuovo per te? Non essere un coglione!" nointeract
 
 # game/dialogues/anntalk.rpy:383
 translate crowdin talk_about_smoking_joke_eaa2da91:
 
-msgid "[Alice_12]Шутник... В общем, я надеюсь, что с этим вопросом разобрались. Уже пора ужинать"
-msgstr "[Alice_12]Joker... In generale, spero che la questione venga affrontata. E' ora di cena"
+    # Alice_12 "Шутник... В общем, я надеюсь, что с этим вопросом разобрались. Уже пора ужинать"
+    Alice_12 "Joker... In generale, spero che la questione venga affrontata. E' ora di cena"
 
 # game/dialogues/anntalk.rpy:384
 translate crowdin talk_about_smoking_joke_e1be1cb3:
@@ -471,8 +471,8 @@ translate crowdin talk_about_smoking_joke_e1be1cb3:
 # game/dialogues/anntalk.rpy:390
 translate crowdin talk_about_smoking_sorry_2ed806ce:
 
-msgid "[Alice_13]Макс... А, ничего не буду говорить, бесполезно. Давай ужинать..."
-msgstr "[Alice_13]Max... R, non dirò nulla, inutile. Ceniamo..."
+    # Alice_13 "Макс... А, ничего не буду говорить, бесполезно. Давай ужинать..."
+    Alice_13 "Max... R, non dirò nulla, inutile. Ceniamo..."
 
 # game/dialogues/anntalk.rpy:391
 translate crowdin talk_about_smoking_sorry_99fabaec:
