@@ -7183,8 +7183,8 @@ translate crowdin gift_black_lingerie_2b4ecf90:
 # game/dialogues/alicetalk.rpy:3690
 translate crowdin gift_black_lingerie_3163cf24:
 
-msgid "[Alice]{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
-msgstr "[Alice]{b}Alice:{/b} Questo è tutto, Max. Puoi entrare..."
+    # Alice "{b}Алиса:{/b} Всё, Макс. Можешь заходить..."
+    Alice "{b}Alice:{/b} Questo è tutto, Max. Puoi entrare..."
 
 # game/dialogues/alicetalk.rpy:3695
 translate crowdin gift_black_lingerie_75108e7f:

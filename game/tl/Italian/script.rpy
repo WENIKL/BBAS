@@ -57,56 +57,56 @@ msgstr "Non ricordo bene la [Max_14]del Padre. Se n'è andato quando avevo circa
     Max_14 "non ricordo bene il mio padre adottivo. Se n'è andato quando avevo circa otto anni. La mamma non vuole dirmi cosa è successo allora... C'erano voci che le cose erano andate in salita per lui. Da allora non abbiamo più sentito parlare di lui. Fino al mese scorso, quando è arrivata quella ragazza..."
 
 # game/script.rpy:69## # translate crowdin intro_fdc8ae44:
-msgid "[Maya_01]Здравствуйте, меня зовут Майя, я адвокат вашего бывшего мужа. У вас найдётся для меня минутка?"
-msgstr "[Maya_01]Ciao, mi chiamo Maya, sono l'avvocato del tuo ex marito. Hai un momento per me?"
+    # Maya_01 "Здравствуйте, меня зовут Майя, я адвокат вашего бывшего мужа. У вас найдётся для меня минутка?"
+    Maya_01 "Ciao, mi chiamo Maya, sono l'avvocato del tuo ex marito. Hai un momento per me?"
 
 # game/script.rpy:70## # translate crowdin intro_165806c1:
     # Ann_00 "Здравствуйте, да, конечно. Меня зовут Анна, но вы и так это знаете похоже. Так в чём дело? С ним что-то случилось?"
     Ann_00 "Ciao, sì, certo. Mi chiamo Anna, ma tu lo sai già in modo simile. Allora, qual è il grosso problema? Gli è successo qualcosa?"
 
 # game/script.rpy:71## # translate crowdin intro_32cb457a:
-msgid "[Maya_03]Не переживайте, он жив-здоров, но сам приехать не смог. Сказал, что вы будете не очень рады, хотя новости у меня для вас отличные!"
-msgstr "[Maya_03]Non ti preoccupare, è vivo e vegeto, ma non poteva venire. Ha detto che non sarai molto felice, anche se ho grandi notizie per te!"
+    # Maya_03 "Не переживайте, он жив-здоров, но сам приехать не смог. Сказал, что вы будете не очень рады, хотя новости у меня для вас отличные!"
+    Maya_03 "Non ti preoccupare, è vivo e vegeto, ma non poteva venire. Ha detto che non sarai molto felice, anche se ho grandi notizie per te!"
 
 # game/script.rpy:72## # translate crowdin intro_9858c279:
     # Ann_01 "Любопытно. И что же это за новости спустя столько лет?"
     Ann_01 "Curioso. E che tipo di notizia è questa dopo tanti anni?"
 
 # game/script.rpy:73## # translate crowdin intro_a97592f1:
-msgid "[Maya_02]Я принесла документы на недвижимость, которую он решил передать вам. Если вы их подпишите, то станете полноправным владельцем."
-msgstr "[Maya_02]ho portato i documenti per la proprietà che ha deciso di darti. Se li firmi, diventerai un proprietario a pieno titolo."
+    # Maya_02 "Я принесла документы на недвижимость, которую он решил передать вам. Если вы их подпишите, то станете полноправным владельцем."
+    Maya_02 "ho portato i documenti per la proprietà che ha deciso di darti. Se li firmi, diventerai un proprietario a pieno titolo."
 
 # game/script.rpy:74## # translate crowdin intro_8b0c7301:
     # Ann_17 "Что-то я не поняла. Это совсем на него не похоже. Какая недвижимость? О чём речь?"
     Ann_17 "Qualcosa che non capivo. Non gli assomiglia affatto. Che tipo di proprietà? Di cosa si tratta?"
 
 # game/script.rpy:75## # translate crowdin intro_ce5a5dae:
-msgid "[Maya_01]Это двухэтажный дом на юге страны, который построила его компания. А насчёт того, что это на него не похоже... В последние пару лет он очень изменился. Не уверена, что эти изменения пошли на пользу бизнесу."
-msgstr "[Maya_01]Questa è una casa a due piani nel sud del paese, costruita dalla sua azienda. Per quanto riguarda il fatto che non gli assomiglia... È cambiato molto negli ultimi due anni. Non sono sicuro che questi cambiamenti abbiano avvantaggiato l'azienda."
+    # Maya_01 "Это двухэтажный дом на юге страны, который построила его компания. А насчёт того, что это на него не похоже... В последние пару лет он очень изменился. Не уверена, что эти изменения пошли на пользу бизнесу."
+    Maya_01 "Questa è una casa a due piani nel sud del paese, costruita dalla sua azienda. Per quanto riguarda il fatto che non gli assomiglia... È cambiato molto negli ultimi due anni. Non sono sicuro che questi cambiamenti abbiano avvantaggiato l'azienda."
 
 # game/script.rpy:76## # translate crowdin intro_43a9e56e:
     # Ann_01 "Что-то вы меня озадачили. В чём подвох? Я что-то должна? Столько лет никаких вестей, ничего, и тут... дом. И что там с его бизнесом?"
     Ann_01 "Qualcosa che mi hai perplesso. Qual è il trucco? Devo qualcosa? Tanti anni nessuna notizia, niente, e qui... Casa. E cosa succede con i suoi affari?"
 
 # game/script.rpy:77## # translate crowdin intro_60f50736:
-msgid "[Maya_02]В данный момент он продал большую часть недвижимости, чтобы погасить налоговую задолженность, но этот дом решил передать вам. Я не знаю причин, да они меня и не касаются."
-msgstr "[Maya_02]Al momento, ha venduto la maggior parte della proprietà per pagare il debito fiscale, ma questa casa ha deciso di darti. Non conosco le ragioni, e non mi riguardano."
+    # Maya_02 "В данный момент он продал большую часть недвижимости, чтобы погасить налоговую задолженность, но этот дом решил передать вам. Я не знаю причин, да они меня и не касаются."
+    Maya_02 "Al momento, ha venduto la maggior parte della proprietà per pagare il debito fiscale, ma questa casa ha deciso di darti. Non conosco le ragioni, e non mi riguardano."
 
 # game/script.rpy:78## # translate crowdin intro_ea2ebd5a:
     # Ann_00 "Вы знаете, Майя, я не могу принять такой... подарок. Во-первых, я не в курсе его махинаций или что он там придумал, а во-вторых, мы с ним уже столько лет не общались, и мне не нужно от него ничего!"
     Ann_00 "sai, Maya, non posso accettarlo... regalo. In primo luogo, non sono a conoscenza delle sue macchinazioni o di ciò che ha escogitati lì, e in secondo luogo, non abbiamo comunicato con lui per così tanti anni, e non ho bisogno di nulla da lui!"
 
 # game/script.rpy:79## # translate crowdin intro_734c8765:
-msgid "[Maya_01]Да, он предупреждал меня о такой вашей реакции... С юридической точки зрения дом абсолютно чист, и вы ничем не рискуете. Кроме того, ваши дети растут и им нужно место, своё личное пространство..."
-msgstr "[Maya_01]sì, mi ha avvertito della tua reazione... Da un punto di vista legale, la casa è assolutamente pulita e non si rischia nulla. Inoltre, i tuoi figli stanno crescendo e hanno bisogno di un posto, del loro spazio personale..."
+    # Maya_01 "Да, он предупреждал меня о такой вашей реакции... С юридической точки зрения дом абсолютно чист, и вы ничем не рискуете. Кроме того, ваши дети растут и им нужно место, своё личное пространство..."
+    Maya_01 "sì, mi ha avvertito della tua reazione... Da un punto di vista legale, la casa è assolutamente pulita e non si rischia nulla. Inoltre, i tuoi figli stanno crescendo e hanno bisogno di un posto, del loro spazio personale..."
 
 # game/script.rpy:80## # translate crowdin intro_8db9c9f1:
     # Ann_14 "С этим не поспоришь. У меня есть время подумать обо всём?"
     Ann_14 "Non puoi discuterne. Ho tempo per pensare a tutto?"
 
 # game/script.rpy:81## # translate crowdin intro_8e21e5ab:
-msgid "[Maya_03]Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания." nointeract
-msgstr "[Maya_03]Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronto a prendere una decisione. Lascerò anche copie di tutti i documenti. Arrivederci." nointeract
+    # Maya_03 "Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания." nointeract
+    Maya_03 "Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronto a prendere una decisione. Lascerò anche copie di tutti i documenti. Arrivederci." nointeract
 
 # game/script.rpy:86## # translate crowdin intro_eaf717b9:
     # Max_04 "К счастью, мама приняла верное решение. Когда мы увидели дом, не поверили своим глазам! Вживую он оказался гораздо больше и красивее, чем на фотографиях. Но самым приятным сюрпризом оказался бассейн!"
