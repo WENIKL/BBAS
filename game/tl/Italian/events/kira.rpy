@@ -2647,10 +2647,8 @@ translate crowdin strings:
     new "{i}unisciti a mia zia{/i}"
 
     # game/events/kira.rpy:228
-    old "А моё напряжение только растёт, тётя Кира! Может поможешь? \n"
-"{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "E la mia tensione sta solo crescendo, zia Kira! Puoi aiutarmi? \n"
-"{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
+    old "А моё напряжение только растёт, тётя Кира! Может поможешь? \n{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+    new "E la mia tensione sta solo crescendo, zia Kira! Puoi aiutarmi? \n{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
 
     # game/events/kira.rpy:228
     old "А моё напряжение только растёт, тётя Кира! Может поможешь?"
@@ -2661,10 +2659,8 @@ translate crowdin strings:
     new "{i}tirarlo su di te e accarezzarlo con le dita{/i}"
 
     # game/events/kira.rpy:261
-    old "{i}пытаться не кончить{/i} \n"
-"{color=[_ch1.col]}(Сексуальный опыт. Шанс: [_ch1.vis]){/color}"
-    new "{i}cercare di non cum{/i} \n"
-"{color=[_ch1.col]}(Esperienza sessuale: possibilità: [_ch1.vis]){/color}"
+    old "{i}пытаться не кончить{/i} \n{color=[_ch1.col]}(Сексуальный опыт. Шанс: [_ch1.vis]){/color}"
+    new "{i}cercare di non cum{/i} \n{color=[_ch1.col]}(Esperienza sessuale: possibilità: [_ch1.vis]){/color}"
 
     # game/events/kira.rpy:301
     old "{i}поработать языком{/i}"
@@ -2691,16 +2687,12 @@ translate crowdin strings:
     new "{i}avvicinarlo al suo viso{/i}"
 
     # game/events/kira.rpy:395
-    old "Ох, тётя Кира... Ты слишком ловко меня дразнишь! Я могу не выдержать... \n"
-"{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
-    new "Oh, zia Kira... Mi stai prendendo in giro troppo abilmente! Non lo sopporto... \n"
-"{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
+    old "Ох, тётя Кира... Ты слишком ловко меня дразнишь! Я могу не выдержать... \n{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
+    new "Oh, zia Kira... Mi stai prendendo in giro troppo abilmente! Non lo sopporto... \n{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
 
     # game/events/kira.rpy:413
-    old "Да, давай ещё тётя Кира! Какие же горячие и ненасытные у тебя губки... Да... \n"
-"{color=[_ch2.col]}(Сексуальный опыт. Шанс: [_ch2.vis]){/color}"
-    new "Sì, vieni zia Kira! Che spugne calde e insaziabili hai... Sì... \n"
-"{color=[_ch2.col]}(Esperienza sessuale: Chance: [_ch2.vis]){/color}"
+    old "Да, давай ещё тётя Кира! Какие же горячие и ненасытные у тебя губки... Да... \n{color=[_ch2.col]}(Сексуальный опыт. Шанс: [_ch2.vis]){/color}"
+    new "Sì, vieni zia Kira! Che spugne calde e insaziabili hai... Sì... \n{color=[_ch2.col]}(Esperienza sessuale: Chance: [_ch2.vis]){/color}"
 
     # game/events/kira.rpy:424
     old "Тётя Кира, я больше не могу... сейчас кончу! Да-а-а..."
@@ -2811,10 +2803,8 @@ translate crowdin strings:
     new "Sì certo!"
 
     # game/events/kira.rpy:1095
-    old "Вообще-то, с лучшей тётей на свете! \n"
-"{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "In realtà, con la migliore zia del mondo! \n"
-"{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
+    old "Вообще-то, с лучшей тётей на свете! \n{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+    new "In realtà, con la migliore zia del mondo! \n{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
 
     # game/events/kira.rpy:1095
     old "Вообще-то, с лучшей тётей на свете!"
@@ -2861,10 +2851,8 @@ translate crowdin strings:
     new "{i}avvicinalo a te{/i}"
 
     # game/events/kira.rpy:1436
-    old "Давай ещё немного, тётя Кира... У меня ведь неплохо получается? \n"
-"{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-    new "Dai un po' di più, zia Kira... Sono bravo a farlo? \n"
-"{color=[_ch2.col]}(Persuasione: Chance: [_ch2.vis]){/color}"
+    old "Давай ещё немного, тётя Кира... У меня ведь неплохо получается? \n{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+    new "Dai un po' di più, zia Kira... Sono bravo a farlo? \n{color=[_ch2.col]}(Persuasione: Chance: [_ch2.vis]){/color}"
 
     # game/events/kira.rpy:1447
     old "{i}развязать её ночнушку{/i}"
@@ -2879,16 +2867,12 @@ translate crowdin strings:
     new "{i}continuare con le dita e la lingua{/i}"
 
     # game/events/kira.rpy:1561
-    old "Как бы мне не кончить уже сейчас! Какой у тебя игривый язычок... Ммм... \n"
-"{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
-    new "Come potrei non farlo ora! Che lingua giocosa hai... Mmm... \n"
-"{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
+    old "Как бы мне не кончить уже сейчас! Какой у тебя игривый язычок... Ммм... \n{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
+    new "Come potrei non farlo ora! Che lingua giocosa hai... Mmm... \n{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
 
     # game/events/kira.rpy:1580
-    old "Да, вот так тётя Кира, твои губки творят чудеса! Охх... \n"
-"{color=[_ch2.col]}(Сексуальный опыт. Шанс: [_ch2.vis]){/color}"
-    new "Sì, è così che è zia Kira, le tue spugne fanno miracoli! oh... \n"
-"{color=[_ch2.col]}(Esperienza sessuale: Chance: [_ch2.vis]){/color}"
+    old "Да, вот так тётя Кира, твои губки творят чудеса! Охх... \n{color=[_ch2.col]}(Сексуальный опыт. Шанс: [_ch2.vis]){/color}"
+    new "Sì, è così che è zia Kira, le tue spugne fanno miracoli! oh... \n{color=[_ch2.col]}(Esperienza sessuale: Chance: [_ch2.vis]){/color}"
 
     # game/events/kira.rpy:1595
     old "Тётя Кира, ещё быстрее... Да... Я сейчас кончу... А-а-а..."

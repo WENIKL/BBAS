@@ -1905,14 +1905,10 @@ translate crowdin strings:
     new "Mamma, il tuo asciugamano sta scivolando..."
 
     # game/dialogues/anntalk.rpy:823
-    old "{i}продолжать массаж{/i} \n"
-"{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
-    new "{i}continuare il massaggio{/i} \n"
-"{color=[ch.col]}(Massaggio. Possibilità: [ch.vis]){/color}"
+    old "{i}продолжать массаж{/i} \n{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
+    new "{i}continuare il massaggio{/i} \n{color=[ch.col]}(Massaggio. Possibilità: [ch.vis]){/color}"
 
     # game/dialogues/anntalk.rpy:900
-    old "{i}попытаться скрыть стояк{/i} \n"
-"{color=[ch.col]}(Скрытность. Шанс: [ch.vis]){/color}"
-    new "{i}prova a nascondere riser{/i} \n"
-"{color=[ch.col]}(Stealth: Chance: [ch.vis]){/color}"
+    old "{i}попытаться скрыть стояк{/i} \n{color=[ch.col]}(Скрытность. Шанс: [ch.vis]){/color}"
+    new "{i}prova a nascondere riser{/i} \n{color=[ch.col]}(Stealth: Chance: [ch.vis]){/color}"
 

@@ -3,40 +3,32 @@
 translate crowdin strings:
 
     # game/core/03variables.rpy:25
-    old "МОЯ\n"
-"КОМНАТА"
-    new "LA MIA\n"
-"CAMERA"
+    old "МОЯ\nКОМНАТА"
+    new "LA MIA\nCAMERA"
 
     # game/core/03variables.rpy:25
     old "МОЯ КОМНАТА"
     new "LA MIA CAMERA"
 
     # game/core/03variables.rpy:25
-    old "КОМНАТА\n"
-"АЛИСЫ"
-    new "LA STANZA\n"
-"DI ALICE"
+    old "КОМНАТА\nАЛИСЫ"
+    new "LA STANZA\nDI ALICE"
 
     # game/core/03variables.rpy:25
     old "КОМНАТА АЛИСЫ"
     new "LA STANZA DI ALICE"
 
     # game/core/03variables.rpy:25
-    old "КОМНАТА\n"
-"АННЫ"
-    new "LA CAMERA\n"
-"DI ANNA"
+    old "КОМНАТА\nАННЫ"
+    new "LA CAMERA\nDI ANNA"
 
     # game/core/03variables.rpy:25
     old "КОМНАТА АННЫ"
     new "LA STANZA DI ANNA"
 
     # game/core/03variables.rpy:25
-    old "ВАННАЯ\n"
-"КОМНАТА"
-    new "BAGNO\n"
-"ROOM"
+    old "ВАННАЯ\nКОМНАТА"
+    new "BAGNO\nROOM"
 
     # game/core/03variables.rpy:25
     old "ВАННАЯ КОМНАТА"
@@ -151,128 +143,92 @@ translate crowdin strings:
     new "Sempre alla ricerca dell'avventura al suo quinto punto."
 
     # game/core/03variables.rpy:132
-    old "ПОСМОТРЕТЬ\n"
-"ФИЛЬМ"
-    new "GUARDA\n"
-"FILM"
+    old "ПОСМОТРЕТЬ\nФИЛЬМ"
+    new "GUARDA\nFILM"
 
     # game/core/03variables.rpy:132
-    old "ВЫЙТИ\n"
-"ИЗ ДОМА"
-    new "ESCI\n"
-"DI CASA"
+    old "ВЫЙТИ\nИЗ ДОМА"
+    new "ESCI\nDI CASA"
 
     # game/core/03variables.rpy:132
-    old "ПОИГРАТЬ\n"
-"С ЛИЗОЙ"
-    new "GIOCA\n"
-"CON LISA"
+    old "ПОИГРАТЬ\nС ЛИЗОЙ"
+    new "GIOCA\nCON LISA"
 
     # game/core/03variables.rpy:132
-    old "УСТАНОВИТЬ\n"
-"КЕЙЛОГГЕР"
-    new "INSTALLARE\n"
-"KEYLOGGER"
+    old "УСТАНОВИТЬ\nКЕЙЛОГГЕР"
+    new "INSTALLARE\nKEYLOGGER"
 
     # game/core/03variables.rpy:132
-    old "УСТАНОВИТЬ\n"
-"КАМЕРУ"
-    new "INSTALLARE\n"
-"TELECAMERA"
+    old "УСТАНОВИТЬ\nКАМЕРУ"
+    new "INSTALLARE\nTELECAMERA"
 
     # game/core/03variables.rpy:132
-    old "СПРЯТАТЬ\n"
-"ПАУКА"
-    new "NASCONDI \n"
-"SPIDER"
+    old "СПРЯТАТЬ\nПАУКА"
+    new "NASCONDI \nSPIDER"
 
     # game/core/03variables.rpy:132
-    old "БРОСИТЬ\n"
-"ПАУКА"
-    new "LANCIA\n"
-"RAGNO"
+    old "БРОСИТЬ\nПАУКА"
+    new "LANCIA\nRAGNO"
 
     # game/core/03variables.rpy:132
-    old "ИСКАТЬ\n"
-"ПАУКОВ"
-    new "CERCA\n"
-"SPIDERS"
+    old "ИСКАТЬ\nПАУКОВ"
+    new "CERCA\nSPIDERS"
 
     # game/core/03variables.rpy:132
-    old "ИСКАТЬ\n"
-"СИГАРЕТЫ"
-    new "RICERCA\n"
-"SIGARETTE"
+    old "ИСКАТЬ\nСИГАРЕТЫ"
+    new "RICERCA\nSIGARETTE"
 
     # game/core/03variables.rpy:132
-    old "ИСКАТЬ\n"
-"КНИГУ"
-    new "CERCA\n"
-"PRENOTA"
+    old "ИСКАТЬ\nКНИГУ"
+    new "CERCA\nPRENOTA"
 
     # game/core/03variables.rpy:132
-    old "ЧИСТИТЬ\n"
-"БАССЕЙН"
-    new "PISCINA\n"
-"PULITA"
+    old "ЧИСТИТЬ\nБАССЕЙН"
+    new "PISCINA\nPULITA"
 
     # game/core/03variables.rpy:132
     old "ЧИТАТЬ"
     new "LEGGERE"
 
     # game/core/03variables.rpy:132
-    old "ИСКАТЬ\n"
-"КАМЕРУ"
-    new "CERCA\n"
-"FOTOCAMERA"
+    old "ИСКАТЬ\nКАМЕРУ"
+    new "CERCA\nFOTOCAMERA"
 
     # game/core/03variables.rpy:132
-    old "РАЗОБРАТЬ\n"
-"КОРОБКИ"
-    new "SMONTARE \n"
-"scatole"
+    old "РАЗОБРАТЬ\nКОРОБКИ"
+    new "SMONTARE \nscatole"
 
     # game/core/03variables.rpy:132
-    old "ВКЛЮЧИТЬ\n"
-"НОУТБУК"
-    new "ACCENDI\n"
-"LAPTOP"
+    old "ВКЛЮЧИТЬ\nНОУТБУК"
+    new "ACCENDI\nLAPTOP"
 
     # game/core/03variables.rpy:132
     old "СПАТЬ"
     new "DORMIRE"
 
     # game/core/03variables.rpy:132
-    old "УСТАНОВИТЬ\n"
-"БУДИЛЬНИК"
-    new "SET\n"
-"SVEGLIA"
+    old "УСТАНОВИТЬ\nБУДИЛЬНИК"
+    new "SET\nSVEGLIA"
 
     # game/core/03variables.rpy:132
     old "ВЗДРЕМНУТЬ"
     new "PISOLINO"
 
     # game/core/03variables.rpy:132
-    old "ПРИНЯТЬ\n"
-"ДУШ"
-    new "FAI\n"
-"DOCCIA"
+    old "ПРИНЯТЬ\nДУШ"
+    new "FAI\nDOCCIA"
 
     # game/core/03variables.rpy:132
-    old "ПРИНЯТЬ\n"
-"ВАННУ"
-    new "FAI\n"
-"BAGNO"
+    old "ПРИНЯТЬ\nВАННУ"
+    new "FAI\nBAGNO"
 
     # game/core/03variables.rpy:132
     old "ПОГОВОРИТЬ"
     new "PARLARE"
 
     # game/core/03variables.rpy:132
-    old "МЫТЬ\n"
-"ПОСУДУ"
-    new "LAVARE\n"
-"PIATTI"
+    old "МЫТЬ\nПОСУДУ"
+    new "LAVARE\nPIATTI"
 
     # game/core/03variables.rpy:187
     old "Общение"

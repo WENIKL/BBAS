@@ -351,26 +351,20 @@ translate crowdin strings:
     new "Clic destro"
 
     # game/screens.rpy:1236
-    old "Колёсико вверх\n"
-"Клик на сторону отката"
-    new "Ruota su\n"
-"Fai clic sul lato del rollback"
+    old "Колёсико вверх\nКлик на сторону отката"
+    new "Ruota su\nFai clic sul lato del rollback"
 
     # game/screens.rpy:1240
     old "Колёсико вниз"
     new "Ruota verso il basso"
 
     # game/screens.rpy:1247
-    old "Правый триггер\n"
-"A/Нижняя кнопка"
-    new "Grilletto destro\n"
-"pulsante A/Bottom"
+    old "Правый триггер\nA/Нижняя кнопка"
+    new "Grilletto destro\npulsante A/Bottom"
 
     # game/screens.rpy:1251
-    old "Левый Триггер\n"
-"Левый Бампер"
-    new "Grilletto sinistro\n"
-"paraurti sinistro"
+    old "Левый Триггер\nЛевый Бампер"
+    new "Grilletto sinistro\nparaurti sinistro"
 
     # game/screens.rpy:1255
     old "Правый бампер"

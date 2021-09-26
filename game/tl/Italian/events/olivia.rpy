@@ -855,10 +855,8 @@
 translate crowdin strings:
 
     # game/events/olivia.rpy:35
-    old "{i}подсмотреть\n"
-"{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
-    new "{i}spy\n"
-"{color=[ch1.col]}(Stealth: Chance: [ch1.vis]){/color}{/i}"
+    old "{i}подсмотреть\n{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
+    new "{i}spy\n{color=[ch1.col]}(Stealth: Chance: [ch1.vis]){/color}{/i}"
 
     # game/events/olivia.rpy:91
     old "{i}дождаться девчонок{/i}"

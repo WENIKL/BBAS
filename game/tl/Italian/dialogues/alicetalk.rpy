@@ -1383,10 +1383,8 @@ translate crowdin alice_aboutbooks_6405d1b7:
 # game/dialogues/alicetalk.rpy:996
 translate crowdin alice_aboutbooks_af00f0d1:
 
-    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n"
-"{i}Алиса прикрыла обложку рукой{/i}" nointeract
-    Alice_00 "non lo dirò. Siediti ora e indovina! \n\n"
-"{i}Alice coprì la copertina con la mano{/i}" nointeract
+    # Alice_00 "Не скажу. Сиди теперь и гадай! \n\n{i}Алиса прикрыла обложку рукой{/i}" nointeract
+    Alice_00 "non lo dirò. Siediti ora e indovina! \n\n{i}Alice coprì la copertina con la mano{/i}" nointeract
 
 # game/dialogues/alicetalk.rpy:1005
 translate crowdin alice_aboutbooks_2eac1a27:
@@ -1457,10 +1455,8 @@ translate crowdin first_talk_smoke_talk_b5a5e27d:
 # game/dialogues/alicetalk.rpy:1069
 translate crowdin first_talk_smoke_talk_ee9ba89b:
 
-    # Alice_13 "Сейчас сбегаю за деньгами...\n"
-"Вот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract
-    Alice_13 "Ora sto correndo per soldi...\n"
-"Qui, tieni $ 10, e ora di certo non hai visto nulla. Così?" nointeract
+    # Alice_13 "Сейчас сбегаю за деньгами...\nВот, держи $10, и теперь-то уж точно ты ничего не видел. Так?" nointeract
+    Alice_13 "Ora sto correndo per soldi...\nQui, tieni $ 10, e ora di certo non hai visto nulla. Così?" nointeract
 
 # game/dialogues/alicetalk.rpy:1074
 translate crowdin first_talk_smoke_talk_86687067:
@@ -8649,16 +8645,12 @@ translate crowdin strings:
     new "Naturalmente,! Ho imparato..."
 
     # game/dialogues/alicetalk.rpy:331
-    old "Так тебе продемонстрировать или как? \n"
-"{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-    new "Quindi per dimostrarti o come? \n"
-"{color=[_ch4.col]}(Persuasione: Chance: [_ch4.vis]){/color}"
+    old "Так тебе продемонстрировать или как? \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+    new "Quindi per dimostrarti o come? \n{color=[_ch4.col]}(Persuasione: Chance: [_ch4.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:335
-    old "Тебе понравится! \n"
-"{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
-    new "Ti piacerà! \n"
-"{color=[_ch4.col]}(Persuasione: Chance: [_ch4.vis]){/color}"
+    old "Тебе понравится! \n{color=[_ch4.col]}(Убеждение. Шанс: [_ch4.vis]){/color}"
+    new "Ti piacerà! \n{color=[_ch4.col]}(Persuasione: Chance: [_ch4.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:340
     old "Хорошо {i}(начать массаж){/i}"
@@ -8689,22 +8681,16 @@ translate crowdin strings:
     new "Bene, è buono {i}(iniziare un massaggio){/i}"
 
     # game/dialogues/alicetalk.rpy:416
-    old "{i}продолжить{/i} \n"
-"{color=[_ch20.col]}(Массаж. Шанс: [_ch20.vis]){/color}"
-    new "{i}continue{/i} \n"
-"{color=[_ch20.col]}(Massaggio: Chance: [_ch20.vis]){/color}"
+    old "{i}продолжить{/i} \n{color=[_ch20.col]}(Массаж. Шанс: [_ch20.vis]){/color}"
+    new "{i}continue{/i} \n{color=[_ch20.col]}(Massaggio: Chance: [_ch20.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:442
-    old "Может, ещё конфетку? \n"
-"{color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
-    new "Forse più caramelle? \n"
-"{color=[_ch3.col]}(Persuasione: Chance: [_ch3.vis]){/color}"
+    old "Может, ещё конфетку? \n{color=[_ch3.col]}(Убеждение. Шанс: [_ch3.vis]){/color}"
+    new "Forse più caramelle? \n{color=[_ch3.col]}(Persuasione: Chance: [_ch3.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:445
-    old "Тебе джинсы не мешают? \n"
-"{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
-    new "I jeans ti infastidiscono? \n"
-"{color=[_ch2.col]}(Persuasione: Chance: [_ch2.vis]){/color}"
+    old "Тебе джинсы не мешают? \n{color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
+    new "I jeans ti infastidiscono? \n{color=[_ch2.col]}(Persuasione: Chance: [_ch2.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:448
     old "Тебе джинсы не мешают?"
@@ -8715,10 +8701,8 @@ translate crowdin strings:
     new "I jeans ti infastidiscono? Forse rimuovere..."
 
     # game/dialogues/alicetalk.rpy:455
-    old "{i}продолжить{/i} \n"
-"{color=[_ch15.col]}(Массаж. Шанс: [_ch15.vis]){/color}"
-    new "{i}continue{/i} \n"
-"{color=[_ch15.col]}(Massaggio: Chance: [_ch15.vis]){/color}"
+    old "{i}продолжить{/i} \n{color=[_ch15.col]}(Массаж. Шанс: [_ch15.vis]){/color}"
+    new "{i}continue{/i} \n{color=[_ch15.col]}(Massaggio: Chance: [_ch15.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:457
     old "{i}высунуть член{/i}"
@@ -8749,10 +8733,8 @@ translate crowdin strings:
     new "E perché indossi le mutandine?"
 
     # game/dialogues/alicetalk.rpy:570
-    old "{i}продолжить{/i} \n"
-"{color=[_ch25.col]}(Массаж. Шанс: [_ch25.vis]){/color}"
-    new "{i}continue{/i} \n"
-"{color=[_ch25.col]}(Massaggio: Chance: [_ch25.vis]){/color}"
+    old "{i}продолжить{/i} \n{color=[_ch25.col]}(Массаж. Шанс: [_ch25.vis]){/color}"
+    new "{i}continue{/i} \n{color=[_ch25.col]}(Massaggio: Chance: [_ch25.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:612
     old "Да, это будет на десерт..."
@@ -8779,10 +8761,8 @@ translate crowdin strings:
     new "Beh, posso essere il tuo ragazzo... Almeno per un'ora... o quanto vuoi..."
 
     # game/dialogues/alicetalk.rpy:773
-    old "{i}массировать её ноги выше{/i} \n"
-"{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
-    new "{i}massaggiare le gambe sopra{/i} \n"
-"{color=[ch.col]}(Massaggio: possibilità: [ch.vis]){/color}"
+    old "{i}массировать её ноги выше{/i} \n{color=[ch.col]}(Массаж. Шанс: [ch.vis]){/color}"
+    new "{i}massaggiare le gambe sopra{/i} \n{color=[ch.col]}(Massaggio: possibilità: [ch.vis]){/color}"
 
     # game/dialogues/alicetalk.rpy:845
     old "{i}массировать ещё выше{/i}"
@@ -9253,10 +9233,8 @@ translate crowdin strings:
     new "massaggio {i}con crema{/i}"
 
     # game/dialogues/alicetalk.rpy:2124
-    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\n"
-"крема недостаточно{/color}{/i}"
-    new "{i}{color=[gray]}massaggio con crema{/color}{color=[red]}\n"
-"crema non basta{/color}{/i}"
+    old "{i}{color=[gray]}сделать массаж с кремом{/color}{color=[red]}\nкрема недостаточно{/color}{/i}"
+    new "{i}{color=[gray]}massaggio con crema{/color}{color=[red]}\ncrema non basta{/color}{/i}"
 
     # game/dialogues/alicetalk.rpy:2124
     old "{i}Блин, крем практически закончился... Давай в другой раз тогда...{/i}"

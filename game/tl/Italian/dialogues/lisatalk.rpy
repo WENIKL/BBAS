@@ -3483,10 +3483,8 @@ translate crowdin gift_swimsuit_swimsuit_show_c6805f5f:
 # game/dialogues/lisatalk.rpy:1950
 translate crowdin gift_swimsuit_swimsuit_show_54114c6f:
 
-    # Max_04 "{i}( Да, закрою глаза, когда тут такое... как же!\n"
-"Ух! А, сестрёнка хороша... Местами даже очень... ){/i}"
-    Max_04 "{i}(Sì, chiuderò gli occhi quando c'è una cosa del genere... Come sarebbe!\n"
-"Ow! Ah, mia sorella è brava... A volte anche molto... ) {/i}"
+    # Max_04 "{i}( Да, закрою глаза, когда тут такое... как же!\nУх! А, сестрёнка хороша... Местами даже очень... ){/i}"
+    Max_04 "{i}(Sì, chiuderò gli occhi quando c'è una cosa del genere... Come sarebbe!\nOw! Ah, mia sorella è brava... A volte anche molto... ) {/i}"
 
 # game/dialogues/lisatalk.rpy:1952
 translate crowdin gift_swimsuit_swimsuit_show_82fb1fd8:
@@ -9575,16 +9573,12 @@ translate crowdin strings:
     new "Posso massaggiare le mie spalle se vuoi? {colore=[_ch3.col]} (Persuasione: Chance: [_ch3.vis]) {/colore}"
 
     # game/dialogues/lisatalk.rpy:1389
-    old "{i}начать массаж \n"
-"{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}{/i}"
-    new "{i}iniziare un massaggio \n"
-"{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}{/i}"
+    old "{i}начать массаж \n{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}{/i}"
+    new "{i}iniziare un massaggio \n{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}{/i}"
 
     # game/dialogues/lisatalk.rpy:1408
-    old "{i}продолжить ниже \n"
-"{color=[_ch7.col]}(Массаж. Шанс: [_ch7.vis]){/color}{/i}"
-    new "{i}continuare sotto \n"
-"{color=[_ch7.col]}(Massaggio. Possibilità: [_ch7.vis]){/color}{/i}"
+    old "{i}продолжить ниже \n{color=[_ch7.col]}(Массаж. Шанс: [_ch7.vis]){/color}{/i}"
+    new "{i}continuare sotto \n{color=[_ch7.col]}(Massaggio. Possibilità: [_ch7.vis]){/color}{/i}"
 
     # game/dialogues/lisatalk.rpy:1520
     old "Я и плечи помассировать могу, если хочешь? {color=[_ch2.col]}(Убеждение. Шанс: [_ch2.vis]){/color}"
@@ -9595,26 +9589,20 @@ translate crowdin strings:
     new "{i}continua qui sotto{/i}"
 
     # game/dialogues/lisatalk.rpy:1576
-    old "{i}массировать её грудь \n"
-"{color=[_ch4.col]}(Массаж. Шанс: [_ch4.vis]){/color}{/i}"
-    new "{i}massaggiare il seno \n"
-"{color=[_ch4.col]}(Massaggio: Chance: [_ch4.vis]){/color}{/i}"
+    old "{i}массировать её грудь \n{color=[_ch4.col]}(Массаж. Шанс: [_ch4.vis]){/color}{/i}"
+    new "{i}massaggiare il seno \n{color=[_ch4.col]}(Massaggio: Chance: [_ch4.vis]){/color}{/i}"
 
     # game/dialogues/lisatalk.rpy:1598
     old "{i}продолжить массировать её грудь и целовать{/i}"
     new "{i}continuare a massaggiarle il seno e baciarla{/i}"
 
     # game/dialogues/lisatalk.rpy:1638
-    old "{i}начать массаж{/i} \n"
-"{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}"
-    new "{i}iniziare un massaggio{/i} \n"
-"{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}"
+    old "{i}начать массаж{/i} \n{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}"
+    new "{i}iniziare un massaggio{/i} \n{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}"
 
     # game/dialogues/lisatalk.rpy:1659
-    old "{i}продолжить{/i} \n"
-"{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}"
-    new "{i}continue{/i} \n"
-"{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}"
+    old "{i}продолжить{/i} \n{color=[_ch10.col]}(Массаж. Шанс: [_ch10.vis]){/color}"
+    new "{i}continue{/i} \n{color=[_ch10.col]}(Massaggio: Chance: [_ch10.vis]){/color}"
 
     # game/dialogues/lisatalk.rpy:1714
     old "{i}увлечь её поцелуем{/i} {color=[_kiss.col]}(Поцелуи. Шанс: [_kiss.vis]){/color}"

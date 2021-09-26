@@ -1913,10 +1913,8 @@ translate crowdin strings:
     new "Ti dispiace se do un'occhiata?"
 
     # game/events/eric.rpy:539
-    old "{i}заглянуть в окно\n"
-"{color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
-    new "{i}guardare fuori dalla finestra\n"
-"{color=[_ch1.col]}(Stealth: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}заглянуть в окно\n{color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}guardare fuori dalla finestra\n{color=[_ch1.col]}(Stealth: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/events/eric.rpy:539
     old "{i}зайти в спальню{/i}"

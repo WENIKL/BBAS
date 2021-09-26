@@ -75,10 +75,8 @@ translate crowdin alice_bath_ladder_98712b50:
 # game/events/alice.rpy:99
 translate crowdin alice_sleep_night_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья..." nointeract
-    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\n"
-"Ed entrare è pericoloso per la salute..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract
+    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
 
 # game/events/alice.rpy:130
 translate crowdin alice_sleep_night_395216d9:
@@ -239,10 +237,8 @@ translate crowdin alice_sleep_night_ef329553:
 # game/events/alice.rpy:214
 translate crowdin alice_sleep_morning_7ff48024:
 
-    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
-"Да и входить опасно для здоровья..." nointeract
-    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\n"
-"Ed entrare è pericoloso per la salute..." nointeract
+    # Max_00 "Кажется, Алиса спит. Стучать в дверь точно не стоит.\nДа и входить опасно для здоровья..." nointeract
+    Max_00 "Alice sembra addormentata. Bussare alla porta non ne vale sicuramente la pena.\nEd entrare è pericoloso per la salute..." nointeract
 
 # game/events/alice.rpy:226
 translate crowdin alice_sleep_morning_7c1f0327:
@@ -793,10 +789,8 @@ translate crowdin alice_shower_closer_peepeng_09abbe09:
 # game/events/alice.rpy:591
 translate crowdin alice_shower_not_luck_051a23bb:
 
-    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\n"
-"Ох, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."
-    Max_09 "{color=[orange]}{i}Sembra che Alice sospettasse qualcosa! {/i} {/color}\n"
-"Oh, dannazione! Devi toglierti le gambe non appena sono ancora lì..."
+    # Max_09 "{color=[orange]}{i}Кажется, Алиса что-то заподозрила!{/i}{/color}\nОх, чёрт! Нужно скорее уносить ноги, пока они ещё есть..."
+    Max_09 "{color=[orange]}{i}Sembra che Alice sospettasse qualcosa! {/i} {/color}\nOh, dannazione! Devi toglierti le gambe non appena sono ancora lì..."
 
 # game/events/alice.rpy:605
 translate crowdin alice_shower_pinded_e19147dd:
@@ -3533,16 +3527,12 @@ translate crowdin strings:
     new "{i}intrufolarsi nella stanza{/i}"
 
     # game/events/alice.rpy:347
-    old "{i}продолжить смотреть\n"
-"{color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
-    new "{i}continuare a guardare il\n"
-"{color=[_ch1.col]} (Stealth: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}продолжить смотреть\n{color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}continuare a guardare il\n{color=[_ch1.col]} (Stealth: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/events/alice.rpy:347
-    old "{i}взглянуть со стороны\n"
-"{color=[_ch2.col]}(Скрытность. Шанс: [_ch2.vis]){/color}{/i}"
-    new "{i}guardare dal lato del\n"
-"{color=[_ch2.col]}(Stealth: Chance: [_ch2.vis]){/color}{/i}"
+    old "{i}взглянуть со стороны\n{color=[_ch2.col]}(Скрытность. Шанс: [_ch2.vis]){/color}{/i}"
+    new "{i}guardare dal lato del\n{color=[_ch2.col]}(Stealth: Chance: [_ch2.vis]){/color}{/i}"
 
     # game/events/alice.rpy:347
     old "{i}немного пошуметь{/i}"
@@ -3717,10 +3707,8 @@ translate crowdin strings:
     new "Non lo ucciderò!"
 
     # game/events/alice.rpy:1246
-    old "Пусть живёт. Я пойду и выкину его с балкона за ограду, чтобы он обратно не приполз.\n"
-"{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-    new "Lasciatelo vivere. Andrò a buttarlo giù dal balcone dietro la recinzione in modo che non striscia indietro.\n"
-"{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
+    old "Пусть живёт. Я пойду и выкину его с балкона за ограду, чтобы он обратно не приполз.\n{color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+    new "Lasciatelo vivere. Andrò a buttarlo giù dal balcone dietro la recinzione in modo che non striscia indietro.\n{color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}"
 
     # game/events/alice.rpy:1246
     old "{i}выбросить с балкона{/i}"
@@ -3895,10 +3883,8 @@ translate crowdin strings:
     new "{i}apri la porta{/i}"
 
     # game/events/alice.rpy:2411
-    old "Ну, разве, что так...\n"
-"{i}(начать массировать её киску рукой){/i}"
-    new "Beh, a parte questo...\n"
-"{i}(inizia a massaggiarla con la mano){/i}"
+    old "Ну, разве, что так...\n{i}(начать массировать её киску рукой){/i}"
+    new "Beh, a parte questo...\n{i}(inizia a massaggiarla con la mano){/i}"
 
     # game/events/alice.rpy:2411
     old "Поласкай свою киску для меня..."

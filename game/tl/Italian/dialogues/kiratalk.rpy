@@ -2495,16 +2495,12 @@ translate crowdin strings:
     new "{i}scatenare Kira{/i}"
 
     # game/dialogues/kiratalk.rpy:1008
-    old "Но это моя семья! \n"
-"{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
-    new "Ma questa è la mia famiglia! \n"
-"{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
+    old "Но это моя семья! \n{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
+    new "Ma questa è la mia famiglia! \n{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
 
     # game/dialogues/kiratalk.rpy:1030
-    old "Я же не из корыстных целей это спрашиваю! Я хочу ей помочь... \n"
-"{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
-    new "Non lo sto chiedendo per scopi egoistici! Voglio aiutarla... \n"
-"{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
+    old "Я же не из корыстных целей это спрашиваю! Я хочу ей помочь... \n{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
+    new "Non lo sto chiedendo per scopi egoistici! Voglio aiutarla... \n{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
 
     # game/dialogues/kiratalk.rpy:1053
     old "Так ты бросила там мою маму?"

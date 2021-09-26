@@ -339,10 +339,8 @@ translate crowdin punishment_max_pun_reson_678436cc:
 # game/dialogues/punishment.rpy:277
 translate crowdin punishment_max_pun_reson_219ecbe7:
 
-    # Max_14 "{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n"
-"{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
-    Max_14 "{i}mamma mi punisce proprio davanti alle sorelle... È così umiliante... {/i}\n\n"
-"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/colore}"
+    # Max_14 "{i}Мама наказывает меня прямо перед сёстрами... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
+    Max_14 "{i}mamma mi punisce proprio davanti alle sorelle... È così umiliante... {/i}\n\n{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/colore}"
 
 # game/dialogues/punishment.rpy:290
 translate crowdin punishment_max_pun_reson_700a2ea3:
@@ -389,10 +387,8 @@ translate crowdin punishment_max_pun_reson_678436cc_1:
 # game/dialogues/punishment.rpy:338
 translate crowdin punishment_max_pun_reson_c632e1a6:
 
-    # Max_14 "{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n"
-"{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
-    Max_14 "{i}Accidenti... Tutti guardano con tanto interesse come vengo punito... È così umiliante... {/i}\n\n"
-"{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/colore}"
+    # Max_14 "{i}Блин... Все с таким интересом смотрят, как меня наказывают... Это так унизительно...{/i}\n\n{color=[orange]}{b}Внимание:{/b} Ваше влияние на присутствующих понизилось!{/color}"
+    Max_14 "{i}Accidenti... Tutti guardano con tanto interesse come vengo punito... È così umiliante... {/i}\n\n{color=[orange]}{b}Warning:{/b} La tua influenza sui presenti è diminuita! {/colore}"
 
 # game/dialogues/punishment.rpy:353
 translate crowdin punishment_max_pun_reson_faf292df:

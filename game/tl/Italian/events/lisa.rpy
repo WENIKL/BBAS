@@ -81,10 +81,8 @@
     Max_03 "[non esperto!t] Oh, sì! Per il modo in cui l'acqua scorre lungo il suo affascinante, voglio guardare senza distogliere lo distogliere lo studio..."
 
 # game/events/lisa.rpy:170## # translate crowdin lisa_shower_not_luck_e8e13c34:
-    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\n"
-"О нет! Похоже, она что-то заметила... Надо бежать!"
-    Max_12 "{color=[orange]}{i}Sembra che Lisa sospettasse qualcosa! {/i} {/color}\n"
-"Oh no! Sembra che abbia notato qualcosa... Devi correre!"
+    # Max_12 "{color=[orange]}{i}Кажется, Лиза что-то заподозрила!{/i}{/color}\nО нет! Похоже, она что-то заметила... Надо бежать!"
+    Max_12 "{color=[orange]}{i}Sembra che Lisa sospettasse qualcosa! {/i} {/color}\nOh no! Sembra che abbia notato qualcosa... Devi correre!"
 
 # game/events/lisa.rpy:191## # translate crowdin lisa_shower_pinded_cc880acd:
     # Lisa_09 "[spotted!t]Ну, Макс! Опять ты подглядываешь... Если так неймётся ужастики смотреть со мной, то считай ты попал! А сейчас, кыш отсюда..." nointeract
@@ -103,10 +101,8 @@
     Max_01 "Wow, che vista! Questo è quello che ho guardato bene!" nointeract
 
 # game/events/lisa.rpy:286## # translate crowdin lisa_dressed_school_come_in_e44012a5:
-    # Lisa_00 "Макс, ну чего ломишься? Ты же знаешь, что мне в школу пора...\n\n"
-"{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
-    Lisa_00 "Max, cosa stai rompendo? Sai che è ora che io vada a scuola...\n\n"
-"{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
+    # Lisa_00 "Макс, ну чего ломишься? Ты же знаешь, что мне в школу пора...\n\n{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
+    Lisa_00 "Max, cosa stai rompendo? Sai che è ora che io vada a scuola...\n\n{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
 
 # game/events/lisa.rpy:291## # translate crowdin lisa_dressed_school_come_in_d468ca42:
     # Lisa_12 "Так и знала, что тебя надо было на диванчики в гостиную отправлять... Ладно, я уже оделась, входи уж... А я в школу побежала."
@@ -337,10 +333,8 @@
     Lisa_02 "Non ancora! Consideratevi fortunati, ma per favore fatemi cambiare i vestiti..."
 
 # game/events/lisa.rpy:489## # translate crowdin lisa_dressed_school_open_door_a5a35250:
-    # Lisa_12 "Макс! Стучаться надо! А вдруг я была бы голая?! \n\n"
-"{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
-    Lisa_12 "Max! Bussare è necessario! E se fossi nudo?! \n\n"
-"{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
+    # Lisa_12 "Макс! Стучаться надо! А вдруг я была бы голая?! \n\n{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
+    Lisa_12 "Max! Bussare è necessario! E se fossi nudo?! \n\n{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
 
 # game/events/lisa.rpy:493## # translate crowdin lisa_dressed_school_open_door_a013924b:
     # Lisa_13 "Ну ты хам! Быстро закрой дверь с той стороны!"
@@ -359,16 +353,12 @@
     Max_00 "Va bene..."
 
 # game/events/lisa.rpy:500## # translate crowdin lisa_dressed_school_open_door_733f2342:
-    # Lisa_12 "Макс! Не видишь, я собираюсь в школу! Быстро закрой дверь! \n\n"
-"{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
-    Lisa_12 "Max! Non si vede, vado a scuola! Chiudi rapidamente la porta! \n\n"
-"{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
+    # Lisa_12 "Макс! Не видишь, я собираюсь в школу! Быстро закрой дверь! \n\n{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
+    Lisa_12 "Max! Non si vede, vado a scuola! Chiudi rapidamente la porta! \n\n{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
 
 # game/events/lisa.rpy:508## # translate crowdin lisa_dressed_school_open_door_ea1d5c57:
-    # Lisa_12 "Макс! Я не одета! Быстрой закрой дверь с той стороны! \n\n"
-"{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
-    Lisa_12 "Max! Non sono vestito! Chiudi rapidamente la porta dall'altra parte! \n\n"
-"{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
+    # Lisa_12 "Макс! Я не одета! Быстрой закрой дверь с той стороны! \n\n{color=[orange]}{i}{b}Подсказка:{/b} Клавиша [[ h ] или [[ ` ] - вкл/выкл интерфейс.{/i}{/color}" nointeract
+    Lisa_12 "Max! Non sono vestito! Chiudi rapidamente la porta dall'altra parte! \n\n{color=[orange]}{i}{b}Hint:{/b} Key [[ h ] or [[ ' ] - on/off interface.{ /i}{/color}" nointeract
 
 # game/events/lisa.rpy:512## # translate crowdin lisa_dressed_school_open_door_8e7ae4a9:
     # Lisa_11 "Что?! Я всё маме расскажу!" nointeract
@@ -1225,10 +1215,8 @@ translate crowdin strings:
     new "Allora guardiamo oltre... (continua a guardare la serie di film \"Scream\")"
 
     # game/events/lisa.rpy:1238
-    old "{i}сдерживаться{/i} \n"
-"{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
-    new "{i}trattenere{/i} \n"
-"{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
+    old "{i}сдерживаться{/i} \n{color=[_ch3.col]}(Сексуальный опыт. Шанс: [_ch3.vis]){/color}"
+    new "{i}trattenere{/i} \n{color=[_ch3.col]}(Esperienza sessuale: Chance: [_ch3.vis]){/color}"
 
     # game/events/lisa.rpy:1238
     old "{i}да пофиг!{/i}"
