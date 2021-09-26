@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/characters.rpy:230
+    # game/core/characters.rpy:230
     old "Мама"
     new "Mamma"
 

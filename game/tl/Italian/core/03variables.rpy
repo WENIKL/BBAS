@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/03variables.rpy:25
+    # game/core/03variables.rpy:25
     old "МОЯ\n"
 "КОМНАТА"
     new "LA MIA\n"

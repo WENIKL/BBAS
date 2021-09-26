@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/07_clothes.rpy:86
+    # game/core/07_clothes.rpy:86
     old "Повседневная"
     new "Informale"
 

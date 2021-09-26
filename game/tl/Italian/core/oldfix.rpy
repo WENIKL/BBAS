@@ -20,7 +20,7 @@ translate crowdin old_fix_93331e6b_1:
 
 translate crowdin strings:
 
-# game/core/oldfix.rpy:49
+    # game/core/oldfix.rpy:49
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
     new "{i}{b}Nota:{/b} Finora, questo è tutto ciò che si può fare per questa \"funzione\" nella versione corrente del gioco. {/i}"
 

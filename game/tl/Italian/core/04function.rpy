@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/04function.rpy:280
+    # game/core/04function.rpy:280
     old "+ к навыку скрытности"
     new "+ all'abilità della furtività"
 

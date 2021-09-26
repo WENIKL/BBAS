@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/06_items.rpy:2
+    # game/core/06_items.rpy:2
     old "ПАУК"
     new "RAGNO"
 

@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/02init.rpy:18
+    # game/core/02init.rpy:18
     old "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
     new "{color=#00FF00}{i}Persuasione riuscita! {/i} {/color}\n"
 

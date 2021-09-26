@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/imagemaps.rpy:31
+    # game/core/imagemaps.rpy:31
     old "{i}искать под кроватью{/i}"
     new "{i}cerca sotto il letto{/i}"
 

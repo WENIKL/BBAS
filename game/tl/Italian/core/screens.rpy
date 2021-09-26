@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/screens.rpy:319
+    # game/core/screens.rpy:319
     old "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
     new "{b}NEGOZIO ONLINE{/b}"
 

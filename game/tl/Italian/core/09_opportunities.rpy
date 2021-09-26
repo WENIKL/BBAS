@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/09_opportunities.rpy:4
+    # game/core/09_opportunities.rpy:4
     old "Скрытые камеры"
     new "Telecamere nascoste"
 

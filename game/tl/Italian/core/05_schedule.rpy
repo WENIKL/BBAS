@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/core/05_schedule.rpy:7
+    # game/core/05_schedule.rpy:7
     old "курит"
     new "fuma"
 
