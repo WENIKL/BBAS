@@ -50,7 +50,7 @@
 
 # game/script.rpy:65## # translate crowdin intro_bebe466e:
     # Max_14 "Отца я плохо помню. Он ушёл, когда мне было лет пять. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
-msgstr "Non ricordo bene la [Max_14]del Padre. Se n'è andato quando avevo circa cinque anni. La mamma non vuole dirmi cosa è successo allora... C'erano voci che le cose erano andate in salita per lui. Da allora non abbiamo più sentito parlare di lui. Fino al mese scorso, quando è arrivata quella ragazza..."
+    Max_14 "Non ricordo molto bene mio padre. Se n'è andato quando avevo circa cinque anni. Mia madre non vuole dirmi cosa è successo allora... Ho sentito dire che stava bene. Da allora non abbiamo più avuto sue notizie. Fino al mese scorso, quando è arrivata quella ragazza..."
 
 # game/script.rpy:67## # translate crowdin intro_c94c5394:
     # Max_14 "Приёмного отца я плохо помню. Он ушёл, когда мне было лет восемь. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
