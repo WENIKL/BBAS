@@ -423,14 +423,14 @@ translate crowdin Kira_arrival_9816e105:
 # game/events/other.rpy:236
 translate crowdin Kira_arrival_437eebba:
 
-msgid "[Kira_01]Это кто тут у нас? Макс? Я тебя не узнала! Почти настоящий мужчина!" nointeract
-msgstr "[Kira_01]Chi c'è qui? Max? Non ti ho riconosciuto! Quasi un vero uomo!" nointeract
+    # Kira_01 "Это кто тут у нас? Макс? Я тебя не узнала! Почти настоящий мужчина!" nointeract
+    Kira_01 "Chi c'è qui? Max? Non ti ho riconosciuto! Quasi un vero uomo!" nointeract
 
 # game/events/other.rpy:241
 translate crowdin Kira_arrival_761ba430:
 
-msgid "[Kira_06]Да я шучу, Макс. Конечно, ты уже мужчина. Вижу, всё у тебя в порядке. И как ты только держишься среди таких девчонок? Кстати, где Лиза и Алиса?"
-msgstr "[Kira_06]Sì, sto scherzando, Max. Certo, sei già un uomo. Vedo che stai bene. E come si fa a stare tra queste ragazze? A proposito, dove sono Lisa e Alice?"
+    # Kira_06 "Да я шучу, Макс. Конечно, ты уже мужчина. Вижу, всё у тебя в порядке. И как ты только держишься среди таких девчонок? Кстати, где Лиза и Алиса?"
+    Kira_06 "Sì, sto scherzando, Max. Certo, sei già un uomo. Vedo che stai bene. E come si fa a stare tra queste ragazze? A proposito, dove sono Lisa e Alice?"
 
 # game/events/other.rpy:242
 translate crowdin Kira_arrival_f2f8c543:
@@ -441,8 +441,8 @@ translate crowdin Kira_arrival_f2f8c543:
 # game/events/other.rpy:246
 translate crowdin Kira_arrival_4c447413:
 
-msgid "[Kira_07]Лиза? Алиса? Неужели, это вы? Все такие большие, с меня ростом!"
-msgstr "[Kira_07]Lisa? Alice? Sei tu? Tutti sono così grandi, con me alto!"
+    # Kira_07 "Лиза? Алиса? Неужели, это вы? Все такие большие, с меня ростом!"
+    Kira_07 "Lisa? Alice? Sei tu? Tutti sono così grandi, con me alto!"
 
 # game/events/other.rpy:247
 translate crowdin Kira_arrival_41dea78a:
@@ -465,8 +465,8 @@ translate crowdin Kira_arrival_c8bed868:
 # game/events/other.rpy:250
 translate crowdin Kira_arrival_94209dce:
 
-msgid "[Kira_04]Что, уже выгоняете?!"
-msgstr "[Kira_04]Lo stai già buttando fuori?!"
+    # Kira_04 "Что, уже выгоняете?!"
+    Kira_04 "Lo stai già buttando fuori?!"
 
 # game/events/other.rpy:251
 translate crowdin Kira_arrival_9a868553:
@@ -501,20 +501,20 @@ translate crowdin Kira_arrival_239a2d0b:
 # game/events/other.rpy:260
 translate crowdin Kira_arrival_4bf7c736:
 
-msgid "[Kira_05]Нет, что ты. Я прилетела пару дней назад и остановилась в гостинице. Просто... нужно было разобраться кое с чем. Но с делами покончено и специально ради вас я наряжалась всё утро!" nointeract
-msgstr "[Kira_05]No, non lo fai. Sono arrivato un paio di giorni fa e ho alloggiato in un hotel. Semplicemente... qualcosa doveva essere risolto. Ma il business è finito e soprattutto per te mi sono vestito tutta la mattina!" nointeract
+    # Kira_05 "Нет, что ты. Я прилетела пару дней назад и остановилась в гостинице. Просто... нужно было разобраться кое с чем. Но с делами покончено и специально ради вас я наряжалась всё утро!" nointeract
+    Kira_05 "No, non lo fai. Sono arrivato un paio di giorni fa e ho alloggiato in un hotel. Semplicemente... qualcosa doveva essere risolto. Ma il business è finito e soprattutto per te mi sono vestito tutta la mattina!" nointeract
 
 # game/events/other.rpy:265
 translate crowdin Kira_arrival_2171ddd4:
 
-msgid "[Kira_02]Ага. Не буду утомлять вас подробностями, это никому не интересно. Скажу лишь, что всё улажено и теперь я свободна для своей семьи!"
-msgstr "[Kira_02]sì. Non ti annoierò con i dettagli, nessuno è interessato. Dirò solo che tutto è risolto e ora sono libero per la mia famiglia!"
+    # Kira_02 "Ага. Не буду утомлять вас подробностями, это никому не интересно. Скажу лишь, что всё улажено и теперь я свободна для своей семьи!"
+    Kira_02 "sì. Non ti annoierò con i dettagli, nessuno è interessato. Dirò solo che tutto è risolto e ora sono libero per la mia famiglia!"
 
 # game/events/other.rpy:269
 translate crowdin Kira_arrival_3a81a6f4:
 
-msgid "[Kira_03]Да, я прошу прощения, что не предупредила, но не могла завалиться к вам, чтобы тут же убежать. Но я со всем разобралась, всё в порядке, теперь я тут!"
-msgstr "[Kira_03]Sì, mi scuso per non aver avvertito, ma non potevo cadere su di te per scappare immediatamente. Ma ho capito tutto, va bene, ora sono qui!"
+    # Kira_03 "Да, я прошу прощения, что не предупредила, но не могла завалиться к вам, чтобы тут же убежать. Но я со всем разобралась, всё в порядке, теперь я тут!"
+    Kira_03 "Sì, mi scuso per non aver avvertito, ma non potevo cadere su di te per scappare immediatamente. Ma ho capito tutto, va bene, ora sono qui!"
 
 # game/events/other.rpy:273
 translate crowdin Kira_arrival_end_yard_5810a3fd:
@@ -531,8 +531,8 @@ translate crowdin Kira_arrival_end_yard_b57b009f:
 # game/events/other.rpy:284
 translate crowdin Kira_arrival_end_yard_61f344a0:
 
-msgid "[Kira_01]Так как у меня было время подготовиться к встрече с вами, я приехала не с пустыми руками и привезла вам кое-что..."
-msgstr "[Kira_01]Dato che ho avuto il tempo di prepararmi per l'incontro con te, non sono venuto a mani vuote e ti ho portato qualcosa..."
+    # Kira_01 "Так как у меня было время подготовиться к встрече с вами, я приехала не с пустыми руками и привезла вам кое-что..."
+    Kira_01 "Dato che ho avuto il tempo di prepararmi per l'incontro con te, non sono venuto a mani vuote e ti ho portato qualcosa..."
 
 # game/events/other.rpy:285
 translate crowdin Kira_arrival_end_yard_27b5d9a4:
@@ -543,8 +543,8 @@ translate crowdin Kira_arrival_end_yard_27b5d9a4:
 # game/events/other.rpy:286
 translate crowdin Kira_arrival_end_yard_5c3c88a7:
 
-msgid "[Kira_07]Я уже в курсе вашей истории с потерянным вещами. Поэтому, я уточнила у вашей мамы ваши размеры и купила лёгкую домашнюю одежду. И, кажется, правильно сделала. В такую жару, дома, лучше носить что-нибудь лёгкое!"
-msgstr "[Kira_07]sono già a conoscenza della tua storia con le cose perdute. Pertanto, ho chiarito le taglie di tua madre e ho comprato vestiti leggeri per la casa. E sembra aver fatto la cosa giusta. In tale calore, a casa, è meglio indossare qualcosa di leggero!"
+    # Kira_07 "Я уже в курсе вашей истории с потерянным вещами. Поэтому, я уточнила у вашей мамы ваши размеры и купила лёгкую домашнюю одежду. И, кажется, правильно сделала. В такую жару, дома, лучше носить что-нибудь лёгкое!"
+    Kira_07 "sono già a conoscenza della tua storia con le cose perdute. Pertanto, ho chiarito le taglie di tua madre e ho comprato vestiti leggeri per la casa. E sembra aver fatto la cosa giusta. In tale calore, a casa, è meglio indossare qualcosa di leggero!"
 
 # game/events/other.rpy:287
 translate crowdin Kira_arrival_end_yard_37f87db2:
@@ -567,8 +567,8 @@ translate crowdin Kira_arrival_end_yard_e217d4e7:
 # game/events/other.rpy:290
 translate crowdin Kira_arrival_end_yard_d90987d8:
 
-msgid "[Kira_05]Так, вы все давайте держите новую одежду, переодевайтесь и встречаемся за столом, где вы завтракаете. Посмотрим, всем ли всё подошло. А тебе, Макс, я ничего не купила. Подумала, что ты можешь и в шортах ходить. Но подарок тебе сделаю, позже решим какой..." nointeract
-msgstr "[Kira_05]Quindi, teniamo tutti vestiti nuovi, cambiamo i vestiti e incontriamoci al tavolo dove fate colazione. Vediamo se tutto si adatta a tutti loro. E tu, Max, non ho comprato nulla. Pensavo che si potesse andare in giro in pantaloncini. Ma ti farò un regalo, più tardi decideremo quale..." nointeract
+    # Kira_05 "Так, вы все давайте держите новую одежду, переодевайтесь и встречаемся за столом, где вы завтракаете. Посмотрим, всем ли всё подошло. А тебе, Макс, я ничего не купила. Подумала, что ты можешь и в шортах ходить. Но подарок тебе сделаю, позже решим какой..." nointeract
+    Kira_05 "Quindi, teniamo tutti vestiti nuovi, cambiamo i vestiti e incontriamoci al tavolo dove fate colazione. Vediamo se tutto si adatta a tutti loro. E tu, Max, non ho comprato nulla. Pensavo che si potesse andare in giro in pantaloncini. Ma ti farò un regalo, più tardi decideremo quale..." nointeract
 
 # game/events/other.rpy:300
 translate crowdin Kira_arrival_end_yard_370fc726:
@@ -675,8 +675,8 @@ translate crowdin Kira_arrival_end_yard_27e62e75:
 # game/events/other.rpy:345
 translate crowdin Kira_arrival_end_yard_a4137f9f:
 
-msgid "[Kira_03]Ань, всё сидит на тебе просто отлично. И очень идёт этот цвет, кстати... Ну а теперь моя очередь. Сейчас покажу, что себе прикупила..."
-msgstr "[Kira_03]An, tutto si siede su di te bene. E questo colore è molto buono, a proposito... Bene, ora è il mio turno. Ora ti mostrerò cosa ho comprato io stesso..."
+    # Kira_03 "Ань, всё сидит на тебе просто отлично. И очень идёт этот цвет, кстати... Ну а теперь моя очередь. Сейчас покажу, что себе прикупила..."
+    Kira_03 "An, tutto si siede su di te bene. E questo colore è molto buono, a proposito... Bene, ora è il mio turno. Ora ti mostrerò cosa ho comprato io stesso..."
 
 # game/events/other.rpy:346
 translate crowdin Kira_arrival_end_yard_bfefabb8:
@@ -687,14 +687,14 @@ translate crowdin Kira_arrival_end_yard_bfefabb8:
 # game/events/other.rpy:349
 translate crowdin Kira_arrival_end_yard_95b07e68:
 
-msgid "[Kira_05]Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное." nointeract
-msgstr "[Kira_05]Bene, come sto per te? Buono? E An, non una parola in più. Tutto ti sembra troppo aperto o franco." nointeract
+    # Kira_05 "Ну, как я вам? Хороша? И Ань, ни слова больше. Тебе всё кажется слишком открытое или откровенное." nointeract
+    Kira_05 "Bene, come sto per te? Buono? E An, non una parola in più. Tutto ti sembra troppo aperto o franco." nointeract
 
 # game/events/other.rpy:357
 translate crowdin Kira_arrival_end_yard_2417a0cf:
 
-msgid "[Kira_07]Вот, слышала, Ань, детям нравится. Естественно, если в семье есть мужчина, это накладывает свои ограничения, но нельзя же быть настолько зажатыми..."
-msgstr "[Kira_07]Ecco, ho sentito, An, ai bambini piace. Naturalmente, se c'è un uomo in famiglia, questo impone i suoi limiti, ma non puoi essere così schiacciato..."
+    # Kira_07 "Вот, слышала, Ань, детям нравится. Естественно, если в семье есть мужчина, это накладывает свои ограничения, но нельзя же быть настолько зажатыми..."
+    Kira_07 "Ecco, ho sentito, An, ai bambini piace. Naturalmente, se c'è un uomo in famiglia, questo impone i suoi limiti, ma non puoi essere così schiacciato..."
 
 # game/events/other.rpy:358
 translate crowdin Kira_arrival_end_yard_5d16cce1:
