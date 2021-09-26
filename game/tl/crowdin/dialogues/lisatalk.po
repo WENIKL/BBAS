@@ -5875,9 +5875,8 @@ msgstr "[Lisa_12]Может, в следующий раз, ты хоть что-
 # game/dialogues/lisatalk.rpy:4079## # translate crowdin Lisa_wear_Tshirt_7a250a36:
 msgid "[Max_08]Так и сделаю. В смысле, сделаю..."
 msgstr "[Max_08]Так и сделаю. В смысле, сделаю..."
-## # translate crowdin strings:
 
-#    # game/dialogues/lisatalk.rpy:62
+## # translate crowdin strings:#    # game/dialogues/lisatalk.rpy:62
 msgid "Кажется, я передумал..."
 msgstr "Кажется, я передумал..."
 

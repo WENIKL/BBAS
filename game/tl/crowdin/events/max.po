@@ -495,9 +495,8 @@ msgstr "[Max_00]Сколько мне сейчас нужно занять?[noin
 # game/events/max.rpy:1036## # translate crowdin return_part_loan_4564f05f:
 msgid "[Max_00]Сколько я верну сейчас?[nointeract]"
 msgstr "[Max_00]Сколько я верну сейчас?[nointeract]"
-## # translate crowdin strings:
 
-#    # game/events/max.rpy:70
+## # translate crowdin strings:#    # game/events/max.rpy:70
 msgid "{i}вздремнуть{/i}"
 msgstr "{i}вздремнуть{/i}"
 

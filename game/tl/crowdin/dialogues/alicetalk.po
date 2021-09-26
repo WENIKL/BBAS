@@ -5595,9 +5595,8 @@ msgstr "[Max_02]Хорошо, до следующего раза. А попка 
 # game/dialogues/alicetalk.rpy:4318## # translate crowdin alice_private_punish_r_pun_e5a94fd2:
 msgid "[Alice_13]Ох, и зачем я на всё это согласилась...[nointeract]"
 msgstr "[Alice_13]Ох, и зачем я на всё это согласилась...[nointeract]"
-## # translate crowdin strings:
 
-#    # game/dialogues/alicetalk.rpy:11
+## # translate crowdin strings:#    # game/dialogues/alicetalk.rpy:11
 msgid "{i}уйти{/i}"
 msgstr "{i}уйти{/i}"
 

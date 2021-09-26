@@ -367,9 +367,8 @@ msgstr "[Max_09]{i}( Понятно всё с вами, Алиса села на
 # game/events/alice_cam.rpy:782## # translate crowdin cam0_blog_with_Eric_340b426d:
 msgid "[Max_08]{i}( Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю... ){/i}"
 msgstr "[Max_08]{i}( Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю... ){/i}"
-## # translate crowdin strings:
 
-#    # game/events/alice_cam.rpy:56
+## # translate crowdin strings:#    # game/events/alice_cam.rpy:56
 msgid "{i}Конечно{/i}"
 msgstr "{i}Конечно{/i}"
 

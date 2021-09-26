@@ -1047,9 +1047,8 @@ msgstr "[Eric_01]Да, Макс, тянуло бы... Если бы ты не о
 # game/dialogues/erictalk.rpy:715## # translate crowdin Eric_talk_about_Kira_1_b1d48d26:
 msgid "[Max_01]Хорошо, как надумаю, что хочу, так сразу к тебе...[nointeract]"
 msgstr "[Max_01]Хорошо, как надумаю, что хочу, так сразу к тебе...[nointeract]"
-## # translate crowdin strings:
 
-#    # game/dialogues/erictalk.rpy:11
+## # translate crowdin strings:#    # game/dialogues/erictalk.rpy:11
 msgid "{i}В другой раз...{/i}"
 msgstr "{i}В другой раз...{/i}"
 

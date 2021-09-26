@@ -1075,9 +1075,8 @@ msgstr "[Max_05]Вот ты и попался! С таким \"грязным\" 
 # game/events/eric.rpy:1454## # translate crowdin jerk_photohant2_5893f935:
 msgid "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
 msgstr "[Max_10]Блин, пока я бегал, Эрик уже ушёл... Ну ничего, поймаю его в следующий раз...[nointeract]"
-## # translate crowdin strings:
 
-#    # game/events/eric.rpy:16
+## # translate crowdin strings:#    # game/events/eric.rpy:16
 msgid "Понимаю, хорошо..."
 msgstr "Понимаю, хорошо..."
 

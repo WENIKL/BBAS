@@ -51,9 +51,8 @@ msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 # game/core/core.rpy:703## # translate crowdin after_load_e53fbeb7:
 msgid "_ver [_version], conf.ver [config.version]"
 msgstr "_ver [_version], conf.ver [config.version]"
-## # translate crowdin strings:
 
-#    # game/core/core.rpy:353
+## # translate crowdin strings:#    # game/core/core.rpy:353
 msgid "В интернет-магазине доступен новый товар."
 msgstr "В интернет-магазине доступен новый товар."
 

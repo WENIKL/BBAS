@@ -1251,9 +1251,8 @@ msgstr "[Ann_04]Ну, я рада, что всё так сложилось. Ох
 # game/dialogues/dinner.rpy:755## # translate crowdin dinner_lace_lingerie_e0b844ce:
 msgid "[Max_01]Пока, мам..."
 msgstr "[Max_01]Пока, мам..."
-## # translate crowdin strings:
 
-#    # game/dialogues/dinner.rpy:56
+## # translate crowdin strings:#    # game/dialogues/dinner.rpy:56
 msgid "Как скажешь, мам..."
 msgstr "Как скажешь, мам..."
 

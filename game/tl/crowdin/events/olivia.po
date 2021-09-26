@@ -851,9 +851,8 @@ msgstr "[Olivia_01]Всем спокойной ночи..."
 # game/events/olivia.rpy:626## # translate crowdin olivia_repeatable_night_out_with_cb768b4d:
 msgid "[Max_01]Приятных снов."
 msgstr "[Max_01]Приятных снов."
-## # translate crowdin strings:
 
-#    # game/events/olivia.rpy:35
+## # translate crowdin strings:#    # game/events/olivia.rpy:35
 msgid "{i}подсмотреть\n{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
 msgstr "{i}подсмотреть\n{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
 

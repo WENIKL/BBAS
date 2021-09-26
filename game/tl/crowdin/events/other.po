@@ -475,9 +475,8 @@ msgstr "[Ann_04]Ладно, посмотрим. Кира, мне кажется,
 # game/events/other.rpy:360## # translate crowdin Kira_arrival_end_yard_438c6fcd:
 msgid "[Max_07]Давайте уже завтракать, а то остыло почти всё..."
 msgstr "[Max_07]Давайте уже завтракать, а то остыло почти всё..."
-## # translate crowdin strings:
 
-#    # game/events/other.rpy:9
+## # translate crowdin strings:#    # game/events/other.rpy:9
 msgid "Удачи"
 msgstr "Удачи"
 

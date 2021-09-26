@@ -163,9 +163,8 @@ msgstr "[Max_00]Некоторые \"возможности\" временные
 # game/script.rpy:120## # translate crowdin about_poss_95f72849:
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
 msgstr "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
-## # translate crowdin strings:
 
-#    # game/script.rpy:37
+## # translate crowdin strings:#    # game/script.rpy:37
 msgid "{i}далее{/i}"
 msgstr "{i}далее{/i}"
 
