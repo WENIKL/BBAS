@@ -257,8 +257,8 @@ msgstr "[Sam_00]Ciao! La consegna è prevista per questo indirizzo oggi. Segno?"
     Max_07 "La chiamata al cancello! Sembra che qualcuno sia venuto da noi..."
 
 # game/events/max.rpy:600## # translate crowdin delivery2_60d5c126:
-msgid "[Christine_00]Здравствуйте! По этому адресу на сегодня назначена доставка. Распишитесь?"
-msgstr "[Christine_00]Ciao! La consegna è prevista per questo indirizzo oggi. Segno?"
+    # Christine_00 "Здравствуйте! По этому адресу на сегодня назначена доставка. Распишитесь?"
+    Christine_00 "Ciao! La consegna è prevista per questo indirizzo oggi. Segno?"
 
 # game/events/max.rpy:601## # translate crowdin delivery2_509c6af4:
     # Max_00 "Конечно! А что тут?"

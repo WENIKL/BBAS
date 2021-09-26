@@ -3,8 +3,8 @@
 # game/dialogues/christina.rpy:7
 translate crowdin christina_first_talk_a072d515:
 
-msgid "[Christine_03]А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
-msgstr "[Christine_03]Perché firmi sempre per l'abbigliamento femminile? Le ragazze ti hanno guidato qui?"
+    # Christine_03 "А почему всегда ты расписываешься за женскую одежду? Тебя тут совсем девчонки загоняли?"
+    Christine_03 "Perché firmi sempre per l'abbigliamento femminile? Le ragazze ti hanno guidato qui?"
 
 # game/dialogues/christina.rpy:8
 translate crowdin christina_first_talk_a003babc:
@@ -15,8 +15,8 @@ translate crowdin christina_first_talk_a003babc:
 # game/dialogues/christina.rpy:9
 translate crowdin christina_first_talk_343a63e4:
 
-msgid "[Christine_04]Ого! А ты ещё не слишком мал, чтобы такое покупать? Хотя, ты не единственный паренёк в нашем районе, кто любит натягивать женскую одежду..."
-msgstr "[Christine_04]'s ow! Non sei ancora troppo giovane per comprarlo? Anche se, non sei l'unico ragazzo nella nostra zona a cui piace tirare su vestiti da donna..."
+    # Christine_04 "Ого! А ты ещё не слишком мал, чтобы такое покупать? Хотя, ты не единственный паренёк в нашем районе, кто любит натягивать женскую одежду..."
+    Christine_04 "'s ow! Non sei ancora troppo giovane per comprarlo? Anche se, non sei l'unico ragazzo nella nostra zona a cui piace tirare su vestiti da donna..."
 
 # game/dialogues/christina.rpy:10
 translate crowdin christina_first_talk_655d6f1e:
@@ -27,8 +27,8 @@ translate crowdin christina_first_talk_655d6f1e:
 # game/dialogues/christina.rpy:11
 translate crowdin christina_first_talk_180ce209:
 
-msgid "[Christine_03]Оу! Да я шутила, конечно... По крайней мере про тебя."
-msgstr "[Christine_03]Oh! Sì, stavo scherzando, ovviamente... Almeno su di te."
+    # Christine_03 "Оу! Да я шутила, конечно... По крайней мере про тебя."
+    Christine_03 "Oh! Sì, stavo scherzando, ovviamente... Almeno su di te."
 
 # game/dialogues/christina.rpy:12
 translate crowdin christina_first_talk_b993408f:
@@ -39,8 +39,8 @@ translate crowdin christina_first_talk_b993408f:
 # game/dialogues/christina.rpy:13
 translate crowdin christina_first_talk_6bc10c65:
 
-msgid "[Christine_04]Ясно, ясно, как скажешь... Даже не знаю, что думать, ты купил очень сексуальную сорочку... Интересные у тебя отношения с твоей семьёй!"
-msgstr "[Christine_04]Chiaro, chiaro, come dici tu... Non so nemmeno cosa pensare, hai comprato una camicia molto sexy... Hai un rapporto interessante con la tua famiglia!"
+    # Christine_04 "Ясно, ясно, как скажешь... Даже не знаю, что думать, ты купил очень сексуальную сорочку... Интересные у тебя отношения с твоей семьёй!"
+    Christine_04 "Chiaro, chiaro, come dici tu... Non so nemmeno cosa pensare, hai comprato una camicia molto sexy... Hai un rapporto interessante con la tua famiglia!"
 
 # game/dialogues/christina.rpy:14
 translate crowdin christina_first_talk_1eaa95f2:
@@ -51,8 +51,8 @@ translate crowdin christina_first_talk_1eaa95f2:
 # game/dialogues/christina.rpy:15
 translate crowdin christina_first_talk_45304a41:
 
-msgid "[Christine_01]Похоже ты славный паренёк..."
-msgstr "[Christine_01]Sembra che tu sia un bravo ragazzo..."
+    # Christine_01 "Похоже ты славный паренёк..."
+    Christine_01 "Sembra che tu sia un bravo ragazzo..."
 
 # game/dialogues/christina.rpy:16
 translate crowdin christina_first_talk_9ad20b4c:
@@ -63,8 +63,8 @@ translate crowdin christina_first_talk_9ad20b4c:
 # game/dialogues/christina.rpy:17
 translate crowdin christina_first_talk_73942048:
 
-msgid "[Christine_02]А я Кристина. Рада познакомится с таким внимательным и заботливым мальчиком!"
-msgstr "[Christine_02]E io sono Christina. Sono felice di incontrare un ragazzo così attento e premuroso!"
+    # Christine_02 "А я Кристина. Рада познакомится с таким внимательным и заботливым мальчиком!"
+    Christine_02 "E io sono Christina. Sono felice di incontrare un ragazzo così attento e premuroso!"
 
 # game/dialogues/christina.rpy:18
 translate crowdin christina_first_talk_61e204a2:
@@ -75,8 +75,8 @@ translate crowdin christina_first_talk_61e204a2:
 # game/dialogues/christina.rpy:19
 translate crowdin christina_first_talk_45bffd64:
 
-msgid "[Christine_04]Макс, ты выглядишь лет на десять!"
-msgstr "[Christine_04]Max, sembri avere dieci anni!"
+    # Christine_04 "Макс, ты выглядишь лет на десять!"
+    Christine_04 "Max, sembri avere dieci anni!"
 
 # game/dialogues/christina.rpy:20
 translate crowdin christina_first_talk_c2d8dc26:
@@ -87,14 +87,14 @@ translate crowdin christina_first_talk_c2d8dc26:
 # game/dialogues/christina.rpy:25
 translate crowdin christina_first_talk_0f071789:
 
-msgid "[Christine_03]А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить..." nointeract
-msgstr "[Christine_03]Forse tutte e tre le volte dieci? Ok, sto uscendo con te, ho ancora qualcosa da consegnare..." nointeract
+    # Christine_03 "А может все три раза по десять? Ладно, заболталась я с тобой, мне ещё есть, что развозить..." nointeract
+    Christine_03 "Forse tutte e tre le volte dieci? Ok, sto uscendo con te, ho ancora qualcosa da consegnare..." nointeract
 
 # game/dialogues/christina.rpy:28
 translate crowdin christina_first_talk_13d9bbd2:
 
-msgid "[Christine_03]Спасибо, Макс. Была рада познакомиться!"
-msgstr "[Christine_03]Grazie, Max. Sono stato felice di conoscerti!"
+    # Christine_03 "Спасибо, Макс. Была рада познакомиться!"
+    Christine_03 "Grazie, Max. Sono stato felice di conoscerti!"
 
 # game/dialogues/christina.rpy:29
 translate crowdin christina_first_talk_204a6521:
@@ -105,14 +105,14 @@ translate crowdin christina_first_talk_204a6521:
 # game/dialogues/christina.rpy:33
 translate crowdin christina_first_talk_4e754e98:
 
-msgid "[Christine_04]Ничего себе! Десятилетки ко мне ещё не подкатывали..."
-msgstr "[Christine_04]Wow! I bambini di dieci anni non sono ancora venuti da me..."
+    # Christine_04 "Ничего себе! Десятилетки ко мне ещё не подкатывали..."
+    Christine_04 "Wow! I bambini di dieci anni non sono ancora venuti da me..."
 
 # game/dialogues/christina.rpy:34
 translate crowdin christina_first_talk_6d86254c:
 
-msgid "[Christine_04]Знаю, тебе двадцать!"
-msgstr "[Christine_04]so che hai vent'anni!"
+    # Christine_04 "Знаю, тебе двадцать!"
+    Christine_04 "so che hai vent'anni!"
 
 # game/dialogues/christina.rpy:35
 translate crowdin christina_first_talk_bf6defe7:
@@ -123,8 +123,8 @@ translate crowdin christina_first_talk_bf6defe7:
 # game/dialogues/christina.rpy:36
 translate crowdin christina_first_talk_70b67a69:
 
-msgid "[Christine_01]Макс, посмотри на меня... Ну... что скажешь?"
-msgstr "[Christine_01]Max, guardami... Bene... Che ne dici?"
+    # Christine_01 "Макс, посмотри на меня... Ну... что скажешь?"
+    Christine_01 "Max, guardami... Bene... Che ne dici?"
 
 # game/dialogues/christina.rpy:37
 translate crowdin christina_first_talk_36dacf0d:
@@ -135,8 +135,8 @@ translate crowdin christina_first_talk_36dacf0d:
 # game/dialogues/christina.rpy:38
 translate crowdin christina_first_talk_2ad36870:
 
-msgid "[Christine_02]Вот... Я по полдня развожу одежду и ко мне пытаются подкатить почти в каждом доме! Даже женщины, временами..."
-msgstr "[Christine_02]Ecco... Sono mezza giornata senza vestiti e cerco di arrotolarmi in quasi tutte le case! Anche le donne, a volte..."
+    # Christine_02 "Вот... Я по полдня развожу одежду и ко мне пытаются подкатить почти в каждом доме! Даже женщины, временами..."
+    Christine_02 "Ecco... Sono mezza giornata senza vestiti e cerco di arrotolarmi in quasi tutte le case! Anche le donne, a volte..."
 
 # game/dialogues/christina.rpy:39
 translate crowdin christina_first_talk_c6c68e68:
@@ -147,8 +147,8 @@ translate crowdin christina_first_talk_c6c68e68:
 # game/dialogues/christina.rpy:40
 translate crowdin christina_first_talk_9763c614:
 
-msgid "[Christine_00]И всем вам нужно лишь одно, залезть ко мне в трусы! Так ведь?"
-msgstr "[Christine_00]E tutti voi avete bisogno di una sola cosa, di salire nelle mie mutandine! A destra?"
+    # Christine_00 "И всем вам нужно лишь одно, залезть ко мне в трусы! Так ведь?"
+    Christine_00 "E tutti voi avete bisogno di una sola cosa, di salire nelle mie mutandine! A destra?"
 
 # game/dialogues/christina.rpy:41
 translate crowdin christina_first_talk_0622f90e:
@@ -159,8 +159,8 @@ translate crowdin christina_first_talk_0622f90e:
 # game/dialogues/christina.rpy:42
 translate crowdin christina_first_talk_36349b3f:
 
-msgid "[Christine_01]Умный мальчик. Так что, давай без подкатов, ладно?"
-msgstr "[Christine_01]Ragazzo intelligente. Quindi, non affrontiamo, ok?"
+    # Christine_01 "Умный мальчик. Так что, давай без подкатов, ладно?"
+    Christine_01 "Ragazzo intelligente. Quindi, non affrontiamo, ok?"
 
 # game/dialogues/christina.rpy:43
 translate crowdin christina_first_talk_5f170396:
@@ -171,8 +171,8 @@ translate crowdin christina_first_talk_5f170396:
 # game/dialogues/christina.rpy:44
 translate crowdin christina_first_talk_13d9bbd2_1:
 
-msgid "[Christine_03]Спасибо, Макс. Была рада познакомиться!"
-msgstr "[Christine_03]Grazie, Max. Sono stato felice di conoscerti!"
+    # Christine_03 "Спасибо, Макс. Была рада познакомиться!"
+    Christine_03 "Grazie, Max. Sono stato felice di conoscerti!"
 
 # game/dialogues/christina.rpy:45
 translate crowdin christina_first_talk_204a6521_1:
