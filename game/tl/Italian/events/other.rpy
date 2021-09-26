@@ -124,7 +124,7 @@ translate crowdin back_shoping_ff1fed11:
 translate crowdin back_shoping_7fae385c:
 
     # Ann_00 "Эрик подъедет к ужину. Сейчас у него какие-то дела. Не переживай, сегодня ты его увидишь."
-msgstr "eric [Ann_00]guidare fino a cena. Ora ha un po' di affari da fare. Non preoccuparti, lo vedrai oggi."
+    Ann_00 "Eric sarà qui per cena. È nel bel mezzo di qualcosa. Non preoccupatevi, lo vedrete stasera."
 
 # game/events/other.rpy:60
 translate crowdin back_shoping_e80e3f94:

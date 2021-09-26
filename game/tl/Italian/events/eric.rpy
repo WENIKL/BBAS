@@ -592,7 +592,7 @@ translate crowdin eric_ann_fucking_voyeur_afca94eb:
 translate crowdin eric_ann_fucking_voyeur_9e12ffd3:
 
     # Ann_14 "Эрик, но... он мой сын. Это неправильно, ты же понимаешь..."
-msgstr "eric [Ann_14], ma... è mio figlio. È sbagliato, sai..."
+    Ann_14 "Eric, ma... è mio figlio. Non è giusto, sai..."
 
 # game/events/eric.rpy:601
 translate crowdin eric_ann_fucking_voyeur_271fa166:
