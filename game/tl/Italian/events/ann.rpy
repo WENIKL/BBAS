@@ -259,14 +259,14 @@ translate crowdin ann_dressed_work_7b31f3ed:
 # game/events/ann.rpy:259
 translate crowdin ann_dressed_work_b21abe2e:
 
-msgid "[Ann]{b}Анна:{/b} Кто там?" nointeract
-msgstr "[Ann]{b}Anna:{/b} Chi c'è?" nointeract
+    # Ann "{b}Анна:{/b} Кто там?" nointeract
+    Ann "{b}Anna:{/b} Chi c'è?" nointeract
 
 # game/events/ann.rpy:262
 translate crowdin ann_dressed_work_2e55a9e3:
 
-msgid "[Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
-msgstr "[Ann]{b}Anna:{/b} Max, non sono vestita. Vado a lavorare. Aspetta un po', cara."
+    # Ann "{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} Max, non sono vestita. Vado a lavorare. Aspetta un po', cara."
 
 # game/events/ann.rpy:263
 translate crowdin ann_dressed_work_f3117b6b:
@@ -277,8 +277,8 @@ translate crowdin ann_dressed_work_f3117b6b:
 # game/events/ann.rpy:266
 translate crowdin ann_dressed_work_2e55a9e3_1:
 
-msgid "[Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
-msgstr "[Ann]{b}Anna:{/b} Max, non sono vestita. Vado a lavorare. Aspetta un po', cara."
+    # Ann "{b}Анна:{/b} Макс, я не одета. Собираюсь на работу. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} Max, non sono vestita. Vado a lavorare. Aspetta un po', cara."
 
 # game/events/ann.rpy:267
 translate crowdin ann_dressed_work_f3117b6b_1:
@@ -403,8 +403,8 @@ translate crowdin ann_dressed_work_gift_cc0857da:
 # game/events/ann.rpy:337
 translate crowdin ann_dressed_work_gift_dec66268:
 
-msgid "[Ann]{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
-msgstr "[Ann]{b}Anna:{/b} Wow, è traslucida! Tesoro, capisci che tua madre non riesce ad essere di fronte a suo figlio..."
+    # Ann "{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
+    Ann "{b}Anna:{/b} Wow, è traslucida! Tesoro, capisci che tua madre non riesce ad essere di fronte a suo figlio..."
 
 # game/events/ann.rpy:338
 translate crowdin ann_dressed_work_gift_461f061a:
@@ -415,8 +415,8 @@ translate crowdin ann_dressed_work_gift_461f061a:
 # game/events/ann.rpy:339
 translate crowdin ann_dressed_work_gift_0f666c00:
 
-msgid "[Ann]{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
-msgstr "[Ann]{b}Anna:{/b} No, lo adoro! È un regalo perfetto! Ma non pensi di essere troppo giovane per fare regali del genere?"
+    # Ann "{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
+    Ann "{b}Anna:{/b} No, lo adoro! È un regalo perfetto! Ma non pensi di essere troppo giovane per fare regali del genere?"
 
 # game/events/ann.rpy:340
 translate crowdin ann_dressed_work_gift_00ed580c:
@@ -427,8 +427,8 @@ translate crowdin ann_dressed_work_gift_00ed580c:
 # game/events/ann.rpy:341
 translate crowdin ann_dressed_work_gift_f9e66542:
 
-msgid "[Ann]{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
-msgstr "[Ann]{b}Anna:{/b} Oh, Max, mi stai mettendo in imbarazzo, un regalo così franco, e anche mia madre... Ma comunque, lo apprezzo molto... e grazie ancora!"
+    # Ann "{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
+    Ann "{b}Anna:{/b} Oh, Max, mi stai mettendo in imbarazzo, un regalo così franco, e anche mia madre... Ma comunque, lo apprezzo molto... e grazie ancora!"
 
 # game/events/ann.rpy:342
 translate crowdin ann_dressed_work_gift_75fcb6dd:
@@ -499,14 +499,14 @@ translate crowdin ann_dressed_shop_d4cf236b:
 # game/events/ann.rpy:421
 translate crowdin ann_dressed_shop_b21abe2e:
 
-msgid "[Ann]{b}Анна:{/b} Кто там?" nointeract
-msgstr "[Ann]{b}Anna:{/b} Chi c'è?" nointeract
+    # Ann "{b}Анна:{/b} Кто там?" nointeract
+    Ann "{b}Anna:{/b} Chi c'è?" nointeract
 
 # game/events/ann.rpy:424
 translate crowdin ann_dressed_shop_bf2abaef:
 
-msgid "[Ann]{b}Анна:{/b} Нет, Макс. Я переодеваюсь. Подожди немного, дорогой."
-msgstr "[Ann]{b}Anna:{/b} No, Max. Cambio i vestiti. Aspetta un po', cara."
+    # Ann "{b}Анна:{/b} Нет, Макс. Я переодеваюсь. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} No, Max. Cambio i vestiti. Aspetta un po', cara."
 
 # game/events/ann.rpy:425
 translate crowdin ann_dressed_shop_f3117b6b:
@@ -517,8 +517,8 @@ translate crowdin ann_dressed_shop_f3117b6b:
 # game/events/ann.rpy:427
 translate crowdin ann_dressed_shop_2f691176:
 
-msgid "[Ann]{b}Анна:{/b} Макс, я не одета. Собираюсь на шопинг. Подожди немного, дорогой."
-msgstr "[Ann]{b}Anna:{/b} Max, non sono vestita. Vado a fare shopping. Aspetta un po', cara."
+    # Ann "{b}Анна:{/b} Макс, я не одета. Собираюсь на шопинг. Подожди немного, дорогой."
+    Ann "{b}Anna:{/b} Max, non sono vestita. Vado a fare shopping. Aspetta un po', cara."
 
 # game/events/ann.rpy:428
 translate crowdin ann_dressed_shop_f3117b6b_1:
@@ -631,8 +631,8 @@ translate crowdin ann_dressed_shop_gift_cc0857da:
 # game/events/ann.rpy:494
 translate crowdin ann_dressed_shop_gift_dec66268:
 
-msgid "[Ann]{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
-msgstr "[Ann]{b}Anna:{/b} Wow, è traslucida! Tesoro, capisci che tua madre non riesce ad essere di fronte a suo figlio..."
+    # Ann "{b}Анна:{/b} Ничего себе, она полупрозрачная! Дорогой, ты же понимаешь, что твоя мама не может показаться в этом перед сыном..."
+    Ann "{b}Anna:{/b} Wow, è traslucida! Tesoro, capisci che tua madre non riesce ad essere di fronte a suo figlio..."
 
 # game/events/ann.rpy:495
 translate crowdin ann_dressed_shop_gift_461f061a:
@@ -643,8 +643,8 @@ translate crowdin ann_dressed_shop_gift_461f061a:
 # game/events/ann.rpy:496
 translate crowdin ann_dressed_shop_gift_0f666c00:
 
-msgid "[Ann]{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
-msgstr "[Ann]{b}Anna:{/b} No, lo adoro! È un regalo perfetto! Ma non pensi di essere troppo giovane per fare regali del genere?"
+    # Ann "{b}Анна:{/b} Нет, мне очень нравится! Это прекрасный подарок! Только вот, тебе не кажется, что ты ещё слишком мал, чтобы делать подобные подарки?"
+    Ann "{b}Anna:{/b} No, lo adoro! È un regalo perfetto! Ma non pensi di essere troppo giovane per fare regali del genere?"
 
 # game/events/ann.rpy:497
 translate crowdin ann_dressed_shop_gift_00ed580c:
@@ -655,8 +655,8 @@ translate crowdin ann_dressed_shop_gift_00ed580c:
 # game/events/ann.rpy:498
 translate crowdin ann_dressed_shop_gift_f9e66542:
 
-msgid "[Ann]{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
-msgstr "[Ann]{b}Anna:{/b} Oh, Max, mi stai mettendo in imbarazzo, un regalo così franco, e anche mia madre... Ma comunque, lo apprezzo molto... e grazie ancora!"
+    # Ann "{b}Анна:{/b} Ох, Макс, ты меня смущаешь, такой откровенный подарок, да ещё родной матери... Но всё равно, я очень это ценю... и ещё раз огромное спасибо!"
+    Ann "{b}Anna:{/b} Oh, Max, mi stai mettendo in imbarazzo, un regalo così franco, e anche mia madre... Ma comunque, lo apprezzo molto... e grazie ancora!"
 
 # game/events/ann.rpy:499
 translate crowdin ann_dressed_shop_gift_75fcb6dd:
@@ -727,26 +727,26 @@ translate crowdin ann_bath_9132bdea:
 # game/events/ann.rpy:635
 translate crowdin ann_bath_cddc6bee:
 
-msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну!" nointeract
-msgstr "[Ann]{b}Anna:{/b} Chi c'è? Faccio il bagno!" nointeract
+    # Ann "{b}Анна:{/b} Кто там? Я принимаю ванну!" nointeract
+    Ann "{b}Anna:{/b} Chi c'è? Faccio il bagno!" nointeract
 
 # game/events/ann.rpy:638
 translate crowdin ann_bath_29fc0d16:
 
-msgid "[Ann]{b}Анна:{/b} Дорогой, что ты хотел?" nointeract
-msgstr "[Ann]{b}Anna:{/b} Tesoro, cosa volevi?" nointeract
+    # Ann "{b}Анна:{/b} Дорогой, что ты хотел?" nointeract
+    Ann "{b}Anna:{/b} Tesoro, cosa volevi?" nointeract
 
 # game/events/ann.rpy:642
 translate crowdin ann_bath_13e7202f:
 
-msgid "[Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри!" nointeract
-msgstr "[Ann]{b}Anna:{/b} Beh... va bene, entra. Basta non guardare!" nointeract
+    # Ann "{b}Анна:{/b} Ну... хорошо, входи. Только не смотри!" nointeract
+    Ann "{b}Anna:{/b} Beh... va bene, entra. Basta non guardare!" nointeract
 
 # game/events/ann.rpy:666
 translate crowdin ann_bath_9b9b753a:
 
-msgid "[Ann]{b}Анна:{/b} Хорошо, я скоро закончу..."
-msgstr "[Ann]{b}Anna:{/b} Ok, finirò presto..."
+    # Ann "{b}Анна:{/b} Хорошо, я скоро закончу..."
+    Ann "{b}Anna:{/b} Ok, finirò presto..."
 
 # game/events/ann.rpy:667
 translate crowdin ann_bath_7852d704:

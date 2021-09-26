@@ -2943,8 +2943,8 @@ translate crowdin alice_body_photoset1_cec47c00:
 # game/events/alice.rpy:2344
 translate crowdin alice_towel_after_club_3479dfb8:
 
-msgid "[Max]" nointeract
-msgstr "[Max]" nointeract
+    # Max "" nointeract
+    Max "" nointeract
 
 # game/events/alice.rpy:2347
 translate crowdin alice_towel_after_club_164b6a94:
@@ -3471,7 +3471,7 @@ translate crowdin blog_with_Eric_abb8de91:
 # game/events/alice.rpy:2650
 translate crowdin blog_with_Eric_55fa4c7f:
 
-msgid "[Eric_01]Естественно! Всегда можешь ко мне обращаться... Только старайся немного заранее, а то я человек занятой..."
+    # Eric_01 "Естественно! Всегда можешь ко мне обращаться... Только старайся немного заранее, а то я человек занятой..."
 msgstr "[Eric_01]Certo! Puoi sempre contattarmi... Basta provare un po 'in anticipo, a parte il fatto che sono una persona impegnata..."
 
 # game/events/alice.rpy:2651

@@ -1029,8 +1029,8 @@ translate crowdin ann_gift_fit1_62fb14c1:
 # game/dialogues/anntalk.rpy:617
 translate crowdin ann_gift_fit1_dc4afcad:
 
-msgid "[Ann]{b}Анна:{/b} Сынок, с размером всё в порядке. Вроде, сидит отлично. Только вот..."
-msgstr "[Ann]{b}Anna:{/b} Figliolo, la taglia va bene. Come, si siede perfettamente. Solo qui..."
+    # Ann "{b}Анна:{/b} Сынок, с размером всё в порядке. Вроде, сидит отлично. Только вот..."
+    Ann "{b}Anna:{/b} Figliolo, la taglia va bene. Come, si siede perfettamente. Solo qui..."
 
 # game/dialogues/anntalk.rpy:622
 translate crowdin ann_gift_fit1_5783d83b:

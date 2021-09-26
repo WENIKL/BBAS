@@ -255,7 +255,7 @@ translate crowdin MeetingEric_56e6606a:
 # game/events/other.rpy:120
 translate crowdin MeetingEric_deda115c:
 
-msgid "[Eric_01]Мне тоже. Как жизнь, Макс, чем занимаешься?" nointeract
+    # Eric_01 "Мне тоже. Как жизнь, Макс, чем занимаешься?" nointeract
 msgstr "[Eric_01]anche a me. Come la vita, Max, cosa fai?" nointeract
 
 # game/events/other.rpy:123
@@ -273,7 +273,7 @@ translate crowdin MeetingEric_ec11cf76:
 # game/events/other.rpy:130
 translate crowdin MeetingEric_aa815859:
 
-msgid "[Eric_00]Понятно. Воздух пинаешь... Ну ничего, в своё время всё изменится..."
+    # Eric_00 "Понятно. Воздух пинаешь... Ну ничего, в своё время всё изменится..."
 msgstr "[Eric_00]comprensibile. Si prende a calci l'aria... Beh, niente, a tempo debito tutto cambierà..."
 
 # game/events/other.rpy:131
@@ -357,7 +357,7 @@ translate crowdin MeetingEric_696b9e70:
 # game/events/other.rpy:175
 translate crowdin MeetingEric_44fb47c0:
 
-msgid "[Eric_01]Понятно. Видимо, Макс слишком скромный. Ну ничего страшного, я в его возрасте тоже смущался..."
+    # Eric_01 "Понятно. Видимо, Макс слишком скромный. Ну ничего страшного, я в его возрасте тоже смущался..."
 msgstr "[Eric_01]comprensibile. A quanto pare Max è troppo modesto. Beh, va bene, ero imbarazzato anche per la sua età..."
 
 # game/events/other.rpy:176

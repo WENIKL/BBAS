@@ -237,8 +237,8 @@ translate crowdin MorningWoodCont_e3c0bf2a:
 # game/dialogues/lisatalk.rpy:179
 translate crowdin MorningWoodCont_4fbd8958:
 
-msgid "[Max]Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
-msgstr "[Max]Che cos'è?! Lisa vuole toccare il mio cazzo?! No, probabilmente sto ancora dormendo... O no?" nointeract
+    # Max "Это что?! Лиза хочет прикоснуться к моему члену?! Да нет, это я, наверно, всё ещё сплю... Или нет?" nointeract
+    Max "Che cos'è?! Lisa vuole toccare il mio cazzo?! No, probabilmente sto ancora dormendo... O no?" nointeract
 
 # game/dialogues/lisatalk.rpy:186
 translate crowdin MorningWoodCont_b3cadc1a:

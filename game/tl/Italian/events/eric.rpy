@@ -3,7 +3,7 @@
 # game/events/eric.rpy:12
 translate crowdin Eric_talk_afterdinner_84e16ca3:
 
-msgid "[Eric_00]Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
+    # Eric_00 "Макс, пока твоя мама переодевается, я бы хотел с тобой поговорить. С глазу на глаз, так сказать..."
 msgstr "[Eric_00]Max, mentre tua madre si cambia i vestiti, vorrei parlare con te. Faccia a faccia, per così dire..."
 
 # game/events/eric.rpy:14
@@ -45,13 +45,13 @@ msgstr "[Eric_13]Sai, abbiamo iniziato la nostra conoscenza in qualche modo senz
 # game/events/eric.rpy:45
 translate crowdin Eric_talk_afterdinner_good_576d188f:
 
-msgid "[Eric_01]Отлично. Если мы подружимся, ты не пожалеешь, Макс. Но, чтобы убедиться, давай вернёмся к этому разговору через неделю. Если мы найдём общий язык, то всё будет отлично. Ну а если нет..." nointeract
+    # Eric_01 "Отлично. Если мы подружимся, ты не пожалеешь, Макс. Но, чтобы убедиться, давай вернёмся к этому разговору через неделю. Если мы найдём общий язык, то всё будет отлично. Ну а если нет..." nointeract
 msgstr "[Eric_01]Ottimo. Se facciamo amicizia, non te ne pentirai, Max. Ma per essere sicuri, torniamo a quella conversazione tra una settimana. Se troviamo un linguaggio comune, allora tutto andrà bene. Beh, se no..." nointeract
 
 # game/events/eric.rpy:57
 translate crowdin Eric_talk_afterdinner_bad_5431f4ad:
 
-msgid "[Eric_01]Я бы на твоём месте не искал врага там, где его нет. Предлагаю вернуться к этому разговору через неделю. Если мы подружимся, ты не пожалеешь. А вот если решишь со мной воевать, то ты точно проиграешь..." nointeract
+    # Eric_01 "Я бы на твоём месте не искал врага там, где его нет. Предлагаю вернуться к этому разговору через неделю. Если мы подружимся, ты не пожалеешь. А вот если решишь со мной воевать, то ты точно проиграешь..." nointeract
 msgstr "[Eric_01]non cercherei un nemico al tuo posto dove non ce n'è. Suggerisco di tornare a questa conversazione tra una settimana. Se facciamo amicizia, non te ne pentirai. Ma se decidi di combattere con me, perderai sicuramente..." nointeract
 
 # game/events/eric.rpy:65
@@ -87,7 +87,7 @@ msgstr "[Eric_09]Beh, non a parole, ma lo vedo dall'esterno. Sei stato cacciato 
 # game/events/eric.rpy:102
 translate crowdin Eric_talk_afterdinner_shesaid_de4eb4e2:
 
-msgid "[Eric_00]Но повторюсь, я не хочу с тобой воевать. Наоборот, я бы хотел с тобой подружиться и если ты будешь на моей стороне, ты только выиграешь..." nointeract
+    # Eric_00 "Но повторюсь, я не хочу с тобой воевать. Наоборот, я бы хотел с тобой подружиться и если ты будешь на моей стороне, ты только выиграешь..." nointeract
 msgstr "[Eric_00]Ma ancora una volta, non voglio combatterti. Al contrario, vorrei fare amicizia con te e se sei dalla mia parte, vincerai solo..." nointeract
 
 # game/events/eric.rpy:112
@@ -99,13 +99,13 @@ msgstr "[Eric_05]A seconda di come andrà la nostra comunicazione la prossima se
 # game/events/eric.rpy:115
 translate crowdin Eric_talk_afterdinner_ok_4dcd84ae:
 
-msgid "[Eric_00]Ты слишком забегаешь вперёд, Макс. Давай сначала посмотрим на то, как всё пойдёт. Дай мне хотя бы шанс тебя убедить..." nointeract
+    # Eric_00 "Ты слишком забегаешь вперёд, Макс. Давай сначала посмотрим на то, как всё пойдёт. Дай мне хотя бы шанс тебя убедить..." nointeract
 msgstr "[Eric_00]Stai andando troppo avanti, Max. Vediamo prima come vanno le cose. Dammi almeno la possibilità di convincerti..." nointeract
 
 # game/events/eric.rpy:127
 translate crowdin Eric_talk_afterdinner_no_099d542e:
 
-msgid "[Eric_00]Ну, как хочешь. Надеюсь, в тебе сейчас говорят эмоции, а не здравый смысл. У тебя есть неделя, чтобы передумать. Тогда и поговорим снова и будет ясно, как быть." nointeract
+    # Eric_00 "Ну, как хочешь. Надеюсь, в тебе сейчас говорят эмоции, а не здравый смысл. У тебя есть неделя, чтобы передумать. Тогда и поговорим снова и будет ясно, как быть." nointeract
 msgstr "[Eric_00]Beh, quello che vuoi. Spero che tu stia parlando di emozioni ora, non di buon senso. Hai una settimana per cambiare idea. Poi parleremo di nuovo e sarà chiaro come essere." nointeract
 
 # game/events/eric.rpy:137
@@ -123,7 +123,7 @@ translate crowdin Eric_talk_afterdinner_friend_516308d2:
 # game/events/eric.rpy:151
 translate crowdin Eric_talk_afterdinner_second_talk_913ec3c6:
 
-msgid "[Eric_00]Ну что, Макс, готов пообщаться снова, пока твоя мама собирается?"
+    # Eric_00 "Ну что, Макс, готов пообщаться снова, пока твоя мама собирается?"
 msgstr "[Eric_00]Bene, Max, pronto a parlare di nuovo mentre tua madre sta andando?"
 
 # game/events/eric.rpy:153
@@ -147,7 +147,7 @@ translate crowdin Eric_talk_afterdinner_second_talk_6f10b98c:
 # game/events/eric.rpy:162
 translate crowdin Eric_talk_afterdinner_second_talk_7a3e3f7a:
 
-msgid "[Eric_01]Правда, я не до конца понял твою позицию. Ты настроен на дружбу или хочешь попытаться повоевать?" nointeract
+    # Eric_01 "Правда, я не до конца понял твою позицию. Ты настроен на дружбу или хочешь попытаться повоевать?" nointeract
 msgstr "[Eric_01]È vero, non ho capito appieno la tua posizione. Sei in vena di amicizia o vuoi provare a combattere?" nointeract
 
 # game/events/eric.rpy:169
@@ -171,7 +171,7 @@ msgstr "[Eric_02]Tutto è chiaro con te. Bene, questa è la tua scelta. Hai avut
 # game/events/eric.rpy:190
 translate crowdin Eric_talk_afterdinner_goodgood_2ba39b19:
 
-msgid "[Eric_01]Очень хорошо. Я рад. Ну, ты не пожалеешь, это правильный выбор..."
+    # Eric_01 "Очень хорошо. Я рад. Ну, ты не пожалеешь, это правильный выбор..."
 msgstr "[Eric_01]Molto buono. Sono contento. Beh, non ve ne pentirete, è la scelta giusta..."
 
 # game/events/eric.rpy:191
@@ -201,7 +201,7 @@ msgstr "[Eric_05]non sono cieco e ti vedo guardare le tue sorelle e persino tua 
 # game/events/eric.rpy:202
 translate crowdin Eric_talk_afterdinner_goodgood_3e31f80b:
 
-msgid "[Eric_01]Да ладно, здесь все свои! Любой мужик бы думал только о том, как поиметь их всех по очереди или даже разом. Это нормально! Я тебя понимаю!" nointeract
+    # Eric_01 "Да ладно, здесь все свои! Любой мужик бы думал только о том, как поиметь их всех по очереди или даже разом. Это нормально! Я тебя понимаю!" nointeract
 msgstr "[Eric_01]Dai, è tutto tuo! Qualsiasi ragazzo penserebbe solo a come averli tutti a turno o anche in una volta. È ok! Ti capisco!" nointeract
 
 # game/events/eric.rpy:205
@@ -231,7 +231,7 @@ msgstr "[Eric_09]non me lo aspettavo da te... Ok, sono affari tuoi... Ma tieni p
 # game/events/eric.rpy:235
 translate crowdin Eric_talk_afterdinner_tell_6653b55b:
 
-msgid "[Eric_01]Так ты меня разводишь? А я тебе почти поверил! Молодец..."
+    # Eric_01 "Так ты меня разводишь? А я тебе почти поверил! Молодец..."
 msgstr "[Eric_01]Quindi mi stai allevando? E ti ho quasi creduto! Ottimo lavoro..."
 
 # game/events/eric.rpy:236
@@ -279,7 +279,7 @@ translate crowdin Eric_talk_afterdinner_get_872bbc39:
 # game/events/eric.rpy:245
 translate crowdin Eric_talk_afterdinner_get_eec94b44:
 
-msgid "[Eric_01]Ну лично я не возражаю. Думаю, даже твою маму подготовлю, чтобы если заметила, то не наказывала. Если ты помнишь, со следующей недели шлёпать вас будут голыми, а это очень унизительно... Что ещё ты там просил?"
+    # Eric_01 "Ну лично я не возражаю. Думаю, даже твою маму подготовлю, чтобы если заметила, то не наказывала. Если ты помнишь, со следующей недели шлёпать вас будут голыми, а это очень унизительно... Что ещё ты там просил?"
 msgstr "[Eric_01]Beh, personalmente, non mi dispiace. Penso che anche tua madre si preparerà in modo che se se ne accorge, non punisce. Se vi ricordate, dalla prossima settimana vi schiaffeggeranno nudi, e questo è molto umiliante... Cos'altro hai chiesto lì?"
 
 # game/events/eric.rpy:246
@@ -351,7 +351,7 @@ translate crowdin Eric_talk_afterdinner_get_67b5c25f:
 # game/events/eric.rpy:277
 translate crowdin Eric_talk_afterdinner_get_3d7ac95b:
 
-msgid "[Eric_01]Ну всё, Макс. Я рад, что мы разобрались и, так сказать, поделили территорию. Теперь всё в твоих руках. Ну и в моих тоже... О, твоя мама идёт. Ну всё, пока!"
+    # Eric_01 "Ну всё, Макс. Я рад, что мы разобрались и, так сказать, поделили территорию. Теперь всё в твоих руках. Ну и в моих тоже... О, твоя мама идёт. Ну всё, пока!"
 msgstr "[Eric_01]Bene, Max. Sono contento che abbiamo risolto e diviso il territorio, per così dire. Ora tutto è nelle tue mani. Beh, anche nel mio... Oh, tua madre sta arrivando. Bene, bye!"
 
 # game/events/eric.rpy:324
@@ -609,7 +609,7 @@ translate crowdin eric_ann_fucking_voyeur_e33a4f0b:
 # game/events/eric.rpy:603
 translate crowdin eric_ann_fucking_voyeur_9f2cfa55:
 
-msgid "[Eric_01]Ну всё, Макс. Мы тут ещё побеседуем. А для тебя на сегодня хватит, иди."
+    # Eric_01 "Ну всё, Макс. Мы тут ещё побеседуем. А для тебя на сегодня хватит, иди."
 msgstr "[Eric_01]Bene, Max. Ne parleremo qui. E abbastanza per te oggi, vai."
 
 # game/events/eric.rpy:604
@@ -993,7 +993,7 @@ translate crowdin sexed_lisa_lesson_0_3242e036:
 # game/events/eric.rpy:1055
 translate crowdin sexed_lisa_lesson_0_c3153c91:
 
-msgid "[Eric_01]... Рано или поздно у тебя появится парень и тебе нужно знать, как доставить ему удовольствие руками. Но это если вы с ним настроены на серьёзные отношения!"
+    # Eric_01 "... Рано или поздно у тебя появится парень и тебе нужно знать, как доставить ему удовольствие руками. Но это если вы с ним настроены на серьёзные отношения!"
 msgstr "[Eric_01]... Prima o poi avrai un fidanzato e devi sapere come dargli piacere con le tue mani. Ma questo è se sei pronto per una relazione seria con lui!"
 
 # game/events/eric.rpy:1056
@@ -1233,7 +1233,7 @@ translate crowdin sexed_lisa_lesson_2_4668a125:
 # game/events/eric.rpy:1170
 translate crowdin sexed_lisa_lesson_2_1340ebb1:
 
-msgid "[Eric_01]Конечно, Ань, сейчас."
+    # Eric_01 "Конечно, Ань, сейчас."
 msgstr "[Eric_01]Certo, An, ora."
 
 # game/events/eric.rpy:1177

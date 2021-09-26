@@ -627,7 +627,7 @@ translate crowdin dinner_4_70506d70:
 # game/dialogues/dinner.rpy:348
 translate crowdin dinner_4_f7058ec9:
 
-msgid "[Eric_01]Да, купальник был отличный, но я уважаю решение Ани и понимаю, почему не стали покупать. Ну, нет, так нет..."
+    # Eric_01 "Да, купальник был отличный, но я уважаю решение Ани и понимаю, почему не стали покупать. Ну, нет, так нет..."
 msgstr "[Eric_01]Sì, il costume da bagno è stato fantastico, ma rispetto la decisione di Ani e capisco perché non hanno comprato. Beh, no, non lo è..."
 
 # game/dialogues/dinner.rpy:349
@@ -687,7 +687,7 @@ translate crowdin dinner_4_c6597fba:
 # game/dialogues/dinner.rpy:375
 translate crowdin dinner_4_dab367c7:
 
-msgid "[Eric_00]Точно, Алиса. Ты хотела какое-то платье, вроде бы... Верно?"
+    # Eric_00 "Точно, Алиса. Ты хотела какое-то платье, вроде бы... Верно?"
 msgstr "[Eric_00]Esattamente, Alice. Volevi una specie di vestito, come... Fedelmente?"
 
 # game/dialogues/dinner.rpy:376
@@ -1017,7 +1017,7 @@ translate crowdin dinner_6_317a2271:
 # game/dialogues/dinner.rpy:496
 translate crowdin dinner_6_5356c4a4:
 
-msgid "[Eric_01]Военного. В этом лагере подготавливают детей твоего возраста к службе в армии. Это не значит, что ты обязан будешь идти служить, но тебя к этом подготовят и ты сам решишь, нравится тебе этот путь или нет..."
+    # Eric_01 "Военного. В этом лагере подготавливают детей твоего возраста к службе в армии. Это не значит, что ты обязан будешь идти служить, но тебя к этом подготовят и ты сам решишь, нравится тебе этот путь или нет..."
 msgstr "[Eric_01]militare. In questo campo, i bambini della tua età sono preparati per il servizio militare. Questo non significa che dovrai andare a servire, ma sarai preparato per questo e deciderai da solo se ti piace questo percorso o no..."
 
 # game/dialogues/dinner.rpy:497
@@ -1065,7 +1065,7 @@ translate crowdin dinner_6_20ceec69:
 # game/dialogues/dinner.rpy:504
 translate crowdin dinner_6_c16222e2:
 
-msgid "[Eric_01]Ну, как я и ожидал... И как же ты станешь настоящим мужчиной? Драться ты не умеешь, наверняка. Физическая подготовка? Ты зарядку хотя бы делаешь? Про дисциплину, вообще, молчу..."
+    # Eric_01 "Ну, как я и ожидал... И как же ты станешь настоящим мужчиной? Драться ты не умеешь, наверняка. Физическая подготовка? Ты зарядку хотя бы делаешь? Про дисциплину, вообще, молчу..."
 msgstr "[Eric_01]Beh, come mi aspettavo... E come diventerai un vero uomo? Non puoi combattere, di sicuro. Forma fisica? Fai almeno la ricarica? A proposito di disciplina, in generale, taccio..."
 
 # game/dialogues/dinner.rpy:505
@@ -1251,7 +1251,7 @@ translate crowdin dinner_11_d501685a:
 # game/dialogues/dinner.rpy:551
 translate crowdin dinner_11_559e8fa1:
 
-msgid "[Eric_01]Ну, тогда у тебя одна дорога. В тот самый военный лагерь. Ну или какой-то другой. И это хорошо. Тебя подготовят, натренируют, научат дисциплине и субординации. Станешь настоящим мужиком!"
+    # Eric_01 "Ну, тогда у тебя одна дорога. В тот самый военный лагерь. Ну или какой-то другой. И это хорошо. Тебя подготовят, натренируют, научат дисциплине и субординации. Станешь настоящим мужиком!"
 msgstr "[Eric_01]Bene, allora hai una strada. A quel campo militare. O qualcos'altro. E questa è una buona cosa. Sarai preparato, addestrato, insegnato disciplina e subordinazione. Diventerai un vero uomo!"
 
 # game/dialogues/dinner.rpy:553
@@ -1269,7 +1269,7 @@ translate crowdin dinner_11_bf1cc148:
 # game/dialogues/dinner.rpy:555
 translate crowdin dinner_11_de1a56d1:
 
-msgid "[Eric_01]Ну, они не очень. Хотя, тебя подготовят, натренеруют. А главное - научат дисциплине и субординации. Мама за тебя порадуется, когда увидит, что мужиком стал!"
+    # Eric_01 "Ну, они не очень. Хотя, тебя подготовят, натренеруют. А главное - научат дисциплине и субординации. Мама за тебя порадуется, когда увидит, что мужиком стал!"
 msgstr "[Eric_01]Beh, non sono molto buoni. Anche se, sarai preparato, addestrato. E, soprattutto, insegna la disciplina e la subordinazione. La mamma sarà felice per te quando vedrà che è diventato un uomo!"
 
 # game/dialogues/dinner.rpy:556
@@ -1599,7 +1599,7 @@ translate crowdin dinner_ab_lisa_ed_ccd44083:
 # game/dialogues/dinner.rpy:675
 translate crowdin dinner_ab_lisa_ed_f6502d96:
 
-msgid "[Eric_01]Я решил, что нужно уделить твоему образованию больше внимания, Лиза. Так что я нанял репетитора, который натаскает тебя по учёбе на самые высокие отметки."
+    # Eric_01 "Я решил, что нужно уделить твоему образованию больше внимания, Лиза. Так что я нанял репетитора, который натаскает тебя по учёбе на самые высокие отметки."
 msgstr "[Eric_01]ho deciso che devo prestare più attenzione alla tua educazione, Lisa. Così ho assunto un tutor che ti porterà attraverso i tuoi studi ai voti più alti."
 
 # game/dialogues/dinner.rpy:676
@@ -1641,7 +1641,7 @@ translate crowdin dinner_ab_lisa_ed_ed572311:
 # game/dialogues/dinner.rpy:689
 translate crowdin dinner_ab_lisa_ed_45306d35:
 
-msgid "[Eric_01]Я решил, что нужно уделить твоему образованию больше внимания, Лиза. Так что я оплатил дополнительные учебные курсы у вас в школе."
+    # Eric_01 "Я решил, что нужно уделить твоему образованию больше внимания, Лиза. Так что я оплатил дополнительные учебные курсы у вас в школе."
 msgstr "[Eric_01]ho deciso che devo prestare più attenzione alla tua educazione, Lisa. Così ho pagato per ulteriori corsi di formazione presso la vostra scuola."
 
 # game/dialogues/dinner.rpy:690

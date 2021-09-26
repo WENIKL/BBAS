@@ -5,8 +5,8 @@
     Max_01 "Solo una persona non può dormire in questo momento e sguazzare nella vasca da bagno. E quest'uomo è Kira!" nointeract
 
 # game/events/kira.rpy:26## # translate crowdin kira_bath_fef8596e:
-msgid "[Kira]{b}Кира:{/b} Кто там? Я принимаю ванну и абсолютно голая... Так что не входите, дайте отдохнуть!"
-msgstr "[Kira]{b}Kira:{/b} Chi c'è? Faccio il bagno e sono completamente nudo... Quindi non entrare, fammi riposare!"
+    # Kira "{b}Кира:{/b} Кто там? Я принимаю ванну и абсолютно голая... Так что не входите, дайте отдохнуть!"
+    Kira "{b}Kira:{/b} Chi c'è? Faccio il bagno e sono completamente nudo... Quindi non entrare, fammi riposare!"
 
 # game/events/kira.rpy:28## # translate crowdin kira_bath_5bdda7d4:
     # Max_09 "Нужно найти способ как-то подглядеть за девчонками в ванной. Может, попробовать вечером со двора?!"
