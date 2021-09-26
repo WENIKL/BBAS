@@ -518,7 +518,7 @@
 
 translate crowdin strings:
 
-# game/events/max.rpy:70
+    # game/events/max.rpy:70
     old "{i}вздремнуть{/i}"
     new "{i}fare un pisolino{/i}"
 

@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/options.rpy:15
+    # game/options.rpy:15
     old "Большой брат: Другая история"
     new "Big Brother: un'altra storia"
 

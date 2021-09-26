@@ -222,7 +222,7 @@
 
 translate crowdin strings:
 
-# game/events/kira_cam.rpy:425
+    # game/events/kira_cam.rpy:425
     old "{i}встретить их{/i}"
     new "{i}li incontriamo{/i}"
 

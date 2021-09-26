@@ -1050,7 +1050,7 @@ translate crowdin Eric_talk_about_Alice_0_1cfeaf31:
     # Eric_01 "Если мне это понадобится, вот тогда и поговорим о твоих \"премиальных\", а пока..."
     Eric_01 "Se ne ho bisogno, è allora che parleremo del tuo \"premium\", ma per ora..."
 
-# game/dialogues/erictalk.rpy:521
+    # game/dialogues/erictalk.rpy:521
 translate crowdin Eric_talk_about_Alice_0_173e5add_1:
 
     # Max_01 "Ловлю на слове!"

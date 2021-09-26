@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/screens.rpy:280
+    # game/screens.rpy:280
     old "История"
     new "Storia principale"
 

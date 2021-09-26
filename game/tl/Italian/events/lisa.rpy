@@ -1084,7 +1084,7 @@
 
 translate crowdin strings:
 
-# game/events/lisa.rpy:43
+    # game/events/lisa.rpy:43
     old "Это я, Макс!"
     new "Sono io, Max!"
 

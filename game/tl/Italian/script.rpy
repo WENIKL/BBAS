@@ -166,7 +166,7 @@
 
 translate crowdin strings:
 
-# game/script.rpy:37
+    # game/script.rpy:37
     old "{i}далее{/i}"
     new "{i}successivo{/i}"
 

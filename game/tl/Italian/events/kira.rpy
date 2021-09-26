@@ -2634,7 +2634,7 @@
 
 translate crowdin strings:
 
-# game/events/kira.rpy:23
+    # game/events/kira.rpy:23
     old "{i}войти{/i}"
     new "{i}accedi{/i}"
 

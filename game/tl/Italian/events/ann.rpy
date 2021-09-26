@@ -538,7 +538,7 @@ translate crowdin ann_dressed_shop_66960e11:
     # Ann_12 "Спасибо, конечно. Но... Макс, не мог бы ты подождать за дверью, пока я оденусь?"
     Ann_12 "Grazie, ovviamente. Ma... Max, potresti aspettare fuori dalla porta mentre mi vesto?"
 
-# game/events/ann.rpy:448
+    # game/events/ann.rpy:448
 translate crowdin ann_dressed_shop_c8682e5b:
 
     # Max_00 "Конечно, мам!"

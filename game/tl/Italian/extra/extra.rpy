@@ -2,7 +2,7 @@
 
 translate crowdin strings:
 
-# game/extra/extra.rpy:56
+    # game/extra/extra.rpy:56
     old "Новый купальник Лизы"
     new "Il nuovo costume da bagno di Lisa"
 
