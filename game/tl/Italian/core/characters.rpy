@@ -3,14 +3,14 @@
 translate crowdin strings:
 
 # game/core/characters.rpy:230
-msgid "Мама"
-msgstr "Mamma"
+    old "Мама"
+    new "Mamma"
 
     # game/core/characters.rpy:356
-msgid "Майя"
-msgstr "Maya"
+    old "Майя"
+    new "Maya"
 
     # game/core/characters.rpy:369
-msgid "Сэм"
-msgstr "Sam"
+    old "Сэм"
+    new "Sam"
 

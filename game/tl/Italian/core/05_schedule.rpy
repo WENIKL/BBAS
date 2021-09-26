@@ -3,26 +3,26 @@
 translate crowdin strings:
 
 # game/core/05_schedule.rpy:7
-msgid "курит"
-msgstr "fuma"
+    old "курит"
+    new "fuma"
 
     # game/core/05_schedule.rpy:7
-msgid "в бассейне"
-msgstr "in piscina"
+    old "в бассейне"
+    new "in piscina"
 
     # game/core/05_schedule.rpy:74
-msgid "спит (утро)"
-msgstr "dorme (mattina)"
+    old "спит (утро)"
+    new "dorme (mattina)"
 
     # game/core/05_schedule.rpy:74
-msgid "в своей комнате"
-msgstr "in camera"
+    old "в своей комнате"
+    new "in camera"
 
     # game/core/05_schedule.rpy:74
-msgid "читает на веранде"
-msgstr "si legge in veranda"
+    old "читает на веранде"
+    new "si legge in veranda"
 
     # game/core/05_schedule.rpy:162
-msgid "семейный ужин"
-msgstr "cena in famiglia"
+    old "семейный ужин"
+    new "cena in famiglia"
 

@@ -69,26 +69,26 @@ translate crowdin after_buying_7c1c8dcc:
 # game/core/core.rpy:697
 translate crowdin after_load_84f87582:
 
-msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
-msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
+    old "ver [current_ver], _ver [_version], conf.ver [config.version]"
+    new "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
 # game/core/core.rpy:703
 translate crowdin after_load_e53fbeb7:
 
-msgid "_ver [_version], conf.ver [config.version]"
-msgstr "_ver [_version], conf.ver [config.version]"
+    old "_ver [_version], conf.ver [config.version]"
+    new "_ver [_version], conf.ver [config.version]"
 
 translate crowdin strings:
 
 # game/core/core.rpy:353
-msgid "В интернет-магазине доступен новый товар."
-msgstr "Un nuovo prodotto è disponibile nel negozio online."
+    old "В интернет-магазине доступен новый товар."
+    new "Un nuovo prodotto è disponibile nel negozio online."
 
     # game/core/core.rpy:553
-msgid "{i}идти на веранду{/i}"
-msgstr "{i}vai in veranda{/i}"
+    old "{i}идти на веранду{/i}"
+    new "{i}vai in veranda{/i}"
 
     # game/core/core.rpy:553
-msgid "{i}не сейчас{/i}"
-msgstr "{i}non ora{/i}"
+    old "{i}не сейчас{/i}"
+    new "{i}non ora{/i}"
 

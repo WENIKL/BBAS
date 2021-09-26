@@ -805,74 +805,74 @@ translate crowdin ann_bath_ladder_36138fd2:
 translate crowdin strings:
 
 # game/events/ann.rpy:185
-msgid "{i}Отвернуться{/i}"
-msgstr "{i}voltare le chiavi in giavolte{/i}"
+    old "{i}Отвернуться{/i}"
+    new "{i}voltare le chiavi in giavolte{/i}"
 
     # game/events/ann.rpy:197
-msgid "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr "Non ho sbirciata. È una coincidenza! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
+    old "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+    new "Non ho sbirciata. È una coincidenza! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
     # game/events/ann.rpy:197
-msgid "Мам, извини..."
-msgstr "Mamma, mi dispiace..."
+    old "Мам, извини..."
+    new "Mamma, mi dispiace..."
 
     # game/events/ann.rpy:197
-msgid "Попка у тебя - что надо!"
-msgstr "Il tuo è quello di cui hai bisogno!"
+    old "Попка у тебя - что надо!"
+    new "Il tuo è quello di cui hai bisogno!"
 
     # game/events/ann.rpy:259
-msgid "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
-msgstr "Sono io, Max. Posso entrare? Ho qualcosa per te."
+    old "Это я, Макс. Можно войти? У меня для тебя кое-что есть."
+    new "Sono io, Max. Posso entrare? Ho qualcosa per te."
 
     # game/events/ann.rpy:281
-msgid "Хорошо выглядишь, мам!"
-msgstr "Hai un bell'aspetto, mamma!"
+    old "Хорошо выглядишь, мам!"
+    new "Hai un bell'aspetto, mamma!"
 
     # game/events/ann.rpy:281
-msgid "У меня для тебя кое-что есть."
-msgstr "Ho qualcosa per te."
+    old "У меня для тебя кое-что есть."
+    new "Ho qualcosa per te."
 
     # game/events/ann.rpy:281
-msgid "Зачётные сиськи!"
-msgstr "Tette!"
+    old "Зачётные сиськи!"
+    new "Tette!"
 
     # game/events/ann.rpy:281
-msgid "Ой, извини. Я забыл..."
-msgstr "Oh, scusa. Dimenticavo..."
+    old "Ой, извини. Я забыл..."
+    new "Oh, scusa. Dimenticavo..."
 
     # game/events/ann.rpy:352
-msgid "Ну мам! Этого было так мало, давай ещё... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr "Vieni mamma! Era così poco, abbiamo di più... {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
+    old "Ну мам! Этого было так мало, давай ещё... {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+    new "Vieni mamma! Era così poco, abbiamo di più... {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
     # game/events/ann.rpy:352
-msgid "Ну мам! Этого было так мало, давай ещё..."
-msgstr "Vieni mamma! Era così poco, abbiamo di più..."
+    old "Ну мам! Этого было так мало, давай ещё..."
+    new "Vieni mamma! Era così poco, abbiamo di più..."
 
     # game/events/ann.rpy:352
-msgid "Конечно, мам! Хорошего тебе дня..."
-msgstr "Certo, mamma! Buona Giornata..."
+    old "Конечно, мам! Хорошего тебе дня..."
+    new "Certo, mamma! Buona Giornata..."
 
     # game/events/ann.rpy:443
-msgid "Ой, извини..."
-msgstr "Oh, scusa..."
+    old "Ой, извини..."
+    new "Oh, scusa..."
 
     # game/events/ann.rpy:635
-msgid "Это я, Макс."
-msgstr "Sono io, Max."
+    old "Это я, Макс."
+    new "Sono io, Max."
 
     # game/events/ann.rpy:638
-msgid "Можно я войду?"
-msgstr "Posso partecipare?"
+    old "Можно я войду?"
+    new "Posso partecipare?"
 
     # game/events/ann.rpy:638
-msgid "Нет, ничего"
-msgstr "No, niente"
+    old "Нет, ничего"
+    new "No, niente"
 
     # game/events/ann.rpy:638
-msgid "Я подожду..."
-msgstr "Aspetterò..."
+    old "Я подожду..."
+    new "Aspetterò..."
 
     # game/events/ann.rpy:642
-msgid "Ой, нет, я передумал"
-msgstr "Oh no, ho cambiato idea"
+    old "Ой, нет, я передумал"
+    new "Oh no, ho cambiato idea"
 

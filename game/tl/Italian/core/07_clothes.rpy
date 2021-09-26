@@ -3,46 +3,46 @@
 translate crowdin strings:
 
 # game/core/07_clothes.rpy:86
-msgid "Повседневная"
-msgstr "Informale"
+    old "Повседневная"
+    new "Informale"
 
     # game/core/07_clothes.rpy:86
-msgid "Для сна"
-msgstr "Per dormire"
+    old "Для сна"
+    new "Per dormire"
 
     # game/core/07_clothes.rpy:86
-msgid "Для йоги"
-msgstr "Per lo Yoga"
+    old "Для йоги"
+    new "Per lo Yoga"
 
     # game/core/07_clothes.rpy:86
-msgid "Блог в нижнем белье"
-msgstr "Blog in intimo"
+    old "Блог в нижнем белье"
+    new "Blog in intimo"
 
     # game/core/07_clothes.rpy:86
-msgid "Готовит завтрак"
-msgstr "Prepara la colazione"
+    old "Готовит завтрак"
+    new "Prepara la colazione"
 
     # game/core/07_clothes.rpy:86
-msgid "Готовит ужин"
-msgstr "Cucina la cena"
+    old "Готовит ужин"
+    new "Cucina la cena"
 
     # game/core/07_clothes.rpy:86
-msgid "Утренний отдых"
-msgstr "Riposo mattutino"
+    old "Утренний отдых"
+    new "Riposo mattutino"
 
     # game/core/07_clothes.rpy:86
-msgid "Вечерний отдых"
-msgstr "Riposo serale"
+    old "Вечерний отдых"
+    new "Riposo serale"
 
     # game/core/07_clothes.rpy:86
-msgid "Купальник"
-msgstr "Costume da bagno"
+    old "Купальник"
+    new "Costume da bagno"
 
     # game/core/07_clothes.rpy:86
-msgid "За уроками"
-msgstr "Per le lezioni"
+    old "За уроками"
+    new "Per le lezioni"
 
     # game/core/07_clothes.rpy:160
-msgid "Влияние Макса недостаточно"
-msgstr "L'influenza di Max non è sufficiente"
+    old "Влияние Макса недостаточно"
+    new "L'influenza di Max non è sufficiente"
 

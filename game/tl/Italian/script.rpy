@@ -167,34 +167,34 @@
 translate crowdin strings:
 
 # game/script.rpy:37
-msgid "{i}далее{/i}"
-msgstr "{i}successivo{/i}"
+    old "{i}далее{/i}"
+    new "{i}successivo{/i}"
 
     # game/script.rpy:37
-msgid "{i}пропустить{/i}"
-msgstr "{i}skip{/i}"
+    old "{i}пропустить{/i}"
+    new "{i}skip{/i}"
 
     # game/script.rpy:81
-msgid "{i}пару недель спустя...{/i}"
-msgstr "{i}un paio di settimane dopo... {/i}"
+    old "{i}пару недель спустя...{/i}"
+    new "{i}un paio di settimane dopo... {/i}"
 
     # game/script.rpy:97
-msgid "{i}спустя неделю...{/i}"
-msgstr "{i}una settimana dopo... {/i}"
+    old "{i}спустя неделю...{/i}"
+    new "{i}una settimana dopo... {/i}"
 
     # game/script.rpy:103
-msgid "{i}Начать игру{/i}"
-msgstr "{i}Avvia gioco{/i}"
+    old "{i}Начать игру{/i}"
+    new "{i}Avvia gioco{/i}"
 
     # game/script.rpy:103
-msgid "{i}Повторить историю{/i}"
-msgstr "{i}Ripeti cronologia{/i}"
+    old "{i}Повторить историю{/i}"
+    new "{i}Ripeti cronologia{/i}"
 
     # game/script.rpy:120
-msgid "{i}всё ясно{/i}"
-msgstr "{i}tutto è chiaro{/i}"
+    old "{i}всё ясно{/i}"
+    new "{i}tutto è chiaro{/i}"
 
     # game/script.rpy:120
-msgid "{i}повторить{/i}"
-msgstr "{i}ripetere{/i}"
+    old "{i}повторить{/i}"
+    new "{i}ripetere{/i}"
 

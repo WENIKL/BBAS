@@ -939,8 +939,8 @@ translate crowdin first_photoset_4e92d6fb:
 # game/dialogues/kiratalk.rpy:454
 translate crowdin first_photoset_92396b51:
 
-msgid "[extend]Готово! Теперь садись. Ты уже проснулась и решила красиво потянуться..."
-msgstr "[extend]Fatto! Ora siediti. Ti sei già svegliato e hai deciso di allungare magnificamente..."
+    old "[extend]Готово! Теперь садись. Ты уже проснулась и решила красиво потянуться..."
+    new "[extend]Fatto! Ora siediti. Ti sei già svegliato e hai deciso di allungare magnificamente..."
 
 # game/dialogues/kiratalk.rpy:459
 translate crowdin first_photoset_set2_8b0aa53e:
@@ -957,8 +957,8 @@ translate crowdin first_photoset_set2_2cc32318:
 # game/dialogues/kiratalk.rpy:464
 translate crowdin first_photoset_set2_e0b39b37:
 
-msgid "[extend]Ага, есть! А дальше мы щёлкнем твою попку..."
-msgstr "[extend]sì, c'è! E poi ti schiaccheremo il..."
+    old "[extend]Ага, есть! А дальше мы щёлкнем твою попку..."
+    new "[extend]sì, c'è! E poi ti schiaccheremo il..."
 
 # game/dialogues/kiratalk.rpy:467
 translate crowdin first_photoset_set2_0542ad6b:
@@ -981,8 +981,8 @@ translate crowdin first_photoset_set2_ec1bc097:
 # game/dialogues/kiratalk.rpy:481
 translate crowdin first_photoset_set2_f7295a5d:
 
-msgid "[extend]Вот и готово. Давай, привстань немного, я сделаю ещё снимок..."
-msgstr "[extend]Fatto. Dai, alzati un po', farò un'altra foto..."
+    old "[extend]Вот и готово. Давай, привстань немного, я сделаю ещё снимок..."
+    new "[extend]Fatto. Dai, alzati un po', farò un'altra foto..."
 
 # game/dialogues/kiratalk.rpy:486
 translate crowdin first_photoset_set4_434fb1ca:
@@ -999,8 +999,8 @@ translate crowdin first_photoset_set4_d32c6105:
 # game/dialogues/kiratalk.rpy:493
 translate crowdin first_photoset_set4_47f29f71:
 
-msgid "[extend]Отлично! Вот что делаем дальше..." nointeract
-msgstr "[extend]Eccellente! Ecco cosa stiamo facendo dopo..." nointeract
+    old "[extend]Отлично! Вот что делаем дальше..." nointeract
+    new "[extend]Eccellente! Ecco cosa stiamo facendo dopo..." nointeract
 
 # game/dialogues/kiratalk.rpy:502
 translate crowdin first_photoset_set4_00af3fa8:
@@ -1017,8 +1017,8 @@ translate crowdin first_photoset_set4_c305aae6:
 # game/dialogues/kiratalk.rpy:507
 translate crowdin first_photoset_set4_947687dd:
 
-msgid "[extend]Снимок выйдет чумовой... Теперь переходим с дивана к столу."
-msgstr "[extend]'immagine uscirà fuori di testa... Ora passiamo dal divano al tavolo."
+    old "[extend]Снимок выйдет чумовой... Теперь переходим с дивана к столу."
+    new "[extend]'immagine uscirà fuori di testa... Ora passiamo dal divano al tavolo."
 
 # game/dialogues/kiratalk.rpy:512
 translate crowdin first_photoset_set6_9af80df1:
@@ -1035,8 +1035,8 @@ translate crowdin first_photoset_set6_04c93189:
 # game/dialogues/kiratalk.rpy:517
 translate crowdin first_photoset_set6_9e415db6:
 
-msgid "[extend]Снимок готов. Давай, покажи мне что-нибудь погорячее..."
-msgstr "[extend]L'immagine è pronta. Dai, mostrami qualcosa di più caldo..."
+    old "[extend]Снимок готов. Давай, покажи мне что-нибудь погорячее..."
+    new "[extend]L'immagine è pronta. Dai, mostrami qualcosa di più caldo..."
 
 # game/dialogues/kiratalk.rpy:521
 translate crowdin first_photoset_set6_d74aef50:
@@ -1053,8 +1053,8 @@ translate crowdin first_photoset_set6_1f7ddded:
 # game/dialogues/kiratalk.rpy:527
 translate crowdin first_photoset_set6_ff3a2d28:
 
-msgid "[extend]Да, кадр получился что надо!" nointeract
-msgstr "[extend]Sì, la cornice si è rivelata quella di cui hai bisogno!" nointeract
+    old "[extend]Да, кадр получился что надо!" nointeract
+    new "[extend]Sì, la cornice si è rivelata quella di cui hai bisogno!" nointeract
 
 # game/dialogues/kiratalk.rpy:531
 translate crowdin first_photoset_set6_42057bef:
@@ -1071,8 +1071,8 @@ translate crowdin first_photoset_set6_ef185983:
 # game/dialogues/kiratalk.rpy:536
 translate crowdin first_photoset_set6_b116d87b:
 
-msgid "[extend]Это же все для портфолио, а в нём должны быть продемонстрированы твои умения..."
-msgstr "[extend]Questo è tutto per il portafoglio e dovrebbe dimostrare le tue capacità..."
+    old "[extend]Это же все для портфолио, а в нём должны быть продемонстрированы твои умения..."
+    new "[extend]Questo è tutto per il portafoglio e dovrebbe dimostrare le tue capacità..."
 
 # game/dialogues/kiratalk.rpy:540
 translate crowdin first_photoset_set6_44dd7e29:
@@ -1089,8 +1089,8 @@ translate crowdin first_photoset_set6_fd2a8d5d:
 # game/dialogues/kiratalk.rpy:547
 translate crowdin first_photoset_set6_11fdb519:
 
-msgid "[extend]" nointeract
-msgstr "[extend]" nointeract
+    old "[extend]" nointeract
+    new "[extend]" nointeract
 
 # game/dialogues/kiratalk.rpy:556
 translate crowdin first_photoset_set6_8f9aa457:
@@ -1107,8 +1107,8 @@ translate crowdin first_photoset_set6_2da65c76:
 # game/dialogues/kiratalk.rpy:562
 translate crowdin first_photoset_set6_77e15199:
 
-msgid "[extend]Да... продолжай вот так, это будет отличный кадр! Может тебе есть, чем меня удивить?"
-msgstr "[extend]sì... vai avanti, sarà un grande scatto! Forse hai qualcosa da sorprendermi?"
+    old "[extend]Да... продолжай вот так, это будет отличный кадр! Может тебе есть, чем меня удивить?"
+    new "[extend]sì... vai avanti, sarà un grande scatto! Forse hai qualcosa da sorprendermi?"
 
 # game/dialogues/kiratalk.rpy:566
 translate crowdin first_photoset_set11_2fd9047a:
@@ -1125,8 +1125,8 @@ translate crowdin first_photoset_set11_be14bc45:
 # game/dialogues/kiratalk.rpy:572
 translate crowdin first_photoset_set11_54845204:
 
-msgid "[extend]Думаю, я уже почти готов для последнего снимка! Готовься, тётя Кира..."
-msgstr "[extend]penso di essere quasi pronto per l'ultimo scatto! Preparati, zia Kira..."
+    old "[extend]Думаю, я уже почти готов для последнего снимка! Готовься, тётя Кира..."
+    new "[extend]penso di essere quasi pronto per l'ultimo scatto! Preparati, zia Kira..."
 
 # game/dialogues/kiratalk.rpy:575
 translate crowdin first_photoset_set11_94d8f220:
@@ -1143,8 +1143,8 @@ translate crowdin first_photoset_set11_adb51051:
 # game/dialogues/kiratalk.rpy:581
 translate crowdin first_photoset_set11_9c4f2555:
 
-msgid "[extend]Да уж, это было потрясающе! Думаю, снимки получились удачными..."
-msgstr "[extend]sì, è stato fantastico! Penso che le foto siano state un successo..."
+    old "[extend]Да уж, это было потрясающе! Думаю, снимки получились удачными..."
+    new "[extend]sì, è stato fantastico! Penso che le foto siano state un successo..."
 
 # game/dialogues/kiratalk.rpy:582
 translate crowdin first_photoset_set11_9aa39956:
@@ -1545,8 +1545,8 @@ translate crowdin kira_about_photo2_17697838:
 # game/dialogues/kiratalk.rpy:785
 translate crowdin kira_about_photo2_1e1833a1:
 
-msgid "[extend]Готово! Теперь приляг на кровать как-нибудь интересно..."
-msgstr "[extend]Fatto! Ora sono sdraiato sul letto in qualche modo interessante..."
+    old "[extend]Готово! Теперь приляг на кровать как-нибудь интересно..."
+    new "[extend]Fatto! Ora sono sdraiato sul letto in qualche modo interessante..."
 
 # game/dialogues/kiratalk.rpy:790
 translate crowdin kira_about_photo2_3632b5af:
@@ -1563,8 +1563,8 @@ translate crowdin kira_about_photo2_5a7f8753:
 # game/dialogues/kiratalk.rpy:795
 translate crowdin kira_about_photo2_2281fcac:
 
-msgid "[extend]Ага, есть! А дальше мы щёлкнем твою попку ещё раз, ложись как будто устала и отдыхаешь..."
-msgstr "[extend]sì, c'è! E poi ti faremo di nuovo clic sul, sdraiati come se fossi stanco e riposando..."
+    old "[extend]Ага, есть! А дальше мы щёлкнем твою попку ещё раз, ложись как будто устала и отдыхаешь..."
+    new "[extend]sì, c'è! E poi ti faremo di nuovo clic sul, sdraiati come se fossi stanco e riposando..."
 
 # game/dialogues/kiratalk.rpy:800
 translate crowdin kira_about_photo2_b4d729d5:
@@ -1581,8 +1581,8 @@ translate crowdin kira_about_photo2_cc3722f2:
 # game/dialogues/kiratalk.rpy:805
 translate crowdin kira_about_photo2_08b22229:
 
-msgid "[extend]С радостью бы её расстегнул, но давай начнём с верху. Наверно, во всей этой коже очень жарко..."
-msgstr "[extend]Mi piacerebbe sbottonarlo, ma iniziamo dall'alto. Immagino che sia molto caldo in tutta questa pelle..."
+    old "[extend]С радостью бы её расстегнул, но давай начнём с верху. Наверно, во всей этой коже очень жарко..."
+    new "[extend]Mi piacerebbe sbottonarlo, ma iniziamo dall'alto. Immagino che sia molto caldo in tutta questa pelle..."
 
 # game/dialogues/kiratalk.rpy:810
 translate crowdin kira_about_photo2_b42365a4:
@@ -1599,8 +1599,8 @@ translate crowdin kira_about_photo2_663fd71a:
 # game/dialogues/kiratalk.rpy:815
 translate crowdin kira_about_photo2_a22807a0:
 
-msgid "[extend]Снимок готов. А что ты там говорила про верёвки?"
-msgstr "[extend]L'immagine è pronta. E cosa hai detto lì sulle corde?"
+    old "[extend]Снимок готов. А что ты там говорила про верёвки?"
+    new "[extend]L'immagine è pronta. E cosa hai detto lì sulle corde?"
 
 # game/dialogues/kiratalk.rpy:818
 translate crowdin kira_about_photo2_eb14f139:
@@ -1629,8 +1629,8 @@ translate crowdin kira_about_photo2_ed7eabcb:
 # game/dialogues/kiratalk.rpy:837
 translate crowdin kira_about_photo2_499c97e0:
 
-msgid "[extend]И даже, как любишь сосать мой член расскажешь?"
-msgstr "[extend]E anche, come ti piace succhiare il mio racconto?"
+    old "[extend]И даже, как любишь сосать мой член расскажешь?"
+    new "[extend]E anche, come ti piace succhiare il mio racconto?"
 
 # game/dialogues/kiratalk.rpy:838
 translate crowdin kira_about_photo2_76feb6c2:
@@ -1996,7 +1996,7 @@ translate crowdin story_from_childhood_ann_1a0e195b:
 translate crowdin story_from_childhood_ann_8989f4f4:
 
     # Max_12 "Неделю?! Это же где-то недалеко от дома было?"
-msgstr "settimana [Max_12]?! Era da qualche parte vicino a casa?"
+    new "settimana [Max_12]?! Era da qualche parte vicino a casa?"
 
 # game/dialogues/kiratalk.rpy:1067
 translate crowdin story_from_childhood_ann_88f82231:
@@ -2211,306 +2211,306 @@ translate crowdin story_from_childhood_ann_e3cb39dd:
 translate crowdin strings:
 
 # game/dialogues/kiratalk.rpy:11
-msgid "{i}Ой, в другой раз...{/i}"
-msgstr "{i}Oh, un'altra volta... {/i}"
+    old "{i}Ой, в другой раз...{/i}"
+    new "{i}Oh, un'altra volta... {/i}"
 
     # game/dialogues/kiratalk.rpy:37
-msgid "О... Да, было бы супер!"
-msgstr "Circa... Sì, sarebbe fantastico!"
+    old "О... Да, было бы супер!"
+    new "Circa... Sì, sarebbe fantastico!"
 
     # game/dialogues/kiratalk.rpy:37
-msgid "Ну, я не знаю..."
-msgstr "Beh, io non lo so..."
+    old "Ну, я не знаю..."
+    new "Beh, io non lo so..."
 
     # game/dialogues/kiratalk.rpy:40
-msgid "Извини, тётя Кира..."
-msgstr "Mi dispiace, zia Kira..."
+    old "Извини, тётя Кира..."
+    new "Mi dispiace, zia Kira..."
 
     # game/dialogues/kiratalk.rpy:40
-msgid "Просто я отвлёкся..."
-msgstr "Sono solo distratto..."
+    old "Просто я отвлёкся..."
+    new "Sono solo distratto..."
 
     # game/dialogues/kiratalk.rpy:57
-msgid "Да я и не скрываю..."
-msgstr "E non mi nascondo..."
+    old "Да я и не скрываю..."
+    new "E non mi nascondo..."
 
     # game/dialogues/kiratalk.rpy:64
-msgid "Что?!"
-msgstr "A cosa?!"
+    old "Что?!"
+    new "A cosa?!"
 
     # game/dialogues/kiratalk.rpy:64
-msgid "Откуда ты знаешь, что..."
-msgstr "Come fai a saperlo..."
+    old "Откуда ты знаешь, что..."
+    new "Come fai a saperlo..."
 
     # game/dialogues/kiratalk.rpy:76
-msgid "{i}снять напряжение{/i}"
-msgstr "{i}alleviare la tensione{/i}"
+    old "{i}снять напряжение{/i}"
+    new "{i}alleviare la tensione{/i}"
 
     # game/dialogues/kiratalk.rpy:96
-msgid "Есть!"
-msgstr "Mangiare!"
+    old "Есть!"
+    new "Mangiare!"
 
     # game/dialogues/kiratalk.rpy:96
-msgid "Нет..."
-msgstr "No..."
+    old "Нет..."
+    new "No..."
 
     # game/dialogues/kiratalk.rpy:99
-msgid "Ты права, нет девушки..."
-msgstr "Hai ragione, non c'è nessuna ragazza..."
+    old "Ты права, нет девушки..."
+    new "Hai ragione, non c'è nessuna ragazza..."
 
     # game/dialogues/kiratalk.rpy:118
-msgid "Что ты, всё хорошо!"
-msgstr "Che tu, tutto va bene!"
+    old "Что ты, всё хорошо!"
+    new "Che tu, tutto va bene!"
 
     # game/dialogues/kiratalk.rpy:118
-msgid "Меня всё устраивает..."
-msgstr "Sto bene con quello..."
+    old "Меня всё устраивает..."
+    new "Sto bene con quello..."
 
     # game/dialogues/kiratalk.rpy:130
-msgid "Верно..."
-msgstr "Fedelmente..."
+    old "Верно..."
+    new "Fedelmente..."
 
     # game/dialogues/kiratalk.rpy:130
-msgid "И что ты ей скажешь?"
-msgstr "E cosa le dici?"
+    old "И что ты ей скажешь?"
+    new "E cosa le dici?"
 
     # game/dialogues/kiratalk.rpy:140
-msgid "Не надо прикрываться!"
-msgstr "Non c'è bisogno di nascondersi dietro!"
+    old "Не надо прикрываться!"
+    new "Non c'è bisogno di nascondersi dietro!"
 
     # game/dialogues/kiratalk.rpy:140
-msgid "Пожалуй, я пойду..."
-msgstr "Immagino che andrò..."
+    old "Пожалуй, я пойду..."
+    new "Immagino che andrò..."
 
     # game/dialogues/kiratalk.rpy:150
-msgid "{i}кончить{/i}"
-msgstr "{i}cum{/i}"
+    old "{i}кончить{/i}"
+    new "{i}cum{/i}"
 
     # game/dialogues/kiratalk.rpy:167
-msgid "Сегодня точно всё в порядке!"
-msgstr "Oggi tutto è decisamente in ordine!"
+    old "Сегодня точно всё в порядке!"
+    new "Oggi tutto è decisamente in ordine!"
 
     # game/dialogues/kiratalk.rpy:167
-msgid "Да я не могу ни о чём думать, когда тут такое..."
-msgstr "Non riesco a pensare a nulla quando c'è questo..."
+    old "Да я не могу ни о чём думать, когда тут такое..."
+    new "Non riesco a pensare a nulla quando c'è questo..."
 
     # game/dialogues/kiratalk.rpy:180
-msgid "Вот именно!"
-msgstr "Esattamente!"
+    old "Вот именно!"
+    new "Esattamente!"
 
     # game/dialogues/kiratalk.rpy:180
-msgid "Нет, тебе показалось..."
-msgstr "No, hai pensato..."
+    old "Нет, тебе показалось..."
+    new "No, hai pensato..."
 
     # game/dialogues/kiratalk.rpy:183
-msgid "{i}рассказать всю правду про Эрика{/i}"
-msgstr "{i}dire tutta la verità su Eric{/i}"
+    old "{i}рассказать всю правду про Эрика{/i}"
+    new "{i}dire tutta la verità su Eric{/i}"
 
     # game/dialogues/kiratalk.rpy:188
-msgid "Ну ладно... {i}Рассказать всю правду про Эрика{/i}"
-msgstr "Ok... {i}Dire tutta la verità su Eric{/i}"
+    old "Ну ладно... {i}Рассказать всю правду про Эрика{/i}"
+    new "Ok... {i}Dire tutta la verità su Eric{/i}"
 
     # game/dialogues/kiratalk.rpy:192
-msgid "Чем ты пользовалась?"
-msgstr "Cosa hai usato?"
+    old "Чем ты пользовалась?"
+    new "Cosa hai usato?"
 
     # game/dialogues/kiratalk.rpy:192
-msgid "Я говорю правду!"
-msgstr "Sto dicendo la verità!"
+    old "Я говорю правду!"
+    new "Sto dicendo la verità!"
 
     # game/dialogues/kiratalk.rpy:216
-msgid "А можно что-то ещё?"
-msgstr "Puoi fare qualcos'altro?"
+    old "А можно что-то ещё?"
+    new "Puoi fare qualcos'altro?"
 
     # game/dialogues/kiratalk.rpy:216
-msgid "Для начала только целоваться!"
-msgstr "Basta baciare per cominciare!"
+    old "Для начала только целоваться!"
+    new "Basta baciare per cominciare!"
 
     # game/dialogues/kiratalk.rpy:223
-msgid "Мама не помогла..."
-msgstr "La mamma non ha aiutato..."
+    old "Мама не помогла..."
+    new "La mamma non ha aiutato..."
 
     # game/dialogues/kiratalk.rpy:223
-msgid "Да, Алиса меня отшила..."
-msgstr "Sì, Alice mi ha cucito via..."
+    old "Да, Алиса меня отшила..."
+    new "Sì, Alice mi ha cucito via..."
 
     # game/dialogues/kiratalk.rpy:233
-msgid "Договорились!"
-msgstr "Fatto!"
+    old "Договорились!"
+    new "Fatto!"
 
     # game/dialogues/kiratalk.rpy:233
-msgid "Хорошо! А ты только этому учишь?"
-msgstr "Ok! È questo che stai insegnando?"
+    old "Хорошо! А ты только этому учишь?"
+    new "Ok! È questo che stai insegnando?"
 
     # game/dialogues/kiratalk.rpy:258
-msgid "Кто же вечером порядок наводит?"
-msgstr "Chi porta ordine la sera?"
+    old "Кто же вечером порядок наводит?"
+    new "Chi porta ordine la sera?"
 
     # game/dialogues/kiratalk.rpy:258
-msgid "Ну, твои руки не как у горничной..."
-msgstr "Beh, le tue mani non sono come quella di una cameriera..."
+    old "Ну, твои руки не как у горничной..."
+    new "Beh, le tue mani non sono come quella di una cameriera..."
 
     # game/dialogues/kiratalk.rpy:268
-msgid "А кем тогда?"
-msgstr "E chi allora?"
+    old "А кем тогда?"
+    new "E chi allora?"
 
     # game/dialogues/kiratalk.rpy:268
-msgid "И для чего тебе форма горничной?"
-msgstr "E perché hai bisogno di un'uniforme da cameriera?"
+    old "И для чего тебе форма горничной?"
+    new "E perché hai bisogno di un'uniforme da cameriera?"
 
     # game/dialogues/kiratalk.rpy:279
-msgid "И что это за фильм?"
-msgstr "E che tipo di film è questo?"
+    old "И что это за фильм?"
+    new "E che tipo di film è questo?"
 
     # game/dialogues/kiratalk.rpy:393
-msgid "Ещё нет..."
-msgstr "Non ancora..."
+    old "Ещё нет..."
+    new "Non ancora..."
 
     # game/dialogues/kiratalk.rpy:393
-msgid "Ага, он у меня!"
-msgstr "Sì, ce l'ho!"
+    old "Ага, он у меня!"
+    new "Sì, ce l'ho!"
 
     # game/dialogues/kiratalk.rpy:396
-msgid "Всё понял..."
-msgstr "Ho capito tutto..."
+    old "Всё понял..."
+    new "Ho capito tutto..."
 
     # game/dialogues/kiratalk.rpy:423
-msgid "{i}подарить сорочку{/i}"
-msgstr "{i}regala una camicia{/i}"
+    old "{i}подарить сорочку{/i}"
+    new "{i}regala una camicia{/i}"
 
     # game/dialogues/kiratalk.rpy:441
-msgid "Да, сделаем сперва снимок, будто ты только-только проснулась..."
-msgstr "Sì, facciamo prima una foto, come se ti fossi appena svegliato..."
+    old "Да, сделаем сперва снимок, будто ты только-только проснулась..."
+    new "Sì, facciamo prima una foto, come se ti fossi appena svegliato..."
 
     # game/dialogues/kiratalk.rpy:441
-msgid "Ты уже проснулась и решила красиво потянуться..."
-msgstr "Ti sei già svegliato e hai deciso di allungare magnificamente..."
+    old "Ты уже проснулась и решила красиво потянуться..."
+    new "Ti sei già svegliato e hai deciso di allungare magnificamente..."
 
     # game/dialogues/kiratalk.rpy:468
-msgid "Просто повернись в сторону окна..."
-msgstr "Basta girare verso la finestra..."
+    old "Просто повернись в сторону окна..."
+    new "Basta girare verso la finestra..."
 
     # game/dialogues/kiratalk.rpy:468
-msgid "Немного привстань, а остальное за мной..."
-msgstr "Alzati un po' e il resto sta a me..."
+    old "Немного привстань, а остальное за мной..."
+    new "Alzati un po' e il resto sta a me..."
 
     # game/dialogues/kiratalk.rpy:494
-msgid "Сделаем снимок не для портфолио в монастырь..."
-msgstr "Facciamo una foto non per un portfolio nel monastero..."
+    old "Сделаем снимок не для портфолио в монастырь..."
+    new "Facciamo una foto non per un portfolio nel monastero..."
 
     # game/dialogues/kiratalk.rpy:494
-msgid "Переходим с дивана к столу..."
-msgstr "Passando dal divano al tavolo..."
+    old "Переходим с дивана к столу..."
+    new "Passando dal divano al tavolo..."
 
     # game/dialogues/kiratalk.rpy:527
-msgid "Хотя, я знаю, как он станет ещё лучше..."
-msgstr "Anche se, so come andrà ancora meglio..."
+    old "Хотя, я знаю, как он станет ещё лучше..."
+    new "Anche se, so come andrà ancora meglio..."
 
     # game/dialogues/kiratalk.rpy:548
-msgid "Пора показать класс, тётя Кира!"
-msgstr "È tempo di mostrare alla classe, zia Kira!"
+    old "Пора показать класс, тётя Кира!"
+    new "È tempo di mostrare alla classe, zia Kira!"
 
     # game/dialogues/kiratalk.rpy:548
-msgid "Может, сразу удивишь меня чем-нибудь?"
-msgstr "Forse mi sorprenderai subito con qualcosa?"
+    old "Может, сразу удивишь меня чем-нибудь?"
+    new "Forse mi sorprenderai subito con qualcosa?"
 
     # game/dialogues/kiratalk.rpy:656
-msgid "{i}кончить!{/i}"
-msgstr "{i}cum! {/i}"
+    old "{i}кончить!{/i}"
+    new "{i}cum! {/i}"
 
     # game/dialogues/kiratalk.rpy:687
-msgid "Нет, я не забыл... были дела с Лизой."
-msgstr "No, non l'ho dimenticato... c'erano cose con Lisa."
+    old "Нет, я не забыл... были дела с Лизой."
+    new "No, non l'ho dimenticato... c'erano cose con Lisa."
 
     # game/dialogues/kiratalk.rpy:687
-msgid "Нет, просто были дела с Алисой."
-msgstr "No, c'erano solo affari con Alice."
+    old "Нет, просто были дела с Алисой."
+    new "No, c'erano solo affari con Alice."
 
     # game/dialogues/kiratalk.rpy:728
-msgid "Всё, что угодно!"
-msgstr "Vabbè!"
+    old "Всё, что угодно!"
+    new "Vabbè!"
 
     # game/dialogues/kiratalk.rpy:728
-msgid "Особая? Это какая?"
-msgstr "Speciale? Cos'è?"
+    old "Особая? Это какая?"
+    new "Speciale? Cos'è?"
 
     # game/dialogues/kiratalk.rpy:751
-msgid "{i}подсмотреть за Кирой{/i}"
-msgstr "{i}spia kira{/i}"
+    old "{i}подсмотреть за Кирой{/i}"
+    new "{i}spia kira{/i}"
 
     # game/dialogues/kiratalk.rpy:818
-msgid "{i}крепко привязать Киру{/i}"
-msgstr "{i}legare strettamente Kira{/i}"
+    old "{i}крепко привязать Киру{/i}"
+    new "{i}legare strettamente Kira{/i}"
 
     # game/dialogues/kiratalk.rpy:826
-msgid "{i}раздеться и поиграть с её грудью{/i}"
-msgstr "{i}spogliarsi e giocare con il seno{/i}"
+    old "{i}раздеться и поиграть с её грудью{/i}"
+    new "{i}spogliarsi e giocare con il seno{/i}"
 
     # game/dialogues/kiratalk.rpy:826
-msgid "{i}раздеться и дать ей пососать свой член{/i}"
-msgstr "{i}spogliarsi e lasciarla succhiare il suo cazzo{/i}"
+    old "{i}раздеться и дать ей пососать свой член{/i}"
+    new "{i}spogliarsi e lasciarla succhiare il suo cazzo{/i}"
 
     # game/dialogues/kiratalk.rpy:838
-msgid "А вот это вряд ли! (дать ей пососать свой член)"
-msgstr "Ma è improbabile! (lasciala succhiare il suo cazzo)"
+    old "А вот это вряд ли! (дать ей пососать свой член)"
+    new "Ma è improbabile! (lasciala succhiare il suo cazzo)"
 
     # game/dialogues/kiratalk.rpy:859
-msgid "{i}ласкать её киску языком{/i}"
-msgstr "{i}accarezzarla con la lingua{/i}"
+    old "{i}ласкать её киску языком{/i}"
+    new "{i}accarezzarla con la lingua{/i}"
 
     # game/dialogues/kiratalk.rpy:859
-msgid "{i}проникнуть в её киску пальцами{/i}"
-msgstr "{i}penetrarla con le dita{/i}"
+    old "{i}проникнуть в её киску пальцами{/i}"
+    new "{i}penetrarla con le dita{/i}"
 
     # game/dialogues/kiratalk.rpy:865
-msgid "{i}активнее работать языком и губами{/i}"
-msgstr "{i}lavorare più attivamente con la lingua e le labbra{/i}"
+    old "{i}активнее работать языком и губами{/i}"
+    new "{i}lavorare più attivamente con la lingua e le labbra{/i}"
 
     # game/dialogues/kiratalk.rpy:872
-msgid "{i}тереться членом о её киску{/i}"
-msgstr "{i}strofinando il suo contro la sua figa{/i}"
+    old "{i}тереться членом о её киску{/i}"
+    new "{i}strofinando il suo contro la sua figa{/i}"
 
     # game/dialogues/kiratalk.rpy:878
-msgid "{i}трахать её пальцами{/i}"
-msgstr "{i}scopare con le dita{/i}"
+    old "{i}трахать её пальцами{/i}"
+    new "{i}scopare con le dita{/i}"
 
     # game/dialogues/kiratalk.rpy:884
-msgid "{i}медленно проникнуть в неё членом{/i}"
-msgstr "{i}penetrarlo lentamente con un membro{/i}"
+    old "{i}медленно проникнуть в неё членом{/i}"
+    new "{i}penetrarlo lentamente con un membro{/i}"
 
     # game/dialogues/kiratalk.rpy:923
-msgid "{i}трахать тётю Киру{/i}"
-msgstr "{i}cazzo zia Kira{/i}"
+    old "{i}трахать тётю Киру{/i}"
+    new "{i}cazzo zia Kira{/i}"
 
     # game/dialogues/kiratalk.rpy:932
-msgid "{i}ускориться{/i}"
-msgstr "{i}accelerare{/i}"
+    old "{i}ускориться{/i}"
+    new "{i}accelerare{/i}"
 
     # game/dialogues/kiratalk.rpy:939
-msgid "{i}кончить Кире на живот{/i}"
-msgstr "{i}Kira sullo stomaco{/i}"
+    old "{i}кончить Кире на живот{/i}"
+    new "{i}Kira sullo stomaco{/i}"
 
     # game/dialogues/kiratalk.rpy:952
-msgid "{i}развязать Киру{/i}"
-msgstr "{i}scatenare Kira{/i}"
+    old "{i}развязать Киру{/i}"
+    new "{i}scatenare Kira{/i}"
 
     # game/dialogues/kiratalk.rpy:1008
-msgid "Но это моя семья! \n"
+    old "Но это моя семья! \n"
 "{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
-msgstr "Ma questa è la mia famiglia! \n"
+    new "Ma questa è la mia famiglia! \n"
 "{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
 
     # game/dialogues/kiratalk.rpy:1030
-msgid "Я же не из корыстных целей это спрашиваю! Я хочу ей помочь... \n"
+    old "Я же не из корыстных целей это спрашиваю! Я хочу ей помочь... \n"
 "{color=[ch1.col]}(Убеждение. Шанс: [ch1.vis]){/color}"
-msgstr "Non lo sto chiedendo per scopi egoistici! Voglio aiutarla... \n"
+    new "Non lo sto chiedendo per scopi egoistici! Voglio aiutarla... \n"
 "{color=[ch1.col]}(Persuasione: Chance: [ch1.vis]){/color}"
 
     # game/dialogues/kiratalk.rpy:1053
-msgid "Так ты бросила там мою маму?"
-msgstr "Quindi hai lasciato mia madre lì?"
+    old "Так ты бросила там мою маму?"
+    new "Quindi hai lasciato mia madre lì?"
 
     # game/dialogues/kiratalk.rpy:1053
-msgid "Тебе удалось сбежать?"
-msgstr "Sei riuscito a fuggire?"
+    old "Тебе удалось сбежать?"
+    new "Sei riuscito a fuggire?"
 

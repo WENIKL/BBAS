@@ -3,46 +3,46 @@
 translate crowdin strings:
 
 # game/core/01classes.rpy:587
-msgid "Ужасное"
-msgstr "Terribile"
+    old "Ужасное"
+    new "Terribile"
 
     # game/core/01classes.rpy:587
-msgid "Очень плохое"
-msgstr "Molto male"
+    old "Очень плохое"
+    new "Molto male"
 
     # game/core/01classes.rpy:587
-msgid "Плохое"
-msgstr "Cattivo"
+    old "Плохое"
+    new "Cattivo"
 
     # game/core/01classes.rpy:587
-msgid "Не очень"
-msgstr "Non molto"
+    old "Не очень"
+    new "Non molto"
 
     # game/core/01classes.rpy:587
-msgid "Нейтральное"
-msgstr "Neutrale"
+    old "Нейтральное"
+    new "Neutrale"
 
     # game/core/01classes.rpy:587
-msgid "Неплохое"
-msgstr "Decente"
+    old "Неплохое"
+    new "Decente"
 
     # game/core/01classes.rpy:587
-msgid "Хорошее"
-msgstr "Buono"
+    old "Хорошее"
+    new "Buono"
 
     # game/core/01classes.rpy:587
-msgid "Очень хорошее"
-msgstr "Molto bene"
+    old "Очень хорошее"
+    new "Molto bene"
 
     # game/core/01classes.rpy:587
-msgid "Прекрасное"
-msgstr "Perfetto"
+    old "Прекрасное"
+    new "Perfetto"
 
     # game/core/01classes.rpy:962
-msgid "Приобретен пакет рекламы"
-msgstr "Acquistato un pacchetto pubblicitario"
+    old "Приобретен пакет рекламы"
+    new "Acquistato un pacchetto pubblicitario"
 
     # game/core/01classes.rpy:1185
-msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Attenzione:{/b} È stata ottenuta una nuova \"opportunità\"! {/i} {/colore}"
+    old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+    new "{color=[lime]}{i}{b}Attenzione:{/b} È stata ottenuta una nuova \"opportunità\"! {/i} {/colore}"
 

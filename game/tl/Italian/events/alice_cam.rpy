@@ -555,26 +555,26 @@ translate crowdin cam0_blog_with_Eric_340b426d:
 translate crowdin strings:
 
 # game/events/alice_cam.rpy:56
-msgid "{i}Конечно{/i}"
-msgstr "{i}Certo{/i}"
+    old "{i}Конечно{/i}"
+    new "{i}Certo{/i}"
 
     # game/events/alice_cam.rpy:72
-msgid "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}Prendi una macchina fotografica e vai alla finestra di Alice {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}Взять фотоаппарат и пойти к окну Алисы {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}Prendi una macchina fotografica e vai alla finestra di Alice {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/events/alice_cam.rpy:72
-msgid "{i}Да и хрен с ним, пусть дрочит{/i}"
-msgstr "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
+    old "{i}Да и хрен с ним, пусть дрочит{/i}"
+    new "{i}E scopare con esso, lasciarlo rabbrividire{/i}"
 
     # game/events/alice_cam.rpy:83
-msgid "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}Prendi una macchina fotografica e vai sul balcone {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}Взять фотоаппарат и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}Prendi una macchina fotografica e vai sul balcone {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/events/alice_cam.rpy:327
-msgid "{i}продолжать смотреть{/i}"
-msgstr "{i}continua a guardare{/i}"
+    old "{i}продолжать смотреть{/i}"
+    new "{i}continua a guardare{/i}"
 
     # game/events/alice_cam.rpy:327
-msgid "{i}достаточно{/i}"
-msgstr "{i}abbastanza{/i}"
+    old "{i}достаточно{/i}"
+    new "{i}abbastanza{/i}"
 

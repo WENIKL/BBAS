@@ -1617,344 +1617,344 @@ translate crowdin jerk_photohant2_5893f935:
 translate crowdin strings:
 
 # game/events/eric.rpy:16
-msgid "Понимаю, хорошо..."
-msgstr "Capisco, va bene..."
+    old "Понимаю, хорошо..."
+    new "Capisco, va bene..."
 
     # game/events/eric.rpy:16
-msgid "И зачем мне это?"
-msgstr "E perché dovrei?"
+    old "И зачем мне это?"
+    new "E perché dovrei?"
 
     # game/events/eric.rpy:45
-msgid "А если нет, то что?"
-msgstr "E se no, cosa?"
+    old "А если нет, то что?"
+    new "E se no, cosa?"
 
     # game/events/eric.rpy:45
-msgid "Думаю, подружимся..."
-msgstr "Penso che faremo amicizia..."
+    old "Думаю, подружимся..."
+    new "Penso che faremo amicizia..."
 
     # game/events/eric.rpy:57
-msgid "Это ещё почему?"
-msgstr "Perché?"
+    old "Это ещё почему?"
+    new "Perché?"
 
     # game/events/eric.rpy:57
-msgid "Да я не собираюсь воевать..."
-msgstr "Non ho intenzione di combattere..."
+    old "Да я не собираюсь воевать..."
+    new "Non ho intenzione di combattere..."
 
     # game/events/eric.rpy:65
-msgid "Да верю, верю. Я просто спросил и не хочу ссориться..."
-msgstr "Sì, credo, credo. Ho appena chiesto e non voglio litigare..."
+    old "Да верю, верю. Я просто спросил и не хочу ссориться..."
+    new "Sì, credo, credo. Ho appena chiesto e non voglio litigare..."
 
     # game/events/eric.rpy:65
-msgid "Меня все любят и мне поверят, что ты мне угрожал!"
-msgstr "Tutti mi amano e mi crederanno che mi hai minacciato!"
+    old "Меня все любят и мне поверят, что ты мне угрожал!"
+    new "Tutti mi amano e mi crederanno che mi hai minacciato!"
 
     # game/events/eric.rpy:65
-msgid "У меня есть мозги и я что-нибудь придумаю!"
-msgstr "Ho il cervello e mi verrà in mente qualcosa!"
+    old "У меня есть мозги и я что-нибудь придумаю!"
+    new "Ho il cervello e mi verrà in mente qualcosa!"
 
     # game/events/eric.rpy:74
-msgid "Не верю! Всё не так!"
-msgstr "Non credo! Non è così!"
+    old "Не верю! Всё не так!"
+    new "Non credo! Non è così!"
 
     # game/events/eric.rpy:74
-msgid "Она так сказала?"
-msgstr "L'ha detto?"
+    old "Она так сказала?"
+    new "L'ha detto?"
 
     # game/events/eric.rpy:92
-msgid "Ладно, посмотрим..."
-msgstr "Ok, vedremo..."
+    old "Ладно, посмотрим..."
+    new "Ok, vedremo..."
 
     # game/events/eric.rpy:92
-msgid "Никогда. Отвали!"
-msgstr "Mai. Torna indietro!"
+    old "Никогда. Отвали!"
+    new "Mai. Torna indietro!"
 
     # game/events/eric.rpy:102
-msgid "Ладно, посмотрим... И что я выиграю?"
-msgstr "Ok, vedremo... E cosa vincerò?"
+    old "Ладно, посмотрим... И что я выиграю?"
+    new "Ok, vedremo... E cosa vincerò?"
 
     # game/events/eric.rpy:112
-msgid "Какие проблемы?"
-msgstr "Quali sono i problemi?"
+    old "Какие проблемы?"
+    new "Quali sono i problemi?"
 
     # game/events/eric.rpy:112
-msgid "Договорились..."
-msgstr "Fatto..."
+    old "Договорились..."
+    new "Fatto..."
 
     # game/events/eric.rpy:115
-msgid "Ну, ладно, убедил."
-msgstr "Bene, ok, l'ho fatto."
+    old "Ну, ладно, убедил."
+    new "Bene, ok, l'ho fatto."
 
     # game/events/eric.rpy:115
-msgid "Нет, без вариантов..."
-msgstr "No, nessuna opzione..."
+    old "Нет, без вариантов..."
+    new "No, nessuna opzione..."
 
     # game/events/eric.rpy:154
-msgid "Да, я только за."
-msgstr "Sì, sono tutto per questo."
+    old "Да, я только за."
+    new "Sì, sono tutto per questo."
 
     # game/events/eric.rpy:154
-msgid "Тебе показалось. Я тебя ненавижу!"
-msgstr "Hai pensato. Ti odio!"
+    old "Тебе показалось. Я тебя ненавижу!"
+    new "Hai pensato. Ti odio!"
 
     # game/events/eric.rpy:162
-msgid "Думаю, воевать смысла нет..."
-msgstr "Penso che non abbia senso combattere..."
+    old "Думаю, воевать смысла нет..."
+    new "Penso che non abbia senso combattere..."
 
     # game/events/eric.rpy:162
-msgid "Я тебя ненавижу!"
-msgstr "Ti odio!"
+    old "Я тебя ненавижу!"
+    new "Ti odio!"
 
     # game/events/eric.rpy:170
-msgid "Почему? Я подумал как следует. Воевать точно не хочу..."
-msgstr "Perché? Ho pensato bene. Sicuramente non voglio combattere..."
+    old "Почему? Я подумал как следует. Воевать точно не хочу..."
+    new "Perché? Ho pensato bene. Sicuramente non voglio combattere..."
 
     # game/events/eric.rpy:170
-msgid "Правильно. Я тебя ненавижу!"
-msgstr "Corretto. Ti odio!"
+    old "Правильно. Я тебя ненавижу!"
+    new "Corretto. Ti odio!"
 
     # game/events/eric.rpy:181
-msgid "{color=[orange]}{i}{b}Внимание:{/b} Ваши отношения значительно ухудшились!{/i}{/color}"
-msgstr "{color=[orange]}{i}{b}Warning:{/b} La tua relazione si è deteriorata in modo significativo! {/i} {/colore}"
+    old "{color=[orange]}{i}{b}Внимание:{/b} Ваши отношения значительно ухудшились!{/i}{/color}"
+    new "{color=[orange]}{i}{b}Warning:{/b} La tua relazione si è deteriorata in modo significativo! {/i} {/colore}"
 
     # game/events/eric.rpy:194
-msgid "Что? Ты ошибаешься!"
-msgstr "A cosa? Ti sbagli!"
+    old "Что? Ты ошибаешься!"
+    new "A cosa? Ti sbagli!"
 
     # game/events/eric.rpy:194
-msgid "Они никакие не цыпочки!"
-msgstr "Non sono pulcini!"
+    old "Они никакие не цыпочки!"
+    new "Non sono pulcini!"
 
     # game/events/eric.rpy:194
-msgid "Я вдруг понял... Да пошёл ты!"
-msgstr "All'improvviso mi sono reso conto... Fai molta strada!"
+    old "Я вдруг понял... Да пошёл ты!"
+    new "All'improvviso mi sono reso conto... Fai molta strada!"
 
     # game/events/eric.rpy:202
-msgid "Думаешь?"
-msgstr "Pensare?"
+    old "Думаешь?"
+    new "Pensare?"
 
     # game/events/eric.rpy:202
-msgid "Постой, и ты этого хочешь?"
-msgstr "Aspetta, e lo vuoi?"
+    old "Постой, и ты этого хочешь?"
+    new "Aspetta, e lo vuoi?"
 
     # game/events/eric.rpy:205
-msgid "А если я расскажу про это всем?"
-msgstr "E se ne parlassi a tutti?"
+    old "А если я расскажу про это всем?"
+    new "E se ne parlassi a tutti?"
 
     # game/events/eric.rpy:205
-msgid "Только, если я что-то получу за это..."
-msgstr "Solo se ottengo qualcosa per questo..."
+    old "Только, если я что-то получу за это..."
+    new "Solo se ottengo qualcosa per questo..."
 
     # game/events/eric.rpy:205
-msgid "Ты подонок! Я передумал. Убирайся!"
-msgstr "Sei un basso! Ho cambiato idea. Fuori dai piedi!"
+    old "Ты подонок! Я передумал. Убирайся!"
+    new "Sei un basso! Ho cambiato idea. Fuori dai piedi!"
 
     # game/events/eric.rpy:222
-msgid "Да я не собираюсь рассказывать, просто спросил..."
-msgstr "Sì, non te lo dirò, ho solo chiesto..."
+    old "Да я не собираюсь рассказывать, просто спросил..."
+    new "Sì, non te lo dirò, ho solo chiesto..."
 
     # game/events/eric.rpy:222
-msgid "Вот и проверим..."
-msgstr "Quindi controlliamo..."
+    old "Вот и проверим..."
+    new "Quindi controlliamo..."
 
     # game/events/eric.rpy:222
-msgid "Ты - псих ненормальный. Убирайся!"
-msgstr "Sei pazzo pazzo. Fuori dai piedi!"
+    old "Ты - псих ненормальный. Убирайся!"
+    new "Sei pazzo pazzo. Fuori dai piedi!"
 
     # game/events/eric.rpy:227
-msgid "Да я пошутил! Конечно, не расскажу никому..."
-msgstr "Sì, stavo scherzando! Certo, non lo dirò a nessuno..."
+    old "Да я пошутил! Конечно, не расскажу никому..."
+    new "Sì, stavo scherzando! Certo, non lo dirò a nessuno..."
 
     # game/events/eric.rpy:227
-msgid "Вот и посмотрим..."
-msgstr "Quindi vedremo..."
+    old "Вот и посмотрим..."
+    new "Quindi vedremo..."
 
     # game/events/eric.rpy:247
-msgid "Нет, на это я не согласен."
-msgstr "No, non sono d'accordo."
+    old "Нет, на это я не согласен."
+    new "No, non sono d'accordo."
 
     # game/events/eric.rpy:252
-msgid "Я не извращенец!"
-msgstr "Non sono un pervertito!"
+    old "Я не извращенец!"
+    new "Non sono un pervertito!"
 
     # game/events/eric.rpy:252
-msgid "А есть только два варианта?"
-msgstr "E ci sono solo due opzioni?"
+    old "А есть только два варианта?"
+    new "E ci sono solo due opzioni?"
 
     # game/events/eric.rpy:252
-msgid "Ты знаешь... Я тут подумал. Да пошёл ты! Не надо мне ничего от тебя. Я от тебя избавлюсь!"
-msgstr "Lo sai... Ci ho pensato. Fai molta strada! Non ho bisogno di nulla da te. Mi libererò di te!"
+    old "Ты знаешь... Я тут подумал. Да пошёл ты! Не надо мне ничего от тебя. Я от тебя избавлюсь!"
+    new "Lo sai... Ci ho pensato. Fai molta strada! Non ho bisogno di nulla da te. Mi libererò di te!"
 
     # game/events/eric.rpy:255
-msgid "Тогда... Остаётся только послать тебя куда подальше. Такая дружба мне не нужна!"
-msgstr "Allora... Resta solo da mandarti lontano. Non ho bisogno di una tale amicizia!"
+    old "Тогда... Остаётся только послать тебя куда подальше. Такая дружба мне не нужна!"
+    new "Allora... Resta solo da mandarti lontano. Non ho bisogno di una tale amicizia!"
 
     # game/events/eric.rpy:265
-msgid "Если так, то я согласен на твои условия, конечно!"
-msgstr "Se è così, accetto i tuoi termini, ovviamente!"
+    old "Если так, то я согласен на твои условия, конечно!"
+    new "Se è così, accetto i tuoi termini, ovviamente!"
 
     # game/events/eric.rpy:265
-msgid "Знаешь, что... Эрик? А иди-ка ты в жопу! Без тебя справимся!"
-msgstr "Sapere cosa... Eric? E vai nel culo! Possiamo farlo senza di te!"
+    old "Знаешь, что... Эрик? А иди-ка ты в жопу! Без тебя справимся!"
+    new "Sapere cosa... Eric? E vai nel culo! Possiamo farlo senza di te!"
 
     # game/events/eric.rpy:278
-msgid "{color=[lime]}{i}{b}Внимание:{/b} Ваши отношения значительно улучшились{/i}{/color}"
-msgstr "{color=[lime]}{i}{b}Nota:{/b} Il tuo rapporto è migliorato significativamente{/i}{/color}"
+    old "{color=[lime]}{i}{b}Внимание:{/b} Ваши отношения значительно улучшились{/i}{/color}"
+    new "{color=[lime]}{i}{b}Nota:{/b} Il tuo rapporto è migliorato significativamente{/i}{/color}"
 
     # game/events/eric.rpy:319
-msgid "Кажется, мама с Эриком смотрят какой-то фильм. Наверняка, снова порно..."
-msgstr "Sembra che mamma ed Eric stiano guardando un film. Sicuramente di nuovo..."
+    old "Кажется, мама с Эриком смотрят какой-то фильм. Наверняка, снова порно..."
+    new "Sembra che mamma ed Eric stiano guardando un film. Sicuramente di nuovo..."
 
     # game/events/eric.rpy:320
-msgid "Макс, мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?"
-msgstr "Max, Eric ed io stiamo guardando un film qui. Ti inviterei, ma non è per i bambini. Potresti fare una passeggiata da qualche parte? E per favore non sbirciare. Ok?"
+    old "Макс, мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?"
+    new "Max, Eric ed io stiamo guardando un film qui. Ti inviterei, ma non è per i bambini. Potresti fare una passeggiata da qualche parte? E per favore non sbirciare. Ok?"
 
     # game/events/eric.rpy:322
-msgid "Кажется, мама с Эриком смотрят какой-то фильм. Интересно, какой..."
-msgstr "Sembra che mamma ed Eric stiano guardando un film. Chissà cosa..."
+    old "Кажется, мама с Эриком смотрят какой-то фильм. Интересно, какой..."
+    new "Sembra che mamma ed Eric stiano guardando un film. Chissà cosa..."
 
     # game/events/eric.rpy:323
-msgid "Ой, Макс... Мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?"
-msgstr "Oh, Max... Eric e io stiamo guardando un film qui. Ti inviterei, ma non è per i bambini. Potresti fare una passeggiata da qualche parte? E per favore non sbirciare. Ok?"
+    old "Ой, Макс... Мы тут с Эриком фильм смотрим. Я бы тебя пригласила, но он не для детей. Ты не мог бы погулять где-то? И, пожалуйста, не подглядывай. Хорошо?"
+    new "Oh, Max... Eric e io stiamo guardando un film qui. Ti inviterei, ma non è per i bambini. Potresti fare una passeggiata da qualche parte? E per favore non sbirciare. Ok?"
 
     # game/events/eric.rpy:324
-msgid "{i}наблюдать за ними{/i}"
-msgstr "{i}guardarli{/i}"
+    old "{i}наблюдать за ними{/i}"
+    new "{i}guardarli{/i}"
 
     # game/events/eric.rpy:324
-msgid "{i}подойти к ним{/i}"
-msgstr "{i}avvicinarli{/i}"
+    old "{i}подойти к ним{/i}"
+    new "{i}avvicinarli{/i}"
 
     # game/events/eric.rpy:331
-msgid "Конечно, мам! {i}(уйти){/i}"
-msgstr "Certo, mamma! {i}(leave){/i}"
+    old "Конечно, мам! {i}(уйти){/i}"
+    new "Certo, mamma! {i}(leave){/i}"
 
     # game/events/eric.rpy:331
-msgid "Конечно, мам! {i}(спрятаться){/i}"
-msgstr "Certo, mamma! {i}(nascondi){/i}"
+    old "Конечно, мам! {i}(спрятаться){/i}"
+    new "Certo, mamma! {i}(nascondi){/i}"
 
     # game/events/eric.rpy:352
-msgid "Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику..."
-msgstr "Wow! Sullo schermo è diventato più interessante! E la mamma, a quanto pare, ha di nuovo allungato la mano per succhiare Erica..."
+    old "Ого! На экране стало интереснее! А мама, видимо, снова потянулась отсасывать Эрику..."
+    new "Wow! Sullo schermo è diventato più interessante! E la mamma, a quanto pare, ha di nuovo allungato la mano per succhiare Erica..."
 
     # game/events/eric.rpy:353
-msgid "На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?"
-msgstr "Sullo schermo è già in tutti i più interessanti e la mamma ha gettato via la spugna! Vorrei poter guardare quel nudo da un'angolazione diversa... Forse avvicinarsi?"
+    old "На экране уже во всю идёт самое интересное и мама скинула полотенце! Вот бы посмотреть на эту голую попку с другого ракурса... Может быть, подойти ближе?"
+    new "Sullo schermo è già in tutti i più interessanti e la mamma ha gettato via la spugna! Vorrei poter guardare quel nudo da un'angolazione diversa... Forse avvicinarsi?"
 
     # game/events/eric.rpy:355
-msgid "Ого! На экране стало интереснее! А куда это мама так наклонилась?"
-msgstr "Wow! Sullo schermo è diventato più interessante! E dove si è appoggiata mia madre finora?"
+    old "Ого! На экране стало интереснее! А куда это мама так наклонилась?"
+    new "Wow! Sullo schermo è diventato più interessante! E dove si è appoggiata mia madre finora?"
 
     # game/events/eric.rpy:356
-msgid "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?"
-msgstr "Wow! Eric ha tolto l'asciugamano dalla mamma e vedo il suo nudo! Forse avvicinarsi?"
+    old "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую попку! Может быть, подойти ближе?"
+    new "Wow! Eric ha tolto l'asciugamano dalla mamma e vedo il suo nudo! Forse avvicinarsi?"
 
     # game/events/eric.rpy:357
-msgid "{i}подойти ближе{/i}"
-msgstr "{i}avvicinarti{/i}"
+    old "{i}подойти ближе{/i}"
+    new "{i}avvicinarti{/i}"
 
     # game/events/eric.rpy:357
-msgid "{i}тихо уйти{/i}"
-msgstr "{i}tranquillamente partire{/i}"
+    old "{i}тихо уйти{/i}"
+    new "{i}tranquillamente partire{/i}"
 
     # game/events/eric.rpy:366
-msgid "{i}Что за вопрос? Конечно!{/i}"
-msgstr "{i}Qual è la domanda? Naturalmente,! {/i}"
+    old "{i}Что за вопрос? Конечно!{/i}"
+    new "{i}Qual è la domanda? Naturalmente,! {/i}"
 
     # game/events/eric.rpy:386
-msgid "Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику..."
-msgstr "Wow! Sullo schermo è diventato più interessante! E mia madre, tipo, ha iniziato a scopare erica di nuovo..."
+    old "Ого! На экране стало интереснее! А мама, вроде, снова начала дрочить Эрику..."
+    new "Wow! Sullo schermo è diventato più interessante! E mia madre, tipo, ha iniziato a scopare erica di nuovo..."
 
     # game/events/eric.rpy:387
-msgid "На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?"
-msgstr "Sullo schermo è già in tutti i più interessanti e la mamma ha gettato via la spugna! Peccato che i suoi seni non siano molto visibili... Forse avvicinarsi?"
+    old "На экране уже во всю идёт самое интересное и мама скинула полотенце! Жаль, что её грудь не очень хорошо видно... Может быть, подойти ближе?"
+    new "Sullo schermo è già in tutti i più interessanti e la mamma ha gettato via la spugna! Peccato che i suoi seni non siano molto visibili... Forse avvicinarsi?"
 
     # game/events/eric.rpy:389
-msgid "Ого! На экране стало интереснее! А что это мама там делает?"
-msgstr "Wow! Sullo schermo è diventato più interessante! E cosa ci fa la mamma lì?"
+    old "Ого! На экране стало интереснее! А что это мама там делает?"
+    new "Wow! Sullo schermo è diventato più interessante! E cosa ci fa la mamma lì?"
 
     # game/events/eric.rpy:390
-msgid "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?"
-msgstr "Wow! Eric ha tolto l'asciugamano dalla mamma e vedo il suo seno nudo! Forse avvicinarsi?"
+    old "Ничего себе! Эрик стянул с мамы полотенце и я вижу её голую грудь! Может быть, подойти ближе?"
+    new "Wow! Eric ha tolto l'asciugamano dalla mamma e vedo il suo seno nudo! Forse avvicinarsi?"
 
     # game/events/eric.rpy:421
-msgid "{i}тихо сматываться{/i}"
-msgstr "{i}rotolare tranquillamente{/i}"
+    old "{i}тихо сматываться{/i}"
+    new "{i}rotolare tranquillamente{/i}"
 
     # game/events/eric.rpy:458
-msgid "Вы охренели!"
-msgstr "Tu su!"
+    old "Вы охренели!"
+    new "Tu su!"
 
     # game/events/eric.rpy:460
-msgid "Ма-а-ам?"
-msgstr "Ma-a-am?"
+    old "Ма-а-ам?"
+    new "Ma-a-am?"
 
     # game/events/eric.rpy:493
-msgid "Как раз всё вижу. Не стыдно?"
-msgstr "Vedo tutto. Non ti vergogni?"
+    old "Как раз всё вижу. Не стыдно?"
+    new "Vedo tutto. Non ti vergogni?"
 
     # game/events/eric.rpy:493
-msgid "Хорошо. А вы тут продолжайте... Не стесняйтесь."
-msgstr "Ok. E tu vai avanti... Non essere timido."
+    old "Хорошо. А вы тут продолжайте... Не стесняйтесь."
+    new "Ok. E tu vai avanti... Non essere timido."
 
     # game/events/eric.rpy:493
-msgid "Извини, мам. Я просто не ожидал ТАКОЕ увидеть..."
-msgstr "Mi dispiace, mamma. Non mi aspettavo di vedere QUELLO..."
+    old "Извини, мам. Я просто не ожидал ТАКОЕ увидеть..."
+    new "Mi dispiace, mamma. Non mi aspettavo di vedere QUELLO..."
 
     # game/events/eric.rpy:509
-msgid "Хотите потрахаться - идите в свою комнату. Нечего этим на виду у всех заниматься!"
-msgstr "Se vuoi scopare - vai nella tua stanza. Non c'è niente da fare in bella vista!"
+    old "Хотите потрахаться - идите в свою комнату. Нечего этим на виду у всех заниматься!"
+    new "Se vuoi scopare - vai nella tua stanza. Non c'è niente da fare in bella vista!"
 
     # game/events/eric.rpy:509
-msgid "Да всё в порядке. Это ты извини... Я просто от неожиданности крикнул."
-msgstr "Sì, va bene. Mi dispiace... Ho solo urlato di sorpresa."
+    old "Да всё в порядке. Это ты извини... Я просто от неожиданности крикнул."
+    new "Sì, va bene. Mi dispiace... Ho solo urlato di sorpresa."
 
     # game/events/eric.rpy:509
-msgid "А вы не против, если я посмотрю?"
-msgstr "Ti dispiace se do un'occhiata?"
+    old "А вы не против, если я посмотрю?"
+    new "Ti dispiace se do un'occhiata?"
 
     # game/events/eric.rpy:539
-msgid "{i}заглянуть в окно\n"
+    old "{i}заглянуть в окно\n"
 "{color=[_ch1.col]}(Скрытность. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}guardare fuori dalla finestra\n"
+    new "{i}guardare fuori dalla finestra\n"
 "{color=[_ch1.col]}(Stealth: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/events/eric.rpy:539
-msgid "{i}зайти в спальню{/i}"
-msgstr "{i}andare in camera da letto{/i}"
+    old "{i}зайти в спальню{/i}"
+    new "{i}andare in camera da letto{/i}"
 
     # game/events/eric.rpy:590
-msgid "Я никому не мешаю же..."
-msgstr "Non sto disturbando nessuno..."
+    old "Я никому не мешаю же..."
+    new "Non sto disturbando nessuno..."
 
     # game/events/eric.rpy:590
-msgid "Я уже ухожу, мам... Извини..."
-msgstr "Me ne vado, mamma... Scusa..."
+    old "Я уже ухожу, мам... Извини..."
+    new "Me ne vado, mamma... Scusa..."
 
     # game/events/eric.rpy:698
-msgid "{i}проверить{/i}"
-msgstr "{i}check{/i}"
+    old "{i}проверить{/i}"
+    new "{i}check{/i}"
 
     # game/events/eric.rpy:908
-msgid "{i}смотреть до конца{/i}"
-msgstr "{i}guarda fino alla fine{/i}"
+    old "{i}смотреть до конца{/i}"
+    new "{i}guarda fino alla fine{/i}"
 
     # game/events/eric.rpy:989
-msgid "{i}посмотреть через камеру{/i}"
-msgstr "{i}vista attraverso la fotocamera{/i}"
+    old "{i}посмотреть через камеру{/i}"
+    new "{i}vista attraverso la fotocamera{/i}"
 
     # game/events/eric.rpy:1314
-msgid "{i}Осторожно подсмотреть за ним с балкона{/i}"
-msgstr "{i}Spiarlo attentamente dal balcone{/i}"
+    old "{i}Осторожно подсмотреть за ним с балкона{/i}"
+    new "{i}Spiarlo attentamente dal balcone{/i}"
 
     # game/events/eric.rpy:1342
-msgid "{i}сбегать за фотоаппаратом и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}correre per la fotocamera e andare al balcone {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}сбегать за фотоаппаратом и пойти на балкон {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}correre per la fotocamera e andare al balcone {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/events/eric.rpy:1354
-msgid "{i}сбегать за фотоаппаратом и вернуться {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}correre per la fotocamera e tornare {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}сбегать за фотоаппаратом и вернуться {color=[_ch1.col]}(Удача. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}correre per la fotocamera e tornare {color=[_ch1.col]}(Luck: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/events/eric.rpy:1402
-msgid "{i}сфотографировать его{/i}"
-msgstr "{i}scatta una foto{/i}"
+    old "{i}сфотографировать его{/i}"
+    new "{i}scatta una foto{/i}"
 

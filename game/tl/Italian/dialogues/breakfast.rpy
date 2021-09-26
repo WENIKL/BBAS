@@ -1803,670 +1803,670 @@ translate crowdin breakfast_35_79b424d8:
 translate crowdin strings:
 
 # game/dialogues/breakfast.rpy:12
-msgid "Конечно, мам..."
-msgstr "Certo, mamma..."
+    old "Конечно, мам..."
+    new "Certo, mamma..."
 
     # game/dialogues/breakfast.rpy:12
-msgid "А что, что-то случилось?"
-msgstr "È successo qualcosa?"
+    old "А что, что-то случилось?"
+    new "È successo qualcosa?"
 
     # game/dialogues/breakfast.rpy:26
-msgid "Посмотрим, какой ещё счёт придёт за жильё..."
-msgstr "Vediamo quale altro disegno di legge arriva per l'alloggio..."
+    old "Посмотрим, какой ещё счёт придёт за жильё..."
+    new "Vediamo quale altro disegno di legge arriva per l'alloggio..."
 
     # game/dialogues/breakfast.rpy:26
-msgid "Да, это небо и земля. Ещё бы знать, где кидают?"
-msgstr "Sì, è il cielo e la terra. Sai ancora dove lanciano?"
+    old "Да, это небо и земля. Ещё бы знать, где кидают?"
+    new "Sì, è il cielo e la terra. Sai ancora dove lanciano?"
 
     # game/dialogues/breakfast.rpy:26
-msgid "А вот у меня кровать точно такая же..."
-msgstr "Ma il mio letto è esattamente lo stesso..."
+    old "А вот у меня кровать точно такая же..."
+    new "Ma il mio letto è esattamente lo stesso..."
 
     # game/dialogues/breakfast.rpy:29
-msgid "Почему не нужно?"
-msgstr "Perché no?"
+    old "Почему не нужно?"
+    new "Perché no?"
 
     # game/dialogues/breakfast.rpy:29
-msgid "Ну, я тоже попробую заработать"
-msgstr "Beh, cercherò di fare soldi anche io"
+    old "Ну, я тоже попробую заработать"
+    new "Beh, cercherò di fare soldi anche io"
 
     # game/dialogues/breakfast.rpy:36
-msgid "Как знать. Может быть, у него не всё чисто с законом и дом отберут"
-msgstr "Chissà. Forse non ha tutto pulito con la legge e la casa sarà portata via"
+    old "Как знать. Может быть, у него не всё чисто с законом и дом отберут"
+    new "Chissà. Forse non ha tutto pulito con la legge e la casa sarà portata via"
 
     # game/dialogues/breakfast.rpy:36
-msgid "Верно. У нас толком ничего и не было, чтобы планировать что-то отобрать"
-msgstr "Fedelmente. Non avevamo davvero nulla da pianificare per portare via nulla"
+    old "Верно. У нас толком ничего и не было, чтобы планировать что-то отобрать"
+    new "Fedelmente. Non avevamo davvero nulla da pianificare per portare via nulla"
 
     # game/dialogues/breakfast.rpy:36
-msgid "Хотелось бы так думать..."
-msgstr "Mi piacerebbe pensarlo..."
+    old "Хотелось бы так думать..."
+    new "Mi piacerebbe pensarlo..."
 
     # game/dialogues/breakfast.rpy:45
-msgid "Меня моя тоже устраивает"
-msgstr "Sto bene anche con il mio"
+    old "Меня моя тоже устраивает"
+    new "Sto bene anche con il mio"
 
     # game/dialogues/breakfast.rpy:45
-msgid "Вот заработаю и куплю себе новую кровать!"
-msgstr "Guadagnerò e mi comprerò un nuovo letto!"
+    old "Вот заработаю и куплю себе новую кровать!"
+    new "Guadagnerò e mi comprerò un nuovo letto!"
 
     # game/dialogues/breakfast.rpy:48
-msgid "Ага. Кстати, я планирую уже начать зарабатывать!"
-msgstr "Aha. A proposito, ho intenzione di iniziare a guadagnare!"
+    old "Ага. Кстати, я планирую уже начать зарабатывать!"
+    new "Aha. A proposito, ho intenzione di iniziare a guadagnare!"
 
     # game/dialogues/breakfast.rpy:56
-msgid "Поздравляю, Лиза!"
-msgstr "Congratulazioni, Lisa!"
+    old "Поздравляю, Лиза!"
+    new "Congratulazioni, Lisa!"
 
     # game/dialogues/breakfast.rpy:56
-msgid "Кстати, в какое время начинается учёба?"
-msgstr "A proposito, a che ora inizia lo studio?"
+    old "Кстати, в какое время начинается учёба?"
+    new "A proposito, a che ora inizia lo studio?"
 
     # game/dialogues/breakfast.rpy:56
-msgid "А школа платная?"
-msgstr "E la scuola è pagata?"
+    old "А школа платная?"
+    new "E la scuola è pagata?"
 
     # game/dialogues/breakfast.rpy:59
-msgid "Если нужна помощь - обращайся"
-msgstr "Se hai bisogno di aiuto - contattaci"
+    old "Если нужна помощь - обращайся"
+    new "Se hai bisogno di aiuto - contattaci"
 
     # game/dialogues/breakfast.rpy:59
-msgid "Ну, ты справишься!"
-msgstr "Bene, puoi farlo!"
+    old "Ну, ты справишься!"
+    new "Bene, puoi farlo!"
 
     # game/dialogues/breakfast.rpy:62
-msgid "Меня не за знания выгнали"
-msgstr "Non sono stato cacciato per la mia conoscenza"
+    old "Меня не за знания выгнали"
+    new "Non sono stato cacciato per la mia conoscenza"
 
     # game/dialogues/breakfast.rpy:62
-msgid "Ну, кое-что я знаю..."
-msgstr "Beh, so una cosa..."
+    old "Ну, кое-что я знаю..."
+    new "Beh, so una cosa..."
 
     # game/dialogues/breakfast.rpy:65
-msgid "Да пошла ты!"
-msgstr "Inferno con te!"
+    old "Да пошла ты!"
+    new "Inferno con te!"
 
     # game/dialogues/breakfast.rpy:65
-msgid "Обязательно меня доставать?"
-msgstr "Sicuramente ho capito?"
+    old "Обязательно меня доставать?"
+    new "Sicuramente ho capito?"
 
     # game/dialogues/breakfast.rpy:65
-msgid "Нормально я учился..."
-msgstr "Normalmente, ho studiato..."
+    old "Нормально я учился..."
+    new "Normalmente, ho studiato..."
 
     # game/dialogues/breakfast.rpy:74
-msgid "А сама, такая умная, даже помощь сестрёнке не предложила!"
-msgstr "E lei stessa, così intelligente, non ha nemmeno offerto aiuto a sua sorella!"
+    old "А сама, такая умная, даже помощь сестрёнке не предложила!"
+    new "E lei stessa, così intelligente, non ha nemmeno offerto aiuto a sua sorella!"
 
     # game/dialogues/breakfast.rpy:74
-msgid "Чему смогу, тому и научу..."
-msgstr "Quello che posso, lo insegnerò..."
+    old "Чему смогу, тому и научу..."
+    new "Quello che posso, lo insegnerò..."
 
     # game/dialogues/breakfast.rpy:81
-msgid "Сегодня укороченный день?"
-msgstr "Oggi è una giornata accorciata?"
+    old "Сегодня укороченный день?"
+    new "Oggi è una giornata accorciata?"
 
     # game/dialogues/breakfast.rpy:81
-msgid "Всего 5 часов?"
-msgstr "Solo 5 ore?"
+    old "Всего 5 часов?"
+    new "Solo 5 ore?"
 
     # game/dialogues/breakfast.rpy:81
-msgid "Ну, удачи тебе в школе!"
-msgstr "Bene, buona fortuna con la tua scuola!"
+    old "Ну, удачи тебе в школе!"
+    new "Bene, buona fortuna con la tua scuola!"
 
     # game/dialogues/breakfast.rpy:84
-msgid "Мы в тебя верим..."
-msgstr "Crediamo in te..."
+    old "Мы в тебя верим..."
+    new "Crediamo in te..."
 
     # game/dialogues/breakfast.rpy:93
-msgid "А почему так мало?"
-msgstr "E perché così poco?"
+    old "А почему так мало?"
+    new "E perché così poco?"
 
     # game/dialogues/breakfast.rpy:118
-msgid "Ой. Кого же мне это всё напоминает?"
-msgstr "Ahi. A chi me lo ricorda?"
+    old "Ой. Кого же мне это всё напоминает?"
+    new "Ahi. A chi me lo ricorda?"
 
     # game/dialogues/breakfast.rpy:118
-msgid "А вот и заработаю. Научусь что-то делать и сразу заработаю!"
-msgstr "Ed eccomi qui. Imparerò a fare qualcosa e guadagnerò subito!"
+    old "А вот и заработаю. Научусь что-то делать и сразу заработаю!"
+    new "Ed eccomi qui. Imparerò a fare qualcosa e guadagnerò subito!"
 
     # game/dialogues/breakfast.rpy:118
-msgid "Ну а ты разве не дома сидишь в своём ноуте? Ты как зарабатывать планируешь?"
-msgstr "Bene, non sei seduto a casa nella tua nota? Come pensi di fare soldi?"
+    old "Ну а ты разве не дома сидишь в своём ноуте? Ты как зарабатывать планируешь?"
+    new "Bene, non sei seduto a casa nella tua nota? Come pensi di fare soldi?"
 
     # game/dialogues/breakfast.rpy:122
-msgid "И что твой блог тебе даёт?"
-msgstr "E cosa ti dà il tuo blog?"
+    old "И что твой блог тебе даёт?"
+    new "E cosa ti dà il tuo blog?"
 
     # game/dialogues/breakfast.rpy:122
-msgid "Много уже на нём заработала?"
-msgstr "Hai già guadagnato molto su di esso?"
+    old "Много уже на нём заработала?"
+    new "Hai già guadagnato molto su di esso?"
 
     # game/dialogues/breakfast.rpy:122
-msgid "А у меня есть мозги!"
-msgstr "E ho il cervello!"
+    old "А у меня есть мозги!"
+    new "E ho il cervello!"
 
     # game/dialogues/breakfast.rpy:125
-msgid "Смотри, не захлебнись... рекой"
-msgstr "Guarda, non soffocare... Fiume"
+    old "Смотри, не захлебнись... рекой"
+    new "Guarda, non soffocare... Fiume"
 
     # game/dialogues/breakfast.rpy:125
-msgid "Ну, посмотрим на твою реку..."
-msgstr "Bene, diamo un'occhiata al tuo fiume..."
+    old "Ну, посмотрим на твою реку..."
+    new "Bene, diamo un'occhiata al tuo fiume..."
 
     # game/dialogues/breakfast.rpy:132
-msgid "Ага, как Кардашьян"
-msgstr "Sì, come Kardashian"
+    old "Ага, как Кардашьян"
+    new "Sì, come Kardashian"
 
     # game/dialogues/breakfast.rpy:132
-msgid "Может быть, тебе подарить губозакатывательную машинку?"
-msgstr "Forse ti dare una macchina per la labiale?"
+    old "Может быть, тебе подарить губозакатывательную машинку?"
+    new "Forse ti dare una macchina per la labiale?"
 
     # game/dialogues/breakfast.rpy:139
-msgid "Да поумнее некоторых..."
-msgstr "Sì, più intelligente di alcuni..."
+    old "Да поумнее некоторых..."
+    new "Sì, più intelligente di alcuni..."
 
     # game/dialogues/breakfast.rpy:139
-msgid "Меня не за оценки выперли!"
-msgstr "Non sono stato cacciato per i voti!"
+    old "Меня не за оценки выперли!"
+    new "Non sono stato cacciato per i voti!"
 
     # game/dialogues/breakfast.rpy:139
-msgid "Да мне школа и не нужна"
-msgstr "Sì, non ho bisogno di una scuola"
+    old "Да мне школа и не нужна"
+    new "Sì, non ho bisogno di una scuola"
 
     # game/dialogues/breakfast.rpy:148
-msgid "Да ты сама дома целыми днями сидишь!"
-msgstr "Sì, tu stesso sei seduto a casa tutto il giorno!"
+    old "Да ты сама дома целыми днями сидишь!"
+    new "Sì, tu stesso sei seduto a casa tutto il giorno!"
 
     # game/dialogues/breakfast.rpy:148
-msgid "Ага, дворником или посудомойкой?"
-msgstr "Sì, un bidello o una lavastoviglie?"
+    old "Ага, дворником или посудомойкой?"
+    new "Sì, un bidello o una lavastoviglie?"
 
     # game/dialogues/breakfast.rpy:148
-msgid "Вот сама бы и шла работать по объявлению!"
-msgstr "Questo sono io e andrei a lavorare sull'annuncio!"
+    old "Вот сама бы и шла работать по объявлению!"
+    new "Questo sono io e andrei a lavorare sull'annuncio!"
 
     # game/dialogues/breakfast.rpy:161
-msgid "Ага, всё же так просто..."
-msgstr "Sì, è così semplice..."
+    old "Ага, всё же так просто..."
+    new "Sì, è così semplice..."
 
     # game/dialogues/breakfast.rpy:161
-msgid "И что ты будешь рекламировать?"
-msgstr "E cosa hai intenzione di pubblicizzare?"
+    old "И что ты будешь рекламировать?"
+    new "E cosa hai intenzione di pubblicizzare?"
 
     # game/dialogues/breakfast.rpy:161
-msgid "Сколько миллионов подписчиков у тебя, говоришь?"
-msgstr "Quanti milioni di follower hai, dici?"
+    old "Сколько миллионов подписчиков у тебя, говоришь?"
+    new "Quanti milioni di follower hai, dici?"
 
     # game/dialogues/breakfast.rpy:164
-msgid "Да уж, делом. Деловая..."
-msgstr "Sì, sì. Azienda..."
+    old "Да уж, делом. Деловая..."
+    new "Sì, sì. Azienda..."
 
     # game/dialogues/breakfast.rpy:164
-msgid "Не перетрудись!"
-msgstr "Non lavorare troppo!"
+    old "Не перетрудись!"
+    new "Non lavorare troppo!"
 
     # game/dialogues/breakfast.rpy:164
-msgid "Я хотя бы реалист!"
-msgstr "Sono almeno un realista!"
+    old "Я хотя бы реалист!"
+    new "Sono almeno un realista!"
 
     # game/dialogues/breakfast.rpy:173
-msgid "Бьюти-блогеров как грязи. Чем ты лучше их?"
-msgstr "I blogger di bellezza sono come sporcizia. Come sei migliore di loro?"
+    old "Бьюти-блогеров как грязи. Чем ты лучше их?"
+    new "I blogger di bellezza sono come sporcizia. Come sei migliore di loro?"
 
     # game/dialogues/breakfast.rpy:173
-msgid "Думаешь, кому-то нужна твоя реклама?"
-msgstr "Pensi che qualcuno abbia bisogno della tua pubblicità?"
+    old "Думаешь, кому-то нужна твоя реклама?"
+    new "Pensi che qualcuno abbia bisogno della tua pubblicità?"
 
     # game/dialogues/breakfast.rpy:173
-msgid "Всё фантазируешь..."
-msgstr "Fantastici di tutto..."
+    old "Всё фантазируешь..."
+    new "Fantastici di tutto..."
 
     # game/dialogues/breakfast.rpy:182
-msgid "У меня есть планы и идеи"
-msgstr "Ho progetti e idee"
+    old "У меня есть планы и идеи"
+    new "Ho progetti e idee"
 
     # game/dialogues/breakfast.rpy:182
-msgid "Я тоже что-то придумаю"
-msgstr "Troverò anche qualcosa"
+    old "Я тоже что-то придумаю"
+    new "Troverò anche qualcosa"
 
     # game/dialogues/breakfast.rpy:182
-msgid "Ага, десять миллионов..."
-msgstr "Sì, dieci milioni..."
+    old "Ага, десять миллионов..."
+    new "Sì, dieci milioni..."
 
     # game/dialogues/breakfast.rpy:193
-msgid "Ты им звонила, мам, узнала где наши вещи?"
-msgstr "Li hai chiamati, mamma, hai scoperto dove sono le nostre cose?"
+    old "Ты им звонила, мам, узнала где наши вещи?"
+    new "Li hai chiamati, mamma, hai scoperto dove sono le nostre cose?"
 
     # game/dialogues/breakfast.rpy:193
-msgid "Ничего страшного, купим новую!"
-msgstr "Va bene, compriamone uno nuovo!"
+    old "Ничего страшного, купим новую!"
+    new "Va bene, compriamone uno nuovo!"
 
     # game/dialogues/breakfast.rpy:193
-msgid "Я не понял, а где кондиционеры?"
-msgstr "Non ho capito, ma dove sono i condizionatori d'aria?"
+    old "Я не понял, а где кондиционеры?"
+    new "Non ho capito, ma dove sono i condizionatori d'aria?"
 
     # game/dialogues/breakfast.rpy:196
-msgid "Ну и обойдёмся без неё"
-msgstr "Bene, facciamo a meno"
+    old "Ну и обойдёмся без неё"
+    new "Bene, facciamo a meno"
 
     # game/dialogues/breakfast.rpy:196
-msgid "Вот заработаю и куплю всё, что потеряли..."
-msgstr "Guadagnerò e comprerò tutto quello che ho perso..."
+    old "Вот заработаю и куплю всё, что потеряли..."
+    new "Guadagnerò e comprerò tutto quello che ho perso..."
 
     # game/dialogues/breakfast.rpy:200
-msgid "Может и рад. Мне стесняться нечего!"
-msgstr "Forse contento. Non ho nulla di cui vergognarmi!"
+    old "Может и рад. Мне стесняться нечего!"
+    new "Forse contento. Non ho nulla di cui vergognarmi!"
 
     # game/dialogues/breakfast.rpy:200
-msgid "Да всем плевать, в чём ты там что ведёшь"
-msgstr "Sì, a tutti non importa cosa stai facendo lì"
+    old "Да всем плевать, в чём ты там что ведёшь"
+    new "Sì, a tutti non importa cosa stai facendo lì"
 
     # game/dialogues/breakfast.rpy:200
-msgid "Раз ты такой успешный блогер, купишь новые"
-msgstr "Dato che sei un blogger di successo, acquistane di nuovi"
+    old "Раз ты такой успешный блогер, купишь новые"
+    new "Dato che sei un blogger di successo, acquistane di nuovi"
 
     # game/dialogues/breakfast.rpy:203
-msgid "Что, богатый жизненный опыт?"
-msgstr "Cosa, una ricca esperienza di vita?"
+    old "Что, богатый жизненный опыт?"
+    new "Cosa, una ricca esperienza di vita?"
 
     # game/dialogues/breakfast.rpy:203
-msgid "Да я хоть сейчас покажу!"
-msgstr "Sì, te lo mostrerò ora!"
+    old "Да я хоть сейчас покажу!"
+    new "Sì, te lo mostrerò ora!"
 
     # game/dialogues/breakfast.rpy:203
-msgid "На слабо берёшь?"
-msgstr "Su una presa debole?"
+    old "На слабо берёшь?"
+    new "Su una presa debole?"
 
     # game/dialogues/breakfast.rpy:212
-msgid "Да на тебя вещей не напасёшься!"
-msgstr "Sì, non ne avrai mai abbastanza!"
+    old "Да на тебя вещей не напасёшься!"
+    new "Sì, non ne avrai mai abbastanza!"
 
     # game/dialogues/breakfast.rpy:212
-msgid "У тебя репа не треснет с такими запросами?"
-msgstr "Hai una rapa che non si rompe con tali richieste?"
+    old "У тебя репа не треснет с такими запросами?"
+    new "Hai una rapa che non si rompe con tali richieste?"
 
     # game/dialogues/breakfast.rpy:219
-msgid "И что ты там раскручиваешь?"
-msgstr "E cosa stai girando lì?"
+    old "И что ты там раскручиваешь?"
+    new "E cosa stai girando lì?"
 
     # game/dialogues/breakfast.rpy:219
-msgid "Я придумаю и заработаю!"
-msgstr "Inventerò e guadagnerò!"
+    old "Я придумаю и заработаю!"
+    new "Inventerò e guadagnerò!"
 
     # game/dialogues/breakfast.rpy:230
-msgid "Ну и купим, без проблем"
-msgstr "Bene, compreremo, nessun problema"
+    old "Ну и купим, без проблем"
+    new "Bene, compreremo, nessun problema"
 
     # game/dialogues/breakfast.rpy:230
-msgid "Вот попробую заработать и всё наладится"
-msgstr "Cercherò di fare soldi e tutto andrà meglio"
+    old "Вот попробую заработать и всё наладится"
+    new "Cercherò di fare soldi e tutto andrà meglio"
 
     # game/dialogues/breakfast.rpy:230
-msgid "Ну что, копим на кондиционеры?"
-msgstr "Bene, risparmiamo per i condizionatori d'aria?"
+    old "Ну что, копим на кондиционеры?"
+    new "Bene, risparmiamo per i condizionatori d'aria?"
 
     # game/dialogues/breakfast.rpy:237
-msgid "Ну а если что, всегда можно снять лишнее"
-msgstr "Bene, semmai, puoi sempre rimuovere l'eccesso"
+    old "Ну а если что, всегда можно снять лишнее"
+    new "Bene, semmai, puoi sempre rimuovere l'eccesso"
 
     # game/dialogues/breakfast.rpy:237
-msgid "Да я бы и в трусах не прочь ходить"
-msgstr "Sì, non mi dispiacerebbe camminare in pantaloncini"
+    old "Да я бы и в трусах не прочь ходить"
+    new "Sì, non mi dispiacerebbe camminare in pantaloncini"
 
     # game/dialogues/breakfast.rpy:240
-msgid "Я не против!"
-msgstr "Non mi dispiace!"
+    old "Я не против!"
+    new "Non mi dispiace!"
 
     # game/dialogues/breakfast.rpy:240
-msgid "Начинай, я уже в предвкушении..."
-msgstr "Inizia, sono già in anticipo..."
+    old "Начинай, я уже в предвкушении..."
+    new "Inizia, sono già in anticipo..."
 
     # game/dialogues/breakfast.rpy:240
-msgid "Ну и ходи в своих джинсах дома"
-msgstr "Bene, vai nei tuoi jeans a casa"
+    old "Ну и ходи в своих джинсах дома"
+    new "Bene, vai nei tuoi jeans a casa"
 
     # game/dialogues/breakfast.rpy:243
-msgid "Да я хоть сейчас!"
-msgstr "Sì, almeno io ora!"
+    old "Да я хоть сейчас!"
+    new "Sì, almeno io ora!"
 
     # game/dialogues/breakfast.rpy:243
-msgid "На слабо разводишь?"
-msgstr "Sul divorzio debole?"
+    old "На слабо разводишь?"
+    new "Sul divorzio debole?"
 
     # game/dialogues/breakfast.rpy:243
-msgid "Я тебе покажу. Всё покажу..."
-msgstr "Ti faccio vedere. Ti mostrerò tutto..."
+    old "Я тебе покажу. Всё покажу..."
+    new "Ti faccio vedere. Ti mostrerò tutto..."
 
     # game/dialogues/breakfast.rpy:261
-msgid "Кто о чём, а Алиса о шоппинге..."
-msgstr "Chi parla di cosa, e Alice dello shopping..."
+    old "Кто о чём, а Алиса о шоппинге..."
+    new "Chi parla di cosa, e Alice dello shopping..."
 
     # game/dialogues/breakfast.rpy:261
-msgid "Сначала заработай"
-msgstr "Guadagna prima"
+    old "Сначала заработай"
+    new "Guadagna prima"
 
     # game/dialogues/breakfast.rpy:268
-msgid "А может быть, Лиза и не против?"
-msgstr "O forse a Lisa non dispiace?"
+    old "А может быть, Лиза и не против?"
+    new "O forse a Lisa non dispiace?"
 
     # game/dialogues/breakfast.rpy:268
-msgid "Я же в трусах, а не без них"
-msgstr "Sono in pantaloncini, non senza di loro"
+    old "Я же в трусах, а не без них"
+    new "Sono in pantaloncini, non senza di loro"
 
     # game/dialogues/breakfast.rpy:268
-msgid "А это тут причём?"
-msgstr "Di cosa si tratta?"
+    old "А это тут причём?"
+    new "Di cosa si tratta?"
 
     # game/dialogues/breakfast.rpy:278
-msgid "Да моей купилке любой позавидует!"
-msgstr "Sì, chiunque invidierà il mio acquisto!"
+    old "Да моей купилке любой позавидует!"
+    new "Sì, chiunque invidierà il mio acquisto!"
 
     # game/dialogues/breakfast.rpy:278
-msgid "А у самой то денег куры не клюют, да?"
-msgstr "E i polli non mordono i soldi, giusto?"
+    old "А у самой то денег куры не клюют, да?"
+    new "E i polli non mordono i soldi, giusto?"
 
     # game/dialogues/breakfast.rpy:278
-msgid "Ну вот возьму и заработаю"
-msgstr "Bene, lo prenderò e lo guadagnerò"
+    old "Ну вот возьму и заработаю"
+    new "Bene, lo prenderò e lo guadagnerò"
 
     # game/dialogues/breakfast.rpy:281
-msgid "А ты чем зарабатываешь?"
-msgstr "E cosa guadagni?"
+    old "А ты чем зарабатываешь?"
+    new "E cosa guadagni?"
 
     # game/dialogues/breakfast.rpy:288
-msgid "Не всё то шоколад, что коричневого цвета!"
-msgstr "Non tutto quel cioccolato che è marrone!"
+    old "Не всё то шоколад, что коричневого цвета!"
+    new "Non tutto quel cioccolato che è marrone!"
 
     # game/dialogues/breakfast.rpy:298
-msgid "Не сомневаюсь"
-msgstr "Non ho dubbi"
+    old "Не сомневаюсь"
+    new "Non ho dubbi"
 
     # game/dialogues/breakfast.rpy:298
-msgid "Вот ещё..."
-msgstr "Ecco di più..."
+    old "Вот ещё..."
+    new "Ecco di più..."
 
     # game/dialogues/breakfast.rpy:306
-msgid "Хорошо, я посмотрю"
-msgstr "Ok, darò un'occhiata"
+    old "Хорошо, я посмотрю"
+    new "Ok, darò un'occhiata"
 
     # game/dialogues/breakfast.rpy:306
-msgid "А что за коробки?"
-msgstr "E che tipo di scatole?"
+    old "А что за коробки?"
+    new "E che tipo di scatole?"
 
     # game/dialogues/breakfast.rpy:311
-msgid "Понял. Посмотрю..."
-msgstr "Ho capito. Vedere..."
+    old "Понял. Посмотрю..."
+    new "Ho capito. Vedere..."
 
     # game/dialogues/breakfast.rpy:336
-msgid "Я не балбес! Я всё знаю!"
-msgstr "Non sono uno sciocco! So tutto!"
+    old "Я не балбес! Я всё знаю!"
+    new "Non sono uno sciocco! So tutto!"
 
     # game/dialogues/breakfast.rpy:336
-msgid "Меня не за знания выгнали!"
-msgstr "Non sono stato cacciato per la mia conoscenza!"
+    old "Меня не за знания выгнали!"
+    new "Non sono stato cacciato per la mia conoscenza!"
 
     # game/dialogues/breakfast.rpy:347
-msgid "{i}Наблюдать{/i}"
-msgstr "{i}Osservare{/i}"
+    old "{i}Наблюдать{/i}"
+    new "{i}Osservare{/i}"
 
     # game/dialogues/breakfast.rpy:347
-msgid "Мама! Лиза права. Дай ей шанс подготовиться. Я ей помогу!"
-msgstr "Mummia! Lisa ha ragione. Datele la possibilità di prepararsi. La aiuterò!"
+    old "Мама! Лиза права. Дай ей шанс подготовиться. Я ей помогу!"
+    new "Mummia! Lisa ha ragione. Datele la possibilità di prepararsi. La aiuterò!"
 
     # game/dialogues/breakfast.rpy:366
-msgid "Ясно..."
-msgstr "Capisco..."
+    old "Ясно..."
+    new "Capisco..."
 
     # game/dialogues/breakfast.rpy:366
-msgid "Я тут вообще ни при чём"
-msgstr "Non ho nulla a che fare con questo"
+    old "Я тут вообще ни при чём"
+    new "Non ho nulla a che fare con questo"
 
     # game/dialogues/breakfast.rpy:366
-msgid "{i}молчать{/i}"
-msgstr "{i}silent{/i}"
+    old "{i}молчать{/i}"
+    new "{i}silent{/i}"
 
     # game/dialogues/breakfast.rpy:384
-msgid "Конечно, Лиза!"
-msgstr "Certo, Lisa!"
+    old "Конечно, Лиза!"
+    new "Certo, Lisa!"
 
     # game/dialogues/breakfast.rpy:392
-msgid "Какие картины?"
-msgstr "Quali dipinti?"
+    old "Какие картины?"
+    new "Quali dipinti?"
 
     # game/dialogues/breakfast.rpy:392
-msgid "Ты про тех голых женщин в ваших спальнях?"
-msgstr "Stai parlando di quelli nelle tue camere da letto?"
+    old "Ты про тех голых женщин в ваших спальнях?"
+    new "Stai parlando di quelli nelle tue camere da letto?"
 
     # game/dialogues/breakfast.rpy:395
-msgid "И ничего я не пялился!"
-msgstr "E non ho fissato nulla!"
+    old "И ничего я не пялился!"
+    new "E non ho fissato nulla!"
 
     # game/dialogues/breakfast.rpy:395
-msgid "Ну и что. Хорошие картины..."
-msgstr "E allora. Buone foto..."
+    old "Ну и что. Хорошие картины..."
+    new "E allora. Buone foto..."
 
     # game/dialogues/breakfast.rpy:407
-msgid "Что, от Эрика?"
-msgstr "Cosa, da Eric?"
+    old "Что, от Эрика?"
+    new "Cosa, da Eric?"
 
     # game/dialogues/breakfast.rpy:407
-msgid "Что, сам Эрик приедет?"
-msgstr "Verrà Eric?"
+    old "Что, сам Эрик приедет?"
+    new "Verrà Eric?"
 
     # game/dialogues/breakfast.rpy:407
-msgid "Тогда поспеши!"
-msgstr "Allora sbrigati!"
+    old "Тогда поспеши!"
+    new "Allora sbrigati!"
 
     # game/dialogues/breakfast.rpy:410
-msgid "Что-то я сомневаюсь..."
-msgstr "Qualcosa di cui dubito..."
+    old "Что-то я сомневаюсь..."
+    new "Qualcosa di cui dubito..."
 
     # game/dialogues/breakfast.rpy:410
-msgid "Может быть. Тогда, поспеши!"
-msgstr "Potrebbe essere. Allora, sbrigati!"
+    old "Может быть. Тогда, поспеши!"
+    new "Potrebbe essere. Allora, sbrigati!"
 
     # game/dialogues/breakfast.rpy:446
-msgid "Мама всё правильно говорит!"
-msgstr "La mamma dice bene!"
+    old "Мама всё правильно говорит!"
+    new "La mamma dice bene!"
 
     # game/dialogues/breakfast.rpy:453
-msgid "Может быть, помочь?"
-msgstr "Forse aiuto?"
+    old "Может быть, помочь?"
+    new "Forse aiuto?"
 
     # game/dialogues/breakfast.rpy:463
-msgid "Э... Почему кроме меня?"
-msgstr "Uh... Perché oltre a me?"
+    old "Э... Почему кроме меня?"
+    new "Uh... Perché oltre a me?"
 
     # game/dialogues/breakfast.rpy:463
-msgid "Не очень то и хотелось..."
-msgstr "Non volevo davvero..."
+    old "Не очень то и хотелось..."
+    new "Non volevo davvero..."
 
     # game/dialogues/breakfast.rpy:466
-msgid "Так у вас же денег нет?"
-msgstr "Quindi non hai soldi?"
+    old "Так у вас же денег нет?"
+    new "Quindi non hai soldi?"
 
     # game/dialogues/breakfast.rpy:466
-msgid "И кто вас повезёт?"
-msgstr "E chi sarà fortunato?"
+    old "И кто вас повезёт?"
+    new "E chi sarà fortunato?"
 
     # game/dialogues/breakfast.rpy:483
-msgid "Так ты знакомишь Эрика с семьёй? Без меня?"
-msgstr "Quindi presenti Eric alla sua famiglia? Senza di me?"
+    old "Так ты знакомишь Эрика с семьёй? Без меня?"
+    new "Quindi presenti Eric alla sua famiglia? Senza di me?"
 
     # game/dialogues/breakfast.rpy:483
-msgid "Надеюсь, я то его увижу, когда вернётесь?"
-msgstr "Spero di vederlo quando tornerai?"
+    old "Надеюсь, я то его увижу, когда вернётесь?"
+    new "Spero di vederlo quando tornerai?"
 
     # game/dialogues/breakfast.rpy:492
-msgid "Ага! Почти?"
-msgstr "Aha! Quasi?"
+    old "Ага! Почти?"
+    new "Aha! Quasi?"
 
     # game/dialogues/breakfast.rpy:492
-msgid "И какие недостатки?"
-msgstr "E quali sono gli svantaggi?"
+    old "И какие недостатки?"
+    new "E quali sono gli svantaggi?"
 
     # game/dialogues/breakfast.rpy:497
-msgid "А вы уже признались?"
-msgstr "Hai già ammesso?"
+    old "А вы уже признались?"
+    new "Hai già ammesso?"
 
     # game/dialogues/breakfast.rpy:497
-msgid "Кто говорит о свадьбе?"
-msgstr "Chi parla del matrimonio?"
+    old "Кто говорит о свадьбе?"
+    new "Chi parla del matrimonio?"
 
     # game/dialogues/breakfast.rpy:497
-msgid "А ты сама не слишком спешишь?!"
-msgstr "Non hai troppa fretta?!"
+    old "А ты сама не слишком спешишь?!"
+    new "Non hai troppa fretta?!"
 
     # game/dialogues/breakfast.rpy:507
-msgid "А я рад. Правда."
-msgstr "E sono contento. Davvero."
+    old "А я рад. Правда."
+    new "E sono contento. Davvero."
 
     # game/dialogues/breakfast.rpy:507
-msgid "Мне просто любопытно!"
-msgstr "Sono solo curioso!"
+    old "Мне просто любопытно!"
+    new "Sono solo curioso!"
 
     # game/dialogues/breakfast.rpy:541
-msgid "{i}закончить завтрак{/i}"
-msgstr "{i}finire la colazione{/i}"
+    old "{i}закончить завтрак{/i}"
+    new "{i}finire la colazione{/i}"
 
     # game/dialogues/breakfast.rpy:557
-msgid "Ну, я его не знаю..."
-msgstr "Beh, io non lo so..."
+    old "Ну, я его не знаю..."
+    new "Beh, io non lo so..."
 
     # game/dialogues/breakfast.rpy:557
-msgid "А вдруг он не тот, за кого себя выдаёт"
-msgstr "E cosa succede se non è chi finge di essere"
+    old "А вдруг он не тот, за кого себя выдаёт"
+    new "E cosa succede se non è chi finge di essere"
 
     # game/dialogues/breakfast.rpy:557
-msgid "Я переживаю о маме"
-msgstr "Mi preoccupo per mia madre"
+    old "Я переживаю о маме"
+    new "Mi preoccupo per mia madre"
 
     # game/dialogues/breakfast.rpy:564
-msgid "Ну не знаю. Может, он маньяк..."
-msgstr "Beh, io non lo so. Forse è un maniaco..."
+    old "Ну не знаю. Может, он маньяк..."
+    new "Beh, io non lo so. Forse è un maniaco..."
 
     # game/dialogues/breakfast.rpy:564
-msgid "Дело не в этом, я не знаю его мотивов..."
-msgstr "Non è questo il punto, non conosco le sue motivazioni..."
+    old "Дело не в этом, я не знаю его мотивов..."
+    new "Non è questo il punto, non conosco le sue motivazioni..."
 
     # game/dialogues/breakfast.rpy:564
-msgid "Может он очередной придурок!"
-msgstr "Forse è un altro cretino!"
+    old "Может он очередной придурок!"
+    new "Forse è un altro cretino!"
 
     # game/dialogues/breakfast.rpy:576
-msgid "Ладно, ладно. Посмотрим..."
-msgstr "Va bene, va bene. Vedere..."
+    old "Ладно, ладно. Посмотрим..."
+    new "Va bene, va bene. Vedere..."
 
     # game/dialogues/breakfast.rpy:576
-msgid "Да я рад..."
-msgstr "Sì, sono contento..."
+    old "Да я рад..."
+    new "Sì, sono contento..."
 
     # game/dialogues/breakfast.rpy:607
-msgid "Как о чём? Про ночь с Эриком!"
-msgstr "Che ne dici di cosa? A proposito della notte con Eric!"
+    old "Как о чём? Про ночь с Эриком!"
+    new "Che ne dici di cosa? A proposito della notte con Eric!"
 
     # game/dialogues/breakfast.rpy:607
-msgid "Я про визит к Эрику..."
-msgstr "Sto parlando di una visita a Eric..."
+    old "Я про визит к Эрику..."
+    new "Sto parlando di una visita a Eric..."
 
     # game/dialogues/breakfast.rpy:618
-msgid "А что сразу я? Но да, я согласен с Алисой..."
-msgstr "E io? Ma sì, sono d'accordo con Alice..."
+    old "А что сразу я? Но да, я согласен с Алисой..."
+    new "E io? Ma sì, sono d'accordo con Alice..."
 
     # game/dialogues/breakfast.rpy:628
-msgid "Да, вот интересно, как часто он будет нарушать это пространство..."
-msgstr "Sì, mi chiedo quante volte romperà quello spazio..."
+    old "Да, вот интересно, как часто он будет нарушать это пространство..."
+    new "Sì, mi chiedo quante volte romperà quello spazio..."
 
     # game/dialogues/breakfast.rpy:628
-msgid "Ага, мне просто любопытно..."
-msgstr "Sì, sono solo curioso..."
+    old "Ага, мне просто любопытно..."
+    new "Sì, sono solo curioso..."
 
     # game/dialogues/breakfast.rpy:634
-msgid "Ого, так часто?"
-msgstr "Walth, così spesso?"
+    old "Ого, так часто?"
+    new "Walth, così spesso?"
 
     # game/dialogues/breakfast.rpy:634
-msgid "Может, ему переехать сюда тогда?"
-msgstr "Forse dovrebbe trasferirsi qui allora?"
+    old "Может, ему переехать сюда тогда?"
+    new "Forse dovrebbe trasferirsi qui allora?"
 
     # game/dialogues/breakfast.rpy:634
-msgid "Может, тебе к нему переехать?"
-msgstr "Forse dovresti trasferirti con lui?"
+    old "Может, тебе к нему переехать?"
+    new "Forse dovresti trasferirti con lui?"
 
     # game/dialogues/breakfast.rpy:634
-msgid "Понятно..."
-msgstr "Capito..."
+    old "Понятно..."
+    new "Capito..."
 
     # game/dialogues/breakfast.rpy:651
-msgid "Никогда!"
-msgstr "Mai!"
+    old "Никогда!"
+    new "Mai!"
 
     # game/dialogues/breakfast.rpy:702
-msgid "Какого хрена, мам?"
-msgstr "Che cazzo, mamma?"
+    old "Какого хрена, мам?"
+    new "Che cazzo, mamma?"
 
     # game/dialogues/breakfast.rpy:702
-msgid "Отличная идея, мам!"
-msgstr "Ottima idea, mamma!"
+    old "Отличная идея, мам!"
+    new "Ottima idea, mamma!"
 
     # game/dialogues/breakfast.rpy:705
-msgid "Да он козёл!"
-msgstr "Sì, è una capra!"
+    old "Да он козёл!"
+    new "Sì, è una capra!"
 
     # game/dialogues/breakfast.rpy:705
-msgid "Извини, мам..."
-msgstr "Mi dispiace, mamma..."
+    old "Извини, мам..."
+    new "Mi dispiace, mamma..."
 
     # game/dialogues/breakfast.rpy:751
-msgid "Горничной Эрика!"
-msgstr "La cameriera di Eric!"
+    old "Горничной Эрика!"
+    new "La cameriera di Eric!"
 
     # game/dialogues/breakfast.rpy:751
-msgid "Секретаршей"
-msgstr "Segretario"
+    old "Секретаршей"
+    new "Segretario"
 
     # game/dialogues/breakfast.rpy:751
-msgid "{i}промолчать{/i}"
-msgstr "{i}rimanere in silenzio{/i}"
+    old "{i}промолчать{/i}"
+    new "{i}rimanere in silenzio{/i}"
 
     # game/dialogues/breakfast.rpy:754
-msgid "В общем, секретарша..."
-msgstr "In generale, il segretario..."
+    old "В общем, секретарша..."
+    new "In generale, il segretario..."
 
     # game/dialogues/breakfast.rpy:761
-msgid "Ну я так и сказал - секретарша..."
-msgstr "Beh, l'ho detto - segretario..."
+    old "Ну я так и сказал - секретарша..."
+    new "Beh, l'ho detto - segretario..."
 
     # game/dialogues/breakfast.rpy:776
-msgid "Подонок, каких мало..."
-msgstr "Basso, che un po '..."
+    old "Подонок, каких мало..."
+    new "Basso, che un po '..."
 
     # game/dialogues/breakfast.rpy:776
-msgid "Нормальный мужик"
-msgstr "Uomo normale"
+    old "Нормальный мужик"
+    new "Uomo normale"
 
     # game/dialogues/breakfast.rpy:779
-msgid "Извини, мам, я пошутил..."
-msgstr "Scusa mamma, stavo scherzando..."
+    old "Извини, мам, я пошутил..."
+    new "Scusa mamma, stavo scherzando..."
 
     # game/dialogues/breakfast.rpy:779
-msgid "Ну и сниму. От своих слов я не отказываюсь!"
-msgstr "Bene, lo toglierò. Non riringo le mie parole!"
+    old "Ну и сниму. От своих слов я не отказываюсь!"
+    new "Bene, lo toglierò. Non riringo le mie parole!"
 
     # game/dialogues/breakfast.rpy:786
-msgid "Очень смешно, тётя Кира..."
-msgstr "Molto divertente, zia Kira..."
+    old "Очень смешно, тётя Кира..."
+    new "Molto divertente, zia Kira..."
 
     # game/dialogues/breakfast.rpy:786
-msgid "Вас тоже пороли?"
-msgstr "Sei stato picchiato anche tu?"
+    old "Вас тоже пороли?"
+    new "Sei stato picchiato anche tu?"
 
     # game/dialogues/breakfast.rpy:795
-msgid "А ещё он маме предложение сделал..."
-msgstr "E ha proposto a sua madre..."
+    old "А ещё он маме предложение сделал..."
+    new "E ha proposto a sua madre..."
 
     # game/dialogues/breakfast.rpy:795
-msgid "Ну, не настолько хороший..."
-msgstr "Beh, non così buono..."
+    old "Ну, не настолько хороший..."
+    new "Beh, non così buono..."
 

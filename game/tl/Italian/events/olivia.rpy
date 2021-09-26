@@ -855,28 +855,28 @@
 translate crowdin strings:
 
 # game/events/olivia.rpy:35
-msgid "{i}подсмотреть\n"
+    old "{i}подсмотреть\n"
 "{color=[ch1.col]}(Скрытность. Шанс: [ch1.vis]){/color}{/i}"
-msgstr "{i}spy\n"
+    new "{i}spy\n"
 "{color=[ch1.col]}(Stealth: Chance: [ch1.vis]){/color}{/i}"
 
     # game/events/olivia.rpy:91
-msgid "{i}дождаться девчонок{/i}"
-msgstr "{i}aspettare le ragazze{/i}"
+    old "{i}дождаться девчонок{/i}"
+    new "{i}aspettare le ragazze{/i}"
 
     # game/events/olivia.rpy:175
-msgid "Конечно с вами!"
-msgstr "Naturalmente con te!"
+    old "Конечно с вами!"
+    new "Naturalmente con te!"
 
     # game/events/olivia.rpy:283
-msgid "Я с вами!"
-msgstr "Sono con te!"
+    old "Я с вами!"
+    new "Sono con te!"
 
     # game/events/olivia.rpy:369
-msgid "{i}раздеться и сесть рядом{/i}"
-msgstr "{i}spogliati e siediti accanto a{/i}"
+    old "{i}раздеться и сесть рядом{/i}"
+    new "{i}spogliati e siediti accanto a{/i}"
 
     # game/events/olivia.rpy:613
-msgid "{i}идти в свою комнату{/i}"
-msgstr "{i}vai nella tua stanza{/i}"
+    old "{i}идти в свою комнату{/i}"
+    new "{i}vai nella tua stanza{/i}"
 

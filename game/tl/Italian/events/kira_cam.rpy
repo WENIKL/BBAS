@@ -223,6 +223,6 @@
 translate crowdin strings:
 
 # game/events/kira_cam.rpy:425
-msgid "{i}встретить их{/i}"
-msgstr "{i}li incontriamo{/i}"
+    old "{i}встретить их{/i}"
+    new "{i}li incontriamo{/i}"
 

@@ -829,126 +829,126 @@ translate crowdin punishment_alice_3006a77e:
 translate crowdin strings:
 
 # game/dialogues/punishment.rpy:169
-msgid "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
-msgstr "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
+    old "Ну, я случайно оказался рядом с душем, когда там была Лиза..."
+    new "Beh, mi è capitato di essere accanto alla doccia quando Lisa era lì..."
 
     # game/dialogues/punishment.rpy:171
-msgid "Ну, я оказался случайно рядом с душем, где мылась Алиса..."
-msgstr "Beh, mi è capitato di essere vicino alla doccia dove Alice si stava lavando..."
+    old "Ну, я оказался случайно рядом с душем, где мылась Алиса..."
+    new "Beh, mi è capitato di essere vicino alla doccia dove Alice si stava lavando..."
 
     # game/dialogues/punishment.rpy:173
-msgid "Ну, я подглядывал за тобой, мам..."
-msgstr "Beh, ti stavo spiando, mamma..."
+    old "Ну, я подглядывал за тобой, мам..."
+    new "Beh, ti stavo spiando, mamma..."
 
     # game/dialogues/punishment.rpy:175
-msgid "Ну, я подглядывал за вами с Эриком..."
-msgstr "Beh, stavo spiando te ed Eric..."
+    old "Ну, я подглядывал за вами с Эриком..."
+    new "Beh, stavo spiando te ed Eric..."
 
     # game/dialogues/punishment.rpy:177
-msgid "Ну, я плохо себя вёл..."
-msgstr "Beh, mi sono comportato male..."
+    old "Ну, я плохо себя вёл..."
+    new "Beh, mi sono comportato male..."
 
     # game/dialogues/punishment.rpy:223
-msgid "Я же не виноват! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr "Non è colpa mia! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
+    old "Я же не виноват! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
+    new "Non è colpa mia! {colore=[_ch1.col]} (Persuasione: Chance: [_ch1.vis]) {/colore}"
 
     # game/dialogues/punishment.rpy:238
-msgid "штаны"
-msgstr "pantaloni"
+    old "штаны"
+    new "pantaloni"
 
     # game/dialogues/punishment.rpy:240
-msgid "шорты"
-msgstr "calzoncini"
+    old "шорты"
+    new "calzoncini"
 
     # game/dialogues/punishment.rpy:241
-msgid "{i}снять штаны{/i}"
-msgstr "{i}togliermi i pantaloni{/i}"
+    old "{i}снять штаны{/i}"
+    new "{i}togliermi i pantaloni{/i}"
 
     # game/dialogues/punishment.rpy:263
-msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Лизой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr "Se non lo sai, Max sarà punito per aver spiato Lisa. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
+    old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Лизой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
+    new "Se non lo sai, Max sarà punito per aver spiato Lisa. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
 
     # game/dialogues/punishment.rpy:263
-msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr "Se non lo sai, Max sarà punito per aver spiato Alice. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
+    old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
+    new "Se non lo sai, Max sarà punito per aver spiato Alice. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
 
     # game/dialogues/punishment.rpy:263
-msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
-msgstr "Se non lo sai, Max sarà punito per avermi spiato. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
+    old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной. Я уже предупреждала, что не люблю, когда кто-то нарушает личное пространство..."
+    new "Se non lo sai, Max sarà punito per avermi spiato. Ho già avvertito che non mi piace quando qualcuno viola lo spazio personale..."
 
     # game/dialogues/punishment.rpy:263
-msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной... с Эриком. Я уже предупреждала, что такое недопустимо!"
-msgstr "Se non lo sai, Max sarà punito per avermi spiato... con Eric. Ho già avvertito che questo è inaccettabile!"
+    old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за мной... с Эриком. Я уже предупреждала, что такое недопустимо!"
+    new "Se non lo sai, Max sarà punito per avermi spiato... con Eric. Ho già avvertito che questo è inaccettabile!"
 
     # game/dialogues/punishment.rpy:263
-msgid "Если вы не в курсе, Макс будет наказан за своё отвратительное поведение. Надеюсь, теперь ты будешь хорошенько думать о том, что делаешь и что говоришь!"
-msgstr "Se non lo sai, Max sarà punito per il suo comportamento disgustoso. Spero che ora rifletterete attentamente su ciò che state facendo e su ciò che state dicendo!"
+    old "Если вы не в курсе, Макс будет наказан за своё отвратительное поведение. Надеюсь, теперь ты будешь хорошенько думать о том, что делаешь и что говоришь!"
+    new "Se non lo sai, Max sarà punito per il suo comportamento disgustoso. Spero che ora rifletterete attentamente su ciò che state facendo e su ciò che state dicendo!"
 
     # game/dialogues/punishment.rpy:263
-msgid "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой в душе и, возможно, даже подбросил туда паука. Ты знаешь, что такое я не потерплю!"
-msgstr "Se non lo sai, Max sarà punito per aver spiato Alice sotto la doccia e forse anche per aver gettato lì un ragno. Sai cosa non posso tollerare!"
+    old "Если вы не в курсе, Макс будет наказан за то, что подглядывал за Алисой в душе и, возможно, даже подбросил туда паука. Ты знаешь, что такое я не потерплю!"
+    new "Se non lo sai, Max sarà punito per aver spiato Alice sotto la doccia e forse anche per aver gettato lì un ragno. Sai cosa non posso tollerare!"
 
     # game/dialogues/punishment.rpy:295
-msgid "{i}раздеться{/i}"
-msgstr "{i}spogliarsi{/i}"
+    old "{i}раздеться{/i}"
+    new "{i}spogliarsi{/i}"
 
     # game/dialogues/punishment.rpy:300
-msgid "{i}снять шорты{/i}"
-msgstr "{i}togliermi i pantaloncini{/i}"
+    old "{i}снять шорты{/i}"
+    new "{i}togliermi i pantaloncini{/i}"
 
     # game/dialogues/punishment.rpy:399
-msgid "Ближе подходи, Лиза. И да, снимай штаны, ты заслужила!"
-msgstr "Avvicinati, Lisa. E sì, togliti i pantaloni, te lo meriti!"
+    old "Ближе подходи, Лиза. И да, снимай штаны, ты заслужила!"
+    new "Avvicinati, Lisa. E sì, togliti i pantaloni, te lo meriti!"
 
     # game/dialogues/punishment.rpy:401
-msgid "Ближе подходи, Лиза. И да, снимай свой халат, ты заслужила!"
-msgstr "Avvicinati, Lisa. E sì, togliti la veste, te lo meriti!"
+    old "Ближе подходи, Лиза. И да, снимай свой халат, ты заслужила!"
+    new "Avvicinati, Lisa. E sì, togliti la veste, te lo meriti!"
 
     # game/dialogues/punishment.rpy:406
-msgid "{i}Заступиться за Лизу {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}Alzati in piedi per Lisa {color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}Заступиться за Лизу {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}Alzati in piedi per Lisa {color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/dialogues/punishment.rpy:429
-msgid "Быстро снимай штаны!"
-msgstr "Togliti i pantaloni velocemente!"
+    old "Быстро снимай штаны!"
+    new "Togliti i pantaloni velocemente!"
 
     # game/dialogues/punishment.rpy:431
-msgid "Быстро снимай халат!"
-msgstr "Rimuovi rapidamente la veste!"
+    old "Быстро снимай халат!"
+    new "Rimuovi rapidamente la veste!"
 
     # game/dialogues/punishment.rpy:446
-msgid "Теперь ложись, и побыстрее, все есть хотят..."
-msgstr "Ora sdraiati e, rapidamente, tutti vogliono mangiare..."
+    old "Теперь ложись, и побыстрее, все есть хотят..."
+    new "Ora sdraiati e, rapidamente, tutti vogliono mangiare..."
 
     # game/dialogues/punishment.rpy:449
-msgid "Что прикрываешься, Лиза? Стесняешься? Стыдно? Вот и хорошо... А теперь ложись на мои колени. Быстро!"
-msgstr "Cosa ti nascondi dietro, Lisa? Vergognoso? Vergognoso? Va bene... Ora sdraiati sulle mie ginocchia. Presto!"
+    old "Что прикрываешься, Лиза? Стесняешься? Стыдно? Вот и хорошо... А теперь ложись на мои колени. Быстро!"
+    new "Cosa ti nascondi dietro, Lisa? Vergognoso? Vergognoso? Va bene... Ora sdraiati sulle mie ginocchia. Presto!"
 
     # game/dialogues/punishment.rpy:506
-msgid "Говоришь тебе, говоришь, все как об стенку горох..."
-msgstr "Tu dici, tu dici, è come un muro di piselli..."
+    old "Говоришь тебе, говоришь, все как об стенку горох..."
+    new "Tu dici, tu dici, è come un muro di piselli..."
 
     # game/dialogues/punishment.rpy:512
-msgid "Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь!"
-msgstr "Sorprendentemente! Anche Max ti aiuta, e tu afferri i deuces!"
+    old "Поразительно! Тебе даже Макс помогает, а ты двойки хватаешь!"
+    new "Sorprendentemente! Anche Max ti aiuta, e tu afferri i deuces!"
 
     # game/dialogues/punishment.rpy:566
-msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
-msgstr "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloni e si sdraiò sulle mie ginocchia, a cui raccontò!"
+    old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
+    new "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloni e si sdraiò sulle mie ginocchia, a cui raccontò!"
 
     # game/dialogues/punishment.rpy:568
-msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
-msgstr "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloncini e si sdraiò sulle mie ginocchia, che lei raccontò!"
+    old "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
+    new "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloncini e si sdraiò sulle mie ginocchia, che lei raccontò!"
 
     # game/dialogues/punishment.rpy:572
-msgid "{i}Заступиться за Алису {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}{/i}"
-msgstr "{i}Intercede for Alice {color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}{/i}"
+    old "{i}Заступиться за Алису {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}{/i}"
+    new "{i}Intercede for Alice {color=[_ch1.col]}(Persuasione: Chance: [_ch1.vis]){/color}{/i}"
 
     # game/dialogues/punishment.rpy:631
-msgid "Теперь ложись побыстрее, ужин стынет..."
-msgstr "Ora vai a letto velocemente, la cena è asciutta..."
+    old "Теперь ложись побыстрее, ужин стынет..."
+    new "Ora vai a letto velocemente, la cena è asciutta..."
 
     # game/dialogues/punishment.rpy:634
-msgid "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
-msgstr "Bene, Alice, ti vergogni? Silenzioso? Pensa al tuo atto mentre io ti punisco davanti a tutti... Sdraiati sulle mie ginocchia!"
+    old "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
+    new "Bene, Alice, ti vergogni? Silenzioso? Pensa al tuo atto mentre io ti punisco davanti a tutti... Sdraiati sulle mie ginocchia!"
 

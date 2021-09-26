@@ -3,6 +3,6 @@
 translate crowdin strings:
 
 # game/options.rpy:15
-msgid "Большой брат: Другая история"
-msgstr "Big Brother: un'altra storia"
+    old "Большой брат: Другая история"
+    new "Big Brother: un'altra storia"
 
