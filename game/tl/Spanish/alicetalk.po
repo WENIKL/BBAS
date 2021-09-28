@@ -10,207 +10,207 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-26 08:56\n"
+"PO-Revision-Date: 2021-09-28 09:52\n"
 
 # game/dialogues/alicetalk.rpy:17## # translate crowdin AliceTalkStart_50ef2ada:
 msgid "[Alice_00]Ну, Макс, чего надо?[nointeract]"
-msgstr ""
+msgstr "[Alice_00]Bueno, Max, ¿qué necesitas?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:43## # translate crowdin Alice_badbadmood_86d8a37d:
 msgid "[Alice_09]Да пошёл ты! Не хочу тебя видеть даже![nointeract]"
-msgstr ""
+msgstr "[Alice_09]¡Sí, te vas! ¡Ni siquiera quiero verte![nointeract]"
 
 # game/dialogues/alicetalk.rpy:52## # translate crowdin Alice_badmood_de141364:
 msgid "[Alice_09]Макс, отвали! Я не хочу с тобой разговаривать.[nointeract]"
-msgstr ""
+msgstr "[Alice_09]Max, ¡báyese! No quiero hablar contigo.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:61## # translate crowdin Alice_asksorry_2395f0d1:
 msgid "[Alice_13]Хотел извиниться? Каким образом?[nointeract]"
-msgstr ""
+msgstr "[Alice_13]¿Quería disculparse? ¿Cómo?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:68## # translate crowdin Alice_normalmood_1faefb22:
 msgid "[Alice_09]Макс, давай не сейчас...[nointeract]"
-msgstr ""
+msgstr "[Alice_09]Max, no lo hagamos ahora...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:75## # translate crowdin Alice_cooldown_9093ad70:
 msgid "[Alice_09]Макс... Не сейчас."
-msgstr ""
+msgstr "[Alice_09]Máx... Ahora no."
 
 # game/dialogues/alicetalk.rpy:76## # translate crowdin Alice_cooldown_689c772b:
 msgid "[Max_00]Ладно..."
-msgstr ""
+msgstr "[Max_00]Está bien..."
 
 # game/dialogues/alicetalk.rpy:82## # translate crowdin wash_dishes_alice_6dd3a0ed:
 msgid "[Alice_13]Хочешь о посуде поговорить или пришёл помочь?[nointeract]"
-msgstr ""
+msgstr "[Alice_13]¿Quieres hablar de platos o venir a ayudar?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:85## # translate crowdin wash_dishes_alice_9cbbc5d1:
 msgid "[Alice_07]Что это с тобой? Но я не откажусь. И... спасибо.[nointeract]"
-msgstr ""
+msgstr "[Alice_07]¿Qué es eso contigo? Pero no me rendiré. Y... Gracias.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:93## # translate crowdin wash_dishes_alice_07966f8d:
 msgid "[Max_11]И почему здесь нет посудомоечной машины...[nointeract]"
-msgstr ""
+msgstr "[Max_11]¿Y por qué no hay lavavajillas...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:99## # translate crowdin wash_dishes_alice_e341ef54:
 msgid "[Alice_09]Знаешь что, вали отсюда, пока мокрой тряпкой по голове не получил![nointeract]"
-msgstr ""
+msgstr "[Alice_09]¡Sabes qué, sal de aquí hasta que me ponga un trapo mojado en la cabeza![nointeract]"
 
 # game/dialogues/alicetalk.rpy:113## # translate crowdin talkblog1_3a17a0f5:
 msgid "[Alice_00]А типа ты не знаешь? Позлорадствовать пришёл?[nointeract]"
-msgstr ""
+msgstr "[Alice_00]¿Y no lo sabes? ¿Vino el regodeo?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:116## # translate crowdin talkblog1_7eb6bffd:
 msgid "[Alice_02]Что, даже не начнёшь подкалывать? И что ты хотел узнать?[nointeract]"
-msgstr ""
+msgstr "[Alice_02]Ni siquiera empiezas a pinchar? ¿Y qué querías saber?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:119## # translate crowdin talkblog1_972348e1:
 msgid "[Alice_13]Ну, пока наши вещи не пропали во время переезда, я показывала как наносить лак, как применять различные средства и делилась разными хитростями...[nointeract]"
-msgstr ""
+msgstr "[Alice_13]Bueno, hasta que nuestras pertenencias se perdieron durante la mudanza, mostré cómo aplicar barniz, cómo aplicar diferentes medios y compartí diferentes trucos...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:122## # translate crowdin talkblog1_e315e67b:
 msgid "[Alice_01]Да у других таких же блогеров подсмотрела, конечно. Все так делают! Ну и сама в интернете разное читаю, изучаю...[nointeract]"
-msgstr ""
+msgstr "[Alice_01]Sí, espié a otros bloggers similares, por supuesto. ¡Todo el mundo lo hace! Bueno, yo mismo leo diferentes cosas en Internet, estudio...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:125## # translate crowdin talkblog1_51f5104a:
 msgid "[Alice_00]Нет, но мне это всё как-то по душе. Говорят, у человека лучше получается то, что нравится. А мне это нравится...[nointeract]"
-msgstr ""
+msgstr "[Alice_00]No, pero me gusta. Dicen que una persona es mejor en lo que le gusta. Y me gusta...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:136## # translate crowdin talkblog1_4c394248:
 msgid "[Alice_00]Развиваться? Шутишь? Все мои вещи, лаки, материалы и прочее было в том контейнере, который пропал. Теперь у меня нет ничего...[nointeract]"
-msgstr ""
+msgstr "[Alice_00]desarrollar? ¿Bromeando? Todas mis pertenencias, barnices, materiales y cosas estaban en el contenedor que faltaba. Ahora no tengo nada...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:139## # translate crowdin talkblog1_b5c0083a:
 msgid "[Alice_13]Совсем всё. У меня даже нет подходящей одежды, чтобы вести блог. Нельзя же постоянно быть в одной майке перед зрителями...[nointeract]"
-msgstr ""
+msgstr "[Alice_13]Eso es todo. Ni siquiera tengo la ropa adecuada para bloguear. No siempre puedes estar con la misma camiseta frente a la audiencia...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:142## # translate crowdin talkblog1_d69e84a6:
 msgid "[Alice_00]Ага, потому что единственная, да? А ещё какая фишка? Нет материалов, нечего показывать?[nointeract]"
-msgstr ""
+msgstr "[Alice_00]sí, porque es el único, ¿verdad? ¿Y cuál es el truco? ¿Sin materiales, nada que mostrar?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:149## # translate crowdin talkblog1_7b2f88d3:
 msgid "[Alice_00]Очень важно. Ну, ладно, чёрт с ней, с одеждой, а что мне в блоге показывать? Как себя правильно расчёсывать? У меня нет ничего...[nointeract]"
-msgstr ""
+msgstr "[Alice_00]Muy importante. De acuerdo, ¿qué demonios con ella, con la ropa, y qué muestro en el blog? ¿Cómo peinarse correctamente? No tengo nada...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:158## # translate crowdin talkblog1_bc534058:
 msgid "[Alice_13]Да ты издеваешься, да?[nointeract]"
-msgstr ""
+msgstr "[Alice_13]sí, estás intimidando, ¿verdad?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:164## # translate crowdin talkblog1_no_f28dfb56:
 msgid "[Alice_00]Типа ты не в курсе, что у нас пропала большая часть вещей во время переезда?[nointeract]"
-msgstr ""
+msgstr "[Alice_00]Gusta, ¿no sabes que perdimos la mayoría de nuestras pertenencias durante la mudanza?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:168## # translate crowdin talkblog1_no_e05a3f44:
 msgid "[Alice_09]Знаешь что, Макс, отвали!"
-msgstr ""
+msgstr "[Alice_09]¡Sabes qué, Max, cayen!"
 
 # game/dialogues/alicetalk.rpy:169## # translate crowdin talkblog1_no_4a96e107:
 msgid "[Max_00]Ну и ладно..."
-msgstr ""
+msgstr "[Max_00]Está bien..."
 
 # game/dialogues/alicetalk.rpy:173## # translate crowdin talkblog1_no_c2e53ff4:
 msgid "[Alice_13]Ну, вот среди тех вещей было всё, что я использовала для ведения своего блога. Одежда, различные лаки, кремы... вообще всё![nointeract]"
-msgstr ""
+msgstr "[Alice_13]Bueno, entre esas cosas estaba todo lo que usaba para dirigir mi blog. Ropa, varios barnices, cremas... ¡Eso es todo![nointeract]"
 
 # game/dialogues/alicetalk.rpy:180## # translate crowdin talkblog1_no_a26f49f6:
 msgid "[Alice_13]Макс, тебе заняться нечем, кроме как меня доставать? Ты же знаешь, что у меня всё пропало![nointeract]"
-msgstr ""
+msgstr "[Alice_13]Max, ¿no tienes nada que hacer más que conseguirme? ¡Sabes que me he ido![nointeract]"
 
 # game/dialogues/alicetalk.rpy:185## # translate crowdin talkblog1_no_3c44b91d:
 msgid "[Alice_00]Конечно! Там же было вообще всё, что мне нужно для ведения блога. Шмотки, мои любимые лаки, косметика... вообще всё![nointeract]"
-msgstr ""
+msgstr "[Alice_00]¡Por supuesto! También había todo lo que necesitaba para bloguear. Shmotki, mis barnices favoritos, cosméticos... ¡Eso es todo![nointeract]"
 
 # game/dialogues/alicetalk.rpy:191## # translate crowdin talkblog1_sad_4c5abd35:
 msgid "[Alice_13]Вот-вот... Надо было всё с собой брать, а не складывать в тот контейнер..[nointeract]"
-msgstr ""
+msgstr "[Alice_13]está a punto de... Era necesario llevar todo conmigo, y no ponerlo en ese contenedor.[nointeract]"
 
 # game/dialogues/alicetalk.rpy:198## # translate crowdin talkblog1_help_9598919f:
 msgid "[Alice_01]Ты у нас внезапно стал миллионером? Или просто деньги появились? Самый простой способ - это купить недостающее. Ну, или найти то, что пропало[nointeract]"
-msgstr ""
+msgstr "[Alice_01]¿De repente te convertiste en millonario? ¿O simplemente apareció el dinero? La forma más fácil es comprar lo que falta. Bueno, o encuentra lo que falta[nointeract]"
 
 # game/dialogues/alicetalk.rpy:201## # translate crowdin talkblog1_help_39dfe6d6:
 msgid "[Alice_13]А без денег тут ничем не поможешь. Вообще, я в депрессии из-за всей этой истории. Вся жизнь перевернулась...[nointeract]"
-msgstr ""
+msgstr "[Alice_13]Y sin dinero no hay nada que ayudar. En realidad, estoy deprimido por toda esta historia. Toda mi vida se puso patas arriba...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:204## # translate crowdin talkblog1_help_a1831006:
 msgid "[Alice_00]Да, в этом плане ты прав, Макс. Но я хотела чего-то добиться. Стать известным блогером и заработать кучу денег. А теперь...[nointeract]"
-msgstr ""
+msgstr "[Alice_00]sí, tienes razón en eso, Max. Pero quería lograr algo. Conviértete en un blogger famoso y gana mucho dinero. Y ahora...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:211## # translate crowdin talkblog1_help_675f913d:
 msgid "[Alice_00]Верно. Но всё равно, это всё очень грустно. Я даже не представляю, как теперь быть...[nointeract]"
-msgstr ""
+msgstr "[Alice_00]Correcto. Pero aún así, todo es muy triste. No tengo ni idea de qué hacer ahora...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:220## # translate crowdin talkblog1_help_c3653c20:
 msgid "[Alice_00]А кто ты тогда? Чем же именно можешь помочь?[nointeract]"
-msgstr ""
+msgstr "[Alice_00]¿Y quién eres entonces? ¿Cómo puedes ayudar exactamente?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:223## # translate crowdin talkblog1_help_d354a72a:
 msgid "[Alice_07]Много разных идей? Например?[nointeract]"
-msgstr ""
+msgstr "[Alice_07]¿Muchas ideas diferentes? ¿Por ejemplo?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:230## # translate crowdin talkblog1_help_b9c2b277:
 msgid "[Alice_06]И кому уже помогли твои советы? Знаешь, советчиков много. Лучше бы что-то конкретное предложил...[nointeract]"
-msgstr ""
+msgstr "[Alice_06]¿Y a quién ha ayudado tu consejo? Ya sabes, hay muchos asesores. Sería mejor ofrecer algo específico...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:237## # translate crowdin talkblog1_whatnow_84b3cf98:
 msgid "[Alice_00]Не знаю, если честно. Мне даже показаться перед зрителями не в чем. Какой же я бьюти-блогер, если на мне всегда одна и та же одежда...[nointeract]"
-msgstr ""
+msgstr "[Alice_00]no lo sé, para ser honesto. Ni siquiera tengo nada que pensar ante la audiencia. ¿Qué tipo de bloguera de belleza soy, si siempre llevo la misma ropa...[nointeract]"
 
 # game/dialogues/alicetalk.rpy:246## # translate crowdin talkblog1_otherway_f854dfd1:
 msgid "[Alice_00]Ты о чём? Есть какие-то мысли?[nointeract]"
-msgstr ""
+msgstr "[Alice_00]Hablas de qué? ¿Algún pensamiento?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:257## # translate crowdin talkblog1_together_78d4a1fa:
 msgid "[Alice_14]Вместе? Ещё ничего нет, а уже в партнёры набиваешься?[nointeract]"
-msgstr ""
+msgstr "[Alice_14]Juntos? Todavía no hay nada, pero ¿ya te estás metiendo en socios?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:260## # translate crowdin talkblog1_together_770663dd:
 msgid "[Alice_01]Ну, если придумаешь. Если. Да и смотря что... Сильно удаляться от этой темы не хочется. Но попробовать что-то новое можно... В общем, когда что-то придумаешь, тогда и поговорим..."
-msgstr ""
+msgstr "[Alice_01]Bueno, si se te ocurre. Si. Y dependiendo de lo que... No quiero alejarme demasiado de este tema. Pero puedes probar algo nuevo... En general, cuando se te ocurra algo, entonces hablaremos..."
 
 # game/dialogues/alicetalk.rpy:261## # translate crowdin talkblog1_together_22a16723:
 msgid "[Max_00]Хорошо!"
-msgstr ""
+msgstr "[Max_00]¡Está bien!"
 
 # game/dialogues/alicetalk.rpy:263## # translate crowdin talkblog1_together_486c60cb:
 msgid "[Alice_07]Семейный бизнес? На моём блоге? Может ещё и сам вести будешь?[nointeract]"
-msgstr ""
+msgstr "[Alice_07]Empresa familiar? ¿En mi blog? ¿Tal vez tú también te liderarás a ti mismo?[nointeract]"
 
 # game/dialogues/alicetalk.rpy:271## # translate crowdin talkblog1_together_becb28cf:
 msgid "[Alice_00]Знаешь, мне кажется, что это всё пустые разговоры. Сначала что-то предложи, тогда и обсудим..."
-msgstr ""
+msgstr "[Alice_00]Sabes, creo que todo es una charla vacía. Primero, sugiera algo, luego discutiremos..."
 
 # game/dialogues/alicetalk.rpy:272## # translate crowdin talkblog1_together_8b9af65e:
 msgid "[Max_00]Хорошо, я подумаю"
-msgstr ""
+msgstr "[Max_00]Está bien, lo pensaré"
 
 # game/dialogues/alicetalk.rpy:274## # translate crowdin talkblog1_together_70bd54b8:
 msgid "[Alice_00]Попробовать можно, но сначала надо понять что. Ты пока ничего конкретного не предложил. Когда будут идеи, тогда и подходи..."
-msgstr ""
+msgstr "[Alice_00]Puedes intentarlo, pero primero necesitas entender qué. Todavía no has ofrecido nada concreto. Cuando hay ideas, entonces vienen..."
 
 # game/dialogues/alicetalk.rpy:275## # translate crowdin talkblog1_together_0c9332b5:
 msgid "[Max_00]Ладно, когда будут идеи, обсудим..."
-msgstr ""
+msgstr "[Max_00]Bien, cuando hay ideas, discutamos ..."
 
 # game/dialogues/alicetalk.rpy:280## # translate crowdin talkblog1_findout_e3b65ac0:
 msgid "[Alice_07]Ну, давай. Сомневаюсь, конечно, что это не пустая болтовня, но вдруг... Удиви меня![nointeract]"
-msgstr ""
+msgstr "[Alice_07]Bueno, vamos. Dudo, por supuesto, que esto no sea una charla vacía, pero de repente ... ¡Sorpréndeme![nointeract]"
 
 # game/dialogues/alicetalk.rpy:283## # translate crowdin talkblog1_findout_68795405:
 msgid "[Alice_00]Постарайся. Я тоже буду думать. Но бросать блог не хочу. Может быть и правда стоит сменить формат, но на какой?"
-msgstr ""
+msgstr "[Alice_00]Intentarlo. Yo también pensaré. Pero no quiero dejar el blog. Tal vez realmente valga la pena cambiar el formato, pero ¿a qué?"
 
 # game/dialogues/alicetalk.rpy:284## # translate crowdin talkblog1_findout_7fcd8d45:
 msgid "[Max_00]Договорились!"
-msgstr ""
+msgstr "[Max_00]De acuerdo!"
 
 # game/dialogues/alicetalk.rpy:286## # translate crowdin talkblog1_findout_d1651ff3:
 msgid "[Alice_00]А я другого и не жду. Если бы у тебя были мысли, ты бы и сам мог на таком заработать... В общем, будем думать..."
-msgstr ""
+msgstr "[Alice_00]Y no espero otra. Si tuvieras pensamientos, podrías ganar dinero con ello tú mismo ... En general, pensaremos..."
 
 # game/dialogues/alicetalk.rpy:287## # translate crowdin talkblog1_findout_7852d704:
 msgid "[Max_00]Ага..."
-msgstr ""
+msgstr "[Max_00]sí..."
 
 # game/dialogues/alicetalk.rpy:289## # translate crowdin talkblog1_findout_1e118148:
 msgid "[Alice_06]Обещание, конечно, обнадёживает... Но я бы не стала на твоём месте что-то обещать. Конечно, если у тебя уже нет идей. Так или иначе, я тоже буду думать. Может быть, и правда не всё так плохо..."
