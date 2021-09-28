@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-26 08:56\n"
+"PO-Revision-Date: 2021-09-28 09:52\n"
 
 msgid "МОЯ\n"
 "КОМНАТА"
@@ -109,7 +109,7 @@ msgstr "Lisa"
 
 #    # game/core/03variables.rpy:85
 msgid "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-msgstr "Lisa, la sorella minore. Carino e divertente. È ancora a scuola. Lisa ed io comunichiamo sulla stessa lunghezza d'onda, anche se occasionalmente litighiamo. Ma se succede qualcosa, cerco protezione."
+msgstr "Lisa, la sorella minore. Dolce e allegra. Va ancora a scuola. Lisa ed io siamo sulla stessa lunghezza d'onda, anche se ogni tanto litighiamo. Ma se succede qualcosa, cerca aiuto."
 
 #    # game/core/03variables.rpy:85
 msgid "Анна"
@@ -133,7 +133,7 @@ msgstr "Аnn"
 
 #    # game/core/03variables.rpy:85
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-msgstr "Ann, mia madre. Ha cresciuto me e le mie due sorelle per diversi anni. Lavora nell'ufficio di un'azienda. Anche se, il suo stipendio è abbastanza decente, ma quasi tutto va a pagare per l'alloggio, il cibo e i vestiti."
+msgstr "Ann, mia madre. Ha cresciuto me e le mie due sorelle per diversi anni. Lavora nell'ufficio di un'azienda. Anche se, il suo stipendio è abbastanza decente, quasi tutto va speso in affitto, cibo e vestiti."
 
 #    # game/core/03variables.rpy:96
 msgid "Макс"
