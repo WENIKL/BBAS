@@ -10,28 +10,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-26 08:55\n"
+"PO-Revision-Date: 2021-09-28 09:52\n"
 
 msgid "курит"
-msgstr ""
+msgstr "Fuma"
 
 #    # game/core/05_schedule.rpy:7
 msgid "в бассейне"
-msgstr ""
+msgstr "en la piscina"
 
 #    # game/core/05_schedule.rpy:74
 msgid "спит (утро)"
-msgstr ""
+msgstr "duerme (mañana)"
 
 #    # game/core/05_schedule.rpy:74
 msgid "в своей комнате"
-msgstr ""
+msgstr "en su habitación"
 
 #    # game/core/05_schedule.rpy:74
 msgid "читает на веранде"
-msgstr ""
+msgstr "lee en la terraza"
 
 #    # game/core/05_schedule.rpy:162
 msgid "семейный ужин"
-msgstr ""
+msgstr "cena familiar"
 
