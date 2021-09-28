@@ -10,206 +10,206 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-26 08:55\n"
+"PO-Revision-Date: 2021-09-28 09:52\n"
 
 msgid "Скрытые камеры"
-msgstr ""
+msgstr "Cámaras ocultas"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я нашёл пустую коробку из под скрытой камеры. Видимо, она установлена где-то в доме. Нужно поискать как следует - вдруг, кто-то за нами наблюдал всё это время?"
-msgstr ""
+msgstr "Encontré una caja vacía debajo de la cámara oculta. Aparentemente, está instalado en algún lugar de la casa. Tenemos que buscar cómo debería ser: ¿de repente, alguien nos estaba observando todo este tiempo?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вероятнее всего, скрытая камера будет охватывать самую людную комнату внутри дома..."
-msgstr ""
+msgstr "Lo más probable es que la cámara oculta cubra la habitación más concurrida dentro de la casa ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, я нашёл скрытую камеру в гостиной. Она вмонтирована в стену, видимо, во время ремонта. Поэтому, её нельзя вытащить, не повредив. Кроме того, оказалось, что камера сейчас ни к чему не подключена. Может быть, стоит целенаправленно изучить способы подключения камер, чтобы извлечь из неё какую-то пользу..."
-msgstr ""
+msgstr "Entonces, encontré una cámara oculta en la sala de estar. Se monta en la pared, aparentemente durante las reparaciones. Por lo tanto, no se puede sacar sin dañar. Además, resultó que la cámara ahora no está conectada a nada. Tal vez debería explorar a propósito formas de conectar cámaras para obtener algún beneficio de ello ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Информацию можно поискать с помощью ноутбука..."
-msgstr ""
+msgstr "La información se puede buscar usando una computadora portátil ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ко мне пришла отличная идея - заработать на трансляции с веб-камеры в интернет, но я об этом знаю очень мало... Может быть, поможет какая-то литература?"
-msgstr ""
+msgstr "Se me ocurrió una gran idea: ganar dinero en la transmisión de la cámara web a Internet, pero sé muy poco al respecto ... ¿Tal vez algo de literatura ayude?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Иногда, специализированные книги куда лучше, чем то, что пишут в интернете! Это как раз такой случай..."
-msgstr ""
+msgstr "¡A veces, los libros especializados son mucho mejores que lo que está escrito en Internet! Este es un caso así ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, я внимательно прочитал книгу Web Standards и разобрался, как сделать свой сайт. Пожалуй, стоит начать именно с этого. Мне потребуются деньги на домен, хостинг и оплату готового шаблона с дизайном. Всего нужно порядка $100."
-msgstr ""
+msgstr "Por lo tanto, leí cuidadosamente el libro Web Standards y descubrí cómo hacer su sitio web. Quizás deberíamos empezar por esto. Necesitaré dinero para un dominio, alojamiento y pago para una plantilla ya hecha con un diseño. En total, necesita alrededor de $ 100."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Главное, собрать нужную сумму, а остальное - уже ерунда..."
-msgstr ""
+msgstr "Lo principal es cobrar la cantidad necesaria, y el resto ya es una tontería ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Наконец-то, у меня есть свой собственный сайт, где транслируется изображение с камеры из гостиной! Теперь нужно увеличить аудиторию, ведь чем больше людей, тем больше доход от рекламных баннеров. Сделать это можно с помощью вложений в рекламу своего сайта. Кроме того, если в кадре происходит что-то интересное, аудитория также растёт. Для начала стоит установить камеры в каждую комнату, а так же во двор..."
-msgstr ""
+msgstr "¡Finalmente, tengo mi propio sitio web que transmite la imagen desde la cámara desde la sala de estar! Ahora necesita aumentar la audiencia, porque cuanta más gente, mayores serán los ingresos de los banners publicitarios. Esto se puede hacer con la ayuda de archivos adjuntos para anunciar su sitio. Además, si sucede algo interesante en el marco, la audiencia también crece. Para empezar, vale la pena instalar cámaras en cada habitación, así como en el patio ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Нужно периодически оплачивать рекламу для сайта, чтобы быстрее накопить денег на новые камеры и, как вариант, попробовать выпросить что-то у Алисы, мамы или Эрика..."
-msgstr ""
+msgstr "Debe pagar periódicamente por la publicidad del sitio para ahorrar dinero rápidamente para nuevas cámaras y, alternativamente, intente rogar algo de Alice, mamá o Eric ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Отлично! Теперь у меня есть камеры в каждой комнате! Затраты были высоки, но они явно окупятся, ведь в этом доме столько прекрасных девушек, которые периодически сверкают своими прелестями... Хотя, не помешало бы поставить ещё одну камеру во двор, ведь девочки не только загорают, но и плавают. Для полноты картины, моя аудитория точно захочет полюбоваться на мокреньких девушек! А ещё, охват камеры в ванной комнате слишком мал, хоть и весьма интересен. Стоит ли установить туда ещё одну камеру? Это нужно будет проверить..."
-msgstr ""
+msgstr "¡Es genial! ¡Ahora tengo cámaras en cada habitación! Los costos fueron altos, pero claramente valdrán la pena, porque en esta casa hay tantas chicas hermosas que periódicamente brillan con sus encantos ... Aunque, no estaría de más poner otra cámara en el patio, porque las chicas no solo tomando el sol, sino que también nadan. ¡En aras de la integridad, mi audiencia definitivamente querrá admirar a las chicas mojadas! Y, sin embargo, la cobertura de la cámara en el baño es demasiado pequeña, aunque muy interesante. ¿Debo instalar otra cámara allí? Esto tendrá que ser comprobado..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лучше начать с поиска хорошего обзора ванной комнаты..."
-msgstr ""
+msgstr "Es mejor comenzar buscando una buena vista del baño..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вечер - это самое лучшее время, чтобы попробовать подсмотреть за кем-нибудь в ванной комнате и не попасться..."
-msgstr ""
+msgstr "La noche es el mejor momento para tratar de espiar a alguien en el baño y no ser atrapado ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Стоит понаблюдать, чем обычно все занимаются у зеркала в ванной комнате..."
-msgstr ""
+msgstr "Vale la pena ver lo que todo el mundo suele hacer en el espejo del baño..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Не забыть установить вторую камеру во дворе и в ванной комнате"
-msgstr ""
+msgstr "No olvide instalar una segunda cámara en el patio y en el baño."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ну вот, пожалуй, девяти камер будет более чем достаточно, чтобы неплохо зарабатывать! Остаётся лишь позаботиться о том, чтобы по каждой из них, моим зрителям было что увидеть..."
-msgstr ""
+msgstr "Bueno, tal vez, ¡nueve cámaras serán más que suficientes para ganar buen dinero! Solo queda asegurarme de que para cada uno de ellos, mis espectadores tuvieran algo que ver ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Особые книги"
-msgstr ""
+msgstr "Libros especiales"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Алиса читает какие-то книги, но не хочет говорить о них. На порно журналы не похоже... Что же ещё там может быть? Нужно попытаться выяснить это как можно скорее... Любопытно же!"
-msgstr ""
+msgstr "Alice lee algunos libros, pero no quiere hablar de ellos. las revistas no parecen... ¿Qué más podría haber? Tenemos que tratar de averiguarlo lo antes posible... ¡Curioso!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Стоит поискать книгу в комнате Алисы..."
-msgstr ""
+msgstr "Vale la pena buscar un libro en la habitación de Alice ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я нашёл какую-то книгу, но из названия ничего не понятно, а читать саму книгу ни времени, ни желания нет. Может быть, поискать о ней информацию в интернете?"
-msgstr ""
+msgstr "Encontré un libro, pero nada está claro en el título, y no hay tiempo ni deseo de leer el libro en sí. ¿Tal vez buscar información sobre ella en Internet?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Всё просто! До ноутбука дойти не проблема..."
-msgstr ""
+msgstr "¡Así de simple! No es un problema llegar a la computadora portátil ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот это да! Я был не так далёк от истины. Конечно, это не порно, но уж точно эротика, да ещё какая! Видимо, Алисе нравятся любовные романы с эротическими оттенками, так сказать. Может быть, стоит ей подарить подобную книгу и посмотреть на её реакцию?"
-msgstr ""
+msgstr "¡Dios mío! No estaba tan lejos de la verdad. Por supuesto, esto no es, pero ciertamente erótico, ¡e incluso qué! Aparentemente, a Alice le gustan las novelas románticas con matices eróticos, por así decirlo. ¿Tal vez debería dar un libro como este y ver su reacción?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Наверняка удастся найти похожие книги в интернет-магазине. Были бы деньги..."
-msgstr ""
+msgstr "Seguro que podrás encontrar libros similares en la tienda online. Habría dinero..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Судя по реакции Алисы, подарок ей понравился. Видимо, стоит периодически заходить в книжный интернет-магазин и смотреть новинки. Возможно, таким образом удастся чуть-чуть улучшить отношения с Алисой."
-msgstr ""
+msgstr "A juzgar por la reacción de Alice, le gustó el regalo. Aparentemente, vale la pena ir periódicamente a la librería en línea y ver nuevos artículos. Quizás de esta manera sea posible mejorar ligeramente las relaciones con Alice."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я заметил, что Лиза всё время в одном и том же закрытом купальнике. Так же невозможно толком загореть? Она тоже так считает, но другого нет. Остальные пропали с другими вещами во время переезда. Может быть, удастся как-то ей помочь?"
-msgstr ""
+msgstr "Me di cuenta de que Lisa estaba teñiendo el mismo traje de baño cerrado todo el tiempo. ¿También es imposible broncearse realmente? Ella también piensa que sí, pero no hay otra. El resto desapareció con otras cosas durante la mudanza. ¿Tal vez podamos ayudarla de alguna manera?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Стоит подождать, вдруг проблема разрешится сама собой..."
-msgstr ""
+msgstr "Vale la pena esperar, de repente el problema se resolverá solo ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Во время завтрака Лиза намекнула маме, что нужно бы купить во время шопинга купальник, который не скрывает половину тела и в котором можно загорать..."
-msgstr ""
+msgstr "Durante el desayuno, Lisa le insinuó a su madre que debería comprar un traje de baño mientras compra, que no oculta la mitad del cuerpo y en el que puede tomar el sol ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Выяснилось, что во время последнего шопинга забыли купить Лизе купальник, о котором она просила. Теперь придётся ждать до следующих выходных, когда Эрик снова повезёт всех за покупками. Но в этот раз сам Эрик пообещал ей подарить этот купальник. Может быть, его опередить?"
-msgstr ""
+msgstr "Resultó que durante las últimas compras se olvidó de comprarle a Lisa un traje de baño, que ella pidió. Ahora tendremos que esperar hasta el próximo fin de semana cuando Eric llevará a todos de compras de nuevo. Pero esta vez el propio Eric le prometió darle este traje de baño. ¿Tal vez adelantarse a él?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Мне удалось накопить немного денег и купить тот самый купальник, который так хотела Лиза. Теперь, главное подарить его ей, пока это не сделал Эрик..."
-msgstr ""
+msgstr "Logré ahorrar algo de dinero y comprar el mismo traje de baño que Lisa quería. Ahora, lo principal es dárselo antes de que Eric lo hiciera ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лучше торопиться и со всех ног бежать к Лизе..."
-msgstr ""
+msgstr "Es mejor darse prisa y correr desde todos los pies hasta Lisa ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Ну как же так! Я столько копил на купальник для Лизы, а Эрик всё равно меня обскакал... Ещё бы. Денег у него хватает, не то что у меня... Кажется, их отношения улучшились."
-msgstr ""
+msgstr "¡Bueno! Ahorré tanto para un traje de baño para Lisa, y Eric todavía me saltó ... Naturalmente. Él tiene suficiente dinero, no es que yo tenga ... Su relación parece haber mejorado."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Как же хорошо, что я успел и купить для Лизы купальник, и подарить его ей раньше Эрика! Кажется, Лиза меня любит! А Эрик теперь обломается со своими подарками, ведь я уже подарил то, что так хочет младшая сестрёнка!"
-msgstr ""
+msgstr "¡Qué bueno es que logré comprar un traje de baño para Lisa y dárselo antes que Eric! ¡Lisa parece amarme! ¡Y Eric ahora está rompiendo con sus regalos, porque ya he dado lo que mi hermana pequeña quiere!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Может купальник я и купил, но вот подарить не успел... Эрик меня опередил! Вот если бы я подарил этот чёртов купальник, то Лиза была бы мне очень благодарна, а не ему... И что мне теперь с этим купальником делать?"
-msgstr ""
+msgstr "Tal vez compré un traje de baño, pero no tuve tiempo de dárselo ... ¡Eric estaba delante de mí! Ahora, si le diera este traje de baño hengy, Lisa estaría muy agradecida conmigo, no con él ... ¿Y qué debo hacer con este traje de baño ahora?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Тусовщица"
-msgstr ""
+msgstr "Chica de la fiesta"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Алиса настойчиво просит маму купить ей вечернее платье для посещения ночных клубов. Та ей регулярно отказывала, пока Эрик не предложил подарить ей платье во время следующего шопинга. Нужно поспешить, если я хочу сделать это первым!"
-msgstr ""
+msgstr "Alice le pide persistentemente a su madre que le compre un vestido de noche para visitar clubes nocturnos. Ella se negó regularmente hasta que Eric se ofreció a darle un vestido durante las próximas compras. ¡Necesito darme prisa si quiero hacerlo primero!"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Мне удалось скопить приличную сумму и купить платье для Алисы. Теперь, нужно успеть его подарить ей, пока это не сделал кое-кто другой..."
-msgstr ""
+msgstr "Logré ahorrar una cantidad decente y comprar un vestido para Alice. Ahora, necesitas tener tiempo para dárselo antes de que alguien más lo hiciera ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лучше торопиться и со всех ног бежать к Алисе..."
-msgstr ""
+msgstr "Es mejor darse prisa y correr desde todos los pies hasta Alice ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот что значит не везёт! Я долго копил на красивое короткое платье для Алисы и даже купил его, но меня опередил Эрик... И что самое обидное, он купил точно такое же, но подарил его первым. Теперь у меня есть бесполезное платье..."
-msgstr ""
+msgstr "¡Eso es lo que significa que no hay suerte! Ahorré durante mucho tiempo para un hermoso vestido corto para Alice e incluso lo compré, pero estaba por delante de Eric ... Y lo más ofensivo, compró exactamente lo mismo, pero lo dio primero. Ahora tengo un vestido inútil..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Чтобы узнать больше о том, чем Алиса занимается за пределами дома, мне стоит улучшить отношения с Лизой. Сестры наверняка знают друг о друге разные пикантные секретики..."
-msgstr ""
+msgstr "Para aprender más sobre lo que Alice hace fuera de la casa, necesito mejorar mi relación con Lisa. Las hermanas probablemente conocen entre sí diferentes secretos picantes ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот что значит не везёт! Я долго копил на красивое короткое платье для Алисы, но меня опередил Эрик... Не удивительно. У него же куча денег. Он может себе позволить такие подарки... Кажется, теперь Алиса к нему относится гораздо лучше..."
-msgstr ""
+msgstr "¡Eso es lo que significa que no hay suerte! Ahorré durante mucho tiempo para un hermoso vestido corto para Alice, pero estaba por delante de Eric ... No es de extrañar. Tiene mucho dinero. Puede permitirse tales regalos ... Parece que ahora Alice lo trata mucho mejor ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Да, я сделал это! Мне удалось не только накопить на платье, но и подарить его до того, как нечто подобное сделал Эрик. А он собирался. С его то деньгами это не сложно... Теперь Алиса ко мне относится намного лучше. Ещё бы! Теперь она может ходить по ночным клубам..."
-msgstr ""
+msgstr "¡Sí! Pude no solo ahorrar para el vestido, sino también darlo antes de que Eric hiciera algo como esto. Y lo iba a hacer. Con su dinero, no es difícil ... Ahora Alice me trata mucho mejor. ¡Naturalmente! Ahora puede ir a clubes nocturnos ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Лиза рассказала мне по секрету кое-что интересное. Оказывается, Алиса не умеет пить. А точнее, капля алкоголя её меняет! Именно поэтому она и не соглашается ни на какие алкогольные напитки. Но, может быть, можно придумать что-то другое?"
-msgstr ""
+msgstr "Lisa me dijo algo interesante en secreto. Resulta que Alice no sabe beber. O mejor dicho, ¡una gota de alcohol lo cambia! Es por eso que ella no está de acuerdo con ninguna bebida alcohólica. ¿Pero tal vez se te ocurra algo más?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "В магазине наверняка найдётся что-то, что мне поможет..."
-msgstr ""
+msgstr "Probablemente haya algo en la tienda que me ayude..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Итак, у меня есть коробка конфет с ликёром. Судя по надписи на коробке, аромат утончённый. Это значит, есть шанс, что Алиса не заметит алкоголь. Интересно, этого хватит, чтобы её как-то подтолкнуть к этим... безбашенным поступкам?"
-msgstr ""
+msgstr "Entonces, tengo una caja de dulces de licor. A juzgar por la inscripción en la caja, el aroma es refinado. Esto significa que existe la posibilidad de que Alice no note el alcohol. Me pregunto si eso es suficiente para empujarla a de alguna manera ... ¿Acciones locas?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Проверить, действительно ли Алиса теряет голову от алкоголя, лучше прямо перед тем, как она отправится в клуб..."
-msgstr ""
+msgstr "Compruebe si Alice realmente pierde la cabeza por el alcohol, es mejor justo antes de ir al club ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Всё получилось. И прошло как-то... слишком неожиданно. О таком даже не принято никому рассказывать. Видимо, лишняя капля алкоголя сорвала Алисе крышу и она напилась в ночном клубе. Ну что же, будем надеяться, что она сама ничего не помнит об этом, а иначе мне не жить..."
-msgstr ""
+msgstr "Funcionó. Y pasó de alguna manera... demasiado inesperado. Ni siquiera es costumbre contarle a nadie sobre esto. Aparentemente, una gota extra de alcohol arrancó el techo de Alice y ella se emborrachó en un club nocturno. Bueno, esperemos que ella misma no recuerde nada al respecto, de lo contrario no viviré ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Интересно, если я не буду вести себя как озабоченный и скажу что-нибудь приятное, Алиса будет реагировать иначе..."
-msgstr ""
+msgstr "Me pregunto si no actúo como una persona preocupada y digo algo agradable, Alice reaccionará de manera diferente ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Особенно мне понравилось то, как Алиса стыдилась своего стервозного поведения со мной! С этими конфетами было достаточно всего одного комплимента, чтобы Алиса начала дразнить меня своими голыми и потрясающими сиськами... Интересно, можно ли её развести на что-то большее?"
-msgstr ""
+msgstr "¡Me gustó especialmente cómo Alice se avergonzaba de su comportamiento conmigo! Con estos caramelos, solo un cumplido fue suficiente para que Alice comenzara a burlarse de mí con sus tetas desnudas e increíbles... Me pregunto si se puede diluir en algo más?"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Может, если уговорить Алису не носить трусики, то и в клуб она их не наденет? А раз так, то и после клуба она может быть без них..."
-msgstr ""
+msgstr "¿Tal vez si persuades a Alice para que no use bragas, entonces no las usará en el club? Y si es así, entonces después del club puede ser sin ellos..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Чтобы добиться большего с Алисой в ванной комнате, мне стоит помогать ей с её блогом. Возможно, это нас сблизит..."
@@ -834,83 +834,93 @@ msgstr ""
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Контроль"
-msgstr ""
+msgstr "Control"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Что это было? Мама поймала меня на подглядывании за ними, пока они трахались, собиралась наказать, но Эрик сказал нет и мама согласилась?! Моя мама, которая запрещала мне смотреть даже эротику, согласилась, чтобы я присутствовал при таком? Это невероятно. Либо Эрик какой-то колдун, либо дело в другом и нужно в этом разобраться, как следует."
-msgstr ""
+msgstr "¿Qué fue eso? Mamá me sorprendió espiándolos mientras estaban follando, iba a castigar, pero Eric dijo que no y mamá estuvo de acuerdo. ¿Mi madre, que me prohibió ver incluso erótica, estuvo de acuerdo en que debería estar presente en esto? Es increíble. O Eric es una especie de hechicero, o es otra cosa y necesitas resolverlo correctamente."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Кристина"
-msgstr ""
+msgstr "Christina"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \n"
 "Я не решился подкатить к ней... Она бы меня наверняка отшила. Хотя, попробовать всё равно можно было..."
-msgstr ""
+msgstr "Mis pedidos sospechosos de toda la ropa de mujer interesada en la niña de la entrega. Resultó que su nombre es Christina. \n"
+"no me atreví a enrollarme hacia ella... Probablemente me cosía. Aunque, todavía podrías probar..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Моими подозрительными заказами всякой женской одежды заинтересовалась девчонка из доставки. Как выяснилось, её зовут Кристина. \n"
 "Не самым умным решением было к ней сразу же подкатывать, но что сделано, то сделано. Понятно, что она бы в любом случае меня отшила, но попробовать стоило..."
-msgstr ""
+msgstr "Mis pedidos sospechosos de toda la ropa de mujer interesada en la niña de la entrega. Resultó que su nombre es Christina. \n"
+"No la decisión más inteligente fue enrollarlo de inmediato, pero lo que se hizo se hizo. Está claro que ella me habría cosdo de todos modos, pero valió la pena intentarlo..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Компромат на Эрика"
-msgstr ""
+msgstr "Suciedad en Eric"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\n"
 "Наверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Лучше иметь против него козырь, на случай чего..."
-msgstr ""
+msgstr "¡Me di cuenta de que Eric estaba parado cerca de la ventana de la habitación de Alice en medio de la noche y temblando hacia ella! No esperaba ver eso... Me pareció que Eric era uno de los que prefería eliminar a una prostituta que simplemente a throot, pero resultó que ... Me equivoqué.\n\n"
+"¡Seguramente esta no es la primera vez que hace esto! Hay que verlo por la noche para hacerse una foto con sus sucias aedes... Es mejor tener una carta de triunfo en su contra, en caso de que..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\n"
 "Было бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы..."
-msgstr ""
+msgstr "¡Es una vez! ¡Tomé una foto de Eric temblando ante Alice! Por supuesto, no está muy claro en la imagen a quién o de qué se está burlando, por lo que no demasiado esta foto me ayudará en caso de algún lío con Eric.\n\n"
+"Sería bueno que Eric fuera tan descarado que comenzara a burlarse de Alice justo en el medio de su habitación ... ¡Eso ya habría tirado de comprometerse! Alice realmente se meterá en el marco, pero la atención principal en una foto de este tipo se centrará en Eric. Es un asunto pequeño: descubrir cómo atraerlo a la habitación de Alice ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Я так и знал, что Эрик не устоит перед голой и спящей Алисой! Правда, можно ли его за это винить? Я бы на его месте тоже не устоял... Теперь, остаётся лишь успеть сделать снимок, пока он в её комнате..."
-msgstr ""
+msgstr "¡Sabía que Eric no podía resistirse a una Alicia desnuda y dormida! Sin embargo, ¿se le puede culpar por esto? Tampoco me resistiría en su lugar... Ahora, solo queda tiempo para tomar una foto mientras él está en su habitación ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Вот всё и получилось! У меня есть два снимка, на которых Эрик, как грязный извращенец, дрочит пока все спокойно спят... А на одном из снимков даже видно на кого он дрочит...\n\n"
 "Мне стоит быть осторожнее с этими снимками, Эрик столько всего делает для моих сестёр, что они запросто могут рассказать о том, что у меня есть. А так же хорошенько подумать над тем, как я буду использовать эти снимки.\n\n"
 "Я могу придержать этот компромат, пойти с ним к Эрику в ближайшее время или же вовсе как-то подставить его..."
-msgstr ""
+msgstr "¡Eso es todo! Tengo dos fotos de Eric, como un pervertido sucio, temblando mientras todos duermen plácidamente ... Y una de las fotos incluso muestra a quién está temblando...\n\n"
+"debo tener cuidado con estas fotos, Eric hace tanto por mis hermanas que pueden contar fácilmente lo que tengo. Y también piense cuidadosamente sobre cómo usaré estas imágenes.\n\n"
+"puedo sostener esta suciedad, ir con él a Eric en un futuro cercano o incluso de alguna manera enmarcarlo ..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Забота о попках"
-msgstr ""
+msgstr "Cuidado de los"
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Интересно получилось! Я ради интереса сказал Алисе, что больше не хочу за неё заступаться, когда её наказывают, но готов это делать и дальше, если она согласится, чтобы её шлёпал я.\n"
 "Она сперва приняла такой уговор в штыки, но после нескольких наказаний от мамы всё же согласилась, чтобы её шлёпал я. По крайней мере, если получилось спасти Алису от маминой руки. Надо так же не забыть обсудить с ней, когда можно её отшлёпать.\n\n"
 "Правда есть небольшой нюанс, благодаря которому Алиса и согласилась на это... Я пообещал, что отшлёпаю её нежно. Да уж, будет не просто устоять и не влепить по её попке за то, как стервозно она себя вела..."
-msgstr ""
+msgstr "¡Resultó interesante! En aras del interés, le dije a Alice que ya no quería defenderla cuando estaba siendo castigada, pero que estaba lista para seguir haciéndolo si aceptaba ser azotada por mí.\n"
+"Al principio aceptó tal persuasión en hostilidad, pero después de varios castigos de su madre, todavía aceptó ser azotada por mí. Al menos, si era posible salvar a Alice de la mano de su madre. Tampoco debemos olvidarnos de discutir con ella cuando puedas azotarla.\n\n"
+"Cierto, hay un pequeño matiz, gracias al cual Alice estuvo de acuerdo con esto ... Le prometí que la azotaría suavemente. Oh sí, no es fácil resistirse y no abofetearle el por cómo se comportó..."
 
 #    # game/core/09_opportunities.rpy:4
 msgid "Зрелище действительно завораживающее! Умудриться раздеть и отшлёпать свою старшую сестрёнку не многим, наверно, доводилось...\n"
 "Хоть она капризничает и сыпет угрозами при этом, но похоже моя настойчивость взяла верх. Любоваться её голой и упругой попкой одно удовольствие, как и шлёпать по ней.\n\n"
 "И теперь мне понятно, как не перегибать палку, чтобы наслаждаться этим приватным наказанием как можно дольше..."
-msgstr ""
+msgstr "¡El espectáculo es realmente fascinante! No mucha gente ha logrado desnudarse y azotar a su hermana mayor...\n"
+"Aunque es caprichosa y se llena de amenazas al mismo tiempo, pero parece que mi perseverancia se ha apoderado de ella. Admirar su desnudo y firme es un placer, al igual que abofetearla.\n\n"
+"Y ahora entiendo cómo no ir demasiado lejos para disfrutar de este castigo privado durante el mayor tiempo posible ..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
-msgstr ""
+msgstr "Tal vez valga la pena ordenar las cajas de las que hablaba mi madre..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
-msgstr ""
+msgstr "Tal vez deberías preguntarte qué vive mi hermana mayor cuando no está sentada en su habitación ..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
-msgstr ""
+msgstr "Tal vez deberías estar interesado en lo que vive mi hermana pequeña cuando no está sentada en su habitación ..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Всему своё время..."
-msgstr ""
+msgstr "Todo está bien en su temporada..."
 
 #    # game/core/09_opportunities.rpy:258
 msgid "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
-msgstr ""
+msgstr "¿Tal vez Alice tiene algunos pasatiempos secretos? Si es así, obviamente lo hará cuando haya menos gente en casa ..."
 
