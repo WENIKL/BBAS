@@ -10,193 +10,193 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-09-29 09:57\n"
 
 # game/events/eric_cam.rpy:13## # translate crowdin cam0_eric_ann_sleep_7477b46c:
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда..."
-msgstr ""
+msgstr "[Max_07]Qué suerte tengo una mamá tan caliente... Detente allí, ¿dónde está Eric? ¿Tal vez fui al baño? O en otro lugar..."
 
 # game/events/eric_cam.rpy:15## # translate crowdin cam0_eric_ann_sleep_748c66b8:
 msgid "[Max_07]Как же повезло, что у меня такая горячая мама... А Эрик опять где-то полуночничает..."
-msgstr ""
+msgstr "[Max_07]Qué suerte tengo una mamá tan caliente... Y Eric está a medianoche otra vez ..."
 
 # game/events/eric_cam.rpy:20## # translate crowdin cam0_eric_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
-msgstr ""
+msgstr "[Max_01]Qué suerte tengo una mamá tan caliente... Se ve increíble, ¡no quieres arrancarte los ojos!"
 
 # game/events/eric_cam.rpy:24## # translate crowdin cam0_eric_ann_sleep_a3ac7d5a:
 msgid "[Max_01]Мама и Эрик спят совсем голые. Ни стыда, ни совести..."
-msgstr ""
+msgstr "[Max_01]mamá y Eric duermen completamente desnudos. Sin vergüenza, sin conciencia..."
 
 # game/events/eric_cam.rpy:34## # translate crowdin cam0_eric_ann_shower_e29b6be3:
 msgid "[Max_09]Мамы и Эрика не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]mamá y Eric no son visibles a través de esta cámara ... ¿Puedo mirar a través de otro?"
 
 # game/events/eric_cam.rpy:36## # translate crowdin cam0_eric_ann_shower_d5dc1a0c:
 msgid "[Max_09]Мамы и Эрика не видно через эту камеру..."
-msgstr ""
+msgstr "[Max_09]mamá y Eric no son visibles a través de esta cámara ..."
 
 # game/events/eric_cam.rpy:62## # translate crowdin cam0_eric_ann_shower_a12fda17:
 msgid "[Max_07]Вот это да... Похоже намечается что-то большее, чем просто принять душ!"
-msgstr ""
+msgstr "[Max_07]Guau... ¡Parece que hay más que solo tomar una ducha!"
 
 # game/events/eric_cam.rpy:67## # translate crowdin cam0_eric_ann_shower_86fdc169:
 msgid "[Max_08]Да уж, устроился Эрик хорошо... Мама отсасывает ему с таким наслаждением, аж оторваться не может!"
-msgstr ""
+msgstr "[Max_08]sí, Eric consiguió un buen trabajo ... ¡Mamá lo chupa con tanto placer, ya no puede arrancarse!"
 
 # game/events/eric_cam.rpy:70## # translate crowdin cam0_eric_ann_shower_22662e7c:
 msgid "[Max_04]Охх... Вот же Эрику повезло... Ведь у мамы такие нежные и ласковые руки!"
-msgstr ""
+msgstr "[Max_04]oh... Eric tuvo suerte... Después de todo, ¡mi madre tiene manos tan gentiles y cariñosas!"
 
 # game/events/eric_cam.rpy:73## # translate crowdin cam0_eric_ann_shower_ff432e4e:
 msgid "[Max_06]Охренеть! Вот это страсть! Они так увлечены друг другом... И похоже, маме это очень нравится!"
-msgstr ""
+msgstr "[Max_06]¡Joder! ¡Eso es pasión! Son tan apasionados el uno por el otro... ¡Y parece que a mi mamá le encanta!"
 
 # game/events/eric_cam.rpy:76## # translate crowdin cam0_eric_ann_shower_447bb5aa:
 msgid "[Max_05]Ого! Эрик трахает маму сзади, да так активно... И... кажется, ей это очень нравится, она даже двигается ему навстречу... и изнывает от страсти!"
-msgstr ""
+msgstr "[Max_05]es así! Eric folla a mamá por detrás, tan activamente ... Y... parece que le gusta mucho, incluso se mueve hacia él ... y agotado de pasión!"
 
 # game/events/eric_cam.rpy:81## # translate crowdin cam0_eric_ann_shower_003db972:
 msgid "[Max_09]Вот чёрт! Эрик кончает маме прямо на лицо, как в каком-то порно! Причём, ей это настолько нравится, что она улыбается и ловит его сперму своим ртом!"
-msgstr ""
+msgstr "[Max_09]¡Maldita sea! ¡Eric se acurruca justo en la cara de su madre como un poco de porno! ¡Y le gusta tanto que sonríe y atrapa la suya con la boca!"
 
 # game/events/eric_cam.rpy:84## # translate crowdin cam0_eric_ann_shower_bf82d597:
 msgid "[Max_01]Ну да! Кто бы сомневался, что Эрик не продержится слишком долго. Мама своё дело знает!"
-msgstr ""
+msgstr "[Max_01]sí! Quién dudaría de que Eric no duraría demasiado. ¡Mamá sabe sus cosas!"
 
 # game/events/eric_cam.rpy:87## # translate crowdin cam0_eric_ann_shower_7630adf0:
 msgid "[Max_07]Ох, чёрт... Эрик уже кончил... Хорошо, что не в маму... Счастливый сукин сын... И она ещё улыбается?!"
-msgstr ""
+msgstr "[Max_07]Oh, maldita sea... Eric ya ha ... Es bueno que no en mi madre... Feliz hijo de puta... ¡¿Y ella todavía está sonriendo ?!"
 
 # game/events/eric_cam.rpy:90## # translate crowdin cam0_eric_ann_shower_f5884de3:
 msgid "[Max_08]Чёрт возьми... он уже кончил... Счастливый ублюдок... забрызгал маме всю спину с попкой своей спермой!"
-msgstr ""
+msgstr "[Max_08]Maldita sea... ya está... Feliz bastardo... ¡Salpicó a mamá por toda su espalda con su semen!"
 
 # game/events/eric_cam.rpy:107## # translate crowdin cam1_eric_ann_shower_6725d9af:
 msgid "[Max_07]Охх... Боже мой, какие нежности. Похоже, сейчас что-то начнётся..."
-msgstr ""
+msgstr "[Max_07]oh... Oh Dios mío, qué ternura. Parece que algo va a empezar ahora..."
 
 # game/events/eric_cam.rpy:110## # translate crowdin cam1_eric_ann_shower_dcf7279d:
 msgid "[Max_10]Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит?"
-msgstr ""
+msgstr "[Max_10]Mi mamá lo chupa de nuevo... ¡Eric! ¡Sí, con tanta pasión! ¿Realmente disfruta tanto haciéndolo o lo ama tanto?"
 
 # game/events/eric_cam.rpy:113## # translate crowdin cam1_eric_ann_shower_41ff898a:
 msgid "[Max_08]О Боже! Как бы я мечтал оказаться на месте это счастливого ублюдка! Когда её мокрая попка так красиво скачет на члене, голова начинает идти кругом!"
-msgstr ""
+msgstr "[Max_08]¡Oh Dios mío! ¡Cómo desearía poder estar en los zapatos de este feliz bastardo! Cuando su mojado salta tan bellamente sobre el suyo, ¡su cabeza comienza a dar vueltas!"
 
 # game/events/eric_cam.rpy:116## # translate crowdin cam1_eric_ann_shower_1f796a37:
 msgid "[Max_10]Ничего себе! Вот это они вытворяют! Эрик трахает маму, разложив её у зеркала как какую-то шлюшку..."
-msgstr ""
+msgstr "[Max_10]¡Guau! ¡Eso es lo que están haciendo! Eric folla a mamá, tendiéndola frente al espejo como una especie de puta ..."
 
 # game/events/eric_cam.rpy:119## # translate crowdin cam1_eric_ann_shower_a29fe6f5:
 msgid "[Max_08]Чёрт возьми! Она приняла всю его сперму себе в рот и на лицо, и теперь с такой жадностью и удовольствием слизывает её с его члена..."
-msgstr ""
+msgstr "[Max_08]¡Maldita sea! Ella tomó todo lo suyo en su boca y cara, y ahora con tanta codicia y placer lo lame de su..."
 
 # game/events/eric_cam.rpy:122## # translate crowdin cam1_eric_ann_shower_9aaa6a3b:
 msgid "[Max_10]А вот и финал не заставил себя ждать! И похоже всем всё понравилось, как и всегда..."
-msgstr ""
+msgstr "[Max_10]¡Y aquí está la final no tardó en llegar! Y parece que a todo el mundo le gustó todo, como siempre..."
 
 # game/events/eric_cam.rpy:127## # translate crowdin cam1_eric_ann_shower_e29b6be3:
 msgid "[Max_09]Мамы и Эрика не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]mamá y Eric no son visibles a través de esta cámara ... ¿Puedo mirar a través de otro?"
 
 # game/events/eric_cam.rpy:135## # translate crowdin cam0_eric_resting_2cc4c213:
 msgid "[Max_01]О, \"В мире животных\" показывают! То ли шимпанзе на стероидах, то ли горилла..."
-msgstr ""
+msgstr "[Max_01]¡Oh, \"En el mundo animal\" se muestra! Ya sean chimpancés con esteroides o gorilas..."
 
 # game/events/eric_cam.rpy:155## # translate crowdin cam0_eric_ann_tv_e5606f30:
 msgid "[Max_01]Мама с Эриком смотрят какой-то фильм. Наверняка, опять порнушку..."
-msgstr ""
+msgstr "[Max_01]mamá y Eric están viendo una película. Seguramente, de nuevo..."
 
 # game/events/eric_cam.rpy:157## # translate crowdin cam0_eric_ann_tv_28588bd6:
 msgid "[Max_01]Мама с Эриком смотрят какой-то фильм. Интересно, какой?"
-msgstr ""
+msgstr "[Max_01]mamá y Eric están viendo una película. Me pregunto cuál."
 
 # game/events/eric_cam.rpy:163## # translate crowdin cam0_eric_ann_tv_814eef63:
 msgid "[Max_08]Как же повезло Эрику! Я бы тоже с огромной радостью так посмотрел что угодно... если бы мамины нежные и умелые ручки ласкали мой член..."
-msgstr ""
+msgstr "[Max_08]¡Qué suerte tuvo Eric! Me encantaría ver cualquier cosa con gran alegría también... si las manos gentiles y hábiles de mi madre me acariciaban..."
 
 # game/events/eric_cam.rpy:165## # translate crowdin cam0_eric_ann_tv_91bf9136:
 msgid "[Max_08]Блин, мама, тебе что, настолько неинтересно то, что происходит на экране или ты просто любишь отсасывать Эрику?!"
-msgstr ""
+msgstr "[Max_08]Maldita sea, mamá, ¿estás tan desinteresada en lo que está sucediendo en la pantalla o simplemente te encanta chupar a Erica?"
 
 # game/events/eric_cam.rpy:171## # translate crowdin cam0_eric_ann_tv_01416e5e:
 msgid "[Max_09]Ну конечно, ведь просто так смотреть, что происходит на экране они не будут, обязательно надо вот это вот делать..."
-msgstr ""
+msgstr "[Max_09]Bueno, por supuesto, porque no solo verán lo que está sucediendo en la pantalla, es necesario hacer esto ..."
 
 # game/events/eric_cam.rpy:175## # translate crowdin cam0_eric_ann_tv_5f6b9297:
 msgid "[Max_10]А, ну да, без полотенца однозначно лучше... Но вы же в гостиной! А если зайдёт кто-то, а вы тут развлекаетесь..."
-msgstr ""
+msgstr "[Max_10]A, bueno, sí, sin toalla es definitivamente mejor ... ¡Pero estás en la sala de estar! Y si alguien entra y te estás divirtiendo aquí..."
 
 # game/events/eric_cam.rpy:185## # translate crowdin cam0_eric_ann_fucking_6381ec84:
 msgid "[Max_09]Утомлённые мама с Эриком лежат на кровати. Благо, они не только трахаются всё время, но ещё и разговаривают..."
-msgstr ""
+msgstr "[Max_09]Mamá cansada y Eric están acostados en la cama. Afortunadamente, no solo follan todo el tiempo, sino que también hablan ..."
 
 # game/events/eric_cam.rpy:197## # translate crowdin cam0_eric_ann_fucking_3495581a:
 msgid "[Max_07]Через окно подсмотреть мне не дали, значит заценим через камеру... А они тут развлекаются, только в путь!"
-msgstr ""
+msgstr "[Max_07]no me dieron un vistazo a través de la ventana, así que revisaremos a través de la cámara ... ¡Y se divierten aquí, solo en el camino!"
 
 # game/events/eric_cam.rpy:200## # translate crowdin cam0_eric_ann_fucking_f159866a:
 msgid "[Max_07]Подсмотреть через окно я не рискнул, могут заметить, а вот через камеру могу наслаждаться безнаказанно, сколько захочу... И посмотреть есть на что!"
-msgstr ""
+msgstr "[Max_07]no me atreví a asomarme por la ventana, se dan cuenta, pero a través de la cámara puedo disfrutar impunemente todo lo que quiero... ¡Y hay algo que ver!"
 
 # game/events/eric_cam.rpy:203## # translate crowdin cam0_eric_ann_fucking_61e6a6a9:
 msgid "[Max_07]Ого! Вот это я удачно заглянул! Всё равно, что порно посмотреть..."
-msgstr ""
+msgstr "[Max_07]es así! ¡Eso es lo que eché un buen vistazo! Es como ver..."
 
 # game/events/eric_cam.rpy:212## # translate crowdin cam0_eric_ann_fucking_96882403:
 msgid "[Max_08]Ну вот они и кончили. По крайней мере, Эрик так точно, а вот мама..."
-msgstr ""
+msgstr "[Max_08]Bueno, ya están. Al menos Eric es tan preciso, pero mamá ..."
 
 # game/events/eric_cam.rpy:233## # translate crowdin cam0_sexed_lisa_39b6afbd:
 msgid "[Max_08]{i}( Жаль камеры не передают звук. Нужно будет обязательно спросить Лизу, о чём они разговаривали! ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}( Es una pena que las cámaras no transmitan sonido. ¡Tendrás que preguntarle a Lisa de qué estaban hablando!) {/i}"
 
 # game/events/eric_cam.rpy:243## # translate crowdin cam0_sexed_lisa_ec99c2de:
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa vino a clase con su madre y Eric. Vamos a ver qué pasa... ) {/i}"
 
 # game/events/eric_cam.rpy:251## # translate crowdin cam0_sexed_lisa_e3adf436:
 msgid "[Max_09]{i}( Вот же Эрик! Член он свой вывесил... Интересно, что они ей там рассказывают? ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}(¡Aquí está Eric! Colgó su... Me pregunto qué le dicen allí. ){/i}"
 
 # game/events/eric_cam.rpy:259## # translate crowdin cam0_sexed_lisa_42d2aaeb:
 msgid "[Max_08]{i}( Ага, дрочка пошла... И уговорил же Эрик маму на всё это... ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}( sí, el drochka fue... Y Eric persuadió a su madre para que hiciera todo esto...) {/i}"
 
 # game/events/eric_cam.rpy:269## # translate crowdin cam0_sexed_lisa_ec99c2de_1:
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa vino a clase con su madre y Eric. Vamos a ver qué pasa... ) {/i}"
 
 # game/events/eric_cam.rpy:277## # translate crowdin cam0_sexed_lisa_7fb4b50b:
 msgid "[Max_09]{i}( Мама при Лизе уже надрачивает Эрику как будто так и надо! Интересно, что они ей там рассказывают при этом? ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}(¡Mamá en Lisa ya le está dando a Erica como si debería ser! Me pregunto qué le dicen allí al mismo tiempo?) {/i}"
 
 # game/events/eric_cam.rpy:285## # translate crowdin cam0_sexed_lisa_90313c76:
 msgid "[Max_08]{i}( Ага, мама повышает градус показом своей шикарной груди... И уговорил же Эрик маму на всё это! ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(sí, mamá eleva el grado mostrando sus hermosos senos ... ¡Y Eric persuadió a su madre para que hiciera todo esto! ){/i}"
 
 # game/events/eric_cam.rpy:295## # translate crowdin cam0_sexed_lisa_ec99c2de_2:
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa vino a clase con su madre y Eric. Vamos a ver qué pasa... ) {/i}"
 
 # game/events/eric_cam.rpy:303## # translate crowdin cam0_sexed_lisa_e1ae85f3:
 msgid "[Max_09]{i}( Подрочить Эрику на глазах Лизы в образовательных целях? Конечно, обычное дело, не обращайте внимания... Интересно, что они ей там рассказывают при этом? ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}( ¿Follar a Erica frente a Lisa con fines educativos? Por supuesto, es un lugar común, no prestes atención ... Me pregunto qué le dicen allí. ){/i}"
 
 # game/events/eric_cam.rpy:311## # translate crowdin cam0_sexed_lisa_19cd50f3:
 msgid "[Max_08]{i}( О, от такого я бы не отказался! Только от одних мыслей о маминых руках, нежно массирующих мои шары, хочется кончить... ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(¡Oh, no me rendiría en eso! Solo pensamientos de las manos de mi madre masajeando suavemente mis pelotas, quiero ... ) {/i}"
 
 # game/events/eric_cam.rpy:321## # translate crowdin cam0_sexed_lisa_ec99c2de_3:
 msgid "[Max_07]{i}( Лиза пришла на урок к маме и Эрику. Посмотрим, что будет... ){/i}"
-msgstr ""
+msgstr "[Max_07]{i}( Lisa vino a clase con su madre y Eric. Vamos a ver qué pasa... ) {/i}"
 
 # game/events/eric_cam.rpy:329## # translate crowdin cam0_sexed_lisa_2fbe73f5:
 msgid "[Max_09]{i}( Всё дрочат и дрочат... Видимо, закрепляют материал. Ну сколько можно?! ){/i}"
-msgstr ""
+msgstr "[Max_09]{i}( Todos están temblando y temblando ... Aparentemente, arregla el material. Bueno, ¿cuánto puedes? ){/i}"
 
 # game/events/eric_cam.rpy:337## # translate crowdin cam0_sexed_lisa_6253e993:
 msgid "[Max_08]{i}( О, Эрик не выдержал и кончил... Хотя, вряд ли. Скорее всего, они решили показать Лизе для чего это всё было нужно. ){/i}"
-msgstr ""
+msgstr "[Max_08]{i}(Oh, Eric no podía soportarlo y ... Aunque, es poco probable. Lo más probable es que decidieran mostrarle a Lisa por qué era todo necesario. ){/i}"
 
