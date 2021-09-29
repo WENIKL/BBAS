@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-28 09:52\n"
+"PO-Revision-Date: 2021-09-29 09:57\n"
 
 # game/script.rpy:37## # translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
@@ -114,51 +114,51 @@ msgstr "[Maya_01]Sì, mi ha avvertito della tua reazione... Da un punto di vista
 
 # game/script.rpy:80## # translate crowdin intro_8db9c9f1:
 msgid "[Ann_14]С этим не поспоришь. У меня есть время подумать обо всём?"
-msgstr "[Ann_14]Non puoi discuterne. Ho tempo per pensare a tutto?"
+msgstr "[Ann_14]Su questo non posso discutere. Ho tempo di pensarci?"
 
 # game/script.rpy:81## # translate crowdin intro_8e21e5ab:
 msgid "[Maya_03]Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания.[nointeract]"
-msgstr "[Maya_03]Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronto a prendere una decisione. Lascerò anche copie di tutti i documenti. Arrivederci.[nointeract]"
+msgstr "[Maya_03]Certo, Anna. Ecco il mio biglietto da visita. Chiama quando sei pronta a prendere una decisione. Lascerò anche delle copie di tutti i documenti. Arrivederci.[nointeract]"
 
 # game/script.rpy:86## # translate crowdin intro_eaf717b9:
 msgid "[Max_04]К счастью, мама приняла верное решение. Когда мы увидели дом, не поверили своим глазам! Вживую он оказался гораздо больше и красивее, чем на фотографиях. Но самым приятным сюрпризом оказался бассейн!"
-msgstr "[Max_04]Fortunatamente, mia madre ha preso la decisione giusta. Quando abbiamo visto la casa, non potevamo credere ai nostri occhi! Dal vivo era molto più grande e più bello che nelle foto. Ma la sorpresa più piacevole è stata la piscina!"
+msgstr "[Max_04]Fortunatamente, mia madre ha preso la decisione giusta. Quando abbiamo visto la casa, non potevamo credere ai nostri occhi! Dal vivo era molto più grande e più bello che nelle foto. Ma la sorpresa migliore è stata la piscina!"
 
 # game/script.rpy:88## # translate crowdin intro_afbd2795:
 msgid "[Max_00]Алиса сразу заняла одну из спален. Кстати, их оказалось всего две. Несмотря на огромную гостиную с кухней и просторную ванную, в доме всего три отдельные комнаты: две спальни и кабинет."
-msgstr "[Max_00]Alice occupò immediatamente una delle camere da letto. A proposito, ce n'erano solo due. Nonostante l'enorme soggiorno con cucina e ampio bagno, la casa ha solo tre stanze separate: due camere da letto e un ufficio."
+msgstr "[Max_00]Alice prese immediatamente una delle camere da letto. A proposito, ce n'erano solo due. Nonostante l'enorme soggiorno con cucina e lo spazioso bagno, ci sono solo tre stanze separate nella casa: due camere da letto e uno studio."
 
 # game/script.rpy:90## # translate crowdin intro_5fc10bfc:
 msgid "[Max_08]В кабинете мебели почти не оказалось, и мне пришла в голову отличная идея разместить здесь наши с Лизой кровати из старой квартиры."
-msgstr "[Max_08]Non c'erano quasi mobili in ufficio, e mi è venuta una grande idea di mettere qui i nostri letti con Lisa dal vecchio appartamento."
+msgstr "[Max_08]Non c'era quasi nessun mobile nello studio, e ho avuto la grande idea di mettere qui il mio letto e quello di Lisa del vecchio appartamento."
 
 # game/script.rpy:92## # translate crowdin intro_c174fdf7:
 msgid "[Ann_01]Что-то мне не нравится эта твоя идея, Макс. Вы уже взрослые, чтобы спать в одной комнате. Давай этот офис выделим тебе, а вторую спальню - Лизе. Ну а я буду спать в гостиной. Там отличные диванчики..."
-msgstr "[Ann_01]Qualcosa che non mi piace quella tua idea, Max. Sei già un adulto per dormire nella stessa stanza. Diamo questo ufficio a te e la seconda camera da letto a Lisa. Bene, dormirò in salotto. Ci sono grandi divani..."
+msgstr "[Ann_01]Non mi piace questa tua idea, Max. Siete troppo grandi per dormire nella stessa stanza. Lasciamo a te l'ufficio e a Lisa l'altra camera da letto. Dormirò in salotto. C'è un bel divano lì..."
 
 # game/script.rpy:94## # translate crowdin intro_d6949af8:
 msgid "[Ann_01]Что-то мне не нравится эта твоя идея, Макс. Вы уже совсем взрослые, чтобы спать в одной комнате. Давай этот офис выделим тебе, а вторую спальню - Лизе. Ну а я буду спать в гостиной. Там отличные диванчики..."
-msgstr "[Ann_01]Qualcosa che non mi piace quella tua idea, Max. Sei un adulto intero per dormire nella stessa stanza. Diamo questo ufficio a te e la seconda camera da letto a Lisa. Bene, dormirò in salotto. Ci sono grandi divani..."
+msgstr "[Ann_01]Non mi piace questa tua idea, Max. Siete troppo grandi per dormire nella stessa stanza. Lasciamo a te l'ufficio e a Lisa l'altra camera da letto. Dormirò in salotto. C'è un bel divano lì..."
 
 # game/script.rpy:95## # translate crowdin intro_8132e149:
 msgid "[Max_01]Мам, мы и так все жили как селёдки в бочке, нам не привыкать. А тут такие огромные комнаты. Нам с Лизой места хватит. Правда, сестрёнка?"
-msgstr "[Max_01]mamma, vivevamo tutti come aringhe in un barile, non siamo estranei. E poi ci sono stanze così enormi. Lisa e io abbiamo abbastanza spazio. Davvero, sorella?"
+msgstr "[Max_01]Mamma, abbiamo dovuto tutti come aringhe in un barile, ci siamo abituati. E queste stanze sono così grandi. Lisa e io abbiamo abbastanza spazio. Giusto, sorellina?"
 
 # game/script.rpy:96## # translate crowdin intro_fbedb073:
 msgid "[Lisa_02]Конечно! Мам, мы нормально с Максом уживаемся. А если будет косячить, выгоню его в эту самую гостиную! А ты свою комнату точно заслужила. И не спорь. Мы все так думаем."
-msgstr "[Lisa_02]Certo! Mamma, Max ed io stiamo bene. E se falcia, lo butto fuori in questo stesso salotto! E hai sicuramente meritato la tua stanza. E non discutere. Lo pensiamo tutti."
+msgstr "[Lisa_02]Certo! Mamma, io e Max andiamo d'accordo. E se sbaglia, lo sbatto fuori in salotto! E ti meriti davvero la tua stanza. E non discutere. Questo è quello che pensiamo tutti."
 
 # game/script.rpy:97## # translate crowdin intro_07cd4260:
 msgid "[Ann_07]Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем![nointeract]"
-msgstr "[Ann_07]Va bene. La compagnia di trasporti ha riferito che i nostri effetti personali sono stati ritardati. Qualcosa di cui mi pento già di averli contattati... Comunque, tra una settimana ci spostiamo![nointeract]"
+msgstr "[Ann_07]Va bene, allora. La compagnia di trasporti ha detto che i nostri bagagli avranno un ritardo. Mi sto già pentendo di averli contattati... Comunque, ci trasferiremo la prossima settimana![nointeract]"
 
 # game/script.rpy:102## # translate crowdin intro_dbd412b7:
 msgid "[Max_00]Спустя неделю часть наших вещей из старой квартиры доставили. Но только часть. Как я понял, кое-что потерялось в пути. Надеюсь, компенсируют это как-то..."
-msgstr "[Max_00]Una settimana dopo, alcuni dei nostri effetti personali sono stati consegnati dal vecchio appartamento. Ma solo una parte. Come ho capito, qualcosa si è perso lungo la strada. Speriamo che lo possano compensare in qualche modo..."
+msgstr "[Max_00]La settimana dopo sono state consegnate alcune delle nostre cose del vecchio appartamento. Ma solo in parte. Da quanto ho capito, alcune cose si sono perse per strada. Spero che rimedieranno in qualche modo..."
 
 # game/script.rpy:103## # translate crowdin intro_356cd733:
 msgid "[Max_04]Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное![nointeract]"
-msgstr "[Max_04]mamma ha ottenuto un nuovo lavoro. Lisa andò in una scuola locale. Alice si siede nella sua nota, e io... È qui che finisce la mia storia e inizia qualcosa di nuovo e interessante![nointeract]"
+msgstr "[Max_04]La mamma ha trovato un nuovo lavoro. Lisa ha frequentato la scuola locale. Alice continua a rimanere seduta davanti al suo portatile e io... Qui finisce la mia storia e comincia qualcosa di nuovo e interessante![nointeract]"
 
 # game/script.rpy:117## # translate crowdin about_poss_0cd5a085:
 msgid "[Max_00]\"Возможности\" - это особые пути, по которым можно пройти, чтобы достичь какого-то результата. Обычно они скрыты и не очень очевидны."
@@ -177,27 +177,27 @@ msgid "[Max_04]Но и бояться их не стоит. Именно бла�
 msgstr "[Max_04]Ma non dovresti aver paura di loro. È grazie alle \"opportunità\" che puoi realizzare qualcosa che alcuni non sognano nemmeno![nointeract]"
 
 msgid "{i}далее{/i}"
-msgstr "{i}successivo{/i}"
+msgstr "{i}prosegui{/i}"
 
 #    # game/script.rpy:37
 msgid "{i}пропустить{/i}"
-msgstr "{i}skip{/i}"
+msgstr "{i}salta{/i}"
 
 #    # game/script.rpy:81
 msgid "{i}пару недель спустя...{/i}"
-msgstr "{i}un paio di settimane dopo... {/i}"
+msgstr "{i}un paio di settimane dopo...{/i}"
 
 #    # game/script.rpy:97
 msgid "{i}спустя неделю...{/i}"
-msgstr "{i}una settimana dopo... {/i}"
+msgstr "{i}una settimana dopo...{/i}"
 
 #    # game/script.rpy:103
 msgid "{i}Начать игру{/i}"
-msgstr "{i}Avvia gioco{/i}"
+msgstr "{i}Avvia il gioco{/i}"
 
 #    # game/script.rpy:103
 msgid "{i}Повторить историю{/i}"
-msgstr "{i}Ripeti cronologia{/i}"
+msgstr "{i}Ripetere il prologo{/i}"
 
 #    # game/script.rpy:120
 msgid "{i}всё ясно{/i}"
