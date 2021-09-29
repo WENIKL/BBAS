@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-09-29 09:57\n"
 
 # game/events/ann_cam.rpy:8## # translate crowdin cam0_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
-msgstr ""
+msgstr "[Max_01]Qué suerte tengo una mamá tan caliente... Se ve increíble, ¡no quieres arrancarte los ojos!"
 
 # game/events/ann_cam.rpy:17## # translate crowdin cam0_ann_shower_0326dfb9:
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]mamá no es visible a través de esta cámara... ¿Puedo mirar a través de otro?"
 
 # game/events/ann_cam.rpy:19## # translate crowdin cam0_ann_shower_d62cf6fa:
 msgid "[Max_09]Мамы не видно через эту камеру..."
-msgstr ""
+msgstr "[Max_09]mamá no es visible a través de esta cámara..."
 
 # game/events/ann_cam.rpy:27## # translate crowdin cam0_ann_shower_5850319e:
 msgid "[Max_04]Зрелище просто потрясающее... У меня очень горячая мама!"
-msgstr ""
+msgstr "[Max_04]El espectáculo es simplemente impresionante... ¡Tengo una mamá muy caliente!"
 
 # game/events/ann_cam.rpy:49## # translate crowdin cam1_ann_shower_b2ae0654:
 msgid "[Max_03]Мама, перед тем, как принять душ, красуется перед зеркалом. Глядя на эту красоту, можно мечтать лишь об одном!"
-msgstr ""
+msgstr "[Max_03]mamá, antes de tomar una ducha, hace alarde frente al espejo. Mirando esta belleza, ¡solo puedes soñar con una cosa!"
 
 # game/events/ann_cam.rpy:55## # translate crowdin cam1_ann_shower_0326dfb9:
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
