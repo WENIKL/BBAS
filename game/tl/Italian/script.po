@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-29 09:57\n"
+"PO-Revision-Date: 2021-09-30 09:56\n"
 
 # game/script.rpy:37## # translate crowdin intro_8dea4dcf:
 msgid "[Max_00]Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку.[nointeract]"
@@ -162,19 +162,19 @@ msgstr "[Max_04]La mamma ha trovato un nuovo lavoro. Lisa ha frequentato la scuo
 
 # game/script.rpy:117## # translate crowdin about_poss_0cd5a085:
 msgid "[Max_00]\"Возможности\" - это особые пути, по которым можно пройти, чтобы достичь какого-то результата. Обычно они скрыты и не очень очевидны."
-msgstr "[Max_00]\"Opportunità\" sono percorsi speciali che puoi attraversare per ottenere qualche risultato. Di solito sono nascosti e non molto ovvi."
+msgstr "[Max_00]\"Opportunità\" sono percorsi speciali che possono essere seguiti per raggiungere un certo tipo di risultato. Di solito sono nascosti e non molto evidenti."
 
 # game/script.rpy:118## # translate crowdin about_poss_0f75481c:
 msgid "[Max_03]Некоторые действия в игре открывают такие \"возможности\". Увидеть их можно на соответствующем экране, который можно открыть через верхнее меню."
-msgstr "[Max_03]Alcune azioni nel gioco aprono tali \"opportunità\". Puoi vederli sullo schermo corrispondente, che può essere aperto tramite il menu in alto."
+msgstr "[Max_03]Certe azioni nel gioco aprono tali \"opportunità\". Potete vederli nella apposita schermata, che può essere aperta tramite il menu in alto."
 
 # game/script.rpy:119## # translate crowdin about_poss_09cf07b7:
 msgid "[Max_00]Некоторые \"возможности\" временные. Некоторые могут привести к нежелательному результату. Не стоит хвататься за первую попавшуюся и слепо следовать подсказкам!"
-msgstr "[Max_00]Alcune \"opportunità\" sono temporanee. Alcuni possono portare a un risultato indesiderato. Non afferrare il primo che ottieni e segui ciecamente le istruzioni!"
+msgstr "[Max_00]Alcune \"opportunità\" sono temporanee. Alcune possono portare a risultati indesiderati. Non prendere la prima che vedi e segui ciecamente le indicazioni!"
 
 # game/script.rpy:120## # translate crowdin about_poss_95f72849:
 msgid "[Max_04]Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают![nointeract]"
-msgstr "[Max_04]Ma non dovresti aver paura di loro. È grazie alle \"opportunità\" che puoi realizzare qualcosa che alcuni non sognano nemmeno![nointeract]"
+msgstr "[Max_04]Ma non dovreste nemmeno averne paura. È attraverso le \"opportunità\" che si possono raggiungere risultati che altri nemmeno sognano![nointeract]"
 
 msgid "{i}далее{/i}"
 msgstr "{i}prosegui{/i}"
@@ -201,9 +201,9 @@ msgstr "{i}Ripetere il prologo{/i}"
 
 #    # game/script.rpy:120
 msgid "{i}всё ясно{/i}"
-msgstr "{i}tutto è chiaro{/i}"
+msgstr "{i}è tutto chiaro{/i}"
 
 #    # game/script.rpy:120
 msgid "{i}повторить{/i}"
-msgstr "{i}ripetere{/i}"
+msgstr "{i}ripeti{/i}"
 
