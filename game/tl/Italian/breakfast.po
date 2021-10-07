@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-30 09:56\n"
+"PO-Revision-Date: 2021-10-07 06:21\n"
 
 # game/dialogues/breakfast.rpy:12## # translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
@@ -58,7 +58,7 @@ msgstr "[Ann_00]Al massimo, i mobili si possono sempre comprare...[nointeract]"
 
 # game/dialogues/breakfast.rpy:56## # translate crowdin breakfast_first_bf_change_a3dfedbb:
 msgid "[Ann_00]Так, хватит. Давайте сменим тему. Например, сегодня у нас Лиза первый раз идёт в новую школу.[nointeract]"
-msgstr "[Ann_00]Basta. Cambiamo argomento. Ad esempio, oggi Lisa va in una nuova scuola per la prima volta.[nointeract]"
+msgstr "[Ann_00]Basta così. Cambiamo argomento. Ad esempio, oggi è il primo giorno nella nuova scuola per Lisa.[nointeract]"
 
 # game/dialogues/breakfast.rpy:59## # translate crowdin breakfast_first_bf_change_44297202:
 msgid "[Lisa_02]Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив...[nointeract]"
