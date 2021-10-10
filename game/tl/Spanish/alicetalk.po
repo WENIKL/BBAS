@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-29 09:57\n"
+"PO-Revision-Date: 2021-10-10 00:16\n"
 
 # game/dialogues/alicetalk.rpy:17## # translate crowdin AliceTalkStart_50ef2ada:
 msgid "[Alice_00]Ну, Макс, чего надо?[nointeract]"
@@ -498,15 +498,15 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:579## # translate crowdin alice_talk_tv_not_jeans_aa8b7b20:
 msgid "[Max_03]Да, да, конечно."
-msgstr ""
+msgstr "[Max_03] Sí, sí, por supuesto."
 
 # game/dialogues/alicetalk.rpy:582## # translate crowdin alice_talk_tv_not_jeans_59e057ce:
 msgid "[Alice_13]Хотя, нет, не пойдёт! У меня так всё видно будет... И хватит уже пялиться! Лучше иди уже по своим делам."
-msgstr ""
+msgstr "[Alice_13]Aunque, no, ¡eso no servirá! Puedo ver todo... ¡Y deja de mirar! Será mejor que te ocupes de tus asuntos."
 
 # game/dialogues/alicetalk.rpy:583## # translate crowdin alice_talk_tv_not_jeans_a8b634a1:
 msgid "[Max_05]Как скажешь. Трусы не потеряй."
-msgstr ""
+msgstr "[Max_05]Lo que tú digas. No pierdas los pantalones."
 
 # game/dialogues/alicetalk.rpy:612## # translate crowdin alice_talk_tv_massage_next_e8bcd9ee:
 msgid "[Alice_07]Макс... Сегодня твои ручки творят чудеса... А во что это моя нога упёрлась? Это часть программы или как?[nointeract]"
