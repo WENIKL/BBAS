@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-10-09 00:15\n"
+"PO-Revision-Date: 2021-10-10 00:16\n"
 
 msgid "МОЯ\n"
 "КОМНАТА"
@@ -180,61 +180,66 @@ msgstr "لعب\n"
 #    # game/core/03variables.rpy:132
 msgid "УСТАНОВИТЬ\n"
 "КЕЙЛОГГЕР"
-msgstr ""
+msgstr "تثبيت كلوغر"
 
 #    # game/core/03variables.rpy:132
 msgid "УСТАНОВИТЬ\n"
 "КАМЕРУ"
-msgstr ""
+msgstr "تثبيت الكاميرا"
 
 #    # game/core/03variables.rpy:132
 msgid "СПРЯТАТЬ\n"
 "ПАУКА"
-msgstr ""
+msgstr "إخفاء\n"
+"العنكبوت"
 
 #    # game/core/03variables.rpy:132
 msgid "БРОСИТЬ\n"
 "ПАУКА"
-msgstr ""
+msgstr "رمي العنكبوت"
 
 #    # game/core/03variables.rpy:132
 msgid "ИСКАТЬ\n"
 "ПАУКОВ"
-msgstr ""
+msgstr "البحث عن العنكبوت"
 
 #    # game/core/03variables.rpy:132
 msgid "ИСКАТЬ\n"
 "СИГАРЕТЫ"
-msgstr ""
+msgstr "البحث\n"
+"السجائر"
 
 #    # game/core/03variables.rpy:132
 msgid "ИСКАТЬ\n"
 "КНИГУ"
-msgstr ""
+msgstr "البحث\n"
+"الكتاب"
 
 #    # game/core/03variables.rpy:132
 msgid "ЧИСТИТЬ\n"
 "БАССЕЙН"
-msgstr ""
+msgstr "تنظيف\n"
+"حمام السباحة"
 
 #    # game/core/03variables.rpy:132
 msgid "ЧИТАТЬ"
-msgstr ""
+msgstr "قراءة"
 
 #    # game/core/03variables.rpy:132
 msgid "ИСКАТЬ\n"
 "КАМЕРУ"
-msgstr ""
+msgstr "كاميرا\n"
+"البحث"
 
 #    # game/core/03variables.rpy:132
 msgid "РАЗОБРАТЬ\n"
 "КОРОБКИ"
-msgstr ""
+msgstr "تفكيك المربعات"
 
 #    # game/core/03variables.rpy:132
 msgid "ВКЛЮЧИТЬ\n"
 "НОУТБУК"
-msgstr ""
+msgstr "تشغيل الكمبيوتر المحمول"
 
 #    # game/core/03variables.rpy:132
 msgid "СПАТЬ"
