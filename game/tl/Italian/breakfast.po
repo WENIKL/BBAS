@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-07 06:21\n"
+"PO-Revision-Date: 2021-10-10 00:16\n"
 
 # game/dialogues/breakfast.rpy:12## # translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
@@ -62,7 +62,7 @@ msgstr "[Ann_00]Basta così. Cambiamo argomento. Ad esempio, oggi è il primo gi
 
 # game/dialogues/breakfast.rpy:59## # translate crowdin breakfast_first_bf_change_44297202:
 msgid "[Lisa_02]Спасибо, Макс. Честно говоря, не знаю даже чего ожидать. Новое место, новая школа, новый коллектив...[nointeract]"
-msgstr "[Lisa_02]Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Un nuovo posto, una nuova scuola, una nuova squadra...[nointeract]"
+msgstr "[Lisa_02]Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Nuovo posto, nuova scuola, nuove persone...[nointeract]"
 
 # game/dialogues/breakfast.rpy:62## # translate crowdin breakfast_first_bf_change_76249fd8:
 msgid "[Alice_13]Ага, помощник. Самого выгнали, а он учить собрался...[nointeract]"
@@ -86,7 +86,7 @@ msgstr "[Lisa_02]No, non solo oggi. In generale, le lezioni sono brevi in questa
 
 # game/dialogues/breakfast.rpy:93## # translate crowdin breakfast_first_bf_change_73ce3762:
 msgid "[Lisa_00]Видимо, после завтрака буду уходить и возвращаться часам к 4-м.[nointeract]"
-msgstr "[Lisa_00]A quanto pare, dopo colazione partirò e tornerò alle 4[nointeract]"
+msgstr "[Lisa_00]A quanto pare, partirò dopo la colazione e sarò di ritorno per le 16 circa.[nointeract]"
 
 # game/dialogues/breakfast.rpy:100## # translate crowdin breakfast_first_bf_change_3b6c15c9:
 msgid "[Lisa_03]Нет, представляешь! Говорят, ещё и район хороший. А учимся мы, вообще, всего 4 или 5 часов![nointeract]"
@@ -1273,15 +1273,15 @@ msgstr "A proposito, a che ora inizia lo studio?"
 
 #    # game/dialogues/breakfast.rpy:56
 msgid "А школа платная?"
-msgstr "E la scuola è pagata?"
+msgstr "C'è una tassa scolastica?"
 
 #    # game/dialogues/breakfast.rpy:59
 msgid "Если нужна помощь - обращайся"
-msgstr "Se hai bisogno di aiuto - contattaci"
+msgstr "Se hai bisogno di aiuto - contattami"
 
 #    # game/dialogues/breakfast.rpy:59
 msgid "Ну, ты справишься!"
-msgstr "Bene, puoi farlo!"
+msgstr "Beh, si può fare!"
 
 #    # game/dialogues/breakfast.rpy:62
 msgid "Меня не за знания выгнали"
