@@ -10,107 +10,107 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-26 08:52\n"
+"PO-Revision-Date: 2021-10-11 00:33\n"
 
 # game/events/lisa_cam.rpy:8## # translate crowdin cam0_lisa_sleep_night_cab47b53:
 msgid "[Max_01]Лиза сладко спит..."
-msgstr ""
+msgstr "丽莎 [Max_01]睡得甜美..."
 
 # game/events/lisa_cam.rpy:17## # translate crowdin cam0_lisa_sleep_morning_36c03e6c:
 msgid "[Max_01]Лиза ещё спит..."
-msgstr ""
+msgstr "丽莎 [Max_01]还在睡觉..."
 
 # game/events/lisa_cam.rpy:26## # translate crowdin cam0_lisa_shower_cf65001d:
 msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]妈妈和埃里克不能通过这个相机看到...能看另一个吗？"
 
 # game/events/lisa_cam.rpy:28## # translate crowdin cam0_lisa_shower_99a12737:
 msgid "[Max_09]Лизы не видно через эту камеру..."
-msgstr ""
+msgstr "爱丽丝 [Max_09]透过这个相机看不见..."
 
 # game/events/lisa_cam.rpy:36## # translate crowdin cam0_lisa_shower_30b79938:
 msgid "[Max_04]Младшая сестрёнка принимает душ... Прекрасная Лиза - прекрасное утро!"
-msgstr ""
+msgstr "[Max_04]小妹妹洗澡...美丽的丽莎是一个美丽的早晨！"
 
 # game/events/lisa_cam.rpy:53## # translate crowdin cam1_lisa_shower_d17010c3:
 msgid "[Max_03]Лиза, прежде чем принять душ, любуется собой перед зеркалом. И мы этим со зрителями тоже полюбуемся..."
-msgstr ""
+msgstr "[Max_03]丽莎洗澡前，在镜子前欣赏自己。观众和我也会喜欢的..."
 
 # game/events/lisa_cam.rpy:59## # translate crowdin cam1_lisa_shower_cf65001d:
 msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]妈妈和埃里克不能通过这个相机看到...能看另一个吗？"
 
 # game/events/lisa_cam.rpy:67## # translate crowdin cam0_lisa_read_b78fc025:
 msgid "[Max_07]Люблю смотреть, как Лиза читает. Вернее, люблю позы, в которых она читает..."
-msgstr ""
+msgstr "[Max_07]我喜欢看丽莎读书。或者更确切地说， 我喜欢她读的姿势..."
 
 # game/events/lisa_cam.rpy:98## # translate crowdin cam0_lisa_dressed_school_f7db1942:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
-msgstr ""
+msgstr "[Max_09]没有什么有趣的，我再也见不到这里了，妈妈已经穿好衣服了。"
 
 # game/events/lisa_cam.rpy:108## # translate crowdin cam0_lisa_dressed_school_e79b2255:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться в школу...[nointeract]"
-msgstr ""
+msgstr "[Max_07]很棒！丽莎打扮成去上学[nointeract]..."
 
 # game/events/lisa_cam.rpy:119## # translate crowdin cam0_lisa_dressed_school_e61ca9e9:
 msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-msgstr ""
+msgstr "[Max_02]耳朵！她现在又小又可爱[nointeract]..."
 
 # game/events/lisa_cam.rpy:133## # translate crowdin cam0_lisa_dressed_school_e16161a7:
 msgid "[Max_04]Как классно, что моя сестрёнка - такая соблазнительная школьница. Уверен, зрителям это нравится!"
-msgstr ""
+msgstr "[Max_04]我妹妹是个很诱人的女学生， 这太酷了。我相信观众喜欢它！"
 
 # game/events/lisa_cam.rpy:144## # translate crowdin cam0_lisa_dressed_shop_f7db1942:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, Лиза полностью оделась."
-msgstr ""
+msgstr "[Max_09]没有什么有趣的，我再也见不到这里了，妈妈已经穿好衣服了。"
 
 # game/events/lisa_cam.rpy:155## # translate crowdin cam0_lisa_dressed_shop_2978876d:
 msgid "[Max_07]Отлично! Лиза наряжается, чтобы отправиться на шопинг...[nointeract]"
-msgstr ""
+msgstr "[Max_07]很棒！丽莎打扮成去上学[nointeract]..."
 
 # game/events/lisa_cam.rpy:166## # translate crowdin cam0_lisa_dressed_shop_e61ca9e9:
 msgid "[Max_02]Ухх! Сейчас она такая голенькая и милая...[nointeract]"
-msgstr ""
+msgstr "[Max_02]耳朵！她现在又小又可爱[nointeract]..."
 
 # game/events/lisa_cam.rpy:180## # translate crowdin cam0_lisa_dressed_shop_639be09f:
 msgid "[Max_04]Повезло мне с сестрёнкой! Обворожительна в любой одежде и ещё больше - без неё..."
-msgstr ""
+msgstr "[Max_04]很幸运，我和妹妹在一起！迷人任何衣服和更多 - 没有它..."
 
 # game/events/lisa_cam.rpy:188## # translate crowdin cam0_lisa_sun_fafb408a:
 msgid "[Max_01]Лиза загорает и радует этим моих зрителей! И меня, конечно же..."
-msgstr ""
+msgstr "丽莎 [Max_01]让我的观众高兴和高兴！当然还有我..."
 
 # game/events/lisa_cam.rpy:195## # translate crowdin cam1_lisa_sun_ce238a73:
 msgid "[Max_09]Через эту камеру ничего не видно... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]透过这个相机什么也看不见...能看另一个吗？"
 
 # game/events/lisa_cam.rpy:203## # translate crowdin cam0_lisa_swim_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...值得通过另一台相机查看..."
 
 # game/events/lisa_cam.rpy:205## # translate crowdin cam0_lisa_swim_06c19036:
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...我们需要安装一个摄像头， 覆盖整个游泳池..."
 
 # game/events/lisa_cam.rpy:213## # translate crowdin cam1_lisa_swim_0cc13309:
 msgid "[Max_01]Приятно наблюдать за младшей сестрёнкой у водички..."
-msgstr ""
+msgstr "[Max_01]看着小妹妹在水边真好..."
 
 # game/events/lisa_cam.rpy:222## # translate crowdin cam0_lisa_dishes_0b71076a:
 msgid "[Max_01]Лиза моет посуду. А ведь я мог бы ей помочь..."
-msgstr ""
+msgstr "丽莎 [Max_01]正在洗碗。我可以帮她..."
 
 # game/events/lisa_cam.rpy:232## # translate crowdin cam0_lisa_phone_14f355ab:
 msgid "[Max_01]Сестрёнка бездельничает и залипла в свой телефон. Но лежит красиво..."
-msgstr ""
+msgstr "[Max_01]妹妹闲着，粘在手机里。但谎言是美丽的..."
 
 # game/events/lisa_cam.rpy:242## # translate crowdin cam0_lisa_bath_b32c78c2:
 msgid "[Max_01]Лиза почти набрала воду, хотя я смотрю на кое-что другое..."
-msgstr ""
+msgstr "[Max_01]丽莎几乎得了水， 虽然我在看别的东西..."
 
 # game/events/lisa_cam.rpy:249## # translate crowdin cam0_lisa_bath_4e37cfa9:
 msgid "[Max_04]Эх, Лиза... Не вытирайся! Ты мокренькая тоже обалденная..."
-msgstr ""
+msgstr "[Max_04]，丽莎别擦！你太湿了..."
 
 # game/events/lisa_cam.rpy:255## # translate crowdin cam0_lisa_bath_8714e3c3:
 msgid "[Max_05]Давай, сестрёнка, не стесняйся показать как можно больше всего интересного..."
@@ -118,9 +118,9 @@ msgstr ""
 
 # game/events/lisa_cam.rpy:262## # translate crowdin cam1_lisa_bath_cf65001d:
 msgid "[Max_09]Лизы не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]妈妈和埃里克不能通过这个相机看到...能看另一个吗？"
 
 # game/events/lisa_cam.rpy:270## # translate crowdin cam0_lisa_homework_8bf186e7:
 msgid "[Max_01]Лиза учит уроки. Может, стоило ей помочь?!"
-msgstr ""
+msgstr "[Max_01]丽莎正在教课。也许我应该帮她？！"
 
