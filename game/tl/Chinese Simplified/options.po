@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-26 08:54\n"
+"PO-Revision-Date: 2021-10-11 00:33\n"
 
 msgid "Большой брат: Другая история"
-msgstr ""
+msgstr "大哥：另一个故事"
 
