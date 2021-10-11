@@ -10,212 +10,212 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 msgid "Новый купальник Лизы"
-msgstr ""
+msgstr "丽莎的新泳衣"
 
 #    # game/extra/extra.rpy:56
 msgid "Извинительная пижамка для Алисы"
-msgstr ""
+msgstr "爱丽丝的对不起睡衣"
 
 #    # game/extra/extra.rpy:56
 msgid "Тёмное кружево"
-msgstr ""
+msgstr "黑暗蕾丝"
 
 #    # game/extra/extra.rpy:56
 msgid "Давай я нанесу крем"
-msgstr ""
+msgstr "让我涂上奶油"
 
 #    # game/extra/extra.rpy:56
 msgid "Ножкам приятно"
-msgstr ""
+msgstr "腿很好"
 
 #    # game/extra/extra.rpy:56
 msgid "Помассирую не только ножки"
-msgstr ""
+msgstr "我不仅挥舞我的腿"
 
 #    # game/extra/extra.rpy:56
 msgid "Первый массаж ног"
-msgstr ""
+msgstr "第一次足部按摩"
 
 #    # game/extra/extra.rpy:56
 msgid "Внимание к пальчикам"
-msgstr ""
+msgstr "注意手指"
 
 #    # game/extra/extra.rpy:56
 msgid "Разомнём и плечики"
-msgstr ""
+msgstr "让我们拆开肩膀"
 
 #    # game/extra/extra.rpy:56
 msgid "Массаж для любимой тёти"
-msgstr ""
+msgstr "为心爱的阿姨按摩"
 
 #    # game/extra/extra.rpy:56
 msgid "Совсем другой массаж"
-msgstr ""
+msgstr "完全不同的按摩"
 
 #    # game/extra/extra.rpy:56
 msgid "Ночные страхи"
-msgstr ""
+msgstr "夜间恐惧"
 
 #    # game/extra/extra.rpy:56
 msgid "Кто это там ползёт"
-msgstr ""
+msgstr "谁在爬那里"
 
 #    # game/extra/extra.rpy:56
 msgid "Монстр в ванной комнате"
-msgstr ""
+msgstr "浴室里的怪物"
 
 #    # game/extra/extra.rpy:56
 msgid "Держи и не отпускай"
-msgstr ""
+msgstr "坚持住，不要放手"
 
 #    # game/extra/extra.rpy:56
 msgid "После клуба"
-msgstr ""
+msgstr "俱乐部后"
 
 #    # game/extra/extra.rpy:56
 msgid "Я была плохой девочкой"
-msgstr ""
+msgstr "我是个坏女孩"
 
 #    # game/extra/extra.rpy:56
 msgid "Я принес тебе полотенце!"
-msgstr ""
+msgstr "我给你带了条毛巾！"
 
 #    # game/extra/extra.rpy:56
 msgid "Первые снимки для блога Алисы"
-msgstr ""
+msgstr "爱丽丝博客的第一张照片"
 
 #    # game/extra/extra.rpy:56
 msgid "Я обошёл Эрика с подарком для Алисы"
-msgstr ""
+msgstr "我带着给爱丽丝的礼物绕过了埃里克"
 
 #    # game/extra/extra.rpy:56
 msgid "Смотрим порно вместе с тётей"
-msgstr ""
+msgstr "和阿姨一起看色情片"
 
 #    # game/extra/extra.rpy:56
 msgid "Первый урок поцелуев"
-msgstr ""
+msgstr "第一堂接吻课"
 
 #    # game/extra/extra.rpy:56
 msgid "А это уже совсем не массаж!"
-msgstr ""
+msgstr "这根本不是按摩！"
 
 #    # game/extra/extra.rpy:56
 msgid "Второй урок поцелуев"
-msgstr ""
+msgstr "第二堂接吻课"
 
 #    # game/extra/extra.rpy:56
 msgid "Третий урок поцелуев"
-msgstr ""
+msgstr "第三堂接吻课"
 
 #    # game/extra/extra.rpy:56
 msgid "Горячее, чем порно"
-msgstr ""
+msgstr "比色情更热"
 
 #    # game/extra/extra.rpy:56
 msgid "Небольшое приключение перед сном"
-msgstr ""
+msgstr "睡前的小冒险"
 
 #    # game/extra/extra.rpy:56
 msgid "Не зря купил сорочку"
-msgstr ""
+msgstr "我买了一个衬衫， 这是有原因的。"
 
 #    # game/extra/extra.rpy:56
 msgid "С меня приятный должок"
-msgstr ""
+msgstr "我欠我一个愉快的礼物"
 
 #    # game/extra/extra.rpy:56
 msgid "Стриптиз после клуба"
-msgstr ""
+msgstr "俱乐部后脱衣舞"
 
 #    # game/extra/extra.rpy:56
 msgid "Порно-портфолио для Киры"
-msgstr ""
+msgstr "基拉色情产品组合"
 
 #    # game/extra/extra.rpy:56
 msgid "Немного БДСМ от Киры"
-msgstr ""
+msgstr "基拉的一点 Bdsm"
 
 #    # game/extra/extra.rpy:56
 msgid "Вкусные уроки с сестрёнкой"
-msgstr ""
+msgstr "和妹妹一起上好吃的课"
 
 #    # game/extra/extra.rpy:56
 msgid "Кажется, мы что-то забыли"
-msgstr ""
+msgstr "我想我们忘了什么"
 
 #    # game/extra/extra.rpy:56
 msgid "Больше, чем помощь с домашним заданием"
-msgstr ""
+msgstr "不仅仅是帮助做家庭作业"
 
 #    # game/extra/extra.rpy:56
 msgid "Ужастики в обнимку с Лизой"
-msgstr ""
+msgstr "与丽莎拥抱的恐怖片"
 
 #    # game/extra/extra.rpy:56
 msgid "Урок по минету от мамы и Эрика"
-msgstr ""
+msgstr "妈妈和埃里克的课"
 
 #    # game/extra/extra.rpy:56
 msgid "Так близко к маминой попке"
-msgstr ""
+msgstr "离妈妈屁股这么近"
 
 #    # game/extra/extra.rpy:56
 msgid "Глубокий минет в мамином исполнении"
-msgstr ""
+msgstr "妈妈表演的深"
 
 #    # game/extra/extra.rpy:56
 msgid "Её первые познания..."
-msgstr ""
+msgstr "她的第一个知识..."
 
 #    # game/extra/extra.rpy:56
 msgid "Как возбудить ещё больше?"
-msgstr ""
+msgstr "如何激发更多？"
 
 #    # game/extra/extra.rpy:56
 msgid "Нежно и аккуратно!"
-msgstr ""
+msgstr "温柔而整齐！"
 
 #    # game/extra/extra.rpy:56
 msgid "Как долго это нужно делать?"
-msgstr ""
+msgstr "需要多久才能完成？"
 
 #    # game/extra/extra.rpy:56
 msgid "Кружевное боди для Алисы от Эрика"
-msgstr ""
+msgstr "蕾丝身体爱丽丝从埃里克"
 
 #    # game/extra/extra.rpy:139
 msgid "ВОСПОМИНАНИЯ"
-msgstr ""
+msgstr "回忆"
 
 #    # game/extra/extra.rpy:142
 msgid "ФОТОСНИМКИ"
-msgstr ""
+msgstr "照片"
 
 #    # game/extra/extra.rpy:193
 msgid "Воспоминание недоступно"
-msgstr ""
+msgstr "内存不可用"
 
 #    # game/extra/extra.rpy:199
 msgid "Воспоминание ещё не открыто"
-msgstr ""
+msgstr "记忆尚未打开"
 
 #    # game/extra/extra.rpy:205
 msgid "В вашей коллекции ещё нет фотоснимков."
-msgstr ""
+msgstr "您的收藏中还没有照片。"
 
 #    # game/extra/extra.rpy:274
 msgid "Предыдущий снимок"
-msgstr ""
+msgstr "上一快照"
 
 #    # game/extra/extra.rpy:280
 msgid "Вернуться в коллекцию"
-msgstr ""
+msgstr "返回模型"
 
 #    # game/extra/extra.rpy:285
 msgid "Следующий снимок"
-msgstr ""
+msgstr "下一快照"
 
