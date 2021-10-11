@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-10 00:16\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/events/alice.rpy:12## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
@@ -708,7 +708,7 @@ msgstr "[Alice_07]Wow! Bene, grazie allora... E ora vali. Non ho finito..."
 
 # game/events/alice.rpy:919## # translate crowdin alice_dressed_club_end_516308d2:
 msgid "[Max_04]Ага..."
-msgstr "[Max_04]sì..."
+msgstr "[Max_04]Già..."
 
 # game/events/alice.rpy:1002## # translate crowdin spider_in_bed_a3f16ae5:
 msgid "[Alice_13]Макс!"
@@ -2347,7 +2347,7 @@ msgid "[Max_07]{i}( Эрик решил поумничать перед Алис
 msgstr "[Max_07]{i}(Eric ha deciso di essere intelligente di fronte alla conoscenza di Alice nel consumismo e nella pubblicità ... Beh, sì, e nel frattempo fissa il suo fascino, a malapena coperto di biancheria intima. Non ho ancora niente da fare qui...) {/i}[nointeract]"
 
 msgid "{i}постучаться{/i}"
-msgstr "{i}toc toc{/i}"
+msgstr "{i}bussa{/i}"
 
 #    # game/events/alice.rpy:12
 msgid "{i}заглянуть со двора{/i}"
@@ -2371,7 +2371,7 @@ msgstr "{i}vedere di più{/i}"
 
 #    # game/events/alice.rpy:99
 msgid "{i}заглянуть в окно{/i}"
-msgstr "{i}guarda fuori dalla finestra{/i}"
+msgstr "{i}sbircia dalla finestra{/i}"
 
 #    # game/events/alice.rpy:173
 msgid "{i}прокрасться в комнату{/i}"
