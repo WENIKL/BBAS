@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-27 09:40\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/events/other.rpy:9## # translate crowdin shoping_034007bc:
 msgid "[Ann_05]Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3...[nointeract]"
@@ -106,7 +106,7 @@ msgstr "[Ann_05]È fantastico. Ok, parliamone più tardi..."
 
 # game/events/other.rpy:62## # translate crowdin back_shoping_7852d704:
 msgid "[Max_00]Ага..."
-msgstr "[Max_00]sì..."
+msgstr "[Max_00]Già..."
 
 # game/events/other.rpy:68## # translate crowdin back_shoping_1deadd07:
 msgid "[Ann_05]Привет, Макс! Мы вернулись..."
