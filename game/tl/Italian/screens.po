@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-28 09:52\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 msgid "История"
 msgstr "Storia principale"
@@ -411,7 +411,7 @@ msgstr "No"
 
 #    # game/screens.rpy:1384
 msgid "Пропускаю"
-msgstr "Signorina"
+msgstr "Saltare"
 
 #    # game/screens.rpy:1608
 msgid "Скрыть интерфейс"
