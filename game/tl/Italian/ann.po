@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/events/ann.rpy:10## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -182,7 +182,7 @@ msgstr "[Max_14]Va bene..."
 
 # game/events/ann.rpy:256## # translate crowdin ann_dressed_work_7b31f3ed:
 msgid "[Max_09]Сейчас 10 часов, а значит, мама собирается на работу...[nointeract]"
-msgstr "[Max_09]Sono le 10, il che significa che mia madre sta andando al lavoro...[nointeract]"
+msgstr "[Max_09]Sono le 10, il che significa che mia mamma si sta preparando per il lavoro...[nointeract]"
 
 # game/events/ann.rpy:259## # translate crowdin ann_dressed_work_b21abe2e:
 msgid "[Ann]{b}Анна:{/b} Кто там?[nointeract]"
@@ -514,7 +514,7 @@ msgstr "[Ann]{b}Anna:{/b} Ok, finirò presto..."
 
 # game/events/ann.rpy:667## # translate crowdin ann_bath_7852d704:
 msgid "[Max_00]Ага..."
-msgstr "[Max_00]sì..."
+msgstr "[Max_00]Già..."
 
 # game/events/ann.rpy:674## # translate crowdin ann_bath_8d2fe639:
 msgid "[Max_00]Эх... жаль, что стекло частично матовое. Так ничего не разглядеть! А если подобраться ближе, то мама может заметить..."
