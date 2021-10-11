@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-26 08:56\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
@@ -1153,7 +1153,7 @@ msgstr "Aha! Grazie mamma!"
 
 #    # game/dialogues/anntalk.rpy:102
 msgid "Может быть, я могу что-то сделать?"
-msgstr "Forse posso fare qualcosa?"
+msgstr "C'è qualcosa che posso fare?"
 
 #    # game/dialogues/anntalk.rpy:113
 msgid "Может быть, почистить бассейн?"
@@ -1169,7 +1169,7 @@ msgstr "Non lo so. Apparentemente niente..."
 
 #    # game/dialogues/anntalk.rpy:118
 msgid "Может я могу ещё что-то сделать?"
-msgstr "Forse posso fare qualcos'altro?"
+msgstr "C'è qualcos'altro che posso fare?"
 
 #    # game/dialogues/anntalk.rpy:138
 msgid "Супер!"
@@ -1177,7 +1177,7 @@ msgstr "Super!"
 
 #    # game/dialogues/anntalk.rpy:168
 msgid "Конечно! Что смотреть будем?"
-msgstr "Naturalmente,! Cosa guarderemo?"
+msgstr "Certo! Cosa stiamo guardando?"
 
 #    # game/dialogues/anntalk.rpy:168
 msgid "А я прикупил фильм на вечер. Посмотрим?"
