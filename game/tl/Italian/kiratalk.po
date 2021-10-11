@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-26 08:53\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/dialogues/kiratalk.rpy:17## # translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01]Не против компании?"
@@ -502,7 +502,7 @@ msgstr "[Kira_07]Allora, ho una proposta commerciale per te. È vero, richieder�
 
 # game/dialogues/kiratalk.rpy:346## # translate crowdin kira_talk5_ce85c004:
 msgid "[Max_09]Ты о чём?"
-msgstr "[Max_09]parli di cosa?"
+msgstr "[Max_09]Cosa vuoi dire?"
 
 # game/dialogues/kiratalk.rpy:347## # translate crowdin kira_talk5_bf982ee2:
 msgid "[Kira_05]Мне нужно сделать серию снимков для портфолио. Я могла бы обратиться к профессиональному фотографу, но если у тебя найдётся фотоаппарат и будет желание, то я лучше заплачу тебе... Ты умеешь фотографировать?[nointeract]"
@@ -978,7 +978,7 @@ msgstr "[Kira_02]E qui lo scoprite. Andiamo più veloci, abbiamo bisogno di aver
 
 # game/dialogues/kiratalk.rpy:737## # translate crowdin kira_about_photo2_6374794e:
 msgid "[Max_01]Ага..."
-msgstr "[Max_01]sì..."
+msgstr "[Max_01]Già..."
 
 # game/dialogues/kiratalk.rpy:742## # translate crowdin kira_about_photo2_f75acffb:
 msgid "[Kira_06]В общем, на этот раз мне нужна серия снимков в стиле... БДСМ... Верёвки, кожа, вот это всё..."
