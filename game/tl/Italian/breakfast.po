@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-10 00:16\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/dialogues/breakfast.rpy:12## # translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00]Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете...[nointeract]"
@@ -66,19 +66,19 @@ msgstr "[Lisa_02]Grazie, Max. Onestamente, non so nemmeno cosa aspettarmi. Nuovo
 
 # game/dialogues/breakfast.rpy:62## # translate crowdin breakfast_first_bf_change_76249fd8:
 msgid "[Alice_13]Ага, помощник. Самого выгнали, а он учить собрался...[nointeract]"
-msgstr "[Alice_13]sì, aiutante. Fu cacciato e stava per insegnare...[nointeract]"
+msgstr "[Alice_13]Sì, aiutante. È stato cacciato e ora vuole insegnare...[nointeract]"
 
 # game/dialogues/breakfast.rpy:65## # translate crowdin breakfast_first_bf_change_e252eb97:
 msgid "[Alice_06]Да все мы знаем за что тебя выгнали. Но это не значит, что и учился ты хорошо...[nointeract]"
-msgstr "[Alice_06]Sì, sappiamo tutti perché sei stato cacciato. Ma questo non significa che tu abbia studiato bene...[nointeract]"
+msgstr "[Alice_06]Sì, sappiamo tutti perché sei stato cacciato. Ma questo non significa che tu abbia una buona conoscenza...[nointeract]"
 
 # game/dialogues/breakfast.rpy:74## # translate crowdin breakfast_first_bf_change_f6a0ca75:
 msgid "[Alice_06]Ага, знаешь как к учителям приставать. Этому планируешь научить Лизу?[nointeract]"
-msgstr "[Alice_06]sì, sai come molestare gli insegnanti. È questo che hai intenzione di insegnare a Lisa?[nointeract]"
+msgstr "[Alice_06]Sì, tu sai come molestare gli insegnanti. È questo che hai intenzione di insegnare a Lisa?[nointeract]"
 
 # game/dialogues/breakfast.rpy:81## # translate crowdin breakfast_first_bf_change_50f154cf:
 msgid "[Lisa_01]Ага, деваться то некуда. Кстати, после завтрака я буду уже собираться, в 11 выхожу. А часам к 4 уже вернусь[nointeract]"
-msgstr "[Lisa_01]sì, non c'è nessun posto dove andare. A proposito, dopo colazione mi riunirò, alle 11 uscirò. E alle 4 tornerò[nointeract]"
+msgstr "[Lisa_01]Sì, non c'è nessun posto dove andare. A proposito, mi preparo dopo la colazione, parto alle 11. Sarò di ritorno per le 16[nointeract]"
 
 # game/dialogues/breakfast.rpy:84## # translate crowdin breakfast_first_bf_change_c23566a9:
 msgid "[Lisa_02]Нет, не только сегодня. Вообще, уроки короткие в этой школе. Так что, соскучиться не успеете![nointeract]"
@@ -90,11 +90,11 @@ msgstr "[Lisa_00]A quanto pare, partirò dopo la colazione e sarò di ritorno pe
 
 # game/dialogues/breakfast.rpy:100## # translate crowdin breakfast_first_bf_change_3b6c15c9:
 msgid "[Lisa_03]Нет, представляешь! Говорят, ещё и район хороший. А учимся мы, вообще, всего 4 или 5 часов![nointeract]"
-msgstr "[Lisa_03]No, puoi immaginare! Dicono che anche la zona è buona. E studiamo, in generale, solo 4 o 5 ore![nointeract]"
+msgstr "[Lisa_03]No, figurati! Dicono che è anche un buon quartiere. E studiamo solo per quattro o cinque ore![nointeract]"
 
 # game/dialogues/breakfast.rpy:108## # translate crowdin breakfast_first_bf_time2_c49cfb24:
 msgid "[Lisa_02]Ну, у нас в этой школе так. Меня всё устраивает. Мы ещё и учимся всего пять дней в неделю! Правда, про каникулы ничего не знаю...[nointeract]"
-msgstr "[Lisa_02]Beh, abbiamo questa scuola così. Sto bene con quello. Studiamo anche solo cinque giorni alla settimana! Tuttavia, non so nulla delle vacanze...[nointeract]"
+msgstr "[Lisa_02]Beh, è così che funziona in questa scuola. Per me va bene. Studiamo solo cinque giorni alla settimana! Tuttavia, non so nulla delle vacanze...[nointeract]"
 
 # game/dialogues/breakfast.rpy:114## # translate crowdin breakfast_first_bf_time3_dd21def3:
 msgid "[Lisa_03]Спасибо. Постараюсь не подвести!"
@@ -210,15 +210,15 @@ msgstr "[Alice_14]non ho ancora girato. Ma nel tempo, tutto sarà in cioccolato!
 
 # game/dialogues/breakfast.rpy:298## # translate crowdin breakfast_first_bf_change2_d76935c0:
 msgid "[Ann_00]Так, всем спасибо за завтрак. А мне уже пора убегать на работу. Алиса, как всегда, моет посуду после завтрака, а Лиза после ужина. Макс, если захочешь помочь сёстрам, они будут только рады.[nointeract]"
-msgstr "[Ann_00]Quindi, grazie a tutti per la colazione. Ed è ora per me di scappare al lavoro. Alice, come sempre, lava i piatti dopo colazione, e Lisa dopo cena. Max, se vuoi aiutare le sorelle, saranno felici.[nointeract]"
+msgstr "[Ann_00]Bene, grazie a tutti per la colazione. Ora devo correre al lavoro. Alice lava i piatti della colazione, come al solito, e Lisa quelli della cena. Max, se vuoi aiutare le tue sorelle, ne saranno felici.[nointeract]"
 
 # game/dialogues/breakfast.rpy:306## # translate crowdin breakfast_first_bf_change2_c2fa27a6:
 msgid "[Ann_00]Да, Макс. Я когда прибиралась, нашла какие-то коробки. Видимо, остались с ремонта. Посмотри, если ничего ценного нет, потом выбросим. Сейчас они у тебя в комнате.[nointeract]"
-msgstr "[Ann_00]Sì, Max. Quando ho ripulito, ho trovato alcune scatole. Apparentemente, sono rimasti con le riparazioni. Guarda, se non c'è nulla di valore, allora lo butteremo via. Ora sono nella tua stanza.[nointeract]"
+msgstr "[Ann_00]Già, Max. Ho trovato alcune scatole mentre stavo pulendo. Devono essere rimaste dalla ristrutturazione. Guarda, se per caso c'è qualcosa di valore, li butteremo via dopo. Sono nella tua stanza.[nointeract]"
 
 # game/dialogues/breakfast.rpy:311## # translate crowdin breakfast_first_bf_change2_decd1aa4:
 msgid "[Ann_00]Если бы я знала, то не стала бы у тебя спрашивать. Я в электронике не разбираюсь. Посмотри сам.[nointeract]"
-msgstr "[Ann_00]Se lo sapessi, non te lo chiederei. Non capisco l'elettronica. Guardate voi stessi.[nointeract]"
+msgstr "[Ann_00]Se lo sapessi, non te lo chiederei. Non so nulla di elettronica. Controllale.[nointeract]"
 
 # game/dialogues/breakfast.rpy:330## # translate crowdin breakfast_2_7396b2f9:
 msgid "[Ann_07]Всем приятного аппетита... Хотя, постойте. Вчера Лиза сходила в школу и я забыла спросить про оценки. Что-нибудь проверяли, спрашивали?"
@@ -1269,7 +1269,7 @@ msgstr "Congratulazioni, Lisa!"
 
 #    # game/dialogues/breakfast.rpy:56
 msgid "Кстати, в какое время начинается учёба?"
-msgstr "A proposito, a che ora inizia lo studio?"
+msgstr "A proposito, a che ora inizia la scuola?"
 
 #    # game/dialogues/breakfast.rpy:56
 msgid "А школа платная?"
@@ -1289,31 +1289,31 @@ msgstr "Non sono stato cacciato per la mia conoscenza"
 
 #    # game/dialogues/breakfast.rpy:62
 msgid "Ну, кое-что я знаю..."
-msgstr "Beh, so una cosa..."
+msgstr "Beh, so un paio di cose..."
 
 #    # game/dialogues/breakfast.rpy:65
 msgid "Да пошла ты!"
-msgstr "Inferno con te!"
+msgstr "Vaffanculo!"
 
 #    # game/dialogues/breakfast.rpy:65
 msgid "Обязательно меня доставать?"
-msgstr "Sicuramente ho capito?"
+msgstr "Devi sempre infastidirmi?"
 
 #    # game/dialogues/breakfast.rpy:65
 msgid "Нормально я учился..."
-msgstr "Normalmente, ho studiato..."
+msgstr "Ho avuto una buona istruzione..."
 
 #    # game/dialogues/breakfast.rpy:74
 msgid "А сама, такая умная, даже помощь сестрёнке не предложила!"
-msgstr "E lei stessa, così intelligente, non ha nemmeno offerto aiuto a sua sorella!"
+msgstr "E tu, così intelligente, non ti sei nemmeno offerta di aiutare tua sorella!"
 
 #    # game/dialogues/breakfast.rpy:74
 msgid "Чему смогу, тому и научу..."
-msgstr "Quello che posso, lo insegnerò..."
+msgstr "Insegnerò quello che posso..."
 
 #    # game/dialogues/breakfast.rpy:81
 msgid "Сегодня укороченный день?"
-msgstr "Oggi è una giornata accorciata?"
+msgstr "Oggi giornata breve?"
 
 #    # game/dialogues/breakfast.rpy:81
 msgid "Всего 5 часов?"
@@ -1321,7 +1321,7 @@ msgstr "Solo 5 ore?"
 
 #    # game/dialogues/breakfast.rpy:81
 msgid "Ну, удачи тебе в школе!"
-msgstr "Bene, buona fortuna con la tua scuola!"
+msgstr "Beh, buona fortuna a scuola!"
 
 #    # game/dialogues/breakfast.rpy:84
 msgid "Мы в тебя верим..."
@@ -1329,7 +1329,7 @@ msgstr "Crediamo in te..."
 
 #    # game/dialogues/breakfast.rpy:93
 msgid "А почему так мало?"
-msgstr "E perché così poco?"
+msgstr "E perché così presto?"
 
 #    # game/dialogues/breakfast.rpy:118
 msgid "Ой. Кого же мне это всё напоминает?"
@@ -1589,23 +1589,23 @@ msgstr "Non tutto quel cioccolato che è marrone!"
 
 #    # game/dialogues/breakfast.rpy:298
 msgid "Не сомневаюсь"
-msgstr "Non ho dubbi"
+msgstr "Non ne dubito"
 
 #    # game/dialogues/breakfast.rpy:298
 msgid "Вот ещё..."
-msgstr "Ecco di più..."
+msgstr "Ecco altro..."
 
 #    # game/dialogues/breakfast.rpy:306
 msgid "Хорошо, я посмотрю"
-msgstr "Ok, darò un'occhiata"
+msgstr "Okay, darò un'occhiata"
 
 #    # game/dialogues/breakfast.rpy:306
 msgid "А что за коробки?"
-msgstr "E che tipo di scatole?"
+msgstr "Che tipo di scatole?"
 
 #    # game/dialogues/breakfast.rpy:311
 msgid "Понял. Посмотрю..."
-msgstr "Ho capito. Vedere..."
+msgstr "Capito. Vedrò..."
 
 #    # game/dialogues/breakfast.rpy:336
 msgid "Я не балбес! Я всё знаю!"
