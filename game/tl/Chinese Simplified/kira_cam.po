@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-26 08:52\n"
+"PO-Revision-Date: 2021-10-11 00:33\n"
 
 # game/events/kira_cam.rpy:7## # translate crowdin cam0_kira_sleep_night_e86a44fa:
 msgid "[Max_01]Моя очаровательная тётя Кира спит..."
@@ -138,100 +138,100 @@ msgstr ""
 
 # game/events/kira_cam.rpy:324## # translate crowdin cam0_kira_swim_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...值得通过另一台相机查看..."
 
 # game/events/kira_cam.rpy:326## # translate crowdin cam0_kira_swim_06c19036:
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...我们需要安装一个摄像头， 覆盖整个游泳池..."
 
 # game/events/kira_cam.rpy:335## # translate crowdin cam1_kira_swim_b3c23b05:
 msgid "[Max_01]Всегда приятно посмотреть, как тётя Кира расслабляется во дворе..."
-msgstr ""
+msgstr "[Max_01]看着基拉姨妈在院子里放松总是很不错的..."
 
 # game/events/kira_cam.rpy:345## # translate crowdin cam0_kira_bath_e5408876:
 msgid "[Max_01]Тётя Кира набирает воду. После долгого рабочего дня самое то принять ванну..."
-msgstr ""
+msgstr "[Max_01]基拉阿姨正在打水。经过漫长的一天工作，洗澡是最重要的..."
 
 # game/events/kira_cam.rpy:352## # translate crowdin cam0_kira_bath_3ab4b1cd:
 msgid "[Max_04]Эх, тётя Кира уже вытирается, самое интересное позади. Почти..."
-msgstr ""
+msgstr "[Max_04]哦，基拉阿姨已经擦了擦，最有趣的事情已经过去了。几乎..."
 
 # game/events/kira_cam.rpy:358## # translate crowdin cam0_kira_bath_6e7fd37d:
 msgid "[Max_05]Так, руки на стол! Можно обжечься... ведь тётя Кира - огонь!"
-msgstr ""
+msgstr "[Max_05]所以，把手放在桌子上！你可能会被烧伤...毕竟，基拉阿姨是火！"
 
 # game/events/kira_cam.rpy:365## # translate crowdin cam1_kira_bath_77deb168:
 msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]透过这个相机什么也看不见...能看另一个吗？"
 
 # game/events/kira_cam.rpy:375## # translate crowdin cam0_kira_night_tv_f9f43dbf:
 msgid "[Max_02]Похоже, тётя Кира смотрит какой-то сериал или кино... Может, стоит составить ей компанию?"
-msgstr ""
+msgstr "[Max_02]看来基拉姨妈在看一些电视连续剧或电影...也许我们应该和她一起做公司"
 
 # game/events/kira_cam.rpy:377## # translate crowdin cam0_kira_night_tv_ee83ad0c:
 msgid "[Max_01]Похоже, тётя Кира смотрит какой-то сериал или кино... Ну а мне приятней смотреть на тётю..."
-msgstr ""
+msgstr "[Max_01]看来基拉姨妈在看一些电视连续剧或电影...嗯，我更喜欢看阿姨..."
 
 # game/events/kira_cam.rpy:384## # translate crowdin cam0_kira_night_tv_6b6ca66a:
 msgid "[Max_05]Ага, тётя наверняка порнушку включила! Хотя, может ей стало просто скучно... Может, ей помочь?"
-msgstr ""
+msgstr "[Max_05]是的， 阿姨肯定打开了一个活肿！也许她只是觉得无聊...我能帮她吗？"
 
 # game/events/kira_cam.rpy:399## # translate crowdin cam0_kira_night_swim_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...值得通过另一台相机查看..."
 
 # game/events/kira_cam.rpy:401## # translate crowdin cam0_kira_night_swim_06c19036:
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы весь бассейн..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...我们需要安装一个摄像头， 覆盖整个游泳池..."
 
 # game/events/kira_cam.rpy:409## # translate crowdin cam1_kira_night_swim_5f08638b:
 msgid "[Max_05]Класс! Тётя Кира решила ночью поплавать без купальника... пока никто не видит... Ну да, никто!"
-msgstr ""
+msgstr "[Max_05]类！基拉阿姨决定在晚上游泳没有泳衣...直到没人看到...是的，没人！"
 
 # game/events/kira_cam.rpy:417## # translate crowdin cam0_return_from_club_39c0bef3:
 msgid "[Max_09]Ничего толком не видно... Стоит взглянуть через другую камеру..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...值得通过另一台相机查看..."
 
 # game/events/kira_cam.rpy:419## # translate crowdin cam0_return_from_club_1ecc7ee3:
 msgid "[Max_09]Ничего не разглядеть... Нужно установить камеру, которая охватила бы бассейн..."
-msgstr ""
+msgstr "[Max_09]什么也看不见...我们需要安装一个摄像头， 覆盖整个游泳池..."
 
 # game/events/kira_cam.rpy:425## # translate crowdin cam1_return_from_club_4f374152:
 msgid "[Max_01]{i}( Вот и девчонки вернулись из клуба! Если перед сном хочется поискать приключений, то нужно быстро бежать и встречать их... ){/i}[nointeract]"
-msgstr ""
+msgstr "[Max_01]{i}（女孩们从俱乐部回来！如果睡前想寻找冒险，你需要快跑去见她们......）{/i}[nointeract]"
 
 # game/events/kira_cam.rpy:432## # translate crowdin cam1_return_from_club_984a3aa6:
 msgid "[Max_00]Поздно уже, пойду лучше спать..."
-msgstr ""
+msgstr "[Max_00]已经很晚了， 我会睡得更好..."
 
 # game/events/kira_cam.rpy:443## # translate crowdin cam0_kira_bath_with_eric_6d360ec2:
 msgid "[Max_08]Бедной тёте Кире приходится ублажать Эрика, чтобы никто о нас с ней не узнал..."
-msgstr ""
+msgstr "[Max_08]可怜的阿姨基拉不得不安慰埃里克， 这样没有人知道我们..."
 
 # game/events/kira_cam.rpy:445## # translate crowdin cam0_kira_bath_with_eric_00bf555e:
 msgid "[Max_01]Повезло Эрику... Тётя Кира умеет ублажать мужчин и ещё как!"
-msgstr ""
+msgstr "[Max_01]幸运的埃里克...基拉阿姨知道如何满足男人和更多！"
 
 # game/events/kira_cam.rpy:453## # translate crowdin cam0_kira_bath_with_eric_c75a22ab:
 msgid "[Max_10]Благо у Эрика такой член, с которым Кире не составит труда справиться! Хотя, его выдержке можно позавидовать..."
-msgstr ""
+msgstr "[Max_10]埃里克有一个鸡巴， 基拉不会很难处理！虽然，它的耐力是令人羡慕的..."
 
 # game/events/kira_cam.rpy:455## # translate crowdin cam0_kira_bath_with_eric_2a2c0f53:
 msgid "[Max_07]Со стороны кажется, что для Киры это самое обыденное дело! Она так легко управляется с членом Эрика, хотя это и не сложно, после моего-то..."
-msgstr ""
+msgstr "[Max_07]从外面看，对基拉来说，这似乎是最普通的事情！它是如此容易管理与埃里克的成员， 虽然它并不难后， 我的..."
 
 # game/events/kira_cam.rpy:463## # translate crowdin cam0_kira_bath_with_eric_005f0722:
 msgid "[Max_09]Всё! На этот раз Кира отмучалась... Но от Эрика надо скорее избавляться."
-msgstr ""
+msgstr "[Max_09]一切！这一次，凯拉感到很尴尬...但我们必须尽快摆脱埃里克。"
 
 # game/events/kira_cam.rpy:465## # translate crowdin cam0_kira_bath_with_eric_607c8d39:
 msgid "[Max_02]Вот и всё! С Кирой долго не продержишься... Особенно если она нацелена доставить своим языком максимум удовольствия."
-msgstr ""
+msgstr "[Max_02]就这样！你不能和基拉在一起太久...特别是如果她的目标是提供她的语言最大的乐趣。"
 
 # game/events/kira_cam.rpy:476## # translate crowdin cam1_kira_bath_with_eric_77deb168:
 msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]透过这个相机什么也看不见...能看另一个吗？"
 
 msgid "{i}встретить их{/i}"
-msgstr ""
+msgstr "{i}遇见他们"
 
