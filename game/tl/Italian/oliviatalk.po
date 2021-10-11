@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-26 08:57\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/dialogues/oliviatalk.rpy:17## # translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01]Вы не против, если я тоже позагораю?"
@@ -354,7 +354,7 @@ msgstr "[Olivia_00]Non proprio. Piuttosto, è solo deludente. Si è scoperto che
 
 # game/dialogues/oliviatalk.rpy:192## # translate crowdin olivia_talk4_ecc433e0:
 msgid "[Max_07]Ты о чём?"
-msgstr "[Max_07]parli di cosa?"
+msgstr "[Max_07]Cosa vuoi dire?"
 
 # game/dialogues/oliviatalk.rpy:193## # translate crowdin olivia_talk4_8651a6c8:
 msgid "[Olivia_06]Ну, у нашей семьи, если ты знаешь, сейчас проблемы. Мама с папой ссорятся. Думаю, будут разводиться. Ну и финансовые проблемы начались. И Алекса как будто подменили. Сразу Лиза ему интересна стала, как только он о вашей шикарной вилле от меня услышал..."
