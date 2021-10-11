@@ -10,26 +10,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-26 08:55\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}Persuasione riuscita! {/i} {/color}\n"
+msgstr "{color=#E59400}{i}Persuasione fallita!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:19
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}Persuasione riuscita! {/i} {/color}\n"
+msgstr "{color=#00FF00}{i}Persuasione riuscita!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:21
 msgid "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}sei passato inosservato! {/i} {/color}\n"
+msgstr "{color=#00FF00}{i}Sei passato inosservato!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:22
 msgid "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}hai notato! {/i} {/color}\n"
+msgstr "{color=#E59400}{i}Sei stato notato!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:23
 msgid "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}Troppo rischioso! {/i} {/color}\n"
+msgstr "{color=#E59400}{i}Troppo rischioso!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:25
 msgid "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
@@ -57,11 +57,11 @@ msgstr "{color=#E59400}{i}alla mamma non piaceva il massaggio! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:33
 msgid "{color=#00FF00}{i}Получилось!{/i}{/color}\n"
-msgstr "{color=#00FF00}{i}Ha funzionato! {/i} {/color}\n"
+msgstr "{color=#00FF00}{i}Ha funzionato!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:34
 msgid "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
-msgstr "{color=#E59400}{i}Non ha funzionato! {/i} {/color}\n"
+msgstr "{color=#E59400}{i}Non ha funzionato!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:36
 msgid "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
