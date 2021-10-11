@@ -10,28 +10,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-26 08:55\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 msgid "курит"
-msgstr ""
+msgstr "吸烟"
 
 #    # game/core/05_schedule.rpy:7
 msgid "в бассейне"
-msgstr ""
+msgstr "泳池"
 
 #    # game/core/05_schedule.rpy:74
 msgid "спит (утро)"
-msgstr ""
+msgstr "睡眠（早晨）"
 
 #    # game/core/05_schedule.rpy:74
 msgid "в своей комнате"
-msgstr ""
+msgstr "在他的房间里"
 
 #    # game/core/05_schedule.rpy:74
 msgid "читает на веранде"
-msgstr ""
+msgstr "在阳台上阅读"
 
 #    # game/core/05_schedule.rpy:162
 msgid "семейный ужин"
-msgstr ""
+msgstr "家庭晚餐"
 
