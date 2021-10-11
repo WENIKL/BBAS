@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-29 09:57\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/events/ann_cam.rpy:8## # translate crowdin cam0_ann_sleep_2e831607:
 msgid "[Max_01]Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!"
@@ -34,63 +34,63 @@ msgstr "[Max_03]mamá, antes de tomar una ducha, hace alarde frente al espejo. M
 
 # game/events/ann_cam.rpy:55## # translate crowdin cam1_ann_shower_0326dfb9:
 msgid "[Max_09]Мамы не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "ds?"
 
 # game/events/ann_cam.rpy:68## # translate crowdin cam0_ann_yoga_e9ef9711:
 msgid "[Max_02]Мама, как и всегда в это время, занимается йогой. Здесь, хоть в какой позе, она выглядит очень сексуально..."
-msgstr ""
+msgstr "[Max_02]mamá, como siempre en este momento, hace yoga. Aquí, al menos en alguna posición, se ve muy sexy ..."
 
 # game/events/ann_cam.rpy:75## # translate crowdin cam1_ann_yoga_ce238a73:
 msgid "[Max_09]Через эту камеру ничего не видно... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]Nada se puede ver a través de esta cámara... ¿Puedo mirar a través de otro?"
 
 # game/events/ann_cam.rpy:85## # translate crowdin cam0_ann_cooking_121fe332:
 msgid "[Max_01]Как и всегда, мама готовит завтрак. Вроде, ничего интересного, но она всё равно лучшая..."
-msgstr ""
+msgstr "[Max_01]Como siempre, mamá prepara el desayuno. Como, nada interesante, pero sigue siendo el mejor ..."
 
 # game/events/ann_cam.rpy:87## # translate crowdin cam0_ann_cooking_81d5efdf:
 msgid "[Max_01]Мама сегодня готовит ужин. Будет очень вкусно..."
-msgstr ""
+msgstr "[Max_01]mamá está cocinando la cena hoy. Será muy sabroso..."
 
 # game/events/ann_cam.rpy:119## # translate crowdin cam0_ann_dressed_work_6161d2f7:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, мама полностью оделась."
-msgstr ""
+msgstr "[Max_09]no veré nada interesante aquí, Lisa está completamente vestida."
 
 # game/events/ann_cam.rpy:131## # translate crowdin cam0_ann_dressed_work_2a4aa6ca:
 msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на работу...[nointeract]"
-msgstr ""
+msgstr "[Max_07]sí. Alice se viste para ir de compras...[nointeract]"
 
 # game/events/ann_cam.rpy:142## # translate crowdin cam0_ann_dressed_work_ecd759fc:
 msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-msgstr ""
+msgstr "[Max_02]¡Oh! Mamá desnuda es una vista encantadora...[nointeract]"
 
 # game/events/ann_cam.rpy:155## # translate crowdin cam0_ann_dressed_work_8e5f0391:
 msgid "[Max_04]Да уж, её округлости равнодушным не оставят никого!"
-msgstr ""
+msgstr "[Max_04]¡Sí, su redondez no dejará indiferente a nadie!"
 
 # game/events/ann_cam.rpy:166## # translate crowdin cam0_ann_dressed_shop_6161d2f7:
 msgid "[Max_09]Ничего интересного я здесь уже не увижу, мама полностью оделась."
-msgstr ""
+msgstr "[Max_09]no veré nada interesante aquí, Lisa está completamente vestida."
 
 # game/events/ann_cam.rpy:178## # translate crowdin cam0_ann_dressed_shop_5b93ed0b:
 msgid "[Max_07]Вот и мама наряжается, чтобы отправиться на шопинг...[nointeract]"
-msgstr ""
+msgstr "[Max_07]sí. Alice se viste para ir de compras...[nointeract]"
 
 # game/events/ann_cam.rpy:189## # translate crowdin cam0_ann_dressed_shop_ecd759fc:
 msgid "[Max_02]Ох! Голая мама - это восхитительное зрелище...[nointeract]"
-msgstr ""
+msgstr "[Max_02]¡Oh! Mamá desnuda es una vista encantadora...[nointeract]"
 
 # game/events/ann_cam.rpy:202## # translate crowdin cam0_ann_dressed_shop_8e5f0391:
 msgid "[Max_04]Да уж, её округлости равнодушным не оставят никого!"
-msgstr ""
+msgstr "[Max_04]¡Sí, su redondez no dejará indiferente a nadie!"
 
 # game/events/ann_cam.rpy:213## # translate crowdin cam0_ann_resting_8fadb848:
 msgid "[Max_01]Мама даже когда отдыхает, выглядит очень сексуально..."
-msgstr ""
+msgstr "[Max_01]mamá, incluso cuando descansa, se ve muy sexy ..."
 
 # game/events/ann_cam.rpy:221## # translate crowdin cam0_ann_read_6481c328:
 msgid "[Max_01]Мама увлечённо читает. Вроде бы ничего особенного, а смотреть на её округлые формы всё равно приятно!"
-msgstr ""
+msgstr "[Max_01]mamá lee con entusiasmo. Parece no ser nada especial, ¡pero sigue siendo agradable mirar sus formas redondeadas!"
 
 # game/events/ann_cam.rpy:229## # translate crowdin cam0_ann_sun_fcdcc7e0:
 msgid "[Max_01]Самая горячая мама на свете загорает! Не повезло тем зрителям, которые это пропускают..."
