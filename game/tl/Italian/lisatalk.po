@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-26 08:57\n"
+"PO-Revision-Date: 2021-10-11 00:34\n"
 
 # game/dialogues/lisatalk.rpy:15## # translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00]Макс, решил поболтать?[nointeract]"
@@ -274,7 +274,7 @@ msgstr "[Lisa_01]Va bene, Max. Sarà interessante vedere come... tu insegni..."
 
 # game/dialogues/lisatalk.rpy:220## # translate crowdin MorningWoodCont_413bcdc4:
 msgid "[Max_01]Договорились!"
-msgstr "[Max_01]d'accordo!"
+msgstr "[Max_01]D'accordo!"
 
 # game/dialogues/lisatalk.rpy:235## # translate crowdin AfterSchoolFD_6de0d615:
 msgid "[Lisa_01]Привет, Макс! Я вернулась."
@@ -342,7 +342,7 @@ msgstr "[Lisa_02]Ma non ti cedi troppo. E non dirlo a nessuno!"
 
 # game/dialogues/lisatalk.rpy:295## # translate crowdin about_school_way_c1cbada6:
 msgid "[Max_04]Договорились!"
-msgstr "[Max_04]d'accordo!"
+msgstr "[Max_04]D'accordo!"
 
 # game/dialogues/lisatalk.rpy:302## # translate crowdin about_school_way_3148ed3a:
 msgid "[Lisa_03]Вот это признание! А нас ты просто терпишь, да?[nointeract]"
@@ -1154,7 +1154,7 @@ msgstr "[Max_04]Almeno pensaci."
 
 # game/dialogues/lisatalk.rpy:921## # translate crowdin Lisa_MorningWoodCont_a1cf24b5:
 msgid "[Lisa_00]Ладно, подумаю..."
-msgstr "[Lisa_00]Ok, ci penserò..."
+msgstr "[Lisa_00]Va bene, ci penserò..."
 
 # game/dialogues/lisatalk.rpy:928## # translate crowdin Lisa_sg1_eb6c0fa7:
 msgid "[Lisa_00]Да, что насчёт успеваемости? Позлорадствовать пришёл или помочь хочешь?[nointeract]"
@@ -2198,7 +2198,7 @@ msgstr "[Lisa_01]E cerca solo di sconvolgermi, Max! I tuoi termini sono gli stes
 
 # game/dialogues/lisatalk.rpy:1865## # translate crowdin Lisa_sorry_6374794e:
 msgid "[Max_01]Ага..."
-msgstr "[Max_01]sì..."
+msgstr "[Max_01]Già..."
 
 # game/dialogues/lisatalk.rpy:1867## # translate crowdin Lisa_sorry_944bbc72:
 msgid "[Lisa_09]Нет уж, Макс... Думаю, я просто сдам тебя маме и пусть она с тобой разбирается! Хватит уже за мной подглядывать..."
@@ -2310,7 +2310,7 @@ msgstr "[Lisa_00]Va bene, Max. Ma quando sono completamente disfatto, non guarda
 
 # game/dialogues/lisatalk.rpy:1925## # translate crowdin gift_swimsuit_516308d2:
 msgid "[Max_04]Ага..."
-msgstr "[Max_04]sì..."
+msgstr "[Max_04]Già..."
 
 # game/dialogues/lisatalk.rpy:1930## # translate crowdin gift_swimsuit_give_1b6ace04:
 msgid "[Lisa_03]Спасибо, Макс! Ты лучший! Я это не забуду!"
@@ -2572,7 +2572,7 @@ msgstr "[Lisa_02]Vedremo prima quali sono i miei voti!"
 
 # game/dialogues/lisatalk.rpy:2130## # translate crowdin conversation_after_dinner_acc8a38c:
 msgid "[Max_01]Договорились."
-msgstr "[Max_01]d'accordo."
+msgstr "[Max_01]D'accordo."
 
 # game/dialogues/lisatalk.rpy:2138## # translate crowdin conversation_after_dinner_d5365485:
 msgid "[Lisa_09]Почему ты перестал помогать мне с уроками?"
@@ -2620,7 +2620,7 @@ msgstr "[Lisa_02]Vedremo prima quali sono i miei voti!"
 
 # game/dialogues/lisatalk.rpy:2160## # translate crowdin conversation_after_dinner_acc8a38c_1:
 msgid "[Max_01]Договорились."
-msgstr "[Max_01]d'accordo."
+msgstr "[Max_01]D'accordo."
 
 # game/dialogues/lisatalk.rpy:2168## # translate crowdin conversation_after_dinner_b98495a9:
 msgid "[Lisa_09]Почему ты перестал помогать мне с уроками? Мы же договорились, ты мне – я тебе!"
@@ -2664,7 +2664,7 @@ msgstr "[Lisa_01]Ok, ti darò una possibilità... Ma tu mi devi una tavoletta di
 
 # game/dialogues/lisatalk.rpy:2190## # translate crowdin conversation_after_dinner_acc8a38c_2:
 msgid "[Max_01]Договорились."
-msgstr "[Max_01]d'accordo."
+msgstr "[Max_01]D'accordo."
 
 # game/dialogues/lisatalk.rpy:2197## # translate crowdin conversation_after_dinner_a35ec1e4:
 msgid "[Lisa_09]Макс, что с тобой такое? Ты же так хорошо помогал мне с уроками... А теперь я получаю уже вторую двойку..."
@@ -2704,7 +2704,7 @@ msgstr "[Lisa_02]Vedremo prima quali sono i miei voti!"
 
 # game/dialogues/lisatalk.rpy:2216## # translate crowdin conversation_after_dinner_acc8a38c_3:
 msgid "[Max_01]Договорились."
-msgstr "[Max_01]d'accordo."
+msgstr "[Max_01]D'accordo."
 
 # game/dialogues/lisatalk.rpy:2228## # translate crowdin lisa_sorry_gifts_21b81128:
 msgid "[Max_09]Думаю, не стоит дарить вкусняшку сегодня. Это может вызвать ненужные подозрения... Лучше это сделать завтра."
@@ -6587,7 +6587,7 @@ msgstr "Non c'è problema!"
 
 #    # game/dialogues/lisatalk.rpy:1097
 msgid "Конечно! {i}(сделать ошибки){/i}"
-msgstr "Naturalmente,! {i}(commetti errori){/i}"
+msgstr "Certo! {i}(commetti errori){/i}"
 
 #    # game/dialogues/lisatalk.rpy:1097
 msgid "Ты пока отдохни, я сам всё сделаю!"
