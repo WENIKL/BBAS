@@ -10,51 +10,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-26 08:56\n"
+"PO-Revision-Date: 2021-10-12 00:53\n"
 
 # game/dialogues/anntalk.rpy:17## # translate crowdin AnnTalkStart_452e8666:
 msgid "[Ann_00]Что-то случилось, дорогой?[nointeract]"
-msgstr ""
+msgstr "]出什么事了，亲爱的？"
 
 # game/dialogues/anntalk.rpy:43## # translate crowdin Ann_badbadmood_321edff9:
 msgid "[Ann_18]Макс, я сейчас в очень плохом настроении и не хочу с тобой разговаривать![nointeract]"
-msgstr ""
+msgstr "麦克斯，我现在心情很好，不想和你说话！"
 
 # game/dialogues/anntalk.rpy:52## # translate crowdin Ann_badmood_46817e38:
 msgid "[Ann_18]Макс, я сейчас не в настроении и не хочу разговаривать.[nointeract]"
-msgstr ""
+msgstr "麦克斯，我现在心情不好，不想说话。"
 
 # game/dialogues/anntalk.rpy:61## # translate crowdin Ann_asksorry_634d3dbe:
 msgid "[Ann_01]Да? Я тебя слушаю?[nointeract]"
-msgstr ""
+msgstr "是吗？我在听你说话吗？"
 
 # game/dialogues/anntalk.rpy:68## # translate crowdin Ann_normalmood_085fa1a6:
 msgid "[Ann_18]Макс, не сейчас, хорошо?[nointeract]"
-msgstr ""
+msgstr "麦克斯，现在不行，好吗？"
 
 # game/dialogues/anntalk.rpy:75## # translate crowdin Ann_cooldown_caafbb44:
 msgid "[Ann_18]Макс, давай сменим тему..."
-msgstr ""
+msgstr "[Ann_18]麦克斯，让我们换个话题..."
 
 # game/dialogues/anntalk.rpy:76## # translate crowdin Ann_cooldown_fa220d84:
 msgid "[Max_00]Ок, мам..."
-msgstr ""
+msgstr "[Max_00]再见 妈妈..."
 
 # game/dialogues/anntalk.rpy:83## # translate crowdin ann_ask_money_cf2d6379:
 msgid "При нормальном развитии событий эта строка не должна была появится. Сообщите разработчику."
-msgstr ""
+msgstr "在正常情况下，这一行不应该出现。通知开发者"
 
 # game/dialogues/anntalk.rpy:86## # translate crowdin ann_ask_money_59ac536a:
 msgid "[Ann_05]Макс, ты же видишь, я сейчас занята... Выбери более подходящий момент, пожалуйста...[nointeract]"
-msgstr ""
+msgstr "麦克斯，你看，我现在很忙…请挑选一个更合适的时间……"
 
 # game/dialogues/anntalk.rpy:91## # translate crowdin ann_ask_money_2dec4e10:
 msgid "[Ann_05]Очень смешно, Макс. Ты видишь у меня карманы? Нет? Выбери более подходящий момент, пожалуйста...[nointeract]"
-msgstr ""
+msgstr "[Ann_05]很有趣，麦克斯你能看见我的口袋吗？不是吗？请选择一个更合适的时机[nointeract]..."
 
 # game/dialogues/anntalk.rpy:98## # translate crowdin ann_ask_money_81819136:
 msgid "[Ann_00]Макс, тебе не стыдно просить деньги у мамы, хотя сам целыми днями дома сидишь и ничего не делаешь?[nointeract]"
-msgstr ""
+msgstr "麦克斯，你向妈妈要钱不惭愧吗，你整天呆在家里什么都不做？"
 
 # game/dialogues/anntalk.rpy:102## # translate crowdin ann_ask_money_cc7b3480:
 msgid "[Ann_04]Ладно, держи. И найди себе уже работу, хотя бы через интернет. Нам лишние деньги не помешают...[nointeract]"
