@@ -10,60 +10,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-09-26 08:54\n"
+"PO-Revision-Date: 2021-10-12 00:53\n"
 
 # game/events/alice.rpy:12## # translate crowdin alice_bath_086088b7:
 msgid "[Max_00]Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.[nointeract]"
-msgstr ""
+msgstr "[Max_00]إذا كان منتصف الليل، ثم أليس مهدئا في الحمام... الدخول دون طرق يهدد الحياة.[nointeract]"
 
 # game/events/alice.rpy:15## # translate crowdin alice_bath_ab9e6db9:
 msgid "[Alice]{b}Алиса:{/b} Кому там не спится? Я ванну набираю...[nointeract]"
-msgstr ""
+msgstr "[Alice]{b}Alice:{/b} من لا ينام هناك؟ أنا أخذ حمام...[nointeract]"
 
 # game/events/alice.rpy:18## # translate crowdin alice_bath_74fd8c7a:
 msgid "[Alice]{b}Алиса:{/b} Макс, ты глухой? Я же сказала, буду в ванне плескаться. Жди как минимум час!"
-msgstr ""
+msgstr "[Alice]{b}أليس:{/b} ماكس، هل أنت أصم؟ قلت، أنا ستعمل رش في الحوض. انتظر ساعة على الأقل!"
 
 # game/events/alice.rpy:19## # translate crowdin alice_bath_84309eb3:
 msgid "[Max_00]Ладно, ладно..."
-msgstr ""
+msgstr "[Max_00]حسنا، حسنا..."
 
 # game/events/alice.rpy:26## # translate crowdin alice_bath_12dd9242:
 msgid "[Max_00]Кажется, Алиса и правда принимает ванну. Жаль, что из-за матового стекла почти ничего не видно. Но подходить ближе опасно - может заметить..."
-msgstr ""
+msgstr "[Max_00]يبدو أن أليس حقا أخذ حمام. من المؤسف أنه بسبب الزجاج المتجمد لا شيء تقريبا مرئي. ولكن الاقتراب أمر خطير - يمكنك أن تلاحظ..."
 
 # game/events/alice.rpy:27## # translate crowdin alice_bath_617c9a2e:
 msgid "[Max_09]Нужно что-нибудь придумать...[nointeract]"
-msgstr ""
+msgstr "[Max_09]بحاجة إلى التوصل إلى شيء...[nointeract]"
 
 # game/events/alice.rpy:35## # translate crowdin alice_bath_6a58c36d:
 msgid "[Max_01]Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное..."
-msgstr ""
+msgstr "[Max_01]آمل ألا يكون لدى أحد سؤال، وماذا يفعل سلم الخطوات هنا... مثل ماذا؟ بالطبع يستحق كل هذا العناء! والآن المتعة تبدأ..."
 
 # game/events/alice.rpy:50## # translate crowdin alice_bath_ladder_2b325faf:
 msgid "[Max_04]Посмотрим, что у нас тут..."
-msgstr ""
+msgstr "[Max_04]دعونا نرى ما لدينا هنا..."
 
 # game/events/alice.rpy:59## # translate crowdin alice_bath_ladder_40583688:
 msgid "[Max_03]Вот это повезло! Алиса как раз собирается принять ванну... Её шикарная попка меня просто завораживает! Так бы любовался и любовался...[nointeract]"
-msgstr ""
+msgstr "[Max_03]هذا محظوظ! أليس على وشك أن تأخذ حماما... لها رائع يسحر فقط يسحر لي! لذلك أود أن معجب ومعجب...[nointeract]"
 
 # game/events/alice.rpy:65## # translate crowdin alice_bath_ladder_5529b0b9:
 msgid "[Max_05]Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестренка и стерва, но какая же она горячая! Очень сексуальна...[nointeract]"
-msgstr ""
+msgstr "[Max_05]اللعنة، انها إغاظة لي مع ثدييها الرطب... ربما أختي الكبرى هي، ولكن كيف الساخنة هي! مثير جدا...[nointeract]"
 
 # game/events/alice.rpy:74## # translate crowdin alice_bath_ladder_5529b0b9_1:
 msgid "[Max_05]Чёрт возьми, она меня что, специально дразнит своей мокренькой грудью... Может моя старшая сестренка и стерва, но какая же она горячая! Очень сексуальна...[nointeract]"
-msgstr ""
+msgstr "[Max_05]اللعنة، انها إغاظة لي مع ثدييها الرطب... ربما أختي الكبرى هي، ولكن كيف الساخنة هي! مثير جدا...[nointeract]"
 
 # game/events/alice.rpy:80## # translate crowdin alice_bath_ladder_98712b50:
 msgid "[Max_07]Эх! Самое интересное продолжалось недолго... Единственное, что напоследок остаётся сделать, это насладится её бесподобной попкой![nointeract]"
-msgstr ""
+msgstr "[Max_07]إيه! الشيء الأكثر إثارة للاهتمام لم يدم طويلا... الشيء الوحيد المتبقي هو التمتع بها لا تضاهى من قبل![nointeract]"
 
 # game/events/alice.rpy:99## # translate crowdin alice_sleep_night_7ff48024:
 msgid "[Max_00]Кажется, Алиса спит. Стучать в дверь точно не стоит.\n"
 "Да и входить опасно для здоровья...[nointeract]"
-msgstr ""
+msgstr "[Max_00]يبدو أن (أليس) نائمة طرق الباب بالتأكيد لا يستحق كل هذا العناء.\n"
+"والدخول خطر على الصحة...[nointeract]"
 
 # game/events/alice.rpy:130## # translate crowdin alice_sleep_night_395216d9:
 msgid "[Max_07]О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её тела, в одних лишь трусиках, хочется смотреть вечно![nointeract]"
