@@ -10,87 +10,87 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-29 09:57\n"
+"PO-Revision-Date: 2021-10-13 00:52\n"
 
 # game/events/kira_cam.rpy:7## # translate crowdin cam0_kira_sleep_night_e86a44fa:
 msgid "[Max_01]Моя очаровательная тётя Кира спит..."
-msgstr ""
+msgstr "[Max_01]Mi adorable tía Kira está dormida..."
 
 # game/events/kira_cam.rpy:15## # translate crowdin cam0_kira_sleep_morning_e86a44fa:
 msgid "[Max_01]Моя очаровательная тётя Кира спит..."
-msgstr ""
+msgstr "[Max_01]Mi adorable tía Kira está dormida..."
 
 # game/events/kira_cam.rpy:24## # translate crowdin cam0_kira_shower_1cc72d64:
 msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]Kira no es visible a través de esta cámara... ¿Puedo mirar a través de otro?"
 
 # game/events/kira_cam.rpy:26## # translate crowdin cam0_kira_shower_c3c3d331:
 msgid "[Max_09]Киры не видно через эту камеру..."
-msgstr ""
+msgstr "[Max_09]Kira no es visible a través de esta cámara..."
 
 # game/events/kira_cam.rpy:41## # translate crowdin cam0_kira_shower_ccf325fb:
 msgid "[Max_04]За такой классной тётей, принимающей душ, будет преступлением не понаблюдать..."
-msgstr ""
+msgstr "[Max_04]Una tía tan genial que se ducharía sería un crimen no verlo..."
 
 # game/events/kira_cam.rpy:43## # translate crowdin cam0_kira_shower_dec1a0d0:
 msgid "[Max_05]О да, тётя Кира! Потереть киску на камеру будет точно не лишним... Зрители будут в восторге."
-msgstr ""
+msgstr "[Max_05]¡Oh sí, tía Kira! Frotar su en la cámara definitivamente no será superfluo... Los espectadores estarán encantados."
 
 # game/events/kira_cam.rpy:61## # translate crowdin cam1_kira_shower_30a8a439:
 msgid "[Max_03]Тётя Кира красуется перед зеркалом. Полюбуемся..."
-msgstr ""
+msgstr "[Max_03]tía Kira hace alarde frente al espejo. Admiremos..."
 
 # game/events/kira_cam.rpy:63## # translate crowdin cam1_kira_shower_28f15d5e:
 msgid "[Max_05]Ого! А ей явно не хватает секса, раз она решила пошалить перед душем... А как красиво!"
-msgstr ""
+msgstr "[Max_05]es así! Y claramente no tiene suficiente sexo, ya que decidió bromear frente a la ducha... ¡Y qué hermoso!"
 
 # game/events/kira_cam.rpy:69## # translate crowdin cam1_kira_shower_1cc72d64:
 msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]Kira no es visible a través de esta cámara... ¿Puedo mirar a través de otro?"
 
 # game/events/kira_cam.rpy:97## # translate crowdin cam0_kira_alice_shower_ce820080:
 msgid "[Max_04]Старшая сестрёнка принимает душ... Это зрелище, которое никогда мне не надоест..."
-msgstr ""
+msgstr "[Max_04]Hermana Mayor se ducha... Es un espectáculo del que nunca me aburriré..."
 
 # game/events/kira_cam.rpy:101## # translate crowdin cam0_kira_alice_shower_1cc72d64:
 msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]Kira no es visible a través de esta cámara... ¿Puedo mirar a través de otro?"
 
 # game/events/kira_cam.rpy:103## # translate crowdin cam0_kira_alice_shower_c3c3d331:
 msgid "[Max_09]Киры не видно через эту камеру..."
-msgstr ""
+msgstr "[Max_09]Kira no es visible a través de esta cámara..."
 
 # game/events/kira_cam.rpy:112## # translate crowdin cam0_kira_alice_shower_ccf325fb:
 msgid "[Max_04]За такой классной тётей, принимающей душ, будет преступлением не понаблюдать..."
-msgstr ""
+msgstr "[Max_04]Una tía tan genial que se ducharía sería un crimen no verlo..."
 
 # game/events/kira_cam.rpy:117## # translate crowdin cam0_kira_alice_shower_f7e1d741:
 msgid "[Max_09]Алиса, должно быть, красуется перед зеркалом... Надо взглянуть через другую камеру..."
-msgstr ""
+msgstr "[Max_09]Alice debe estar haciendo alarde frente al espejo... Hay que mirar a través de otra cámara..."
 
 # game/events/kira_cam.rpy:119## # translate crowdin cam0_kira_alice_shower_1dc7f6ff:
 msgid "[Max_09]Алиса, должно быть, красуется перед зеркалом, но здесь этого не увидеть..."
-msgstr ""
+msgstr "[Max_09]Alice debe estar haciendo alarde frente a un espejo, pero no puedes verlo aquí..."
 
 # game/events/kira_cam.rpy:130## # translate crowdin cam0_kira_alice_shower_c9712955:
 msgid "[Max_07]Ого... Две очень плохие девочки сегодня моются вместе... тётя Кира и Алиса! Как же они хороши..."
-msgstr ""
+msgstr "[Max_07]De la... Dos chicas muy malas se lavan juntas hoy... ¡Tía Cyrus y Alice! Qué buenos son..."
 
 # game/events/kira_cam.rpy:165## # translate crowdin cam1_kira_alice_shower_30a8a439:
 msgid "[Max_03]Тётя Кира красуется перед зеркалом. Полюбуемся..."
-msgstr ""
+msgstr "[Max_03]tía Kira hace alarde frente al espejo. Admiremos..."
 
 # game/events/kira_cam.rpy:179## # translate crowdin cam1_kira_alice_shower_69b5e572:
 msgid "[Max_05]Ух, старшая сестрёнка просто сногсшибательна..."
-msgstr ""
+msgstr "[Max_05]Ukh, la hermana mayor es simplemente impresionante..."
 
 # game/events/kira_cam.rpy:184## # translate crowdin cam1_kira_alice_shower_77deb168:
 msgid "[Max_09]Через эту камеру никого не видно... Может посмотреть через другую?"
-msgstr ""
+msgstr "[Max_09]Nadie se puede ver a través de esta cámara... ¿Puedo mirar a través de otro?"
 
 # game/events/kira_cam.rpy:214## # translate crowdin cam0_kira_lisa_shower_30b79938:
 msgid "[Max_04]Младшая сестрёнка принимает душ... Прекрасная Лиза - прекрасное утро!"
-msgstr ""
+msgstr "[Max_04]hermana pequeña se ducha... Hermosa Lisa - una hermosa mañana!"
 
 # game/events/kira_cam.rpy:218## # translate crowdin cam0_kira_lisa_shower_1cc72d64:
 msgid "[Max_09]Киры не видно через эту камеру... Может посмотреть через другую?"
