@@ -10,142 +10,142 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-26 08:55\n"
+"PO-Revision-Date: 2021-10-15 19:49\n"
 
 msgid "{color=#E59400}{i}Убеждение не удалось!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Persuasion facilitée!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:19
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Persuasion réduite!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:21
 msgid "{color=#00FF00}{i}Вы остались незамеченным!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Tu es passé inaperçu!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:22
 msgid "{color=#E59400}{i}Вас заметили!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Vous avez été repéré!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:23
 msgid "{color=#E59400}{i}Слишком рискованно!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Trop risqué!{/i}{/color}\n"
 
 #    # game/core/02init.rpy:25
 msgid "{color=#00FF00}{i}Алисе понравился массаж!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Alice a adoré le massage!{/i} {/color}\n"
 
 #    # game/core/02init.rpy:26
 msgid "{color=#E59400}{i}Алисе не понравился массаж!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Alice n’a pas aimé le massage!{/i} {/color}\n"
 
 #    # game/core/02init.rpy:28
 msgid "{color=#00FF00}{i}Лизе понравился массаж!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Lisa a adoré le massage!{/i} {/color}\n"
 
 #    # game/core/02init.rpy:29
 msgid "{color=#E59400}{i}Лизе не понравился массаж!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Lisa n’a pas aimé le massage! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:31
 msgid "{color=#00FF00}{i}Маме понравился массаж!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}maman a adoré le massage! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:32
 msgid "{color=#E59400}{i}Маме не понравился массаж!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}maman n’a pas aimé le massage! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:33
 msgid "{color=#00FF00}{i}Получилось!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Ça a marché ! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:34
 msgid "{color=#E59400}{i}Не получилось!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}ça n’a pas fonctionné! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:36
 msgid "{color=#00FF00}{i}Удалось сдержаться{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}réussir à retenir{/i}{/color}\n"
 
 #    # game/core/02init.rpy:37
 msgid "{color=#E59400}{i}Сдержаться не удалось{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Impossible de retenir{/i}{/color}\n"
 
 #    # game/core/02init.rpy:39
 msgid "{color=#00FF00}{i}Лизе понравился поцелуй!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Lisa a adoré le baiser! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:40
 msgid "{color=#E59400}{i}Лизе не понравился поцелуй!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Lisa n’a pas aimé le baiser ! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:42
 msgid "{color=#00FF00}{i}Ей нравится!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#00FF00}{i}Elle aime ! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:43
 msgid "{color=#E59400}{i}Ей не нравится!{/i}{/color}\n"
-msgstr ""
+msgstr "{color=#E59400}{i}Elle n’aime pas ça ! {/i} {/color}\n"
 
 #    # game/core/02init.rpy:79
 msgid "ВС"
-msgstr ""
+msgstr "DIM"
 
 #    # game/core/02init.rpy:79
 msgid "ВОСКРЕСЕНЬЕ"
-msgstr ""
+msgstr "DIMANCHE"
 
 #    # game/core/02init.rpy:79
 msgid "ПН"
-msgstr ""
+msgstr "LUN"
 
 #    # game/core/02init.rpy:79
 msgid "ПОНЕДЕЛЬНИК"
-msgstr ""
+msgstr "LUNDI"
 
 #    # game/core/02init.rpy:79
 msgid "ВТ"
-msgstr ""
+msgstr "MAR"
 
 #    # game/core/02init.rpy:79
 msgid "ВТОРНИК"
-msgstr ""
+msgstr "MARDI"
 
 #    # game/core/02init.rpy:79
 msgid "СР"
-msgstr ""
+msgstr "MER"
 
 #    # game/core/02init.rpy:79
 msgid "СРЕДА"
-msgstr ""
+msgstr "MERCREDI"
 
 #    # game/core/02init.rpy:79
 msgid "ЧТ"
-msgstr ""
+msgstr "JEU"
 
 #    # game/core/02init.rpy:79
 msgid "ЧЕТВЕРГ"
-msgstr ""
+msgstr "JEUDI"
 
 #    # game/core/02init.rpy:79
 msgid "ПТ"
-msgstr ""
+msgstr "VEN"
 
 #    # game/core/02init.rpy:79
 msgid "ПЯТНИЦА"
-msgstr ""
+msgstr "VENDREDI"
 
 #    # game/core/02init.rpy:79
 msgid "СБ"
-msgstr ""
+msgstr "SAM"
 
 #    # game/core/02init.rpy:79
 msgid "СУББОТА"
-msgstr ""
+msgstr "SAMEDI"
 
 #    # game/core/02init.rpy:120
 msgid "Управление"
-msgstr ""
+msgstr "Essayer"
 
 #    # game/core/02init.rpy:120
 msgid "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\n"
@@ -154,38 +154,50 @@ msgid "В данной игре предусмотрено управление 
 "Для переключения между комнатами можно воспользоваться клавишами 1... 7.\n\n\n"
 "Отключить интерфейс можно клавишами [[ ` ], [[ h ] или нажав среднюю клавишу мыши.\n"
 "Это очень удобно, если область диалогов скрывает интересную часть изображения..."
-msgstr ""
+msgstr "Ce jeu fournit un contrôle au clavier. Vous pouvez l'utiliser à tout moment. Raccourcis clavier par défaut:\n"
+"F5 - Enregistrer, F8 - Charger.\n\n\n"
+"En outre, lors de dialogues, 1 à 9 pour différentes options de réponse. S'il n'y a qu'une seule option, vous pouvez appuyer sur la touche [[Space].\n\n\n"
+"Pour passer d'une pièce à une autre, vous pouvez utiliser les touches 1 à 7.\n\n\n"
+"Vous pouvez désactiver l'interface en appuyant sur [[ ' ], [[ h ] ou en appuyant sur le bouton central de la souris.\n"
+"Ceci est très pratique si la zone de dialogue cache une partie intéressante de l'image ..."
 
 #    # game/core/02init.rpy:120
 msgid "Возможности"
-msgstr ""
+msgstr "Les fonctionnalités"
 
 #    # game/core/02init.rpy:120
 msgid "В процессе игры, во время диалогов и других действий, вы можете открыть для себя новые \"возможности\". Их механика немного похожа на \"задания\" или \"квесты\" из других игр, но есть некоторые отличия.\n\n\n"
 "\"Возможности\" могут открывать доступ к скрытым событиям или покупкам в интернет-магазине, к новым опциям в ноутбуке или действиям в некоторых комнатах. Читайте внимательно описание каждой \"возможности\" и вы ничего не упустите!"
-msgstr ""
+msgstr "Pendant le jeu, pendant les dialogues et autres actions, vous pouvez découvrir de nouvelles 'opportunités'. Leurs mécanismes sont un peu similaires aux 'quêtes' ou 'quêtes' d’autres jeux, mais il y a quelques différences.\n\n\n"
+"'Les fonctionnalités' peuvent ouvrir l’accès à des événements ou des achats cachés dans la boutique en ligne, à de nouvelles options dans l’ordinateur portable ou à des actions dans certaines pièces. Lisez attentivement la description de chaque 'opportunité' et vous ne manquerez de rien!"
 
 #    # game/core/02init.rpy:120
 msgid "Настроение"
-msgstr ""
+msgstr "Humeur"
 
 #    # game/core/02init.rpy:120
 msgid "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\n"
 "Если у персонажа плохое настроение, он может отказаться с вами обсуждать некоторые темы.\n\n\n"
 "Постепенно, каждый час, настроение плавно стремится к нейтральному состоянию. Однако, если настроение очень плохое, оно будет долго восстанавливаться.\n\n\n"
 "Чтобы поднять настроение, можно подарить то, что нужно именно этому персонажу или же просто извиниться. А иногда и правильное слово во время разговора может значительно улучшить настроение."
-msgstr ""
+msgstr "Diverses actions ou phrases dites par Max peuvent provoquer une réaction correspondante sous la forme d’un changement d’humeur du personnage.\n\n\n"
+"Si un personnage est de mauvaise humeur, il peut refuser de discuter de certains sujets avec vous.\n\n\n"
+"Progressivement, toutes les heures, l’humeur tend doucement vers un état neutre. Cependant, si l’humeur est très mauvaise, il faudra beaucoup de temps pour récupérer.\n\n\n"
+"Pour vous remonter le moral, vous pouvez donner ce dont vous avez besoin à ce personnage particulier ou simplement vous excuser. Et parfois, le bon mot au cours d’une conversation peut améliorer considérablement l’humeur."
 
 #    # game/core/02init.rpy:120
 msgid "Шоу"
-msgstr ""
+msgstr "Montrer"
 
 #    # game/core/02init.rpy:120
 msgid "Скрытые камеры могут быть основным источником дохода. Чем больше аудитория, тем больше людей, готовых платить за просмотр.\n\n\n"
 "Увеличить аудиторию можно с помощью рекламы. Если на камерах не происходит ничего интересного - аудитория падает. Если в кадр попадают пикантные моменты, аудитория растёт.\n\n\n"
 "Если у вас есть сайт, вы можете зарабатывать на рекламных баннерах. Поэтому, чем больше аудитория, тем больше у вас денег.\n\n\n"
 "{i}{b}Внимание:{/b} В следующих версиях игры появятся VIP-пользователи с особыми просьбами. Если вы будете их выполнять, получите солидную прибавку к доходу.{/i}"
-msgstr ""
+msgstr "Les caméras cachées peuvent être la principale source de revenus. Plus le public est grand, plus les gens sont prêts à payer pour regarder.\n\n\n"
+"Vous pouvez augmenter votre audience avec des publicités. Si rien d’intéressant ne se passe sur les caméras, le public partira. Si des moments piquants entrent dans le cadre, le public augmente.\n\n\n"
+"Si vous avez un site Web, vous pouvez gagner de l’argent avec des bannières publicitaires. Donc, plus le public est grand, plus vous avez d’argent.\n\n\n"
+"{i}{b}Note:{/b} Dans les futures versions du jeu, les utilisateurs VIP pourront avoir des demandes spéciales. Si vous les effectuez, vous recevrez une solide augmentation de revenu.{/i}"
 
 #    # game/core/02init.rpy:128
 msgid "Значит, у тебя есть блог?"
