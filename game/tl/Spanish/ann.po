@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-10-13 00:52\n"
+"PO-Revision-Date: 2021-10-19 01:36\n"
 
 # game/events/ann.rpy:10## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -494,7 +494,7 @@ msgstr "[Ann_02]¡Gracias, hijo! Y tú también..."
 
 # game/events/ann.rpy:632## # translate crowdin ann_bath_9132bdea:
 msgid "[Max_00]Видимо, мама принимает ванну...[nointeract]"
-msgstr ""
+msgstr "[Max_00]Parece que mamá se está duchando...[nointeract]"
 
 # game/events/ann.rpy:635## # translate crowdin ann_bath_cddc6bee:
 msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну![nointeract]"
