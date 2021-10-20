@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-10-19 01:36\n"
+"PO-Revision-Date: 2021-10-20 01:45\n"
 
 # game/events/ann.rpy:10## # translate crowdin ann_sleep_240f8eab:
 msgid "[Max_00]В это время мама обычно спит.\n"
@@ -498,66 +498,66 @@ msgstr "[Max_00]Parece que mamá se está duchando...[nointeract]"
 
 # game/events/ann.rpy:635## # translate crowdin ann_bath_cddc6bee:
 msgid "[Ann]{b}Анна:{/b} Кто там? Я принимаю ванну![nointeract]"
-msgstr ""
+msgstr "[Ann]{b}Anna:{/b} ¿Quién está allí? ¡Me baño![nointeract]"
 
 # game/events/ann.rpy:638## # translate crowdin ann_bath_29fc0d16:
 msgid "[Ann]{b}Анна:{/b} Дорогой, что ты хотел?[nointeract]"
-msgstr ""
+msgstr "[Ann]{b}Anna:{/b} Cariño, ¿qué querías?[nointeract]"
 
 # game/events/ann.rpy:642## # translate crowdin ann_bath_13e7202f:
 msgid "[Ann]{b}Анна:{/b} Ну... хорошо, входи. Только не смотри![nointeract]"
-msgstr ""
+msgstr "[Ann]{b}Anna:{/b} Bueno... está bien, entra. ¡Simplemente no mires![nointeract]"
 
 # game/events/ann.rpy:666## # translate crowdin ann_bath_9b9b753a:
 msgid "[Ann]{b}Анна:{/b} Хорошо, я скоро закончу..."
-msgstr ""
+msgstr "[Ann]{b}Anna:{/b} Está bien, terminaré pronto..."
 
 # game/events/ann.rpy:667## # translate crowdin ann_bath_7852d704:
 msgid "[Max_00]Ага..."
-msgstr ""
+msgstr "[Max_00]sí..."
 
 # game/events/ann.rpy:674## # translate crowdin ann_bath_8d2fe639:
 msgid "[Max_00]Эх... жаль, что стекло частично матовое. Так ничего не разглядеть! А если подобраться ближе, то мама может заметить..."
-msgstr ""
+msgstr "[Max_00]Uh... es una pena que el vidrio sea parcialmente mate. ¡Así que no puedes ver nada! Y si te acercas, entonces mamá puede notar..."
 
 # game/events/ann.rpy:675## # translate crowdin ann_bath_617c9a2e:
 msgid "[Max_09]Нужно что-нибудь придумать...[nointeract]"
-msgstr ""
+msgstr "[Max_09]Necesito llegar a algo...[nointeract]"
 
 # game/events/ann.rpy:683## # translate crowdin ann_bath_6a58c36d:
 msgid "[Max_01]Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное..."
-msgstr ""
+msgstr "[Max_01]espero que nadie tenga una pregunta, y qué hace la hijastro aquí... ¿Como qué? ¡Por supuesto que vale la pena! Y ahora comienza la diversión..."
 
 # game/events/ann.rpy:697## # translate crowdin ann_bath_ladder_2b325faf:
 msgid "[Max_04]Посмотрим, что у нас тут..."
-msgstr ""
+msgstr "[Max_04]Veamos qué tenemos aquí..."
 
 # game/events/ann.rpy:706## # translate crowdin ann_bath_ladder_55a4f81a:
 msgid "[Max_03]Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит...[nointeract]"
-msgstr ""
+msgstr "[Max_03]¡Oh, qué calor! Por supuesto, no estoy hablando de agua, sino de su apariencia. Este... Mamá se ve increíble...[nointeract]"
 
 # game/events/ann.rpy:712## # translate crowdin ann_bath_ladder_e2ffea21:
 msgid "[Max_05]Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...[nointeract]"
-msgstr ""
+msgstr "[Max_05]¡Guau, es fascinante! ¡Los procedimientos de agua de la madre pueden competir con los videos eróticos más populares! Estos senos elásticos y estas piernas largas y delgadas volverán loco a cualquiera...[nointeract]"
 
 # game/events/ann.rpy:721## # translate crowdin ann_bath_ladder_e2ffea21_1:
 msgid "[Max_05]Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...[nointeract]"
-msgstr ""
+msgstr "[Max_05]¡Guau, es fascinante! ¡Los procedimientos de agua de la madre pueden competir con los videos eróticos más populares! Estos senos elásticos y estas piernas largas y delgadas volverán loco a cualquiera...[nointeract]"
 
 # game/events/ann.rpy:727## # translate crowdin ann_bath_ladder_36138fd2:
 msgid "[Max_07]Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...[nointeract]"
-msgstr ""
+msgstr "[Max_07]¡Eh! Parece que la diversión ha terminado... ¡Aunque, ver a mamá limpiar su cuerpo húmedo y seductor no es menos agradable! Oh, qué tiene...[nointeract]"
 
 msgid "{i}Отвернуться{/i}"
-msgstr ""
+msgstr "{i}Alejarse{/i}"
 
 #    # game/events/ann.rpy:197
 msgid "Я не подглядывал. Это случайность! {color=[_ch1.col]}(Убеждение. Шанс: [_ch1.vis]){/color}"
-msgstr ""
+msgstr "No me asomaba. ¡Es una coincidencia! {color=[_ch1.col]} (Persuasión: Azar: [_ch1.vis]) {/color}"
 
 #    # game/events/ann.rpy:197
 msgid "Мам, извини..."
-msgstr ""
+msgstr "Lo siento..."
 
 #    # game/events/ann.rpy:197
 msgid "Попка у тебя - что надо!"
