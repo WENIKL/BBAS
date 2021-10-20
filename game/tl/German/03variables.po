@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-10-07 06:21\n"
+"PO-Revision-Date: 2021-10-20 01:45\n"
 
 msgid "МОЯ\n"
 "КОМНАТА"
@@ -19,8 +19,7 @@ msgstr "MEIN\n"
 
 #    # game/core/03variables.rpy:25
 msgid "МОЯ КОМНАТА"
-msgstr "MEIN\n"
-"ZIMMER"
+msgstr "MEIN ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА\n"
@@ -30,8 +29,7 @@ msgstr "ALICE'S\n"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА АЛИСЫ"
-msgstr "ALICE'S\n"
-"ZIMMER"
+msgstr "ALICE'S ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА\n"
@@ -41,8 +39,7 @@ msgstr "ANNA's\n"
 
 #    # game/core/03variables.rpy:25
 msgid "КОМНАТА АННЫ"
-msgstr "ANNA's\n"
-"ZIMMER"
+msgstr "ANNA's ZIMMER"
 
 #    # game/core/03variables.rpy:25
 msgid "ВАННАЯ\n"
@@ -63,7 +60,7 @@ msgstr "VERANDA"
 
 #    # game/core/03variables.rpy:25
 msgid "ДВОР"
-msgstr "HOF"
+msgstr "GARTEN"
 
 #    # game/core/03variables.rpy:85
 msgid "Алиса"
@@ -87,7 +84,7 @@ msgstr "Alice"
 
 #    # game/core/03variables.rpy:85
 msgid "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-msgstr "Das ist Alice, meine ältere Schwester.  In jeder unverständlichen Situation trifft es mich (bestenfalls) ins Gesicht. Sie hat vor kurzem ihr Abitur gemacht und sucht wie ich ihren Weg. Den ganzen Tag vor einem Laptop sitzen und etwas mit ihrem Blog machen. Wie so oft bei Geschwistern kommen wir nicht sehr gut miteinander aus..."
+msgstr "Alice, meine ältere Schwester. In jeder unverständlichen Situation schlägt sie (bestenfalls) ins Gesicht. Sie hat vor kurzem ihr Abitur gemacht und sucht wie ich ihren eigenen Weg. Den ganzen Tag sitzt sie vor ihrem Laptop und beschäftigt sich mit ihrem Blog. Wie so oft bei Geschwistern, verstehen wir uns nicht sehr gut..."
 
 #    # game/core/03variables.rpy:85
 msgid "Лиза"
@@ -111,7 +108,7 @@ msgstr "Lisa"
 
 #    # game/core/03variables.rpy:85
 msgid "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-msgstr "Lisa, die jüngere Schwester. Süß und lustig. Sie ist immer noch in der Schule. Lisa und ich kommunizieren auf der gleichen Wellenlänge, obwohl wir uns gelegentlich streiten. Aber wenn etwas passiert, sucht sie meinen Schutz."
+msgstr "Lisa, meine kleine Schwester. Süß und lustig. Sie ist noch in der Schule. Ich kommuniziere mit Lisa auf der gleichen Wellenlänge, obwohl wir uns gelegentlich streiten. Aber wenn etwas passiert, sucht sie bei mir nach Schutz."
 
 #    # game/core/03variables.rpy:85
 msgid "Анна"
@@ -135,7 +132,7 @@ msgstr "Anna"
 
 #    # game/core/03variables.rpy:85
 msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
-msgstr "Anna, meine Mutter. Sie zieht mich und meine beiden Schwestern seit einigen Jahren groß. Sie arbeitet im Büro einer Firma. Obwohl ihr Gehalt ziemlich anständig ist, geht fast alles drauf, um Unterkunft, Essen und Kleidung zu bezahlen."
+msgstr "Anna, meine Mutter. Sie erzieht mich seit mehreren Jahren mit zwei Schwestern allein. Sie arbeitet im Büro einer Firma. Ihr Gehalt ist zwar recht anständig, aber fast alles fließt in die Finanzierung von Haus, Essen und Kleidung."
 
 #    # game/core/03variables.rpy:96
 msgid "Макс"
@@ -159,7 +156,7 @@ msgstr "Max"
 
 #    # game/core/03variables.rpy:96
 msgid "Всегда в поисках приключений на свою пятую точку."
-msgstr "Immer auf der Suche nach Abenteuer bis zum Anschlag."
+msgstr "Immer auf der Suche nach einem Abenteuer."
 
 #    # game/core/03variables.rpy:132
 msgid "ПОСМОТРЕТЬ\n"
@@ -292,7 +289,7 @@ msgstr "Kommunikationsfähigkeiten: Menschliche Gefühle"
 
 #    # game/core/03variables.rpy:187
 msgid "Это базовый курс обучения навыкам общения и содержит в себе основную информацию об органах чувств, о реакции человека на ваши слова, а также основы языка тела."
-msgstr "Dies ist ein grundlegender Kommunikationstrainingskurs und enthält grundlegende Informationen über die Sinne, die Reaktion der Person auf Ihre Worte sowie die Grundlagen der Körpersprache."
+msgstr "Dies ist ein grundlegender Kurs für Kommunikationsfähigkeiten, der grundlegende Informationen über die Sinne, die Reaktion einer Person auf Ihre Worte und die Grundlagen der Körpersprache vermittelt."
 
 #    # game/core/03variables.rpy:187
 msgid "Навыки общения: Основы коммуникации"
@@ -300,7 +297,7 @@ msgstr "Kommunikationsfähigkeiten: Kommunikationsgrundlagen"
 
 #    # game/core/03variables.rpy:187
 msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr "Dies ist der zweite Kurs des Kommunikationstrainings. Daraus lernen Sie, wie Sie die Entscheidung einer Person ohne Worte beeinflussen können, wie Sie die richtigen Worte in der richtigen Situation wählen, um Ihr Ziel zu erreichen."
+msgstr "Dies ist der zweite Kurs im Kommunikationstraining. Daraus lernen Sie, wie Sie die Entscheidung einer Person ohne Worte beeinflussen können, wie Sie die richtigen Worte in der richtigen Situation wählen, um Ihr Ziel zu erreichen."
 
 #    # game/core/03variables.rpy:187
 msgid "Навыки общения: Без границ"
@@ -308,7 +305,7 @@ msgstr "Kommunikationsfähigkeit: Ohne Grenzen"
 
 #    # game/core/03variables.rpy:187
 msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr "Dies ist ein fortgeschrittener Langzeitkurs für diejenigen, die ständig lernen und sich verbessern möchten. Dies ist der letzte verfügbare Kurs im Moment."
+msgstr "Dies ist ein Langzeitkurs für Fortgeschrittene, der für diejenigen gedacht ist, die ständig lernen und sich verbessern möchten. Dies ist der letzte verfügbare Kurs zu diesem Zeitpunkt."
 
 #    # game/core/03variables.rpy:218
 msgid "Эрик"
@@ -356,7 +353,7 @@ msgstr "Kira"
 
 #    # game/core/03variables.rpy:229
 msgid "Тётя Кира, мамина младшая сестра. Конечно, у неё и раньше не были замечены какие-либо комплексы, но сейчас она стала такой... такой..."
-msgstr "Tante Kira, die jüngere Schwester meiner Mutter. Natürlich hatte sie vorher keine Komplexe, aber jetzt ist sie so... derartig..."
+msgstr "Tante Kira, die jüngere Schwester meiner Mutter. Natürlich hatte sie vorher keine Komplexe, aber jetzt ist sie so... so..."
 
 #    # game/core/03variables.rpy:265
 msgid "Оливия"
@@ -376,5 +373,5 @@ msgstr "Olivia"
 
 #    # game/core/03variables.rpy:265
 msgid "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
-msgstr "Olivia, eine Klassenkameradin meiner jüngeren Schwester Lisa. Ziemlich süßes Mädchen. Und vor allem mit einem zusätzlichen 'Bonus'... Sie läuft ohne Höschen durch die Schule, und zu Hause ist sie in der Regel nackt, wie ihre Eltern, sie sind Naturisten. Es ist cool, dass Lisa so eine interessante Freundin hat!"
+msgstr "Olivia, eine Klassenkameradin meiner kleinen Schwester Lisa. Ziemlich süßes Mädchen. Und vor allem mit einem Twist... Sie läuft ohne Höschen durch die Schule, und zu Hause ist sie meistens nackt, wie ihre Eltern, sie sind Fkk-Anhänger. Schön, dass Lisa so eine interessante Freundin hat!"
 
